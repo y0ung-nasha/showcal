@@ -76,8 +76,13 @@ const CSS = `
   text-transform:uppercase; color:var(--ink-soft);
   border-left:3px solid var(--ink);
 }
-@media (max-width:720px){ .topbar-meta{ display:none; } .wordmark{ font-size:15px; padding:12px 14px; } }
-.src-live{ color:var(--tomato); font-weight:700; }
+@media (max-width:720px){ .topbar-meta{ padding:0 12px; gap:12px; } .topbar-meta .loc{ display:none; } .wordmark{ font-size:15px; padding:12px 14px; } }
+.topnav{
+  color:var(--ink); text-decoration:none; font-weight:700;
+  border-bottom:2px solid transparent; padding:2px 0;
+  transition: color .1s, border-color .1s;
+}
+.topnav:hover{ color:var(--tomato); border-bottom-color:var(--tomato); }
 
 /* ---------- DATE RAIL ---------- */
 .rail-wrap{
@@ -762,8 +767,8 @@ function App() {
           THE CHICAGO SHOW CALENDAR<span className="dot">.</span>
         </div>
         <div className="topbar-meta">
-          <span className={dataSource === "live" ? "src-live" : ""}>{dataSource === "live" ? `LIVE · ${shows.length} SHOWS` : "SAMPLE DATA"}</span>
-          <span>CHICAGO IL</span>
+          <a href="/venues.html" className="topnav">VENUES</a>
+          <span className="loc">CHICAGO IL</span>
         </div>
       </header>
 

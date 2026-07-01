@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Venues — The Chicago Show Calendar</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=JetBrains+Mono:wght@400;500;700;800&display=swap');
+
+:root{
+  --bg:#E9DCC1;
+  --paper:#F6EEDC;
+  --paper-2:#EFE4CC;
+  --tomato:#E03C2C;
+  --tomato-deep:#BE2E1F;
+  --ink:#171210;
+  --ink-soft:#6A5E50;
+  --font-display:'Archivo Black','Arial Black',system-ui,sans-serif;
+  --font-mono:'JetBrains Mono',ui-monospace,'SF Mono','Courier New',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{ height:100%; }
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:var(--font-mono); font-size:14px; line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+::selection{ background:var(--tomato); color:var(--paper); }
+
+.topbar{
+  display:flex; align-items:stretch; justify-content:space-between;
+  border-bottom:3px solid var(--ink); background:var(--paper);
+}
+.wordmark{
+  font-family:var(--font-display); color:var(--ink);
+  font-size:20px; letter-spacing:-.02em; line-height:1;
+  padding:14px 18px; text-transform:uppercase;
+  display:flex; align-items:center; text-decoration:none;
+}
+.wordmark .dot{ color:var(--tomato); }
+.topbar-meta{
+  display:flex; align-items:center; gap:18px;
+  padding:0 18px; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--ink-soft);
+  border-left:3px solid var(--ink);
+}
+.topnav{
+  color:var(--ink); text-decoration:none; font-weight:700;
+  border-bottom:2px solid transparent; padding:2px 0;
+  transition: color .1s, border-color .1s;
+}
+.topnav:hover{ color:var(--tomato); border-bottom-color:var(--tomato); }
+@media (max-width:720px){
+  .topbar-meta{ padding:0 12px; gap:12px; }
+  .topbar-meta .loc{ display:none; }
+  .wordmark{ font-size:15px; padding:12px 14px; }
+}
+
+.page{
+  max-width:920px; margin:0 auto;
+  padding:36px 18px 80px;
+}
+.page-header{
+  border-bottom:3px solid var(--ink);
+  padding-bottom:14px; margin-bottom:6px;
+  display:flex; align-items:baseline; justify-content:space-between;
+}
+.page-title{
+  font-family:var(--font-display); font-size:44px; line-height:1;
+  letter-spacing:-.02em; text-transform:uppercase;
+}
+.page-count{
+  font-size:11px; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--ink-soft);
+}
+
+.venue-list{
+  list-style:none; margin:0; padding:0;
+}
+.venue-row{
+  display:flex; align-items:baseline; justify-content:space-between; gap:24px;
+  padding:14px 4px; border-bottom:1px solid rgba(23,18,16,0.12);
+}
+.venue-row:hover{ background:var(--paper-2); }
+.venue-name{
+  font-family:var(--font-display); font-size:20px; line-height:1.15;
+  text-transform:uppercase; letter-spacing:-.01em;
+}
+.venue-hood{
+  font-family:var(--font-mono); font-size:11px; font-weight:700;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--ink-soft);
+  white-space:nowrap;
+}
+.venue-hood.missing{ color:rgba(106,94,80,0.4); }
+
+.loading, .empty{
+  padding:40px 4px; color:var(--ink-soft);
+  font-size:12px; letter-spacing:.14em; text-transform:uppercase;
+}
+</style>
+</head>
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="/">THE CHICAGO SHOW CALENDAR<span class="dot">.</span></a>
+    <nav class="topbar-meta">
+      <a href="/" class="topnav">CALENDAR</a>
+      <span class="loc">CHICAGO IL</span>
+    </nav>
+  </header>
+
+  <main class="page">
+    <div class="page-header">
+      <h1 class="page-title">VENUES</h1>
+      <span class="page-count" id="count">Loading…</span>
+    </div>
+    <ul class="venue-list" id="list">
+      <li class="loading">Loading venues…</li>
+    </ul>
+  </main>
+
+  <script>
+    const cmpName = (a, b) => {
+      const norm = (s) => s.toLowerCase().replace(/^the\s+/, "").replace(/[^a-z0-9]+/g, " ").trim();
+      return norm(a.name).localeCompare(norm(b.name));
+    };
+    fetch("venue-registry.json")
+      .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then((venues) => {
+        const sorted = venues.slice().sort(cmpName);
+        const list = document.getElementById("list");
+        document.getElementById("count").textContent = `${sorted.length} venues`;
+        list.innerHTML = sorted.map((v) => {
+          const hood = v.hood
+            ? `<span class="venue-hood">${escapeHtml(v.hood)}</span>`
+            : `<span class="venue-hood missing">—</span>`;
+          return `<li class="venue-row"><span class="venue-name">${escapeHtml(v.name)}</span>${hood}</li>`;
+        }).join("");
+      })
+      .catch((e) => {
+        document.getElementById("list").innerHTML = `<li class="empty">Couldn't load venues (${e.message}).</li>`;
+        document.getElementById("count").textContent = "";
+      });
+
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    }
+  </script>
+</body>
+</html>
