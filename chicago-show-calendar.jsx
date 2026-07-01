@@ -1,0 +1,1033 @@
+import React, { useState, useMemo, useRef, useEffect } from "react";
+
+/*
+  THE CHICAGO SHOW CALENDAR — visual slice
+  ----------------------------------------
+  Direction: middle-path brutalism. Loud color kept, hard type swapped in.
+  Tokens: bone surface · tomato-red structure · ink lines+type.
+  Display = Archivo Black (shouts). Data/chrome = JetBrains Mono (does the work).
+  Sample Chicago data. Day is always the frame; filters scope to the current day.
+*/
+
+const CSS = `
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=JetBrains+Mono:wght@400;500;700;800&display=swap');
+
+:root{
+  --bg:#E9DCC1;          /* bone canvas */
+  --paper:#F6EEDC;       /* reading surface */
+  --paper-2:#EFE4CC;     /* hover surface */
+  --tomato:#E03C2C;      /* structure / accent */
+  --tomato-deep:#BE2E1F; /* pressed */
+  --ink:#171210;         /* lines + type */
+  --ink-soft:#6A5E50;    /* muted mono */
+  --font-display:'Archivo Black','Arial Black',system-ui,sans-serif;
+  --font-mono:'JetBrains Mono',ui-monospace,'SF Mono','Courier New',monospace;
+}
+
+*{box-sizing:border-box;margin:0;padding:0;}
+
+.csc{
+  position:absolute; inset:0;
+  display:flex; flex-direction:column;
+  background:var(--bg); color:var(--ink);
+  font-family:var(--font-mono); font-size:14px; line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+  overflow:hidden;
+}
+.csc *::selection{ background:var(--tomato); color:var(--paper); }
+
+/* ---------- TOP BAR ---------- */
+.topbar{
+  display:flex; align-items:stretch; justify-content:space-between;
+  border-bottom:3px solid var(--ink); background:var(--paper);
+  flex:0 0 auto;
+}
+.wordmark{
+  font-family:var(--font-display); color:var(--ink);
+  font-size:20px; letter-spacing:-.02em; line-height:1;
+  padding:14px 18px; text-transform:uppercase;
+  display:flex; align-items:center; gap:0;
+}
+.wordmark .dot{ color:var(--tomato); }
+.topbar-meta{
+  display:flex; align-items:center; gap:18px;
+  padding:0 18px; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--ink-soft);
+  border-left:3px solid var(--ink);
+}
+@media (max-width:720px){ .topbar-meta{ display:none; } .wordmark{ font-size:15px; padding:12px 14px; } }
+.src-live{ color:var(--tomato); font-weight:700; }
+
+/* ---------- DATE RAIL ---------- */
+.rail-wrap{
+  display:flex; align-items:stretch;
+  border-bottom:3px solid var(--ink); background:var(--bg);
+  flex:0 0 auto;
+}
+.rail-nav{
+  font-family:var(--font-display); font-size:18px;
+  background:var(--paper); color:var(--ink);
+  border:none; cursor:pointer; padding:0 14px;
+  border-right:3px solid var(--ink);
+}
+.rail-nav.next{ border-right:none; border-left:3px solid var(--ink); }
+.rail-nav:hover{ background:var(--tomato); color:var(--paper); }
+.rail{
+  display:flex; overflow-x:auto; flex:1;
+  scrollbar-width:thin;
+}
+.rail::-webkit-scrollbar{ height:6px; }
+.rail::-webkit-scrollbar-thumb{ background:var(--ink); }
+.stub{
+  flex:0 0 auto; width:74px;
+  display:flex; flex-direction:column; align-items:center;
+  padding:8px 6px 7px; cursor:pointer;
+  background:var(--paper); color:var(--ink);
+  border-right:2px solid var(--ink);
+  transition:background .08s linear,color .08s linear;
+}
+.stub:hover{ background:var(--paper-2); }
+.stub .dow{ font-size:10px; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-soft); }
+.stub .dnum{ font-family:var(--font-display); font-size:22px; line-height:1; margin:2px 0 5px; }
+.stub .perf{ width:100%; border-top:2px dashed var(--ink); opacity:.45; margin-bottom:5px; }
+.stub .cnt{
+  font-size:10px; font-weight:800; letter-spacing:.04em;
+  border:2px solid var(--ink); padding:1px 6px; min-width:26px; text-align:center;
+}
+.stub .cnt.zero{ color:var(--ink-soft); border-color:var(--ink-soft); }
+.stub.active{ background:var(--tomato); color:var(--paper); }
+.stub.active .dow{ color:var(--paper); }
+.stub.active .perf{ border-color:var(--paper); }
+.stub.active .cnt{ border-color:var(--paper); color:var(--paper); }
+
+/* ---------- PANES ---------- */
+.panes{ display:flex; flex:1 1 auto; min-height:0; }
+.listpane{
+  flex:0 0 50%; max-width:560px; min-width:340px;
+  display:flex; flex-direction:column; min-height:0;
+  border-right:3px solid var(--ink); background:var(--paper);
+}
+.detailpane{ flex:1 1 auto; min-height:0; overflow-y:auto; background:var(--bg); }
+@media (max-width:820px){
+  .listpane{ flex:1 1 100%; max-width:none; border-right:none; }
+  .detailpane{
+    position:absolute; inset:0; z-index:30;
+    transform:translateX(100%); transition:transform .12s linear;
+  }
+  .detailpane.open{ transform:translateX(0); }
+}
+
+/* ---------- DAY SLAB ---------- */
+.slab{
+  flex:0 0 auto; background:var(--paper);
+  border-bottom:3px solid var(--ink); padding:14px 16px 12px;
+}
+.slab .kicker{ font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--tomato); font-weight:700; }
+.slab .big{
+  font-family:var(--font-display); text-transform:uppercase;
+  font-size:clamp(28px,5vw,46px); line-height:.92; letter-spacing:-.02em;
+  margin-top:2px;
+}
+.slab .count{ font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--ink-soft); margin-top:6px; }
+.slab .count b{ color:var(--ink); }
+
+/* ---------- FILTER BAR ---------- */
+/* ---------- CONTROLS (collapsed by default) ---------- */
+.controls{
+  flex:0 0 auto; display:flex;
+  background:var(--paper); border-bottom:3px solid var(--ink);
+}
+.ctrl-btn{
+  flex:1; display:flex; align-items:center; justify-content:center; gap:8px;
+  font-family:var(--font-mono); font-weight:800; font-size:12px;
+  letter-spacing:.12em; text-transform:uppercase;
+  background:var(--paper); color:var(--ink);
+  border:none; border-right:3px solid var(--ink); padding:11px 14px; cursor:pointer;
+  transition:background .07s linear, color .07s linear;
+}
+.ctrl-btn:last-child{ border-right:none; }
+.ctrl-btn:hover{ background:var(--paper-2); }
+.ctrl-btn.open{ background:var(--tomato); color:var(--paper); }
+.ctrl-btn .caret{ font-size:9px; }
+.ctrl-btn .badge{
+  background:var(--ink); color:var(--paper);
+  font-size:10px; font-weight:800; padding:1px 6px; line-height:1.4;
+}
+.ctrl-btn.open .badge{ background:var(--paper); color:var(--tomato); }
+
+.panel{
+  flex:0 0 auto; background:var(--paper); border-bottom:3px solid var(--ink);
+  padding:9px 12px; display:flex; flex-direction:column; gap:7px;
+}
+.frow{ display:flex; align-items:center; gap:7px; flex-wrap:wrap; }
+.flabel{ font-size:10px; letter-spacing:.14em; text-transform:uppercase; color:var(--ink-soft); width:62px; flex:0 0 auto; }
+.chip{
+  font-family:var(--font-mono); font-size:11px; font-weight:700;
+  letter-spacing:.04em; text-transform:uppercase;
+  background:var(--paper); color:var(--ink);
+  border:2px solid var(--ink); padding:3px 9px; cursor:pointer;
+  transition:transform .07s linear, box-shadow .07s linear;
+}
+.chip:hover{ box-shadow:2px 2px 0 var(--ink); transform:translate(-1px,-1px); }
+.chip.on{ background:var(--tomato); color:var(--paper); box-shadow:2px 2px 0 var(--ink); }
+.chip.clear{ background:var(--ink); color:var(--paper); margin-left:auto; }
+.chip.clear:hover{ background:var(--tomato-deep); }
+.sortbtn{ margin-left:auto; }
+
+/* ---------- MAD-LIB FILTER ---------- */
+.madlib{
+  display:flex; flex-wrap:wrap; align-items:center; gap:7px 8px;
+  font-family:var(--font-display); text-transform:uppercase;
+  font-size:14px; letter-spacing:-.01em; line-height:1.4; color:var(--ink);
+}
+.madlib .lex{ color:var(--ink-soft); }
+.slot{
+  font-family:var(--font-mono); font-weight:800; font-size:12px;
+  letter-spacing:.03em; text-transform:uppercase;
+  background:var(--paper); color:var(--ink);
+  border:2px solid var(--ink); padding:3px 9px; cursor:pointer;
+  box-shadow:2px 2px 0 var(--ink);
+  display:inline-flex; align-items:center; gap:7px;
+  transition:transform .07s linear, box-shadow .07s linear;
+}
+.slot:hover{ transform:translate(-1px,-1px); box-shadow:3px 3px 0 var(--ink); }
+.slot.filled{ background:var(--tomato); color:var(--paper); }
+.slot .car{ font-size:8px; }
+.madlib-clear{ margin-left:0; margin-top:10px; align-self:flex-start; }
+
+/* ---------- PICKER MODAL ---------- */
+.picker-scrim{
+  position:absolute; inset:0; z-index:60;
+  background:rgba(23,18,16,.55);
+  display:flex; align-items:center; justify-content:center; padding:20px;
+}
+.picker{
+  width:100%; max-width:420px; max-height:74vh;
+  display:flex; flex-direction:column;
+  background:var(--paper); border:3px solid var(--ink); box-shadow:8px 8px 0 var(--ink);
+}
+.picker-head{
+  display:flex; align-items:baseline; justify-content:space-between;
+  background:var(--tomato); color:var(--paper); border-bottom:3px solid var(--ink);
+  padding:12px 14px;
+  font-family:var(--font-display); text-transform:uppercase; font-size:17px; letter-spacing:-.01em;
+}
+.picker-head span:last-child{ font-family:var(--font-mono); font-size:11px; font-weight:700; letter-spacing:.08em; }
+.picker-body{ overflow-y:auto; flex:1 1 auto; }
+.opt{
+  display:flex; align-items:center; gap:10px; width:100%; text-align:left;
+  background:var(--paper); color:var(--ink);
+  border:none; border-bottom:2px solid var(--ink); padding:11px 14px; cursor:pointer;
+  font-family:var(--font-mono); font-size:13px; font-weight:700; letter-spacing:.04em; text-transform:uppercase;
+}
+.opt:hover{ background:var(--paper-2); }
+.opt.on{ background:var(--tomato); color:var(--paper); }
+.opt .box{
+  width:18px; height:18px; flex:0 0 auto;
+  border:2px solid currentColor; display:flex; align-items:center; justify-content:center;
+  font-size:12px; font-weight:800;
+}
+.opt-name{ flex:1 1 auto; }
+.opt-count{
+  flex:0 0 auto; min-width:24px; text-align:center;
+  font-size:11px; font-weight:800; letter-spacing:.02em;
+  border:2px solid currentColor; padding:1px 6px;
+}
+.picker-foot{ display:flex; border-top:3px solid var(--ink); flex:0 0 auto; }
+.pbtn{
+  flex:1; font-family:var(--font-mono); font-weight:800; font-size:12px;
+  letter-spacing:.1em; text-transform:uppercase; padding:13px; cursor:pointer; border:none;
+  background:var(--paper); color:var(--ink);
+}
+.pbtn.clear{ border-right:3px solid var(--ink); }
+.pbtn.clear:hover{ background:var(--paper-2); }
+.pbtn.primary{ background:var(--ink); color:var(--paper); }
+.pbtn.primary:hover{ background:var(--tomato-deep); }
+
+/* ---------- SHOW LIST ---------- */
+.list{ flex:1 1 auto; overflow-y:auto; min-height:0; }
+.row{
+  display:block; width:100%; text-align:left; cursor:pointer;
+  background:var(--paper); color:var(--ink);
+  border:none; border-bottom:2px solid var(--ink);
+  border-left:6px solid transparent;
+  padding:12px 14px; position:relative;
+  transition:background .07s linear, border-color .07s linear;
+}
+.row:hover{ background:var(--paper-2); border-left-color:var(--tomato); }
+.row.sel{ background:var(--tomato); color:var(--paper); border-left-color:var(--ink); }
+.row .venue{
+  font-size:10px; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--ink-soft); display:flex; gap:8px; align-items:center;
+}
+.row.sel .venue{ color:var(--paper); }
+.row .venue .hood:before{ content:"· "; }
+.row .head{
+  font-family:var(--font-display); text-transform:uppercase;
+  font-size:19px; line-height:1; letter-spacing:-.01em; margin:5px 0 8px;
+}
+.row .meta{ display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
+.tag{
+  font-size:10px; font-weight:700; letter-spacing:.06em; text-transform:uppercase;
+  border:1.5px solid var(--ink); padding:1px 6px; background:var(--paper);
+}
+.row.sel .tag{ border-color:var(--paper); background:transparent; color:var(--paper); }
+.pill{
+  font-size:11px; font-weight:800; letter-spacing:.03em;
+  margin-left:auto; display:flex; gap:6px; align-items:center;
+}
+.pill .age{ border:2px solid var(--ink); padding:1px 6px; }
+.row.sel .pill .age{ border-color:var(--paper); }
+.pill .price.free{ color:var(--tomato); }
+.row.sel .pill .price.free{ color:var(--paper); }
+
+/* empty states */
+.empty{ padding:40px 20px; text-align:center; }
+.empty .x{ font-family:var(--font-display); font-size:clamp(26px,5vw,40px); text-transform:uppercase; line-height:1; }
+.empty p{ font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--ink-soft); margin-top:10px; }
+.empty .chip{ display:inline-block; margin-top:16px; }
+
+/* ---------- DETAIL ---------- */
+.d-back{
+  display:none; width:100%; text-align:left;
+  position:sticky; top:0; z-index:5;
+  font-family:var(--font-display); text-transform:uppercase;
+  font-size:16px; letter-spacing:-.01em;
+  background:var(--tomato); color:var(--paper);
+  border:none; border-bottom:3px solid var(--ink);
+  padding:15px 16px; cursor:pointer;
+  display:none; align-items:center; gap:10px;
+}
+.d-back .arr{
+  font-family:var(--font-mono); font-weight:800; font-size:14px;
+  border:2px solid var(--paper); padding:1px 8px; line-height:1.3;
+}
+.d-back:hover{ background:var(--tomato-deep); }
+@media (max-width:820px){ .d-back{ display:flex; } }
+.d-head{ background:var(--tomato); color:var(--paper); border-bottom:3px solid var(--ink); padding:20px 20px 18px; }
+.d-head .venue{ font-size:11px; letter-spacing:.16em; text-transform:uppercase; font-weight:700; }
+.d-head .title{
+  font-family:var(--font-display); text-transform:uppercase;
+  font-size:clamp(30px,4.6vw,52px); line-height:.9; letter-spacing:-.02em; margin-top:8px;
+}
+.d-ticket{
+  display:inline-block; margin-top:14px;
+  font-family:var(--font-mono); font-weight:800; font-size:12px; letter-spacing:.08em;
+  text-transform:uppercase; text-decoration:none;
+  background:var(--paper); color:var(--ink); border:2px solid var(--ink);
+  padding:8px 12px; box-shadow:3px 3px 0 var(--ink); cursor:pointer;
+  transition:transform .07s linear, box-shadow .07s linear;
+}
+.d-ticket:hover{ transform:translate(-1px,-1px); box-shadow:4px 4px 0 var(--ink); }
+.d-ticket:active{ transform:translate(3px,3px); box-shadow:0 0 0 var(--ink); }
+.d-facts{ display:flex; gap:0; border-bottom:3px solid var(--ink); background:var(--paper); }
+.d-fact{ flex:1; padding:11px 14px; border-right:2px solid var(--ink); }
+.d-fact:last-child{ border-right:none; }
+.d-fact .k{ font-size:10px; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-soft); }
+.d-fact .v{ font-family:var(--font-display); font-size:18px; text-transform:uppercase; margin-top:3px; }
+.d-fact .v.free{ color:var(--tomato); }
+
+.section{ padding:16px 20px; border-bottom:2px solid var(--ink); }
+.section h3{
+  font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--tomato);
+  font-weight:700; font-family:var(--font-mono); margin-bottom:12px;
+}
+.artist{
+  display:flex; align-items:center; justify-content:space-between; gap:12px;
+  padding:9px 0; border-top:2px dotted var(--ink);
+}
+.artist:first-of-type{ border-top:none; }
+.artist .nm{ font-family:var(--font-display); text-transform:uppercase; font-size:18px; line-height:1; letter-spacing:-.01em; }
+.artist .gn{ font-size:10px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-soft); margin-top:4px; }
+.spot{
+  flex:0 0 auto; font-family:var(--font-mono); font-weight:800; font-size:11px;
+  letter-spacing:.08em; text-transform:uppercase; text-decoration:none;
+  background:var(--paper); color:var(--ink); border:2px solid var(--ink);
+  padding:6px 10px; box-shadow:3px 3px 0 var(--ink); cursor:pointer;
+  transition:transform .07s linear, box-shadow .07s linear, background .07s linear;
+}
+.spot:hover{ background:var(--tomato); color:var(--paper); transform:translate(-1px,-1px); box-shadow:4px 4px 0 var(--ink); }
+.spot:active{ transform:translate(3px,3px); box-shadow:0 0 0 var(--ink); }
+/* poster (optional, not always available) */
+.d-poster{ background:var(--ink); border-bottom:3px solid var(--ink); }
+.d-poster img{ display:block; width:100%; height:360px; object-fit:contain; background:var(--ink); }
+
+/* lineup — headliners + openers held close together */
+.lineup-group + .lineup-group{ margin-top:14px; padding-top:12px; border-top:3px solid var(--ink); }
+.role-label{
+  font-family:var(--font-mono); font-size:10px; font-weight:700;
+  letter-spacing:.16em; text-transform:uppercase; color:var(--tomato); margin-bottom:6px;
+}
+
+/* venue info */
+.v-name{ font-family:var(--font-display); text-transform:uppercase; font-size:18px; letter-spacing:-.01em; margin-bottom:6px; }
+.venue-info p{ font-size:13px; color:var(--ink); }
+.vlink{
+  display:inline-block; margin-top:10px;
+  font-family:var(--font-mono); font-weight:800; font-size:11px; letter-spacing:.08em;
+  text-transform:uppercase; text-decoration:none;
+  background:var(--paper); color:var(--ink); border:2px solid var(--ink);
+  padding:6px 10px; box-shadow:3px 3px 0 var(--ink); cursor:pointer;
+  transition:transform .07s linear, box-shadow .07s linear, background .07s linear;
+}
+.vlink:hover{ background:var(--tomato); color:var(--paper); transform:translate(-1px,-1px); box-shadow:4px 4px 0 var(--ink); }
+.vlink:active{ transform:translate(3px,3px); box-shadow:0 0 0 var(--ink); }
+.v-grid{ margin-top:14px; display:flex; flex-direction:column; gap:12px; }
+.v-fact .k{ display:block; font-size:10px; letter-spacing:.14em; text-transform:uppercase; color:var(--tomato); font-weight:700; margin-bottom:4px; }
+.v-fact p{ font-size:13px; }
+.v-tips{ list-style:none; }
+.v-tips li{ font-size:13px; position:relative; padding-left:16px; margin-bottom:2px; }
+.v-tips li:before{ content:"—"; position:absolute; left:0; color:var(--tomato); }
+.venue-info .addr{ color:var(--ink-soft); letter-spacing:.04em; }
+
+/* ---------- AT-REST REPETITION WALL ---------- */
+.rest{ height:100%; overflow:hidden; position:relative; background:var(--bg); }
+.rest .wall{ padding:14px 0; user-select:none; pointer-events:none; }
+.rest .wall div{
+  font-family:var(--font-display); text-transform:uppercase;
+  font-size:clamp(26px,4.4vw,46px); line-height:.96; letter-spacing:-.02em;
+  color:var(--tomato); white-space:nowrap; padding-left:18px;
+}
+.rest .wall div:nth-child(7){ font-style:italic; }
+.rest .wall div:nth-child(even){ color:var(--ink); }
+.rest .invite{
+  position:absolute; left:0; right:0; bottom:0;
+  background:var(--ink); color:var(--paper);
+  font-size:12px; letter-spacing:.14em; text-transform:uppercase; font-weight:700;
+  padding:14px 18px; border-top:3px solid var(--ink);
+}
+
+@media (prefers-reduced-motion:reduce){ .csc *{ transition:none !important; } }
+`;
+
+/* ----------------------------- SAMPLE DATA ----------------------------- */
+// Day is always the frame. Each show carries a per-artist genre (multi-tag),
+// price, age, neighborhood, and a hidden time slot (filter/sort only — off the card).
+
+const S = (id, date, venue, hood, slot, price, age, info, addr, headliners, openers) => ({
+  id, date, venue, hood, slot, price, age, info, addr,
+  artists: [
+    ...headliners.map(([name, genre]) => ({ name, genre, role: "headliner" })),
+    ...openers.map(([name, genre]) => ({ name, genre, role: "opener" })),
+  ],
+});
+
+const SAMPLE_SHOWS = [
+  // ---- MON JUN 15 (dense) ----
+  S(1,"2026-06-15","Empty Bottle","Ukrainian Village","evening",15,"21+","DIY-leaning rock room, free Monday residencies, taxidermy over the bar.","1035 N Western Ave",[["Wednesday Mourning","post-punk"]],[["Glass Mall","shoegaze"],["Cement Garden","noise rock"]]),
+  S(2,"2026-06-15","Sleeping Village","Avondale","evening",20,"21+","Backroom listening space with a hi-fi rig and a front-bar beer hall.","3734 W Belmont Ave",[["Kettle Whistle","jazz"]],[["Low Ceiling","experimental"]]),
+  S(3,"2026-06-15","Thalia Hall","Pilsen","evening",28,"17+","1892 opera house turned 800-cap room. Balcony seats, ornate everything.","1807 S Allport St",[["The Verdancy","indie rock"]],[["Paper Saints","folk"]]),
+  S(4,"2026-06-15","Lincoln Hall","Lincoln Park","evening",22,"18+","Mid-size room with a great sightline-to-capacity ratio.","2424 N Lincoln Ave",[["Future Tenant","synth-pop"]],[["Disco Nap","dance-punk"]]),
+  S(5,"2026-06-15","Schubas Tavern","Lakeview","evening",18,"21+","Wood-paneled back room in a 1903 Schlitz tied house.","3159 N Southport Ave",[["Marrow Street","americana"]],[["Hazel & the Hounds","folk"]]),
+  S(6,"2026-06-15","The Hideout","West Town","evening",12,"21+","Hidden two-room bar behind the city fleet yard. A scene institution.","1354 W Wabansia Ave",[["Soft Launch","bedroom pop"]],[["Cul-de-sac","twee"]]),
+  S(7,"2026-06-15","Subterranean","Wicker Park","late",16,"ALL AGES","Three floors on Milwaukee. Loud downstairs, louder up.","2011 W North Ave",[["Concrete Bloom","hardcore"]],[["Mall Goth","metal"],["Total Loss","punk"]]),
+  S(8,"2026-06-15","Beat Kitchen","Roscoe Village","evening",14,"17+","Pizza out front, a black-box rock room in back.","2100 W Belmont Ave",[["The Commuters","garage"]],[["Sticker Shock","punk"]]),
+  S(9,"2026-06-15","Cole's Bar","Logan Square","evening","FREE","21+","Free shows nightly in a narrow neighborhood bar.","2338 N Milwaukee Ave",[["Free Pour","garage"]],[["Night Janitor","lo-fi"]]),
+  S(10,"2026-06-15","Reggies","South Loop","evening",17,"ALL AGES","Rock club + music joint + record store, all on State.","2105 S State St",[["Brass Knuckle Choir","ska"]],[["Riot Brunch","punk"]]),
+  S(11,"2026-06-15","Metro","Lakeview","evening",32,"18+","The Wrigleyville landmark. Smashing Pumpkins cut their teeth here.","3730 N Clark St",[["Voltage Drop","indie rock"]],[["The Frequencies","post-punk"]]),
+  S(12,"2026-06-15","Constellation","Roscoe Village","evening",20,"18+","Experimental + jazz programming in a focused 100-cap room.","3111 N Western Ave",[["Quiet Machines","ambient"]],[["Drone Lake","experimental"]]),
+  S(13,"2026-06-15","Bottom Lounge","West Loop","late",24,"17+","Two-level venue with a rooftop, heavy on the heavy.","1375 W Lake St",[["Hellbent Holiday","metal"]],[["Saint Vitus Dance","doom"]]),
+  S(14,"2026-06-15","The Burlington","Logan Square","late","FREE","21+","Dim corner bar, DJ nights and the occasional live set.","3425 W Fullerton Ave",[["Sunroom","dream pop"]],[]),
+  S(15,"2026-06-15","GMan Tavern","Lakeview","evening",10,"21+","Tiny room next to Metro. Cheap covers, sharp bookings.","3740 N Clark St",[["Parking Structure","emo"]],[["Two Week Notice","midwest emo"]]),
+
+  // ---- TUE JUN 16 ----
+  S(20,"2026-06-16","Empty Bottle","Ukrainian Village","evening","FREE","21+","Monday-style free residency, midweek edition.","1035 N Western Ave",[["Carpet Burn","garage"]],[["Houseplant","indie rock"]]),
+  S(21,"2026-06-16","Hideout","West Town","evening",15,"21+","Songwriter night in the back room.","1354 W Wabansia Ave",[["Della & the Drift","folk"]],[]),
+  S(22,"2026-06-16","Schubas Tavern","Lakeview","evening",18,"18+","Touring indie bill.","3159 N Southport Ave",[["North Branch","indie rock"]],[["Quarry","shoegaze"]]),
+  S(23,"2026-06-16","Constellation","Roscoe Village","evening",22,"18+","Improvised music quartet.","3111 N Western Ave",[["Open Tuning","jazz"]],[]),
+
+  // ---- WED JUN 17 ----
+  S(30,"2026-06-17","Thalia Hall","Pilsen","evening",30,"17+","Touring headliner, sold balcony.","1807 S Allport St",[["Velvet Antlers","indie rock"]],[["Saffron","dream pop"]]),
+  S(31,"2026-06-17","Subterranean","Wicker Park","late",14,"ALL AGES","All-ages hardcore matinee-into-night.","2011 W North Ave",[["Curb Stomp","hardcore"]],[["Negative Space","punk"],["Drywall","metal"]]),
+  S(32,"2026-06-17","Lincoln Hall","Lincoln Park","evening",24,"18+","Synth-forward double bill.","2424 N Lincoln Ave",[["Night Shift","synth-pop"]],[["Auto Reply","electro"]]),
+  S(33,"2026-06-17","Beat Kitchen","Roscoe Village","evening",12,"17+","Local garage showcase.","2100 W Belmont Ave",[["The Idle","garage"]],[["Spare Room","lo-fi"]]),
+  S(34,"2026-06-17","Cole's Bar","Logan Square","evening","FREE","21+","Free Wednesday, four bands.","2338 N Milwaukee Ave",[["Crosstown","punk"]],[["Loiter","post-punk"]]),
+  S(35,"2026-06-17","Reggies","South Loop","evening",20,"ALL AGES","Ska + reggae night.","2105 S State St",[["Eastbound Horns","ska"]],[]),
+
+  // ---- THU JUN 18 ----
+  S(40,"2026-06-18","Metro","Lakeview","evening",35,"18+","Big touring indie act.","3730 N Clark St",[["Paper Coast","indie rock"]],[["Hollow Year","shoegaze"]]),
+  S(41,"2026-06-18","Sleeping Village","Avondale","evening",18,"21+","Ambient + drone double set.","3734 W Belmont Ave",[["Glacial","ambient"]],[["Tape Hiss","drone"]]),
+  S(42,"2026-06-18","Empty Bottle","Ukrainian Village","late",15,"21+","Late punk bill.","1035 N Western Ave",[["Fire Escape","punk"]],[["Brick Hand","noise rock"]]),
+
+  // ---- FRI JUN 19 ----
+  S(50,"2026-06-19","Thalia Hall","Pilsen","evening",34,"17+","Friday headliner.","1807 S Allport St",[["The Greenhouse Effect","indie rock"]],[["Marigold","dream pop"]]),
+  S(51,"2026-06-19","Lincoln Hall","Lincoln Park","evening",26,"18+","Indie pop touring bill.","2424 N Lincoln Ave",[["Soft Currency","indie pop"]],[["Day Trip","twee"]]),
+  S(52,"2026-06-19","Bottom Lounge","West Loop","late",28,"17+","Metal Friday.","1375 W Lake St",[["Ironlung Choir","metal"]],[["Tarpit","doom"],["Cold Open","hardcore"]]),
+  S(53,"2026-06-19","Schubas Tavern","Lakeview","evening",20,"21+","Americana headliner.","3159 N Southport Ave",[["Dust Road Revival","americana"]],[["Pewter","folk"]]),
+  S(54,"2026-06-19","Subterranean","Wicker Park","late",16,"ALL AGES","Friday punk + garage.","2011 W North Ave",[["Quick Exit","punk"]],[["Side Door","garage"]]),
+  S(55,"2026-06-19","Cole's Bar","Logan Square","evening","FREE","21+","Free Friday lineup.","2338 N Milwaukee Ave",[["Last Call","garage"]],[["Lukewarm","lo-fi"]]),
+  S(56,"2026-06-19","Constellation","Roscoe Village","evening",22,"18+","Experimental jazz.","3111 N Western Ave",[["Fourth Stream","jazz"]],[["Static Bloom","experimental"]]),
+
+  // ---- SAT JUN 20 ----
+  S(60,"2026-06-20","Metro","Lakeview","evening",38,"18+","Saturday headliner, near sold out.","3730 N Clark St",[["The Lakefront","indie rock"]],[["Westbound","post-punk"]]),
+  S(61,"2026-06-20","Empty Bottle","Ukrainian Village","late",17,"21+","Saturday late set.","1035 N Western Ave",[["Hot Glue","garage"]],[["Tinsel","shoegaze"]]),
+];
+
+// Posters aren't always available — flag the ones that have art.
+[1, 11].forEach((id) => { const s = SAMPLE_SHOWS.find((x) => x.id === id); if (s) s.poster = true; });
+
+/* ----------------------------- VENUE DATA ----------------------------- */
+// Venue-level info, keyed by name. Sample data — illustrative, not verified.
+const VENUES = {
+  "Empty Bottle": { addr:"1035 N Western Ave", url:"https://www.emptybottle.com",
+    blurb:"DIY-leaning rock room with free Monday residencies and taxidermy over the bar.",
+    ada:"Step-free entrance on Western Ave. Single-level floor; accessible restroom on site.",
+    tips:["Cash + card at the door","Doors usually 1hr before first set","Street parking on Cortland & Honore"] },
+  "Sleeping Village": { addr:"3734 W Belmont Ave", url:"https://www.sleeping-village.com",
+    blurb:"Backroom listening space with a hi-fi rig, fronted by a beer hall and patio.",
+    ada:"Ramped entrance; accessible restrooms. Backroom floor is level with the bar.",
+    tips:["Beer hall opens early, no cover","Kitchen until late","Blue Line to Belmont, then a short bus"] },
+  "Thalia Hall": { addr:"1807 S Allport St", url:"https://www.thaliahallchicago.com",
+    blurb:"1892 opera house turned ~800-cap room. Balcony seating, ornate plasterwork.",
+    ada:"Accessible entrance on 18th St; elevator to balcony. ADA seating — ask box office.",
+    tips:["Box office opens at 5pm show days","Dusek's restaurant downstairs","18th St Pink Line, 4 blocks"] },
+  "Lincoln Hall": { addr:"2424 N Lincoln Ave", url:"https://www.lh-st.com",
+    blurb:"Mid-size room with one of the better sightline-to-capacity ratios in the city.",
+    ada:"Step-free entry; accessible restrooms. Limited ADA viewing platform at the rear.",
+    tips:["Full menu + bar","Coat check in winter","Fullerton Red/Brown/Purple, 6 blocks"] },
+  "Schubas Tavern": { addr:"3159 N Southport Ave", url:"https://www.lh-st.com",
+    blurb:"Wood-paneled back room inside a 1903 Schlitz tied house.",
+    ada:"One step at entry — staff assist available; accessible restroom. Room is level.",
+    tips:["Harmony Grill attached","21+ unless noted","Southport Brown Line, 2 blocks"] },
+  "The Hideout": { addr:"1354 W Wabansia Ave", url:"https://www.hideoutchicago.com",
+    blurb:"Hidden two-room bar behind the city fleet yard. A scene institution since the '90s.",
+    ada:"Step-free side entrance on request; front room is accessible. Tight quarters when full.",
+    tips:["Cash-friendly","Parking lot out front","Closest stop: North/Clybourn Red Line"] },
+  "Subterranean": { addr:"2011 W North Ave", url:"https://www.subt.net",
+    blurb:"Three floors on Milwaukee — loud downstairs, louder up.",
+    ada:"Ground-floor entry; upstairs performance space is up a staircase with no elevator.",
+    tips:["Often all-ages","Damen Blue Line, 5 blocks","Beer garden in summer"] },
+  "Beat Kitchen": { addr:"2100 W Belmont Ave", url:"https://www.beatkitchen.com",
+    blurb:"Pizza and a bar out front, a black-box rock room in back.",
+    ada:"Level entrance and back room; accessible restroom.",
+    tips:["Kitchen open during shows","17+ unless noted","Paulina Brown Line, 4 blocks"] },
+  "Cole's Bar": { addr:"2338 N Milwaukee Ave", url:"https://www.colesbarchicago.com",
+    blurb:"Narrow neighborhood bar running free shows nightly in the back.",
+    ada:"One small step at entry; back room is level. No dedicated accessible restroom.",
+    tips:["Always free","Tip the bands","California Blue Line, 6 blocks"] },
+  "Reggies": { addr:"2105 S State St", url:"https://www.reggieslive.com",
+    blurb:"Rock club, music joint, and record store all stacked on State St.",
+    ada:"Accessible entrance and main floor; ADA viewing on request.",
+    tips:["Two stages — check which room","Often all-ages","Cermak-Chinatown Red Line"] },
+  "Metro": { addr:"3730 N Clark St", url:"https://www.metrochicago.com",
+    blurb:"The Wrigleyville landmark — Smashing Pumpkins cut their teeth here.",
+    ada:"Accessible entrance; ADA platform with sightlines. Contact box office ahead.",
+    tips:["Smartbar downstairs after","18+ unless noted","Addison Red Line, 1 block"] },
+  "Constellation": { addr:"3111 N Western Ave", url:"https://www.constellation-chicago.com",
+    blurb:"Experimental and jazz programming in a focused ~100-cap room.",
+    ada:"Step-free entry; level seating area; accessible restroom.",
+    tips:["Seated, listening-room etiquette","Doors 30min prior","Western Blue Line + bus"] },
+  "Bottom Lounge": { addr:"1375 W Lake St", url:"https://www.bottomlounge.com",
+    blurb:"Two-level venue with a rooftop, heavy on the heavy.",
+    ada:"Accessible ground-floor entry and main room; rooftop via stairs only.",
+    tips:["Kitchen + patio","17+ unless noted","Ashland Green/Pink Line, 2 blocks"] },
+  "The Burlington": { addr:"3425 W Fullerton Ave", url:"https://www.theburlingtonbar.com",
+    blurb:"Dim corner bar — DJ nights and the occasional live set.",
+    ada:"Single step at entry; level floor inside. No dedicated accessible restroom.",
+    tips:["Mostly free","Cash + card","Logan Square Blue Line, 8 blocks"] },
+  "GMan Tavern": { addr:"3740 N Clark St", url:"https://www.gmantavern.com",
+    blurb:"Tiny room next to Metro — cheap covers, sharp bookings.",
+    ada:"Level entrance; compact room fills fast.",
+    tips:["Cheap door","Pairs well with a Metro night","Addison Red Line, 1 block"] },
+  _default: { addr:"Chicago, IL", url:null,
+    blurb:"Independent Chicago music venue.",
+    ada:"Contact the venue directly for accessibility details and ADA seating.",
+    tips:["Check the venue for door time, age policy, and parking"] },
+};
+const venueData = (name) => VENUES[name] || VENUES._default;
+
+/* ----------------------------- HELPERS ----------------------------- */
+const fmtPrice = (p) => (p == null ? "TBD" : p === "FREE" ? "FREE" : "$" + p);
+const DOW = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+const MON = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+
+function genresOf(show) {
+  return show.genres || [];
+}
+function parseDate(iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return new Date(y, m - 1, d);
+}
+const pad2 = (n) => String(n).padStart(2, "0");
+const isoOf = (d) => `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`;
+const firstDateOf = (arr) => arr.map((s) => s.date).filter(Boolean).sort()[0] || isoOf(new Date());
+
+// Pipeline output path (relative). Falls back to bundled SAMPLE_SHOWS if missing.
+const DATA_URL = "shows.json";
+
+// Accept either the pipeline schema (headliners/openers/genres) or the sample
+// schema (artists[]) and produce one internal shape the UI can render.
+function adaptShow(raw) {
+  let headliners = raw.headliners && raw.headliners.length ? raw.headliners : (raw.artists || []).filter((a) => a.role === "headliner");
+  let openers = raw.openers && raw.openers.length ? raw.openers : (raw.artists || []).filter((a) => a.role === "opener");
+  if (!headliners.length && raw.artists && raw.artists.length) { headliners = [raw.artists[0]]; openers = raw.artists.slice(1); }
+  const genres = raw.genres && raw.genres.length
+    ? [...new Set(raw.genres)]
+    : [...new Set([...headliners, ...openers].map((a) => a.genre).filter(Boolean))];
+  return { ...raw, headliners, openers, genres };
+}
+const adaptAll = (arr) => arr.map(adaptShow);
+
+// crude word-wrap for the SVG poster headline
+function wrapWords(str, max) {
+  const words = str.toUpperCase().split(" ");
+  const lines = []; let line = "";
+  for (const w of words) {
+    if ((line + " " + w).trim().length > max && line) { lines.push(line.trim()); line = w; }
+    else line = (line + " " + w).trim();
+  }
+  if (line) lines.push(line);
+  return lines.slice(0, 4);
+}
+
+// Builds an on-brand placeholder poster (inline SVG data URI) for shows flagged with one.
+function makePoster(show) {
+  const h = (show.headliners && show.headliners[0]) || (show.openers && show.openers[0]) || { name: show.venue || "" };
+  const openers = (show.openers || []).map((a) => a.name);
+  const lines = wrapWords(h.name, 11);
+  const fs = lines.length >= 4 ? 70 : lines.length === 3 ? 84 : 104;
+  const startY = 300 - ((lines.length - 1) * fs) / 2;
+  const titleSvg = lines
+    .map((ln, i) => `<text x="48" y="${startY + i * fs}" font-family="Arial Black, sans-serif" font-size="${fs}" fill="#F6EEDC" letter-spacing="-2">${ln}</text>`)
+    .join("");
+  const openersSvg = openers.length
+    ? `<text x="48" y="${startY + lines.length * fs + 30}" font-family="Arial, sans-serif" font-weight="bold" font-size="26" fill="#F6EEDC">WITH ${openers.join(" + ").toUpperCase()}</text>`
+    : "";
+  const d = parseDate(show.date);
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 860">
+    <rect width="640" height="860" fill="#E03C2C"/>
+    <polygon points="640,560 540,620 640,640 560,700 660,720" fill="#F6EEDC" opacity="0.18"/>
+    <polygon points="40,40 60,30 56,52 78,58 56,66 60,88 40,74 20,88 24,66 2,58 24,52 20,30" fill="#F6EEDC" opacity="0.9"/>
+    <rect x="22" y="22" width="596" height="816" fill="none" stroke="#F6EEDC" stroke-width="6"/>
+    <text x="48" y="150" font-family="Arial, sans-serif" font-weight="bold" font-size="26" fill="#F6EEDC" letter-spacing="6">${show.venue.toUpperCase()}</text>
+    ${titleSvg}
+    ${openersSvg}
+    <text x="48" y="790" font-family="Arial, sans-serif" font-weight="bold" font-size="30" fill="#F6EEDC">${DOW[d.getDay()]} ${MON[d.getMonth()]} ${d.getDate()} · ${show.age} · ${fmtPrice(show.price)}</text>
+  </svg>`;
+  return "data:image/svg+xml," + encodeURIComponent(svg);
+}
+
+/* ----------------------------- COMPONENT ----------------------------- */
+export default function App() {
+  // ---------- data: load shows.json from the pipeline; fall back to sample ----------
+  const [shows, setShows] = useState(() => adaptAll(SAMPLE_SHOWS));
+  const [dataSource, setDataSource] = useState("sample");
+  useEffect(() => {
+    let off = false;
+    fetch(DATA_URL)
+      .then((r) => (r.ok ? r.json() : Promise.reject(new Error("no file"))))
+      .then((json) => { if (!off && Array.isArray(json) && json.length) { setShows(adaptAll(json)); setDataSource("live"); } })
+      .catch(() => { /* keep sample */ });
+    return () => { off = true; };
+  }, []);
+
+  const todayIso = isoOf(new Date());
+  // contiguous day rail spanning the data's date range (capped), with per-day counts
+  const days = useMemo(() => {
+    const counts = {};
+    for (const s of shows) if (s.date) counts[s.date] = (counts[s.date] || 0) + 1;
+    const dates = Object.keys(counts).sort();
+    if (!dates.length) return [];
+    const start = parseDate(dates[0]), end = parseDate(dates[dates.length - 1]);
+    const out = []; const cur = new Date(start);
+    for (let g = 0; cur <= end && g < 120; g++) {
+      const iso = isoOf(cur);
+      out.push({ iso, date: new Date(cur), count: counts[iso] || 0 });
+      cur.setDate(cur.getDate() + 1);
+    }
+    return out;
+  }, [shows]);
+
+  const [dayIso, setDayIso] = useState(() => firstDateOf(SAMPLE_SHOWS));
+  const [selId, setSelId] = useState(null);
+  const [selHoods, setSelHoods] = useState([]);
+  const [selGenres, setSelGenres] = useState([]);
+  const [selAges, setSelAges] = useState([]);
+  const [freeOnly, setFreeOnly] = useState(false);
+  const [sortKey, setSortKey] = useState("default");
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const [sortOpen, setSortOpen] = useState(false);
+  const [picker, setPicker] = useState(null);   // 'hood' | 'genre' | 'age' | null
+  const [draft, setDraft] = useState([]);        // working selection inside the picker
+  const railRef = useRef(null);
+
+  const dayShows = useMemo(() => shows.filter((s) => s.date === dayIso), [shows, dayIso]);
+
+  // Option lists are scoped to the CURRENT DAY and carry a count, so a facet
+  // only appears if something matches it that day. {name, count}
+  const hoodOpts = useMemo(() => {
+    const m = {};
+    dayShows.forEach((s) => { m[s.hood] = (m[s.hood] || 0) + 1; });
+    return Object.entries(m).map(([name, count]) => ({ name, count })).sort((a, b) => a.name.localeCompare(b.name));
+  }, [dayShows]);
+  const genreOpts = useMemo(() => {
+    const m = {};
+    dayShows.forEach((s) => genresOf(s).forEach((g) => { m[g] = (m[g] || 0) + 1; }));
+    return Object.entries(m).map(([name, count]) => ({ name, count })).sort((a, b) => a.name.localeCompare(b.name));
+  }, [dayShows]);
+  const ageOpts = useMemo(() => {
+    const m = {};
+    dayShows.forEach((s) => { m[s.age] = (m[s.age] || 0) + 1; });
+    return ["ALL AGES", "17+", "18+", "21+"].filter((a) => m[a]).map((a) => ({ name: a, count: m[a] }));
+  }, [dayShows]);
+
+  const SORTS = [
+    { key: "default", label: "DEFAULT" },
+    { key: "venue", label: "VENUE A–Z" },
+    { key: "hood", label: "NEIGHBORHOOD" },
+    { key: "price", label: "PRICE LOW→HIGH" },
+  ];
+  const priceVal = (p) => (p === "FREE" ? 0 : p);
+
+  const filtered = useMemo(() => {
+    let r = dayShows.filter((s) => {
+      if (selHoods.length && !selHoods.includes(s.hood)) return false;
+      if (selGenres.length && !genresOf(s).some((g) => selGenres.includes(g))) return false;
+      if (selAges.length && !selAges.includes(s.age)) return false;
+      if (freeOnly && s.price !== "FREE") return false;
+      return true;
+    });
+    if (sortKey === "venue") r = [...r].sort((a, b) => a.venue.localeCompare(b.venue));
+    else if (sortKey === "hood") r = [...r].sort((a, b) => a.hood.localeCompare(b.hood) || a.venue.localeCompare(b.venue));
+    else if (sortKey === "price") r = [...r].sort((a, b) => priceVal(a.price) - priceVal(b.price));
+    return r;
+  }, [dayShows, selHoods, selGenres, selAges, freeOnly, sortKey]);
+
+  const activeFilterCount =
+    (selHoods.length ? 1 : 0) + (selGenres.length ? 1 : 0) + (selAges.length ? 1 : 0) + (freeOnly ? 1 : 0);
+  const anyFilter = activeFilterCount > 0;
+  const clearAll = () => { setSelHoods([]); setSelGenres([]); setSelAges([]); setFreeOnly(false); };
+
+  // picker (mad-lib slot) plumbing
+  const PICKER_META = {
+    hood: { title: "NEIGHBORHOODS", opts: hoodOpts, current: selHoods, apply: setSelHoods },
+    genre: { title: "GENRES", opts: genreOpts, current: selGenres, apply: setSelGenres },
+    age: { title: "AGES", opts: ageOpts, current: selAges, apply: setSelAges },
+  };
+  const openPicker = (facet) => { setDraft([...PICKER_META[facet].current]); setPicker(facet); };
+  const toggleDraft = (o) => setDraft((d) => (d.includes(o) ? d.filter((x) => x !== o) : [...d, o]));
+  const savePicker = () => { PICKER_META[picker].apply(draft); setPicker(null); };
+  const slotText = (arr, placeholder) =>
+    !arr.length ? placeholder : arr.length <= 2 ? arr.join(", ") : `${arr[0]} +${arr.length - 1}`;
+
+  const sel = shows.find((s) => s.id === selId) || null;
+  const selVisible = sel && filtered.some((s) => s.id === sel.id);
+
+  // when day changes, drop selection + filters + collapse controls
+  useEffect(() => { setSelId(null); clearAll(); setSortKey("default"); setFiltersOpen(false); setSortOpen(false); setPicker(null); }, [dayIso]);
+
+  // keep the selected day valid as data loads / changes
+  useEffect(() => {
+    if (days.length && !days.some((d) => d.iso === dayIso)) {
+      const first = days.find((d) => d.count > 0) || days[0];
+      setDayIso(first.iso);
+    }
+  }, [days]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const curDay = days.find((d) => d.iso === dayIso) || days[0] || { iso: dayIso, date: parseDate(dayIso || todayIso), count: 0 };
+  const headliner = (s) => (s.headliners && s.headliners[0]) || (s.openers && s.openers[0]) || { name: "TBA" };
+
+  const scrollRail = (dir) => {
+    if (railRef.current) railRef.current.scrollBy({ left: dir * 240, behavior: "smooth" });
+  };
+
+  return (
+    <div className="csc">
+      <style>{CSS}</style>
+
+      {/* TOP BAR */}
+      <header className="topbar">
+        <div className="wordmark">
+          THE CHICAGO SHOW CALENDAR<span className="dot">.</span>
+        </div>
+        <div className="topbar-meta">
+          <span className={dataSource === "live" ? "src-live" : ""}>{dataSource === "live" ? `LIVE · ${shows.length} SHOWS` : "SAMPLE DATA"}</span>
+          <span>CHICAGO IL</span>
+        </div>
+      </header>
+
+      {/* DATE RAIL */}
+      <div className="rail-wrap">
+        <button className="rail-nav" onClick={() => scrollRail(-1)} aria-label="Earlier days">‹</button>
+        <div className="rail" ref={railRef}>
+          {days.map((d) => {
+            const active = d.iso === dayIso;
+            return (
+              <button
+                key={d.iso}
+                className={"stub" + (active ? " active" : "")}
+                onClick={() => setDayIso(d.iso)}
+              >
+                <span className="dow">{DOW[d.date.getDay()]}</span>
+                <span className="dnum">{d.date.getDate()}</span>
+                <span className="perf" />
+                <span className={"cnt" + (d.count === 0 ? " zero" : "")}>{d.count}</span>
+              </button>
+            );
+          })}
+        </div>
+        <button className="rail-nav next" onClick={() => scrollRail(1)} aria-label="Later days">›</button>
+      </div>
+
+      {/* PANES */}
+      <div className="panes">
+        {/* LEFT: one day */}
+        <section className="listpane">
+          <div className="slab">
+            <div className="kicker">
+              {curDay.iso === todayIso ? "TONIGHT" : "SHOWS ON"}
+            </div>
+            <div className="big">
+              {DOW[curDay.date.getDay()]} {MON[curDay.date.getMonth()]} {curDay.date.getDate()}
+            </div>
+            <div className="count">
+              <b>{filtered.length}</b> {filtered.length === 1 ? "SHOW" : "SHOWS"}
+              {anyFilter && <> · FILTERED FROM <b>{dayShows.length}</b></>}
+            </div>
+          </div>
+
+          {dayShows.length > 0 && (
+            <>
+              <div className="controls">
+                <button
+                  className={"ctrl-btn" + (filtersOpen ? " open" : "")}
+                  onClick={() => { setFiltersOpen(!filtersOpen); setSortOpen(false); }}
+                >
+                  FILTERS {activeFilterCount > 0 && <span className="badge">{activeFilterCount}</span>}
+                  <span className="caret">{filtersOpen ? "▲" : "▼"}</span>
+                </button>
+                <button
+                  className={"ctrl-btn" + (sortOpen ? " open" : "")}
+                  onClick={() => { setSortOpen(!sortOpen); setFiltersOpen(false); }}
+                >
+                  SORT {sortKey !== "default" && <span className="badge">1</span>}
+                  <span className="caret">{sortOpen ? "▲" : "▼"}</span>
+                </button>
+              </div>
+
+              {filtersOpen && (
+                <div className="panel">
+                  <div className="madlib">
+                    <span className="lex">SHOWS IN</span>
+                    <button className={"slot" + (selHoods.length ? " filled" : "")} onClick={() => openPicker("hood")}>
+                      {slotText(selHoods, "ANYWHERE")} <span className="car">▾</span>
+                    </button>
+                    <span className="lex">PLAYING</span>
+                    <button className={"slot" + (selGenres.length ? " filled" : "")} onClick={() => openPicker("genre")}>
+                      {slotText(selGenres, "ANY GENRE")} <span className="car">▾</span>
+                    </button>
+                    <span className="lex">FOR</span>
+                    <button className={"slot" + (selAges.length ? " filled" : "")} onClick={() => openPicker("age")}>
+                      {slotText(selAges, "ANY AGE")} <span className="car">▾</span>
+                    </button>
+                    <span className="lex">·</span>
+                    <button className={"slot" + (freeOnly ? " filled" : "")} onClick={() => setFreeOnly(!freeOnly)}>
+                      {freeOnly ? "FREE ONLY" : "ANY PRICE"}
+                    </button>
+                  </div>
+                  {activeFilterCount > 0 && (
+                    <button className="chip clear madlib-clear" onClick={clearAll}>CLEAR ALL ✕</button>
+                  )}
+                </div>
+              )}
+
+              {sortOpen && (
+                <div className="panel">
+                  <div className="frow">
+                    <span className="flabel">Sort by</span>
+                    {SORTS.map((s) => (
+                      <button key={s.key} className={"chip" + (sortKey === s.key ? " on" : "")}
+                        onClick={() => setSortKey(s.key)}>{s.label}</button>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
+          )}
+
+          <div className="list">
+            {dayShows.length === 0 && (
+              <div className="empty">
+                <div className="x">No shows<br/>this day</div>
+                <p>Pick another date on the rail above</p>
+              </div>
+            )}
+            {dayShows.length > 0 && filtered.length === 0 && (
+              <div className="empty">
+                <div className="x">No shows<br/>match</div>
+                <p>Loosen a filter to see more</p>
+                <button className="chip clear" onClick={clearAll}>CLEAR FILTERS ✕</button>
+              </div>
+            )}
+            {filtered.map((s) => {
+              const h = headliner(s);
+              return (
+                <button key={s.id}
+                  className={"row" + (selId === s.id ? " sel" : "")}
+                  onClick={() => setSelId(s.id)}>
+                  <div className="venue">
+                    <span>{s.venue}</span>{s.hood && <span className="hood">{s.hood}</span>}
+                  </div>
+                  <div className="head">{h.name}</div>
+                  <div className="meta">
+                    {genresOf(s).slice(0, 3).map((g) => <span key={g} className="tag">{g}</span>)}
+                    <span className="pill">
+                      <span className={"price" + (s.price === "FREE" ? " free" : "")}>{fmtPrice(s.price)}</span>
+                      <span className="age">{s.age || "—"}</span>
+                    </span>
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+        </section>
+
+        {/* RIGHT: detail or at-rest wall */}
+        <section className={"detailpane" + (selVisible ? " open" : "")}>
+          {selVisible ? (
+            <>
+              <button className="d-back" onClick={() => setSelId(null)}>
+                <span className="arr">‹ BACK</span>
+                TO {curDay && DOW[curDay.date.getDay()]} {curDay && curDay.date.getDate()}
+              </button>
+
+              {sel.poster && (
+                <div className="d-poster">
+                  <img src={typeof sel.poster === "string" ? sel.poster : makePoster(sel)} alt={`${headliner(sel).name} show poster`} />
+                </div>
+              )}
+
+              <div className="d-head">
+                <div className="venue">{sel.venue}{sel.hood ? ` · ${sel.hood}` : ""}</div>
+                <div className="title">{headliner(sel).name}</div>
+                {sel.ticketUrl && (
+                  <a className="d-ticket" href={sel.ticketUrl} target="_blank" rel="noreferrer">BUY TICKETS ↗</a>
+                )}
+              </div>
+              <div className="d-facts">
+                <div className="d-fact">
+                  <div className="k">Price</div>
+                  <div className={"v" + (sel.price === "FREE" ? " free" : "")}>{fmtPrice(sel.price)}</div>
+                </div>
+                <div className="d-fact">
+                  <div className="k">Ages</div>
+                  <div className="v">{sel.age || "TBD"}</div>
+                </div>
+                <div className="d-fact">
+                  <div className="k">Date</div>
+                  <div className="v">{MON[parseDate(sel.date).getMonth()]} {parseDate(sel.date).getDate()}</div>
+                </div>
+              </div>
+
+              {/* LINEUP — headliners + openers grouped together */}
+              <div className="section">
+                <h3>Lineup</h3>
+                <div className="lineup-group">
+                  <div className="role-label">Headlining</div>
+                  {sel.headliners.map((a) => (
+                    <div className="artist" key={a.name}>
+                      <div>
+                        <div className="nm">{a.name}</div>
+                        {a.genre && a.genre !== "music" && <div className="gn">{a.genre}</div>}
+                      </div>
+                      <a className="spot" target="_blank" rel="noreferrer"
+                        href={`https://open.spotify.com/search/${encodeURIComponent(a.name)}`}>
+                        SPOTIFY ↗
+                      </a>
+                    </div>
+                  ))}
+                </div>
+                {sel.openers && sel.openers.length > 0 && (
+                  <div className="lineup-group">
+                    <div className="role-label">Openers</div>
+                    {sel.openers.map((a) => (
+                      <div className="artist" key={a.name}>
+                        <div>
+                          <div className="nm">{a.name}</div>
+                          {a.genre && a.genre !== "music" && <div className="gn">{a.genre}</div>}
+                        </div>
+                        <a className="spot" target="_blank" rel="noreferrer"
+                          href={`https://open.spotify.com/search/${encodeURIComponent(a.name)}`}>
+                          SPOTIFY ↗
+                        </a>
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </div>
+
+              {/* VENUE INFO */}
+              {(() => {
+                const v = venueData(sel.venue);
+                const vi = sel.venueInfo || {};
+                const url = vi.url || v.url;
+                const addr = vi.address ? `${vi.address}${vi.city ? ", " + vi.city : ""}` : `${v.addr} · Chicago, IL`;
+                return (
+                  <div className="section venue-info">
+                    <h3>Venue Information</h3>
+                    <div className="v-name">{sel.venue}</div>
+                    <p>{v.blurb}</p>
+                    {url && (
+                      <a className="vlink" href={url} target="_blank" rel="noreferrer">VENUE SITE ↗</a>
+                    )}
+                    <div className="v-grid">
+                      <div className="v-fact">
+                        <span className="k">Accessibility</span>
+                        <p>{v.ada}</p>
+                      </div>
+                      <div className="v-fact">
+                        <span className="k">Good to know</span>
+                        <ul className="v-tips">
+                          {v.tips.map((t) => <li key={t}>{t}</li>)}
+                        </ul>
+                      </div>
+                      <div className="v-fact">
+                        <span className="k">Address</span>
+                        <p className="addr">{addr}</p>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })()}
+            </>
+          ) : (
+            <div className="rest">
+              <div className="wall">
+                {Array.from({ length: 14 }).map((_, i) => <div key={i}>PICK A SHOW</div>)}
+              </div>
+              <div className="invite">SELECT A SHOW TO SEE THE FULL LINEUP →</div>
+            </div>
+          )}
+        </section>
+      </div>
+
+      {/* MAD-LIB PICKER (full option list for the tapped slot) */}
+      {picker && (
+        <div className="picker-scrim" onClick={() => setPicker(null)}>
+          <div className="picker" onClick={(e) => e.stopPropagation()}>
+            <div className="picker-head">
+              <span>{PICKER_META[picker].title}</span>
+              <span>{draft.length} SELECTED</span>
+            </div>
+            <div className="picker-body">
+              {PICKER_META[picker].opts.map(({ name, count }) => {
+                const on = draft.includes(name);
+                return (
+                  <button key={name} className={"opt" + (on ? " on" : "")} onClick={() => toggleDraft(name)}>
+                    <span className="box">{on ? "✕" : ""}</span>
+                    <span className="opt-name">{name}</span>
+                    <span className="opt-count">{count}</span>
+                  </button>
+                );
+              })}
+            </div>
+            <div className="picker-foot">
+              <button className="pbtn clear" onClick={() => setDraft([])}>CLEAR</button>
+              <button className="pbtn primary" onClick={savePicker}>DONE</button>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
