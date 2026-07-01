@@ -1,93 +1,1843 @@
 [
-  { "id": "empty-bottle", "name": "Empty Bottle", "hood": "Ukrainian Village", "aliases": ["the empty bottle"] },
-  { "id": "sleeping-village", "name": "Sleeping Village", "hood": "Avondale" },
-  { "id": "thalia-hall", "name": "Thalia Hall", "hood": "Pilsen" },
-  { "id": "lincoln-hall", "name": "Lincoln Hall", "hood": "Lincoln Park" },
-  { "id": "schubas", "name": "Schubas", "hood": "Lakeview", "aliases": ["schubas tavern"] },
-  { "id": "schubas-upstairs", "name": "Schubas Upstairs", "hood": "Lakeview", "parent": "schubas", "aliases": ["schubas (upstairs)"] },
-  { "id": "the-hideout", "name": "The Hideout", "hood": "West Town", "aliases": ["hideout"] },
-  { "id": "subterranean", "name": "Subterranean", "hood": "Wicker Park", "aliases": ["subt"] },
-  { "id": "subterranean-downstairs", "name": "Subterranean Downstairs", "hood": "Wicker Park", "parent": "subterranean" },
-  { "id": "beat-kitchen", "name": "Beat Kitchen", "hood": "Roscoe Village" },
-  { "id": "beat-kitchen-upstairs", "name": "Beat Kitchen Upstairs", "hood": "Roscoe Village", "parent": "beat-kitchen" },
-  { "id": "coles-bar", "name": "Cole's Bar", "hood": "Logan Square", "aliases": ["coles", "cole's"] },
-  { "id": "reggies-rock-club", "name": "Reggies Rock Club", "hood": "South Loop", "parent": "reggies" },
-  { "id": "reggies-music-joint", "name": "Reggies Music Joint", "hood": "South Loop", "parent": "reggies" },
-  { "id": "metro", "name": "Metro", "hood": "Lakeview", "aliases": ["metro chicago", "metro & smartbar"] },
-  { "id": "smartbar", "name": "Smartbar", "hood": "Lakeview", "aliases": ["smart bar"] },
-  { "id": "gman-tavern", "name": "GMan Tavern", "hood": "Lakeview", "aliases": ["g-man tavern"] },
-  { "id": "constellation", "name": "Constellation", "hood": "Roscoe Village" },
-  { "id": "hungry-brain", "name": "Hungry Brain", "hood": "Roscoe Village" },
-  { "id": "bottom-lounge", "name": "Bottom Lounge", "hood": "West Loop" },
-  { "id": "burlington-bar", "name": "Burlington Bar", "hood": "Logan Square", "aliases": ["the burlington", "burlington"] },
-  { "id": "cobra-lounge", "name": "Cobra Lounge", "hood": "West Town" },
-  { "id": "chop-shop", "name": "Chop Shop", "hood": "Wicker Park" },
-  { "id": "concord-music-hall", "name": "Concord Music Hall", "hood": "Logan Square" },
-  { "id": "the-vic", "name": "The Vic", "hood": "Lakeview", "aliases": ["the vic theatre", "vic theatre"] },
-  { "id": "park-west", "name": "Park West", "hood": "Lincoln Park" },
-  { "id": "aragon-ballroom", "name": "Aragon Ballroom", "hood": "Uptown", "aliases": ["aragon"] },
-  { "id": "riviera-theatre", "name": "Riviera Theatre", "hood": "Uptown", "aliases": ["the riviera", "riv"] },
-  { "id": "green-mill", "name": "Green Mill", "hood": "Uptown" },
-  { "id": "carols-pub", "name": "Carol's Pub", "hood": "Uptown", "aliases": ["carols"] },
-  { "id": "house-of-blues", "name": "House of Blues", "hood": "River North", "aliases": ["house of blues chicago"] },
-  { "id": "salt-shed", "name": "Salt Shed", "hood": "Goose Island", "aliases": ["the salt shed"] },
-  { "id": "golden-dagger", "name": "Golden Dagger", "hood": "Lincoln Park" },
-  { "id": "kingston-mines", "name": "Kingston Mines", "hood": "Lincoln Park" },
-  { "id": "martyrs", "name": "Martyrs'", "hood": "North Center", "aliases": ["martyrs"] },
-  { "id": "old-town-school", "name": "Old Town School of Folk Music", "hood": "Lincoln Square", "aliases": ["old town school of folk"] },
-  { "id": "rosas-lounge", "name": "Rosa's Lounge", "hood": "Logan Square", "aliases": ["rosas"] },
-  { "id": "california-clipper", "name": "California Clipper", "hood": "Humboldt Park" },
-  { "id": "the-whistler", "name": "The Whistler", "hood": "Logan Square" },
-  { "id": "cafe-mustache", "name": "Cafe Mustache", "hood": "Logan Square" },
-  { "id": "liars-club", "name": "Liar's Club", "hood": "West Town", "aliases": ["liars club"] },
-  { "id": "phyllis-musical-inn", "name": "Phyllis' Musical Inn", "hood": "Wicker Park" },
-  { "id": "city-winery", "name": "City Winery", "hood": "West Loop" },
-  { "id": "ramova-theatre", "name": "Ramova Theatre", "hood": "Bridgeport", "aliases": ["ramova"] },
-  { "id": "ramova-loft", "name": "Ramova Loft", "hood": "Bridgeport", "parent": "ramova-theatre" },
-  { "id": "chicago-theatre", "name": "Chicago Theatre", "hood": "The Loop" },
-  { "id": "auditorium-theatre", "name": "Auditorium Theatre", "hood": "The Loop", "aliases": ["auditorium theater"] },
-
-  { "id": "the-atlantic", "name": "The Atlantic", "hood": null, "aliases": ["atlantic", "the atlantic bar", "atlantic bar", "atlantic bar and grill"] },
-  { "id": "lees-unleaded-blues", "name": "Lee's Unleaded Blues", "hood": null, "aliases": ["lees unleaded blues", "lee's unleaded blues lounge", "lee's unleaded blues club", "lee's unleaded blues bar"] },
-  { "id": "brudders", "name": "Brudder's Sports Bar", "hood": null, "aliases": ["brudders", "brudder's bar", "brudders bar"] },
-
-  { "id": "replay-lincoln-park", "name": "Replay Lincoln Park", "hood": "Lincoln Park" },
-  { "id": "chicago-cultural-center", "name": "Chicago Cultural Center", "hood": "The Loop" },
-  { "id": "annoyance-theatre", "name": "Annoyance Theatre", "hood": "Lakeview", "aliases": ["the annoyance"] },
-  { "id": "millennium-park", "name": "Millennium Park", "hood": "The Loop", "aliases": ["jay pritzker pavilion stage", "jay pritzker pavilion"] },
-  { "id": "ravinia-festival", "name": "Ravinia Festival", "hood": "Highland Park", "aliases": ["ravinia"] },
-  { "id": "bookclub", "name": "Bookclub", "hood": "Lakeview", "aliases": ["book club"] },
-  { "id": "space", "name": "SPACE", "hood": "Evanston", "aliases": ["space evanston"] },
-  { "id": "garcias-chicago", "name": "Garcia's Chicago", "hood": "West Loop", "aliases": ["garcia s chicago", "garcias"] },
-  { "id": "athenaeum-center", "name": "Athenaeum Center for Thought & Culture", "hood": "Lakeview", "aliases": ["athenaeum center for thought culture", "athenaeum", "athenaeum theatre"] },
-  { "id": "credit-union-1-amphitheatre", "name": "Credit Union 1 Amphitheatre", "hood": "Tinley Park", "aliases": ["hollywood casino amphitheatre"] },
-  { "id": "soldier-field", "name": "Soldier Field", "hood": "Museum Campus" },
-  { "id": "chicago-symphony-orchestra", "name": "Chicago Symphony Center", "hood": "The Loop", "aliases": ["chicago symphony orchestra", "symphony center", "cso"] },
-  { "id": "eataly", "name": "Eataly", "hood": "River North", "aliases": ["eataly chicago"] },
-  { "id": "wrigley-field", "name": "Wrigley Field", "hood": "Wrigleyville" },
-  { "id": "united-center", "name": "United Center", "hood": "Near West Side" },
-  { "id": "tin-roof-chicago", "name": "Tin Roof Chicago", "hood": "Wrigleyville", "aliases": ["tin roof"] },
-  { "id": "emporium-logan-square", "name": "Emporium Arcade Bar", "hood": "Logan Square", "aliases": ["emporium arcade bar logan square", "emporium logan square"] },
-  { "id": "the-comedy-bar", "name": "The Comedy Bar", "hood": "Streeterville", "aliases": ["comedy bar"] },
-  { "id": "allstate-arena", "name": "Allstate Arena", "hood": "Rosemont" },
-  { "id": "outset", "name": "Outset", "hood": "Bucktown" },
-  { "id": "steppenwolf-theatre", "name": "Steppenwolf Theatre", "hood": "Lincoln Park", "aliases": ["steppenwolf"] },
-  { "id": "wintrust-arena", "name": "Wintrust Arena", "hood": "South Loop" },
-  { "id": "chicago-magic-lounge", "name": "Chicago Magic Lounge", "hood": "Andersonville" },
-  { "id": "radius", "name": "Radius", "hood": "South Loop", "aliases": ["radius chicago"] },
-  { "id": "the-auditorium", "name": "The Auditorium", "hood": "The Loop", "aliases": ["auditorium theatre chicago"] },
-  { "id": "the-second-city", "name": "The Second City", "hood": "Old Town", "aliases": ["second city"] },
-  { "id": "late-bar", "name": "Late Bar", "hood": "Avondale" },
-  { "id": "lincoln-park-zoo", "name": "Lincoln Park Zoo", "hood": "Lincoln Park" },
-  { "id": "prysm", "name": "Prysm", "hood": "Goose Island", "aliases": ["prysm nightclub"] },
-  { "id": "bourbon-on-division", "name": "Bourbon on Division", "hood": "Wicker Park" },
-  { "id": "westfield-old-orchard", "name": "Westfield Old Orchard", "hood": "Skokie" },
-  { "id": "the-original-mothers", "name": "The Original Mother's", "hood": "Gold Coast", "aliases": ["the original mother s", "original mothers"] },
-  { "id": "shedd-aquarium", "name": "Shedd Aquarium", "hood": "Museum Campus" },
-  { "id": "hideaway", "name": "Hideaway", "hood": "Gold Coast" },
-  { "id": "adler-planetarium", "name": "Adler Planetarium", "hood": "Museum Campus" },
-  { "id": "the-pony-inn", "name": "The Pony Inn", "hood": "Lakeview", "aliases": ["pony inn"] },
-  { "id": "moms-house", "name": "Mom's House", "hood": "Gold Coast", "aliases": ["mom s house"] },
-  { "id": "five-iron-golf", "name": "Five Iron Golf", "hood": null },
-  { "id": "museum-post-punk", "name": "The Museum of Post-Punk & Industrial Music", "hood": null, "aliases": ["the museum of post punk industrial music"] }
+  {
+    "id": "aliveone",
+    "name": "aliveOne",
+    "hood": null,
+    "address": "2683 N Halsted St.",
+    "website": "https://www.aliveone.com/upcomingevents"
+  },
+  {
+    "id": "andy-s-jazz-club",
+    "name": "Andy's Jazz Club",
+    "hood": null,
+    "address": "11 E. Hubbard St.",
+    "website": "https://andysjazzclub.com/music-calendar/"
+  },
+  {
+    "id": "aragon-ballroom",
+    "name": "Aragon Ballroom",
+    "hood": "Uptown",
+    "address": "1106 W Lawrence",
+    "website": "https://www.livenation.com/venue/KovZpZAFdJnA/byline-bank-aragon-ballroom-events",
+    "aliases": [
+      "aragon"
+    ]
+  },
+  {
+    "id": "arbella",
+    "name": "Arbella",
+    "hood": null,
+    "address": "112 W Grand Ave",
+    "website": "https://arbellachicago.com"
+  },
+  {
+    "id": "auditorium-theatre",
+    "name": "Auditorium Theatre",
+    "hood": "The Loop",
+    "address": "50 E Ida B Wells Dr",
+    "website": "https://mytickets.auditoriumtheatre.org/events?queueittoken=e_onsalegaymenschorus~q_4e2397f7-2f10-404a-9ade-588be3d54e5b~ts_1698460895~ce_true~rt_safetynet~h_13eaa5f36970ec802c42144c8c8b7b05f14d90c36a003f60aea0760298cf2183",
+    "aliases": [
+      "auditorium theater"
+    ]
+  },
+  {
+    "id": "beat-kitchen",
+    "name": "Beat Kitchen",
+    "hood": "Roscoe Village",
+    "address": "2100 W Belmont",
+    "website": "https://www.beatkitchen.com"
+  },
+  {
+    "id": "beauty-bar",
+    "name": "Beauty Bar",
+    "hood": null,
+    "address": "1444 W Chicago Ave",
+    "website": "https://www.beautybarchicago.com"
+  },
+  {
+    "id": "blind-barber",
+    "name": "Blind Barber",
+    "hood": null,
+    "address": "948 W Fulton Market",
+    "website": "https://www.instagram.com/blindbarber_chicago/?hl=en"
+  },
+  {
+    "id": "blue-chicago",
+    "name": "Blue Chicago",
+    "hood": null,
+    "address": "536 N Clark St",
+    "website": "https://www.bluechicago.com"
+  },
+  {
+    "id": "bookclub",
+    "name": "Bookclub",
+    "hood": "Lakeview",
+    "address": "2871 N Lincoln Ave",
+    "website": "https://bookclubchi.com",
+    "aliases": [
+      "book club"
+    ]
+  },
+  {
+    "id": "bottom-lounge",
+    "name": "Bottom Lounge",
+    "hood": "West Loop",
+    "address": "1375 W. Lake ST.",
+    "website": "https://bottomlounge.com"
+  },
+  {
+    "id": "bourbon-on-division",
+    "name": "Bourbon on Division",
+    "hood": "Wicker Park",
+    "address": "1565 N Milwaukee Ave.",
+    "website": "https://bourbonondivision.com"
+  },
+  {
+    "id": "bricktown",
+    "name": "Bricktown",
+    "hood": null,
+    "address": null,
+    "website": "https://www.instagram.com/bricktownchicago/?hl=en"
+  },
+  {
+    "id": "broken-hearts",
+    "name": "Broken Hearts",
+    "hood": null,
+    "address": "1009 West Lake Street",
+    "website": "https://www.brokenheartsbar.com"
+  },
+  {
+    "id": "brudder-s-sports-bar",
+    "name": "Brudder's Sports Bar",
+    "hood": null,
+    "address": "3600 N Pulaski Rd",
+    "website": "https://www.bruddersbargrill.com/",
+    "aliases": [
+      "brudders",
+      "brudder's bar",
+      "brudders bar"
+    ]
+  },
+  {
+    "id": "burlington-bar",
+    "name": "Burlington Bar",
+    "hood": "Logan Square",
+    "address": "3425 W. Fullerton Ave.",
+    "website": "https://www.theburlingtonbar.com",
+    "aliases": [
+      "the burlington",
+      "burlington"
+    ]
+  },
+  {
+    "id": "cafe-mustache",
+    "name": "Cafe Mustache",
+    "hood": "Logan Square",
+    "address": "2313 N Milwaukee Ave.",
+    "website": "http://cafemustache.com/#Calendar"
+  },
+  {
+    "id": "california-clipper",
+    "name": "California Clipper",
+    "hood": "Humboldt Park",
+    "address": "1002 N. California Ave",
+    "website": "https://www.californiaclipper.com/events-2"
+  },
+  {
+    "id": "cara-cara-club",
+    "name": "Cara Cara Club",
+    "hood": null,
+    "address": "2545 N Kedzie Blvd",
+    "website": "https://www.caracarachicago.com"
+  },
+  {
+    "id": "carol-s-pub",
+    "name": "Carol's Pub",
+    "hood": "Uptown",
+    "address": "4659 N Clark St.",
+    "website": "https://www.carolspub.com/music.html",
+    "aliases": [
+      "carols"
+    ]
+  },
+  {
+    "id": "cary-s-lounge",
+    "name": "Cary's Lounge",
+    "hood": null,
+    "address": "2251 W Devon Ave",
+    "website": "https://caryslounge.com"
+  },
+  {
+    "id": "cermak-hall",
+    "name": "Cermak Hall",
+    "hood": null,
+    "address": "640 W Cermak Rd",
+    "website": "https://www.radius-chicago.com"
+  },
+  {
+    "id": "charleston-bar",
+    "name": "Charleston Bar",
+    "hood": null,
+    "address": "2076 N Hoyne Ave",
+    "website": "https://www.instagram.com/thecharleston/"
+  },
+  {
+    "id": "chicago-theatre",
+    "name": "Chicago Theatre",
+    "hood": "The Loop",
+    "address": "175 N State St.",
+    "website": "https://www.msg.com/calendar?venues=KovZpZA6AJ6A"
+  },
+  {
+    "id": "chop-shop",
+    "name": "Chop Shop",
+    "hood": "Wicker Park",
+    "address": "2033 W North Ave",
+    "website": "https://chopshopchi.com/calendar/"
+  },
+  {
+    "id": "city-winery",
+    "name": "City Winery",
+    "hood": "West Loop",
+    "address": "1200 W Randolph St.",
+    "website": "https://www.citywinery.com/chicago/Online/default.asp?BOparam::WScontent::loadArticle::permalink=chicago-concerts&BOparam::WScontent::loadArticle::context_id=&menu_id=E581C2AF-D548-4D70-A2E3-9A263C7F0CE7"
+  },
+  {
+    "id": "clara",
+    "name": "Clara",
+    "hood": null,
+    "address": "2027 W North Ave",
+    "website": "https://www.clarachicago.com"
+  },
+  {
+    "id": "cobra-lounge",
+    "name": "Cobra Lounge",
+    "hood": "West Town",
+    "address": "235 N Ashland Ave.",
+    "website": "https://cobralounge.com/events/"
+  },
+  {
+    "id": "cole-s-bar",
+    "name": "Cole's Bar",
+    "hood": "Logan Square",
+    "address": "2338 N Milwaukee Ave.",
+    "website": "https://colesbarchicago.com",
+    "aliases": [
+      "coles",
+      "cole's"
+    ]
+  },
+  {
+    "id": "color-club",
+    "name": "Color Club",
+    "hood": null,
+    "address": "4146 N Elston Ave",
+    "website": "https://colorclub.events/events/"
+  },
+  {
+    "id": "concord-music-hall",
+    "name": "Concord Music Hall",
+    "hood": "Logan Square",
+    "address": "2051 N Milwaukee Ave",
+    "website": "https://concordmusichall.com/calendar/"
+  },
+  {
+    "id": "constellation",
+    "name": "Constellation",
+    "hood": "Roscoe Village",
+    "address": "3111 N Western Ave",
+    "website": "https://constellation-chicago.com"
+  },
+  {
+    "id": "copernicus-center",
+    "name": "Copernicus Center",
+    "hood": null,
+    "address": "5216 W. Lawrence Ave.",
+    "website": "https://copernicuscenter.org/upcoming-events/"
+  },
+  {
+    "id": "cubby-bear",
+    "name": "Cubby Bear",
+    "hood": null,
+    "address": "1059 W. Addison St.",
+    "website": "https://www.cubbybear.com/live-music"
+  },
+  {
+    "id": "dorian-s",
+    "name": "Dorian's",
+    "hood": null,
+    "address": "1939 W North Ave.",
+    "website": "https://throughtherecordshop.com/events/"
+  },
+  {
+    "id": "dorothy",
+    "name": "Dorothy",
+    "hood": null,
+    "address": "2500 W Chicago Ave",
+    "website": "https://www.eventbrite.com/o/dorothy-40277753383"
+  },
+  {
+    "id": "easy-does-it",
+    "name": "Easy Does It",
+    "hood": null,
+    "address": "2354 N Milwaukee Ave",
+    "website": "https://www.instagram.com/easydoesitchicago/"
+  },
+  {
+    "id": "elastic-arts",
+    "name": "Elastic Arts",
+    "hood": null,
+    "address": "3429 W. Diversey #208",
+    "website": "https://elasticarts.org/events"
+  },
+  {
+    "id": "empty-bottle",
+    "name": "Empty Bottle",
+    "hood": "Ukrainian Village",
+    "address": "1035 N Western Ave",
+    "website": "https://www.emptybottle.com",
+    "aliases": [
+      "the empty bottle"
+    ]
+  },
+  {
+    "id": "epiphany-center-for-the-arts",
+    "name": "Epiphany Center for the Arts",
+    "hood": null,
+    "address": "201 S Ashland Ave",
+    "website": "https://epiphanychi.com/tickets/"
+  },
+  {
+    "id": "garcia-s",
+    "name": "Garcia's",
+    "hood": null,
+    "address": "1001 W Washington Blvd",
+    "website": "https://garciaschicago.live/"
+  },
+  {
+    "id": "giant-penny-whistle-tavern",
+    "name": "Giant Penny Whistle Tavern",
+    "hood": null,
+    "address": "1854 S Blue Island Ave.",
+    "website": "https://www.giantpennywhistle.com/shows"
+  },
+  {
+    "id": "gman-tavern",
+    "name": "Gman Tavern",
+    "hood": "Lakeview",
+    "address": "3740 N Clark St.",
+    "website": "https://gmantavern.com/",
+    "aliases": [
+      "g-man tavern"
+    ]
+  },
+  {
+    "id": "golden-dagger",
+    "name": "Golden Dagger",
+    "hood": "Lincoln Park",
+    "address": "2447 N. Halsted St.",
+    "website": "https://goldendagger.com"
+  },
+  {
+    "id": "green-mill",
+    "name": "Green Mill",
+    "hood": "Uptown",
+    "address": "4802 N. Broadway Ave.",
+    "website": "https://greenmilljazz.com/calendar/"
+  },
+  {
+    "id": "hideout",
+    "name": "Hideout",
+    "hood": "West Town",
+    "address": "1354 W Wabansia",
+    "website": "https://hideoutchicago.com",
+    "aliases": [
+      "hideout"
+    ]
+  },
+  {
+    "id": "home-away-from-home",
+    "name": "Home Away From Home",
+    "hood": null,
+    "address": "3477 N Clark St",
+    "website": "https://homeawaysportsbar.com"
+  },
+  {
+    "id": "house-of-blues",
+    "name": "House of Blues",
+    "hood": "River North",
+    "address": "329 N Dearborn St.",
+    "website": "https://www.houseofblues.com/chicago/concert-events",
+    "aliases": [
+      "house of blues chicago"
+    ]
+  },
+  {
+    "id": "hungry-brain",
+    "name": "Hungry Brain",
+    "hood": "Roscoe Village",
+    "address": "2319 W. Belmont",
+    "website": "https://hungrybrainchicago.com"
+  },
+  {
+    "id": "jazz-showcase",
+    "name": "Jazz Showcase",
+    "hood": null,
+    "address": "806 S Plymouth Ct",
+    "website": "https://www.jazzshowcase.com"
+  },
+  {
+    "id": "joe-s-on-weed",
+    "name": "Joe's on Weed",
+    "hood": null,
+    "address": "940 W Weed St.",
+    "website": "https://www.joesbar.com/weedst/events.html"
+  },
+  {
+    "id": "judson-moore",
+    "name": "Judson & Moore",
+    "hood": null,
+    "address": "3057 N Rockwell St",
+    "website": "https://judsonandmoore.com/pages/events"
+  },
+  {
+    "id": "kingston-mines",
+    "name": "Kingston Mines",
+    "hood": "Lincoln Park",
+    "address": "2548 North Halsted",
+    "website": "https://www.ticketweb.com/venue/kingston-mines-chicago-blues-center-chicago-il/18842"
+  },
+  {
+    "id": "le-piano",
+    "name": "Le Piano",
+    "hood": null,
+    "address": "6970 N Glenwood Ave",
+    "website": "https://www.lepianochicago.com"
+  },
+  {
+    "id": "lee-s-unleaded-blues",
+    "name": "Lee's Unleaded Blues",
+    "hood": null,
+    "address": "7401 S South Chicago Ave",
+    "website": "https://www.leesunleadedblues.com",
+    "aliases": [
+      "lees unleaded blues",
+      "lee's unleaded blues lounge",
+      "lee's unleaded blues club",
+      "lee's unleaded blues bar"
+    ]
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "hood": null,
+    "address": "1600 W Grand Ave",
+    "website": "https://www.lemonchicago.net"
+  },
+  {
+    "id": "liar-s-club",
+    "name": "Liar's Club",
+    "hood": "West Town",
+    "address": "1665 W Fullerton Ave",
+    "website": "https://www.facebook.com/liarsclubchicago/events/?ref=page_internal",
+    "aliases": [
+      "liars club"
+    ]
+  },
+  {
+    "id": "lincoln-hall",
+    "name": "Lincoln Hall",
+    "hood": "Lincoln Park",
+    "address": "2424 N Lincoln Ave",
+    "website": "https://lh-st.com"
+  },
+  {
+    "id": "livewire-lounge",
+    "name": "LiveWire Lounge",
+    "hood": null,
+    "address": "3394 N Milwaukee Ave",
+    "website": "https://www.facebook.com/LiveWireLoungeChicago/events"
+  },
+  {
+    "id": "los-globos",
+    "name": "Los Globos",
+    "hood": null,
+    "address": "3059 S Central Park Ave",
+    "website": "https://www.instagram.com/losgloboschicago"
+  },
+  {
+    "id": "martyrs",
+    "name": "Martyrs'",
+    "hood": "North Center",
+    "address": "3855 N Lincoln",
+    "website": "http://martyrslive.com",
+    "aliases": [
+      "martyrs"
+    ]
+  },
+  {
+    "id": "masada-nightclub",
+    "name": "Masada Nightclub",
+    "hood": null,
+    "address": "2206 N California Ave",
+    "website": "https://masadachicago.com"
+  },
+  {
+    "id": "metro",
+    "name": "Metro",
+    "hood": "Lakeview",
+    "address": "3730 N Clark St",
+    "website": "https://metrochicago.com",
+    "aliases": [
+      "metro chicago",
+      "metro & smartbar"
+    ]
+  },
+  {
+    "id": "montrose-saloon",
+    "name": "Montrose Saloon",
+    "hood": null,
+    "address": "2933 W Montrose Ave",
+    "website": "https://www.facebook.com/montrosesaloon/events/?ref=page_internal"
+  },
+  {
+    "id": "navy-pier",
+    "name": "Navy Pier",
+    "hood": null,
+    "address": "600 E Grand Ave",
+    "website": "https://navypier.org"
+  },
+  {
+    "id": "never-have-i-ever",
+    "name": "Never Have I Ever",
+    "hood": null,
+    "address": "2247 N Lincoln Ave",
+    "website": "https://neverhaveieverbar.com"
+  },
+  {
+    "id": "old-town-school-of-folk-music",
+    "name": "Old Town School of Folk Music",
+    "hood": "Lincoln Square",
+    "address": "4544 North Lincoln Ave.",
+    "website": "https://www.oldtownschool.org/concerts/",
+    "aliases": [
+      "old town school of folk"
+    ]
+  },
+  {
+    "id": "outset",
+    "name": "Outset",
+    "hood": "Bucktown",
+    "address": "1675 N Elston Ave",
+    "website": "https://outsetlive.com"
+  },
+  {
+    "id": "park-west",
+    "name": "Park West",
+    "hood": "Lincoln Park",
+    "address": "322 W Armitage Ave.",
+    "website": "https://www.jamusa.com/park-west"
+  },
+  {
+    "id": "phyllis-musical-inn",
+    "name": "Phyllis' Musical Inn",
+    "hood": "Wicker Park",
+    "address": "1800 W Division St",
+    "website": "https://www.facebook.com/phyllismusicalinn/events/?ref=page_internal"
+  },
+  {
+    "id": "pilsen-yards",
+    "name": "Pilsen Yards",
+    "hood": null,
+    "address": "1163 West 18th St",
+    "website": "https://www.pilsenyards.com"
+  },
+  {
+    "id": "podlasie-club",
+    "name": "Podlasie Club",
+    "hood": null,
+    "address": "2918 N Central Park Ave",
+    "website": "https://www.podlasiechicago.com"
+  },
+  {
+    "id": "primary",
+    "name": "Primary",
+    "hood": null,
+    "address": "5 W Division St.",
+    "website": "https://primarychi.com/events"
+  },
+  {
+    "id": "prysm",
+    "name": "PRYSM",
+    "hood": "Goose Island",
+    "address": "1543 North Kingsbury St.",
+    "website": "https://www.prysmchicago.com",
+    "aliases": [
+      "prysm nightclub"
+    ]
+  },
+  {
+    "id": "punch-house",
+    "name": "Punch House",
+    "hood": null,
+    "address": "18 S Allport",
+    "website": "https://www.punchhousechicago.com"
+  },
+  {
+    "id": "radius",
+    "name": "Radius",
+    "hood": "South Loop",
+    "address": "640 West Cermak Rd.",
+    "website": "https://www.radius-chicago.com",
+    "aliases": [
+      "radius chicago"
+    ]
+  },
+  {
+    "id": "ramova-theatre",
+    "name": "Ramova Theatre",
+    "hood": "Bridgeport",
+    "address": "3520 S Halsted St",
+    "website": "https://ramovachicago.com",
+    "aliases": [
+      "ramova"
+    ]
+  },
+  {
+    "id": "reed-s-local",
+    "name": "Reed's Local",
+    "hood": null,
+    "address": "3017 W Belmont",
+    "website": "https://reedslocal.com/events/"
+  },
+  {
+    "id": "reggies-music-joint",
+    "name": "Reggies Music Joint",
+    "hood": "South Loop",
+    "address": "2105 S State St.",
+    "website": "https://www.reggieslive.com/",
+    "parent": "reggies"
+  },
+  {
+    "id": "reggies-rock-club",
+    "name": "Reggies Rock Club",
+    "hood": "South Loop",
+    "address": "2105 S State St.",
+    "website": "https://www.reggieslive.com/",
+    "parent": "reggies"
+  },
+  {
+    "id": "riviera-theatre",
+    "name": "Riviera Theatre",
+    "hood": "Uptown",
+    "address": "4746 N. Racine Ave",
+    "website": "https://www.jamusa.com/riviera-theatre/",
+    "aliases": [
+      "the riviera",
+      "riv"
+    ]
+  },
+  {
+    "id": "rosa-s-lounge",
+    "name": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "address": "3420 W Armitage Ave.",
+    "website": "https://rosaslounge.com/calendar",
+    "aliases": [
+      "rosas"
+    ]
+  },
+  {
+    "id": "salt-shed",
+    "name": "Salt Shed",
+    "hood": "Goose Island",
+    "address": "1357 NORTH ELSTON AVE.",
+    "website": "https://www.saltshedchicago.com/home#shows",
+    "aliases": [
+      "the salt shed"
+    ]
+  },
+  {
+    "id": "schubas",
+    "name": "Schubas",
+    "hood": "Lakeview",
+    "address": "3159 N Southport Ave",
+    "website": "https://lh-st.com",
+    "aliases": [
+      "schubas tavern"
+    ]
+  },
+  {
+    "id": "schubas-upstairs",
+    "name": "Schubas Upstairs",
+    "hood": "Lakeview",
+    "address": "3159 N Southport Ave",
+    "website": "https://lh-st.com",
+    "aliases": [
+      "schubas (upstairs)"
+    ],
+    "parent": "schubas"
+  },
+  {
+    "id": "sleeping-village",
+    "name": "Sleeping Village",
+    "hood": "Avondale",
+    "address": "3734 W. Belmont Ave.",
+    "website": "https://sleeping-village.com/"
+  },
+  {
+    "id": "smartbar",
+    "name": "Smartbar",
+    "hood": "Lakeview",
+    "address": "3730 N Clark St",
+    "website": "https://smartbarchicago.com",
+    "aliases": [
+      "smart bar"
+    ]
+  },
+  {
+    "id": "smoke-mirrors",
+    "name": "Smoke & Mirrors",
+    "hood": null,
+    "address": "2045 N Milwaukee Ave",
+    "website": "https://www.instagram.com/smokeandmirrorschicago/?hl=en"
+  },
+  {
+    "id": "sound-bar",
+    "name": "Sound-Bar",
+    "hood": null,
+    "address": "226 W Ontario",
+    "website": "https://sound-bar.com"
+  },
+  {
+    "id": "spybar",
+    "name": "Spybar",
+    "hood": null,
+    "address": "646 North Franklin St",
+    "website": "https://www.spybarchicago.com"
+  },
+  {
+    "id": "subterranean",
+    "name": "Subterranean",
+    "hood": "Wicker Park",
+    "address": "2011 W. NORTH AVE.",
+    "website": "https://www.subt.net",
+    "aliases": [
+      "subt"
+    ]
+  },
+  {
+    "id": "subterranean-downstairs",
+    "name": "Subterranean Downstairs",
+    "hood": "Wicker Park",
+    "address": "2011 W. NORTH AVE.",
+    "website": "https://www.subt.net",
+    "parent": "subterranean"
+  },
+  {
+    "id": "tack-room",
+    "name": "Tack Room",
+    "hood": null,
+    "address": "1227 W. 18th Street",
+    "website": "https://www.tackroomchicago.com/happenings"
+  },
+  {
+    "id": "tao",
+    "name": "TAO",
+    "hood": null,
+    "address": "632 N Dearborn St",
+    "website": "https://taogroup.com/venues/tao-asian-bistro-chicago/"
+  },
+  {
+    "id": "thalia-hall",
+    "name": "Thalia Hall",
+    "hood": "Pilsen",
+    "address": "18 S Allport",
+    "website": "https://thaliahallchicago.com"
+  },
+  {
+    "id": "the-atlantic",
+    "name": "The Atlantic",
+    "hood": null,
+    "address": "5062 N Lincoln Ave",
+    "website": "https://theatlanticbarandgrill.com",
+    "aliases": [
+      "atlantic",
+      "the atlantic bar",
+      "atlantic bar",
+      "atlantic bar and grill"
+    ]
+  },
+  {
+    "id": "the-blkroom",
+    "name": "The BlkRoom",
+    "hood": null,
+    "address": "4015 W Carroll Ave Unit 204",
+    "website": "https://www.theblkroom.org"
+  },
+  {
+    "id": "the-checkout",
+    "name": "The CheckOut",
+    "hood": null,
+    "address": "4116 N Clark St",
+    "website": "https://thecheckout.org"
+  },
+  {
+    "id": "the-owl",
+    "name": "The Owl",
+    "hood": null,
+    "address": "2521 N Milwaukee Ave",
+    "website": "https://www.owlbarchicago.com/menus"
+  },
+  {
+    "id": "the-tonk",
+    "name": "The Tonk",
+    "hood": null,
+    "address": "1800 S Racine Ave",
+    "website": "https://thetonkchicago.com"
+  },
+  {
+    "id": "the-vic",
+    "name": "The Vic",
+    "hood": "Lakeview",
+    "address": "3145 N Sheffield Ave.",
+    "website": "https://www.jamusa.com/venues/the-vic",
+    "aliases": [
+      "the vic theatre",
+      "vic theatre"
+    ]
+  },
+  {
+    "id": "the-whistler",
+    "name": "The Whistler",
+    "hood": "Logan Square",
+    "address": "2421 N Milwaukee Ave",
+    "website": "https://whistlerchicago.com"
+  },
+  {
+    "id": "three-top-lounge",
+    "name": "Three Top Lounge",
+    "hood": null,
+    "address": "1357 N Elston Ave",
+    "website": "https://www.threetoploungechicago.com"
+  },
+  {
+    "id": "trace",
+    "name": "Trace",
+    "hood": null,
+    "address": "3714 N Clark St",
+    "website": "https://tracechicago.com"
+  },
+  {
+    "id": "uncommon-ground",
+    "name": "Uncommon Ground",
+    "hood": null,
+    "address": "3800 N Clark St.",
+    "website": "https://uncommonground.simpletix.com"
+  },
+  {
+    "id": "underground-lounge",
+    "name": "Underground Lounge",
+    "hood": null,
+    "address": "952 W Newport Ave",
+    "website": "https://www.facebook.com/ULoungeChicago?fref=ts"
+  },
+  {
+    "id": "united-center",
+    "name": "United Center",
+    "hood": "Near West Side",
+    "address": "1901 W Madison St.",
+    "website": "https://www.unitedcenter.com/events/month/"
+  },
+  {
+    "id": "wax",
+    "name": "Wax",
+    "hood": null,
+    "address": "1549 W Chicago Ave",
+    "website": "https://www.waxvinylbar.com"
+  },
+  {
+    "id": "wild-hare",
+    "name": "Wild Hare",
+    "hood": null,
+    "address": "954 W Fulton St",
+    "website": "https://www.wildharemusic.com"
+  },
+  {
+    "id": "winter-s-jazz-club",
+    "name": "Winter's Jazz Club",
+    "hood": null,
+    "address": "465 N McClurg Ct",
+    "website": "https://www.wintersjazzclub.com"
+  },
+  {
+    "id": "buddy-guy-s-legends",
+    "name": "Buddy Guy's Legends",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "old-town-school-of-folk",
+    "name": "Old Town School of Folk",
+    "hood": "Lincoln Square",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "old town school of folk"
+    ]
+  },
+  {
+    "id": "lee-s-unleaded-blues-lounge",
+    "name": "Lee's Unleaded Blues Lounge",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "lees unleaded blues",
+      "lee's unleaded blues lounge",
+      "lee's unleaded blues club",
+      "lee's unleaded blues bar"
+    ]
+  },
+  {
+    "id": "the-hideout",
+    "name": "The Hideout",
+    "hood": "West Town",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "hideout"
+    ]
+  },
+  {
+    "id": "cole-s-bar-2",
+    "name": "Cole’s Bar",
+    "hood": "Logan Square",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "coles",
+      "cole's"
+    ]
+  },
+  {
+    "id": "grapes-grains",
+    "name": "Grapes & Grains",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "lazy-bird",
+    "name": "Lazy Bird",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "podlaise-club",
+    "name": "Podlaise Club",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "309-n-morgan-st",
+    "name": "309 N Morgan St",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "athenaeum-center",
+    "name": "Athenaeum Center",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "bassline",
+    "name": "Bassline",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "ramova-loft",
+    "name": "Ramova Loft",
+    "hood": "Bridgeport",
+    "address": null,
+    "website": null,
+    "parent": "ramova-theatre"
+  },
+  {
+    "id": "swig",
+    "name": "Swig",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-mine",
+    "name": "The Mine",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "reed-s-local-2",
+    "name": "Reed’s Local",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "brudders-bar",
+    "name": "Brudders' Bar",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "brudders",
+      "brudder's bar",
+      "brudders bar"
+    ]
+  },
+  {
+    "id": "giant-penny-whistle",
+    "name": "Giant Penny Whistle",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "joe-s-on-weed-2",
+    "name": "Joe's On Weed",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "o-s-tap",
+    "name": "O's Tap",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "sportsman-s-club",
+    "name": "Sportsman's Club",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "avondale-music-hall",
+    "name": "Avondale Music Hall",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-land-school",
+    "name": "The Land School",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "liar-s-club-2",
+    "name": "Liar’s Club",
+    "hood": "West Town",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "liars club"
+    ]
+  },
+  {
+    "id": "drip-collective",
+    "name": "Drip Collective",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "simon-s-tavern",
+    "name": "Simon's Tavern",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "jarvis-square-tavern",
+    "name": "Jarvis Square Tavern",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-sovereign",
+    "name": "The Sovereign",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "local-soul",
+    "name": "Local Soul",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "alhambra-palace",
+    "name": "Alhambra Palace",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "bond-chapel",
+    "name": "Bond Chapel",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "hoste",
+    "name": "Hoste",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "lee-s-unleaded-blues-club",
+    "name": "Lee's Unleaded Blues Club",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "lees unleaded blues",
+      "lee's unleaded blues lounge",
+      "lee's unleaded blues club",
+      "lee's unleaded blues bar"
+    ]
+  },
+  {
+    "id": "hvac-pub",
+    "name": "HVAC Pub",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "la-victoria-barra-cocina",
+    "name": "La Victoria Barra + Cocina",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "wax-vinyl-bar",
+    "name": "Wax Vinyl Bar",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "cafe-modulaire",
+    "name": "Cafe Modulaire",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "house-of-blues-backporch-stage",
+    "name": "House of Blues Backporch Stage",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "kimbark-fourth-state",
+    "name": "Kimbark Fourth State",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "live-wire-lounge",
+    "name": "Live Wire Lounge",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "beat-kitchen-upstairs",
+    "name": "Beat Kitchen Upstairs",
+    "hood": "Roscoe Village",
+    "address": null,
+    "website": null,
+    "parent": "beat-kitchen"
+  },
+  {
+    "id": "the-charleston",
+    "name": "The Charleston",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "festival-hall",
+    "name": "Festival Hall",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-levee",
+    "name": "The Levee",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "united-church-of-rogers-park",
+    "name": "United Church Of Rogers Park",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "after-chicago",
+    "name": "After Chicago",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "epiphany-center-of-the-arts",
+    "name": "Epiphany Center of the Arts",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "wintrust-arena",
+    "name": "Wintrust Arena",
+    "hood": "South Loop",
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "309-n-morgan-st-2",
+    "name": "309 N Morgan St.",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "bourbon-on-division-2",
+    "name": "Bourbon On Division",
+    "hood": "Wicker Park",
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "schubas-upstairs-2",
+    "name": "Schubas (Upstairs)",
+    "hood": "Lakeview",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "schubas (upstairs)"
+    ],
+    "parent": "schubas"
+  },
+  {
+    "id": "symphony-center",
+    "name": "Symphony Center",
+    "hood": "The Loop",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "chicago symphony orchestra",
+      "symphony center",
+      "cso"
+    ]
+  },
+  {
+    "id": "credit-union-1-arena",
+    "name": "Credit Union 1 Arena",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "west-town-bikes",
+    "name": "West Town Bikes",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "broken-shaker",
+    "name": "Broken Shaker",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-mine-chicago",
+    "name": "The Mine Chicago",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "auditorium-theater",
+    "name": "Auditorium Theater",
+    "hood": "The Loop",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "auditorium theater"
+    ]
+  },
+  {
+    "id": "grill-on-21",
+    "name": "Grill on 21",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "union-league-club-of-chicago",
+    "name": "Union League Club of Chicago",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "952-w-fulton-st",
+    "name": "952 W Fulton St",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-atlantic-bar",
+    "name": "The Atlantic Bar",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "atlantic",
+      "the atlantic bar",
+      "atlantic bar",
+      "atlantic bar and grill"
+    ]
+  },
+  {
+    "id": "icon-bar-and-lounge",
+    "name": "Icon Bar and Lounge",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "spy-bar",
+    "name": "Spy Bar",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-bassment",
+    "name": "The Bassment",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "ez-inn",
+    "name": "EZ Inn",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "nine-bar",
+    "name": "Nine Bar | 九吧",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "george-street-pub",
+    "name": "George Street Pub",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-native",
+    "name": "The Native",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "atlantic-bar",
+    "name": "Atlantic Bar",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "atlantic",
+      "the atlantic bar",
+      "atlantic bar",
+      "atlantic bar and grill"
+    ]
+  },
+  {
+    "id": "sweethearts-bar",
+    "name": "Sweethearts Bar",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "aon-grand-ballroom",
+    "name": "Aon Grand Ballroom",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "bricktown-records",
+    "name": "Bricktown Records",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "logan-center",
+    "name": "Logan Center",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "experimental-sound-studio",
+    "name": "Experimental Sound Studio",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "fulton-street-collective",
+    "name": "Fulton Street Collective",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "gallery-cabaret",
+    "name": "Gallery Cabaret",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "atlantic-bar-and-grill",
+    "name": "Atlantic Bar and Grill",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "atlantic",
+      "the atlantic bar",
+      "atlantic bar",
+      "atlantic bar and grill"
+    ]
+  },
+  {
+    "id": "bassment",
+    "name": "Bassment",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "brudders",
+    "name": "Brudders'",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "brudders",
+      "brudder's bar",
+      "brudders bar"
+    ]
+  },
+  {
+    "id": "lee-s-unleaded-blues-bar",
+    "name": "Lee's Unleaded Blues Bar",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "lees unleaded blues",
+      "lee's unleaded blues lounge",
+      "lee's unleaded blues club",
+      "lee's unleaded blues bar"
+    ]
+  },
+  {
+    "id": "monday-blues-lounge",
+    "name": "Monday Blues Lounge",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "nine-bar-2",
+    "name": "Nine Bar",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "cobb-hall",
+    "name": "Cobb Hall",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "metro-smartbar",
+    "name": "Metro & Smartbar",
+    "hood": "Lakeview",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "metro chicago",
+      "metro & smartbar"
+    ]
+  },
+  {
+    "id": "illuminated-brewery",
+    "name": "Illuminated Brewery",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "necessary-sufficient-coffee",
+    "name": "Necessary & Sufficient Coffee",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "bernice-s-tavern",
+    "name": "Bernice’s Tavern",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "after",
+    "name": "After",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "city-hall",
+    "name": "City Hall",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "sound-bar-2",
+    "name": "Sound-bar",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "weeds-tavern",
+    "name": "Weeds Tavern",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "studebaker-theater",
+    "name": "Studebaker Theater",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "expat",
+    "name": "Expat",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "huntington-bank-pavilion",
+    "name": "Huntington Bank Pavilion",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "millennium-park",
+    "name": "Millennium Park",
+    "hood": "The Loop",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "jay pritzker pavilion stage",
+      "jay pritzker pavilion"
+    ]
+  },
+  {
+    "id": "wave-wall-stage",
+    "name": "Wave Wall Stage",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "868-n-franklin-street",
+    "name": "868 N. Franklin Street",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "atlantic",
+    "name": "Atlantic",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "atlantic",
+      "the atlantic bar",
+      "atlantic bar",
+      "atlantic bar and grill"
+    ]
+  },
+  {
+    "id": "navy-pier-beer-garden",
+    "name": "Navy Pier Beer Garden",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "tackroom",
+    "name": "Tackroom",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "2153-w-irving-park-rd",
+    "name": "2153 W Irving Park Rd",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "brudder-s-bar",
+    "name": "Brudder's Bar",
+    "hood": null,
+    "address": null,
+    "website": null,
+    "aliases": [
+      "brudders",
+      "brudder's bar",
+      "brudders bar"
+    ]
+  },
+  {
+    "id": "la-nightclub",
+    "name": "ÉLA Nightclub",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "opus",
+    "name": "Opus",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "soldier-field",
+    "name": "Soldier Field",
+    "hood": "Museum Campus",
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-store",
+    "name": "The Store",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-checkout-2",
+    "name": "The Checkout",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-rhapsody-theater",
+    "name": "The Rhapsody Theater",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "wrigley-field",
+    "name": "Wrigley Field",
+    "hood": "Wrigleyville",
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "berwyn-stage",
+    "name": "Berwyn Stage",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "outset-patio",
+    "name": "Outset Patio",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "renaissance-society",
+    "name": "Renaissance Society",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "stardust-lounge",
+    "name": "Stardust Lounge",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "polk-bros-park",
+    "name": "Polk Bros Park",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "j-parker-rooftop",
+    "name": "J Parker Rooftop",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "smart-bar",
+    "name": "Smart Bar",
+    "hood": "Lakeview",
+    "address": null,
+    "website": null,
+    "aliases": [
+      "smart bar"
+    ]
+  },
+  {
+    "id": "goldstar-bar",
+    "name": "Goldstar Bar",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "recess",
+    "name": "Recess",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "4200-w-diversey",
+    "name": "4200 W Diversey",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "casa-cafe",
+    "name": "Casa Cafe",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "skylark",
+    "name": "Skylark",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "the-renaissance-society",
+    "name": "The Renaissance Society",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "richard-j-daley-bridgeport-library",
+    "name": "Richard J. Daley-Bridgeport Library",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "local-option",
+    "name": "Local Option",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "parallel-play",
+    "name": "Parallel Play",
+    "hood": null,
+    "address": null,
+    "website": null
+  },
+  {
+    "id": "blkroom",
+    "name": "BlkRoom",
+    "hood": null,
+    "address": null,
+    "website": null
+  }
 ]

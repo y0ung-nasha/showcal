@@ -95,16 +95,23 @@ export function mergeGroup(records, venueEntry) {
 }
 
 // ---------------- core normalize ----------------
+// The registry is authoritative: any show whose venue does NOT resolve to a
+// canonical entry is dropped. This is a hard filter — sources that surface
+// shows at off-list venues are ignored per the master-list policy.
 export function normalize(rawShows, registryEntries) {
   const index = buildRegistryIndex(registryEntries);
   const groups = new Map();
-  const unresolved = new Map(); // rawVenue -> count
+  const unresolved = new Map(); // rawVenue -> count (kept for the report only)
+  let droppedCount = 0;
 
   for (const s of rawShows) {
     const entry = resolveVenue(s.venue, index);
-    if (!entry) unresolved.set(s.venue, (unresolved.get(s.venue) || 0) + 1);
-    const vid = entry?.id || `raw:${normName(s.venue)}`;
-    const key = `${vid}|${s.date}|${normName(headlinerName(s))}`;
+    if (!entry) {
+      unresolved.set(s.venue, (unresolved.get(s.venue) || 0) + 1);
+      droppedCount++;
+      continue; // drop shows at off-list venues
+    }
+    const key = `${entry.id}|${s.date}|${normName(headlinerName(s))}`;
     if (!groups.has(key)) groups.set(key, { entry, records: [] });
     groups.get(key).records.push(s);
   }
@@ -117,7 +124,8 @@ export function normalize(rawShows, registryEntries) {
     stats: {
       rawCount: rawShows.length,
       mergedCount: shows.length,
-      duplicatesCollapsed: rawShows.length - shows.length,
+      droppedOffList: droppedCount,
+      duplicatesCollapsed: rawShows.length - droppedCount - shows.length,
       hoodMissing: shows.filter((s) => !s.hood).length,
       unresolvedVenues: [...unresolved.entries()].sort((a, b) => b[1] - a[1]),
     },
@@ -156,9 +164,9 @@ async function main() {
   await writeFile(args.out, JSON.stringify(shows, null, 2));
 
   console.error(`\n✓ ${stats.mergedCount} shows → ${args.out}`);
-  console.error(`  raw ${stats.rawCount} · duplicates collapsed ${stats.duplicatesCollapsed} · hood missing ${stats.hoodMissing}`);
+  console.error(`  raw ${stats.rawCount} · dropped off-list ${stats.droppedOffList} · duplicates collapsed ${stats.duplicatesCollapsed} · hood missing ${stats.hoodMissing}`);
   if (stats.unresolvedVenues.length) {
-    console.error(`\n  Unresolved venues (add these to ${args.registry}):`);
+    console.error(`\n  Off-list venues dropped (not in ${args.registry}):`);
     for (const [name, n] of stats.unresolvedVenues.slice(0, 40)) console.error(`    ${n.toString().padStart(3)}  ${name}`);
     if (stats.unresolvedVenues.length > 40) console.error(`    … +${stats.unresolvedVenues.length - 40} more`);
   }
