@@ -97,21 +97,29 @@ const CSS = `
   border-right:3px solid var(--ink);
 }
 .rail-nav.next{ border-right:none; border-left:3px solid var(--ink); }
-.rail-nav:hover{ background:var(--tomato); color:var(--paper); }
+.rail-nav:hover:not(:disabled){ background:var(--tomato); color:var(--paper); }
+.rail-nav:disabled{ opacity:.3; cursor:not-allowed; color:var(--ink-soft); }
 .rail{
-  display:flex; overflow-x:auto; flex:1;
-  scrollbar-width:thin;
+  display:flex; overflow:hidden; flex:1;
+  position:relative;
 }
+.rail-track{ display:flex; flex:1; will-change:transform; }
+.rail-track.sliding-next{ animation: railSlideNext 320ms cubic-bezier(0.4,0,0.2,1) forwards; }
+.rail-track.sliding-prev{ animation: railSlidePrev 320ms cubic-bezier(0.4,0,0.2,1) forwards; }
+@keyframes railSlideNext{ from{ transform:translateX(0); } to{ transform:translateX(-100%); } }
+@keyframes railSlidePrev{ from{ transform:translateX(-100%); } to{ transform:translateX(0); } }
+.rail-week{ display:flex; flex:0 0 100%; width:100%; }
 .rail::-webkit-scrollbar{ height:6px; }
 .rail::-webkit-scrollbar-thumb{ background:var(--ink); }
 .stub{
-  flex:0 0 auto; width:74px;
+  flex:1 1 0; min-width:74px;
   display:flex; flex-direction:column; align-items:center;
   padding:8px 6px 7px; cursor:pointer;
   background:var(--paper); color:var(--ink);
   border-right:2px solid var(--ink);
   transition:background .08s linear,color .08s linear;
 }
+.stub:last-child{ border-right:none; }
 .stub:hover{ background:var(--paper-2); }
 .stub .dow{ font-size:10px; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-soft); }
 .stub .dnum{ font-family:var(--font-display); font-size:22px; line-height:1; margin:2px 0 5px; }
@@ -655,23 +663,49 @@ function App() {
   }, []);
 
   const todayIso = isoOf(new Date());
-  // contiguous day rail spanning the data's date range (capped), with per-day counts
-  const days = useMemo(() => {
+  // The date rail is a 7-day sliding window. weekOffset=0 = today→today+6.
+  // During a transition, sliding = { target, dir } and we render TWO weeks
+  // side by side inside .rail-track so both slide together.
+  const [weekOffset, setWeekOffset] = useState(0);
+  const [sliding, setSliding] = useState(null); // { target: int, dir: "next"|"prev" } | null
+
+  // Helper: build a 7-day array for any offset.
+  const buildWeek = (offset) => {
     const counts = {};
     for (const s of shows) if (s.date) counts[s.date] = (counts[s.date] || 0) + 1;
-    const dates = Object.keys(counts).sort();
-    if (!dates.length) return [];
-    const start = parseDate(dates[0]), end = parseDate(dates[dates.length - 1]);
-    const out = []; const cur = new Date(start);
-    for (let g = 0; cur <= end && g < 120; g++) {
+    const out = [];
+    const cur = new Date(); cur.setHours(0, 0, 0, 0);
+    cur.setDate(cur.getDate() + offset * 7);
+    for (let i = 0; i < 7; i++) {
       const iso = isoOf(cur);
       out.push({ iso, date: new Date(cur), count: counts[iso] || 0 });
       cur.setDate(cur.getDate() + 1);
     }
     return out;
-  }, [shows]);
+  };
 
-  const [dayIso, setDayIso] = useState(() => firstDateOf(SAMPLE_SHOWS));
+  const days = useMemo(() => buildWeek(weekOffset), [shows, weekOffset]);
+  const targetDays = useMemo(() => sliding ? buildWeek(sliding.target) : null, [shows, sliding]);
+
+  const [dayIso, setDayIso] = useState(() => isoOf(new Date()));
+
+  function shiftWeek(dir) {
+    // dir: +1 = next, -1 = prev. Ignore mid-transition or invalid (past today).
+    if (sliding) return;
+    if (dir < 0 && weekOffset === 0) return;
+    const target = weekOffset + dir;
+    setSliding({ target, dir: dir > 0 ? "next" : "prev" });
+    // Update selection immediately so the "SHOWS ON" slab syncs with the new week.
+    const cur = new Date(); cur.setHours(0, 0, 0, 0);
+    cur.setDate(cur.getDate() + target * 7);
+    setDayIso(isoOf(cur));
+  }
+
+  function onSlideEnd() {
+    if (!sliding) return;
+    setWeekOffset(sliding.target);
+    setSliding(null);
+  }
   const [selId, setSelId] = useState(null);
   const [selHoods, setSelHoods] = useState([]);
   const [selGenres, setSelGenres] = useState([]);
@@ -781,25 +815,53 @@ function App() {
 
       {/* DATE RAIL */}
       <div className="rail-wrap">
-        <button className="rail-nav" onClick={() => scrollRail(-1)} aria-label="Earlier days">‹</button>
+        <button
+          className="rail-nav"
+          onClick={() => shiftWeek(-1)}
+          disabled={weekOffset === 0 || sliding !== null}
+          aria-label="Previous week"
+        >‹</button>
         <div className="rail" ref={railRef}>
-          {days.map((d) => {
-            const active = d.iso === dayIso;
-            return (
-              <button
-                key={d.iso}
-                className={"stub" + (active ? " active" : "")}
-                onClick={() => setDayIso(d.iso)}
-              >
-                <span className="dow">{DOW[d.date.getDay()]}</span>
-                <span className="dnum">{d.date.getDate()}</span>
-                <span className="perf" />
-                <span className={"cnt" + (d.count === 0 ? " zero" : "")}>{d.count}</span>
-              </button>
+          {(() => {
+            // Which week goes on the left vs right of the track during a transition:
+            //  - next:  [current, target]   (track slides from 0 → -100%)
+            //  - prev:  [target, current]   (track slides from -100% → 0)
+            const renderWeek = (weekDays) => (
+              <div className="rail-week">
+                {weekDays.map((d) => {
+                  const active = d.iso === dayIso;
+                  return (
+                    <button
+                      key={d.iso}
+                      className={"stub" + (active ? " active" : "")}
+                      onClick={() => setDayIso(d.iso)}
+                    >
+                      <span className="dow">{DOW[d.date.getDay()]}</span>
+                      <span className="dnum">{d.date.getDate()}</span>
+                      <span className="perf" />
+                      <span className={"cnt" + (d.count === 0 ? " zero" : "")}>{d.count}</span>
+                    </button>
+                  );
+                })}
+              </div>
             );
-          })}
+
+            const trackCls = "rail-track" + (sliding ? " sliding-" + sliding.dir : "");
+            return (
+              <div className={trackCls} onAnimationEnd={onSlideEnd}>
+                {sliding && sliding.dir === "prev" && renderWeek(targetDays)}
+                {renderWeek(days)}
+                {sliding && sliding.dir === "next" && renderWeek(targetDays)}
+              </div>
+            );
+          })()}
         </div>
-        <button className="rail-nav next" onClick={() => scrollRail(1)} aria-label="Later days">›</button>
+        <button
+          className="rail-nav next"
+          onClick={() => shiftWeek(1)}
+          disabled={sliding !== null}
+          aria-label="Next week"
+        >›</button>
       </div>
 
       {/* PANES */}
