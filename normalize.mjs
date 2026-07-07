@@ -94,24 +94,60 @@ export function mergeGroup(records, venueEntry) {
   };
 }
 
+// ---------------- event-name filter ----------------
+// event-filters.json holds regex patterns applied to a show's headliner name.
+// Any match drops the show. The file is optional — if missing/malformed, the
+// filter is a no-op and normalize logs a warning.
+export function compileEventFilters(config) {
+  if (!config || !Array.isArray(config.patterns)) return [];
+  const flags = typeof config.flags === "string" ? config.flags : "i";
+  const out = [];
+  for (const p of config.patterns) {
+    if (!p || typeof p.match !== "string") continue;
+    try { out.push({ re: new RegExp(p.match, flags), reason: p.reason || p.match }); }
+    catch (e) { console.error(`  bad pattern: ${p.match} — ${e.message}`); }
+  }
+  return out;
+}
+
+export function eventFilterMatch(headlinerName, filters) {
+  const name = String(headlinerName || "");
+  for (const f of filters) if (f.re.test(name)) return f.reason;
+  return null;
+}
+
 // ---------------- core normalize ----------------
 // The registry is authoritative: any show whose venue does NOT resolve to a
 // canonical entry is dropped. This is a hard filter — sources that surface
 // shows at off-list venues are ignored per the master-list policy.
-export function normalize(rawShows, registryEntries) {
+//
+// A second hard filter drops shows whose headliner name matches any pattern in
+// event-filters.json (generic events like trivia, karaoke, film series, etc.)
+export function normalize(rawShows, registryEntries, eventFilters = []) {
   const index = buildRegistryIndex(registryEntries);
   const groups = new Map();
   const unresolved = new Map(); // rawVenue -> count (kept for the report only)
-  let droppedCount = 0;
+  const filterHits = new Map(); // reason -> count
+  let droppedOffList = 0;
+  let droppedByFilter = 0;
 
   for (const s of rawShows) {
+    // Filter 1: registry membership
     const entry = resolveVenue(s.venue, index);
     if (!entry) {
       unresolved.set(s.venue, (unresolved.get(s.venue) || 0) + 1);
-      droppedCount++;
-      continue; // drop shows at off-list venues
+      droppedOffList++;
+      continue;
     }
-    const key = `${entry.id}|${s.date}|${normName(headlinerName(s))}`;
+    // Filter 2: event-name blacklist
+    const hName = headlinerName(s);
+    const hit = eventFilterMatch(hName, eventFilters);
+    if (hit) {
+      filterHits.set(hit, (filterHits.get(hit) || 0) + 1);
+      droppedByFilter++;
+      continue;
+    }
+    const key = `${entry.id}|${s.date}|${normName(hName)}`;
     if (!groups.has(key)) groups.set(key, { entry, records: [] });
     groups.get(key).records.push(s);
   }
@@ -124,8 +160,10 @@ export function normalize(rawShows, registryEntries) {
     stats: {
       rawCount: rawShows.length,
       mergedCount: shows.length,
-      droppedOffList: droppedCount,
-      duplicatesCollapsed: rawShows.length - droppedCount - shows.length,
+      droppedOffList,
+      droppedByFilter,
+      filterHits: [...filterHits.entries()].sort((a, b) => b[1] - a[1]),
+      duplicatesCollapsed: rawShows.length - droppedOffList - droppedByFilter - shows.length,
       hoodMissing: shows.filter((s) => !s.hood).length,
       unresolvedVenues: [...unresolved.entries()].sort((a, b) => b[1] - a[1]),
     },
@@ -134,11 +172,12 @@ export function normalize(rawShows, registryEntries) {
 
 // ---------------- CLI ----------------
 function parseArgs(argv) {
-  const a = { in: [], registry: "./venue-registry.json", out: "./data/shows.json" };
+  const a = { in: [], registry: "./venue-registry.json", filters: "./event-filters.json", out: "./data/shows.json" };
   for (let i = 2; i < argv.length; i++) {
     const k = argv[i], v = argv[i + 1];
     if (k === "--in") { a.in.push(v); i++; }
     else if (k === "--registry") { a.registry = v; i++; }
+    else if (k === "--filters") { a.filters = v; i++; }
     else if (k === "--out") { a.out = v; i++; }
   }
   return a;
@@ -151,6 +190,17 @@ async function main() {
   const { dirname } = await import("node:path");
 
   const registry = JSON.parse(await readFile(args.registry, "utf8"));
+
+  // Load event-filters.json (optional)
+  let eventFilters = [];
+  try {
+    const cfg = JSON.parse(await readFile(args.filters, "utf8"));
+    eventFilters = compileEventFilters(cfg);
+    console.error(`  event-filters: ${eventFilters.length} patterns from ${args.filters}`);
+  } catch (e) {
+    console.error(`  event-filters: none (${args.filters} — ${e.message})`);
+  }
+
   const raw = [];
   for (const f of args.in) {
     const arr = JSON.parse(await readFile(f, "utf8"));
@@ -158,13 +208,17 @@ async function main() {
     console.error(`  loaded ${arr.length} from ${f}`);
   }
 
-  const { shows, stats } = normalize(raw, registry);
+  const { shows, stats } = normalize(raw, registry, eventFilters);
 
   await mkdir(dirname(args.out), { recursive: true });
   await writeFile(args.out, JSON.stringify(shows, null, 2));
 
   console.error(`\n✓ ${stats.mergedCount} shows → ${args.out}`);
-  console.error(`  raw ${stats.rawCount} · dropped off-list ${stats.droppedOffList} · duplicates collapsed ${stats.duplicatesCollapsed} · hood missing ${stats.hoodMissing}`);
+  console.error(`  raw ${stats.rawCount} · dropped off-list ${stats.droppedOffList} · dropped by filter ${stats.droppedByFilter} · duplicates collapsed ${stats.duplicatesCollapsed} · hood missing ${stats.hoodMissing}`);
+  if (stats.filterHits.length) {
+    console.error(`\n  Event-filter hits:`);
+    for (const [reason, n] of stats.filterHits) console.error(`    ${n.toString().padStart(4)}  ${reason}`);
+  }
   if (stats.unresolvedVenues.length) {
     console.error(`\n  Off-list venues dropped (not in ${args.registry}):`);
     for (const [name, n] of stats.unresolvedVenues.slice(0, 40)) console.error(`    ${n.toString().padStart(3)}  ${name}`);

@@ -1,0 +1,23 @@
+{
+  "$description": "Regex patterns matched against a show's headliner name during normalize. Any match drops the show. Patterns are case-insensitive by default (flags: 'i'). Add or remove entries here to change the filter without touching code.",
+  "flags": "i",
+  "patterns": [
+    { "match": "\\btrivia\\b",                                                                             "reason": "Trivia" },
+    { "match": "\\bbingo\\b",                                                                              "reason": "Bingo" },
+    { "match": "\\bkaraoke\\b",                                                                            "reason": "Karaoke" },
+    { "match": "\\bopen\\s+mic\\b",                                                                        "reason": "Open mic" },
+    { "match": "^happy\\s+hour\\b",                                                                        "reason": "Happy hour (unless music act is co-billed at the front)" },
+    { "match": "\\b(film\\s+series|screening|movie\\s+club|movie\\s+monday|film\\s+festival|film\\s+screening|movie\\s+night)\\b", "reason": "Film / screening" },
+    { "match": "^(beats?\\s+n'?\\s*)?brunch\\b|\\bbrunch\\s+(party|set)\\b",                                "reason": "Brunch" },
+    { "match": "\\bcomedy\\b|\\bstand.?up\\b|\\bcomedians?\\b|\\bimprov\\b|\\bsketch\\s+show\\b",           "reason": "Comedy" },
+    { "match": "\\bpoetry\\b|\\bslam\\s+poetry\\b|\\bopen\\s+mic\\s+poetry\\b",                            "reason": "Poetry" },
+    { "match": "\\b(book\\s+reading|reading\\s+series|book\\s+club|book\\s+launch|book\\s+signing)\\b",   "reason": "Book event" },
+    { "match": "\\b(storytelling|storytellers?\\s+series|live\\s+lit)\\b",                                 "reason": "Storytelling" },
+    { "match": "\\bpub\\s+quiz\\b",                                                                        "reason": "Pub quiz" },
+    { "match": "\\byoga\\b",                                                                               "reason": "Yoga" },
+    { "match": "\\bgame\\s+night\\b|\\bboard\\s+game\\b",                                                  "reason": "Game night" },
+    { "match": "\\bpaint\\s+(and|&|n')\\s*sip\\b|\\bcraft\\s+(and|&|n')\\s*chat\\b",                       "reason": "Craft / activity" },
+    { "match": "\\bmarket\\s+(day|night)\\b|\\bfarmers?\\s+market\\b|\\bpop.?up\\s+shop\\b",               "reason": "Market / retail" },
+    { "match": "\\btalk\\s+with\\b|\\bpanel\\s+discussion\\b|\\bfireside\\s+chat\\b|\\bin\\s+conversation\\s+with\\b", "reason": "Talk / panel" }
+  ]
+}

@@ -35,11 +35,18 @@ const decodeEntities = (s) => String(s || "")
 
 // ---- card extraction ----
 // Split the page into one block per Event itemscope. Each card is a balanced
-// <div class="ds-listing event-card ...">…</div>, but doing real depth-counting
-// on regex is fragile — we slice from each card opener to the *next* card opener
-// (or end of file). That's enough for the field-level extraction below.
+// <div class="ds-listing event-card ds-event-category-<cat> ...">…</div>, but
+// doing real depth-counting on regex is fragile — we slice from each card
+// opener to the *next* card opener (or end of file). That's enough for the
+// field-level extraction below.
+//
+// CATEGORY FILTER: Do312 tags each card with a category class. We hard-restrict
+// to `ds-event-category-music` here so film series, community events, comedy,
+// trivia nights etc. don't leak in from music-venue calendars. The name-pattern
+// filter in normalize.mjs is the second line of defense (configurable via
+// event-filters.json).
 function extractEventCards(html) {
-  const opener = /<div[^>]*class="[^"]*ds-listing[^"]*event-card[^"]*"[^>]*itemtype="http:\/\/schema\.org\/Event"[^>]*>/g;
+  const opener = /<div[^>]*class="[^"]*ds-listing[^"]*event-card[^"]*ds-event-category-music[^"]*"[^>]*itemtype="http:\/\/schema\.org\/Event"[^>]*>/g;
   const opens = [];
   let m;
   while ((m = opener.exec(html))) opens.push(m.index);
