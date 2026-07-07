@@ -19,7 +19,7 @@
 import { pathToFileURL } from "node:url";
 
 // venue-site (official) > dice > ticketmaster > do312/songkick/bandsintown (aggregators)
-const SOURCE_PRIORITY = { "venue-site": 4, dice: 3, ticketmaster: 2, do312: 1, songkick: 1, bandsintown: 1 };
+const SOURCE_PRIORITY = { "venue-site": 4, dice: 3, ticketmaster: 2, do312: 1, askapunk: 1, songkick: 1, bandsintown: 1 };
 const prio = (s) => SOURCE_PRIORITY[s] ?? 0;
 
 // ---------------- normalization helpers ----------------

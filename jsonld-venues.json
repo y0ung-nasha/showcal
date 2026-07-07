@@ -1,0 +1,55 @@
+[
+  {
+    "id": "sleeping-village",
+    "name": "Sleeping Village",
+    "hood": "Avondale",
+    "url": "https://sleeping-village.com/",
+    "eventPathIncludes": "/event/"
+  },
+  {
+    "id": "andy-s-jazz-club",
+    "name": "Andy's Jazz Club",
+    "hood": null,
+    "url": "https://andysjazzclub.com/music-calendar/"
+  },
+  {
+    "id": "carol-s-pub",
+    "name": "Carol's Pub",
+    "hood": "Uptown",
+    "url": "https://www.carolspub.com/music.html"
+  },
+  {
+    "id": "cole-s-bar",
+    "name": "Cole's Bar",
+    "hood": "Logan Square",
+    "url": "https://colesbarchicago.com",
+    "eventPathIncludes": "/shows/"
+  },
+  {
+    "id": "winter-s-jazz-club",
+    "name": "Winter's Jazz Club",
+    "hood": null,
+    "url": "https://www.wintersjazzclub.com",
+    "eventPathIncludes": "/events/"
+  },
+  {
+    "id": "elastic-arts",
+    "name": "Elastic Arts",
+    "hood": null,
+    "url": "https://elasticarts.org/events",
+    "eventPathIncludes": "/events/"
+  },
+  {
+    "id": "lee-s-unleaded-blues",
+    "name": "Lee's Unleaded Blues",
+    "hood": null,
+    "url": "https://www.leesunleadedblues.com",
+    "eventPathIncludes": "/event-details/"
+  },
+  {
+    "id": "the-tonk",
+    "name": "The Tonk",
+    "hood": null,
+    "url": "https://thetonkchicago.com/upcoming-events/"
+  }
+]
