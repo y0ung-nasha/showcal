@@ -265,9 +265,12 @@ body{margin:0;}
   background:var(--paper); color:var(--ink); border:2px solid var(--ink);
   padding:6px 10px; box-shadow:3px 3px 0 var(--ink); cursor:pointer;
   transition:transform .07s linear, box-shadow .07s linear, background .07s linear;
+  white-space:nowrap;
 }
 .spot:hover{ background:var(--tomato); color:var(--paper); transform:translate(-1px,-1px); box-shadow:4px 4px 0 var(--ink); }
 .spot:active{ transform:translate(3px,3px); box-shadow:0 0 0 var(--ink); }
+.spot.search{ opacity:.65; }
+.artist-links{ display:flex; flex-direction:column; gap:6px; align-items:flex-end; }
 .v-name{ font-family:var(--font-display); text-transform:uppercase; font-size:18px; letter-spacing:-.01em; margin-bottom:6px; }
 .venue-info p{ font-size:13px; color:var(--ink); }
 .venue-info .addr{ color:var(--ink-soft); letter-spacing:.04em; }
@@ -804,15 +807,22 @@ body{margin:0;}
         : "";
 
       // Lineup: headliners then openers, calendar-style
-      const artistRow = (a) => `
-        <div class="artist">
-          <div>
-            <div class="nm">${esc(a.name)}</div>
-            ${a.genre && a.genre !== "music" ? `<div class="gn">${esc(a.genre)}</div>` : ""}
+      const artistRow = (a) => {
+        const spotifyUrl = a.spotify || `https://open.spotify.com/search/${encodeURIComponent(a.name)}`;
+        const spotifyCls = "spot" + (a.spotify ? "" : " search");
+        return `
+          <div class="artist">
+            <div>
+              <div class="nm">${esc(a.name)}</div>
+              ${a.genre && a.genre !== "music" ? `<div class="gn">${esc(a.genre)}</div>` : ""}
+            </div>
+            <div class="artist-links">
+              <a class="${spotifyCls}" href="${esc(spotifyUrl)}" target="_blank" rel="noopener">SPOTIFY ↗</a>
+              ${a.bandcamp ? `<a class="spot" href="${esc(a.bandcamp)}" target="_blank" rel="noopener">BANDCAMP ↗</a>` : ""}
+            </div>
           </div>
-          <a class="spot" href="https://open.spotify.com/search/${encodeURIComponent(a.name)}" target="_blank" rel="noopener">SPOTIFY</a>
-        </div>
-      `;
+        `;
+      };
       const headGroup = s.headliners?.length
         ? `<div class="lineup-group"><div class="role-label">Headliner${s.headliners.length > 1 ? "s" : ""}</div>${s.headliners.map(artistRow).join("")}</div>`
         : "";

@@ -18,6 +18,10 @@
     { "match": "\\bgame\\s+night\\b|\\bboard\\s+game\\b",                                                  "reason": "Game night" },
     { "match": "\\bpaint\\s+(and|&|n')\\s*sip\\b|\\bcraft\\s+(and|&|n')\\s*chat\\b",                       "reason": "Craft / activity" },
     { "match": "\\bmarket\\s+(day|night)\\b|\\bfarmers?\\s+market\\b|\\bpop.?up\\s+shop\\b",               "reason": "Market / retail" },
-    { "match": "\\btalk\\s+with\\b|\\bpanel\\s+discussion\\b|\\bfireside\\s+chat\\b|\\bin\\s+conversation\\s+with\\b", "reason": "Talk / panel" }
+    { "match": "\\btalk\\s+with\\b|\\bpanel\\s+discussion\\b|\\bfireside\\s+chat\\b|\\bin\\s+conversation\\s+with\\b", "reason": "Talk / panel" },
+    { "match": "^closed\\s+(mondays?|tuesdays?|wednesdays?|thursdays?|fridays?|saturdays?|sundays?)", "reason": "Venue closure notice (Closed Mondays / Tuesdays / etc.)" },
+    { "match": "^(no\\s+shows?|on\\s+hiatus|closed\\s+today|closed\\s+tonight|dark\\s+night)\\b", "reason": "Venue notice (no shows / hiatus)" },
+    { "match": "\\bmatters!$", "reason": "Statement / declaration ending in exclamation" },
+    { "match": "^(please\\s+note|reminder:|announcement)", "reason": "Announcement / notice prefix" }
   ]
 }

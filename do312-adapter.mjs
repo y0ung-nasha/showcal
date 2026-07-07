@@ -133,8 +133,8 @@ export function harvestDo312Page(html, cfg) {
 
 // ---- detail-page enrichment ----
 // Event detail pages carry richer data than the venue listing: precise
-// startDate (with time), Offer.price, and prose age hints ("21+", "All Ages").
-// Doors/Show clocks are also embedded in the description text.
+// startDate (with time), Offer.price, prose age hints ("21+", "All Ages"),
+// and per-artist Person microdata linking to Do312 artist pages.
 export function parseDetail(html) {
   const startDate = (html.match(/itemprop="startDate"[^>]*(?:datetime|content)="([^"]+)"/) || [])[1] || null;
   const priceTitle = (html.match(/itemprop="price"[^>]*title="([^"]+)"/)
@@ -157,6 +157,15 @@ export function parseDetail(html) {
 
   const time = (startDate || "").match(/T(\d{2}:\d{2})/)?.[1] || null;
 
+  // Extract each performer's { name, slug } pair. Slug is the Do312 artist
+  // permalink (used later to hit /artists/<slug>?format=json for spotify/etc.)
+  const performers = [];
+  const performerRe = /itemprop="performer"[\s\S]{0,300}?href="\/artists\/([a-z0-9-]+)"[\s\S]{0,300}?<span itemprop="name">([^<]+)<\/span>/g;
+  let pm;
+  while ((pm = performerRe.exec(html))) {
+    performers.push({ slug: pm[1], name: pm[2].trim() });
+  }
+
   return {
     startDate,
     time,
@@ -164,7 +173,19 @@ export function parseDetail(html) {
     age,
     doors: doorsMatch?.[1] || null,
     showtime: showMatch?.[1] || null,
+    performers,
   };
+}
+
+// Fold detail-page performer slugs into the show's headliner/opener records.
+// We match on normalized name so an artist named "Otherworldly Ambiguity" on
+// the listing lines up with the detail-page Person entry with the same name.
+function normArtist(s) {
+  return String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+function attachSlugs(list, performers) {
+  const byName = new Map(performers.map((p) => [normArtist(p.name), p.slug]));
+  return list.map((a) => ({ ...a, slug: byName.get(normArtist(a.name)) || a.slug || null }));
 }
 
 export async function enrichShow(show) {
@@ -179,6 +200,8 @@ export async function enrichShow(show) {
     age: d.age ?? show.age,
     doors: d.doors,
     showtime: d.showtime,
+    headliners: attachSlugs(show.headliners || [], d.performers),
+    openers: attachSlugs(show.openers || [], d.performers),
   };
 }
 
@@ -188,9 +211,143 @@ async function getHtml(url) {
   return res.text();
 }
 
+async function getJson(url) {
+  const res = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/json" } });
+  if (!res.ok) throw new Error(`${res.status} ${url}`);
+  return res.json();
+}
+
+// ---- artist enrichment ----
+// Do312's artist pages accept ?format=json and return:
+//   { artist: { spotify_id, youtube_id, social: { home, instagram, ... },
+//               description, genre, followers_count, popularity } }
+// spotify_id -> https://open.spotify.com/artist/<id>
+// Bandcamp is stored in social.home.url when the artist's main site IS
+// bandcamp (there's no dedicated bandcamp field).
+export function extractArtistLinks(artistJson) {
+  const a = artistJson?.artist || {};
+  const social = a.social || {};
+  const homeUrl = social.home?.url || null;
+  const spotifyId = a.spotify_id || null;
+  const youtubeId = a.youtube_id || null;
+
+  const bandcamp = homeUrl && /bandcamp\.com/i.test(homeUrl) ? homeUrl : null;
+  const homeSite = homeUrl && !/bandcamp\.com|instagram|facebook|twitter/i.test(homeUrl) ? homeUrl : null;
+
+  return {
+    spotify: spotifyId ? `https://open.spotify.com/artist/${spotifyId}` : null,
+    bandcamp,
+    youtube: youtubeId
+      ? `https://www.youtube.com/channel/${youtubeId}`
+      : (social.youtube?.url || null),
+    instagram: social.instagram?.url || null,
+    website: homeSite,
+    hasSpotify: !!spotifyId,
+    // Signals used by the empty-profile filter (see enrichArtists).
+    empty: !spotifyId && !youtubeId && !a.description && !a.genre && !a.followers_count
+             && Object.keys(social).filter((k) => k !== "home").length === 0,
+  };
+}
+
+// dedupe unique artist slugs across all shows, fetch each one's ?format=json,
+// cache on disk, and attach { spotify, bandcamp, youtube, instagram, website }
+// to every headliner/opener that carries a slug.
+export async function enrichArtists(shows, opts = {}) {
+  const {
+    cachePath = "./data/artist-cache.json",
+    delay = 300,
+    maxAge = 30 * 24 * 60 * 60 * 1000, // 30 days
+    dropEmptyProfiles = false,
+  } = opts;
+
+  const { readFile, writeFile, mkdir } = await import("node:fs/promises");
+  const { dirname } = await import("node:path");
+
+  // Load existing cache
+  let cache = {};
+  try { cache = JSON.parse(await readFile(cachePath, "utf8")); }
+  catch { cache = {}; }
+
+  // Collect unique slugs from all shows
+  const slugs = new Set();
+  for (const s of shows) {
+    for (const a of [...(s.headliners || []), ...(s.openers || [])]) {
+      if (a.slug) slugs.add(a.slug);
+    }
+  }
+  console.error(`\nArtist enrichment: ${slugs.size} unique slugs, ${Object.keys(cache).length} in cache`);
+
+  // Refresh stale/missing cache entries
+  const now = Date.now();
+  const stale = [...slugs].filter((s) => {
+    const c = cache[s];
+    return !c || (now - (c.fetchedAt || 0)) > maxAge;
+  });
+  console.error(`  fetching ${stale.length} artist profiles (delay=${delay}ms)`);
+
+  let ok = 0, fail = 0, withSpotify = 0, empty = 0;
+  for (let i = 0; i < stale.length; i++) {
+    const slug = stale[i];
+    try {
+      const json = await getJson(`https://do312.com/artists/${encodeURIComponent(slug)}?format=json`);
+      const links = extractArtistLinks(json);
+      cache[slug] = { ...links, fetchedAt: now };
+      if (links.hasSpotify) withSpotify++;
+      if (links.empty) empty++;
+      ok++;
+    } catch (e) {
+      cache[slug] = { spotify: null, bandcamp: null, youtube: null, instagram: null, website: null, hasSpotify: false, empty: false, fetchedAt: now, err: String(e.message || e) };
+      fail++;
+    }
+    if ((i + 1) % 50 === 0) {
+      process.stderr.write(`  ${i + 1}/${stale.length}  ok=${ok} fail=${fail} +spotify=${withSpotify} empty=${empty}\n`);
+    }
+    await sleep(delay);
+  }
+  if (stale.length) console.error(`  done: ok=${ok} fail=${fail} with-spotify=${withSpotify} empty-profiles=${empty}`);
+
+  await mkdir(dirname(cachePath), { recursive: true });
+  await writeFile(cachePath, JSON.stringify(cache, null, 2));
+
+  // Attach links to headliners/openers; optionally drop shows whose headliner
+  // has an empty profile AND social.home matches the venue's site (fake events
+  // like "Closed Mondays and Tuesdays Black Culture Matters!").
+  const attach = (a) => {
+    if (!a.slug) return a;
+    const c = cache[a.slug];
+    if (!c) return a;
+    return { ...a, spotify: c.spotify, bandcamp: c.bandcamp, youtube: c.youtube, instagram: c.instagram, website: c.website };
+  };
+  const out = [];
+  let droppedEmpty = 0;
+  for (const s of shows) {
+    const enriched = {
+      ...s,
+      headliners: (s.headliners || []).map(attach),
+      openers: (s.openers || []).map(attach),
+    };
+    if (dropEmptyProfiles) {
+      const h0 = enriched.headliners[0];
+      const cacheEntry = h0?.slug ? cache[h0.slug] : null;
+      if (cacheEntry?.empty) {
+        droppedEmpty++;
+        continue;
+      }
+    }
+    out.push(enriched);
+  }
+  if (dropEmptyProfiles) console.error(`  dropped ${droppedEmpty} shows with empty-profile headliners`);
+  return out;
+}
+
 // ---- CLI ----
 function parseArgs(argv) {
-  const a = { venues: "./do312-venues.json", out: "./data/do312-shows.json", delay: 700, enrich: false, enrichDelay: 500, enrichMax: 0 };
+  const a = {
+    venues: "./do312-venues.json", out: "./data/do312-shows.json", delay: 700,
+    enrich: false, enrichDelay: 500, enrichMax: 0,
+    artistCache: "./data/artist-cache.json", artistDelay: 300,
+    dropEmpty: false,
+  };
   for (let i = 2; i < argv.length; i++) {
     const k = argv[i], v = argv[i + 1];
     if (k === "--venues") { a.venues = v; i++; }
@@ -199,6 +356,9 @@ function parseArgs(argv) {
     else if (k === "--enrich") { a.enrich = true; }
     else if (k === "--enrich-delay") { a.enrichDelay = parseInt(v, 10); i++; }
     else if (k === "--enrich-max") { a.enrichMax = parseInt(v, 10); i++; }
+    else if (k === "--artist-cache") { a.artistCache = v; i++; }
+    else if (k === "--artist-delay") { a.artistDelay = parseInt(v, 10); i++; }
+    else if (k === "--drop-empty-profiles") { a.dropEmpty = true; }
   }
   return a;
 }
@@ -254,9 +414,24 @@ async function main() {
     console.error(`  done: ok=${ok} fail=${fail} price-filled=${pricedNew} age-filled=${agedNew}`);
   }
 
+  // Artist enrichment: for every show that has any headliner/opener slug (set
+  // by enrichShow), fetch its Do312 artist API record and attach spotify/etc.
+  // Also drops empty-profile shows when --drop-empty-profiles is set.
+  const anySlugs = all.some((s) =>
+    (s.headliners || []).some((a) => a.slug) || (s.openers || []).some((a) => a.slug)
+  );
+  let finalShows = all;
+  if (anySlugs) {
+    finalShows = await enrichArtists(all, {
+      cachePath: args.artistCache,
+      delay: args.artistDelay,
+      dropEmptyProfiles: args.dropEmpty,
+    });
+  }
+
   await mkdir(dirname(args.out), { recursive: true });
-  await writeFile(args.out, JSON.stringify(all, null, 2));
-  console.error(`\n✓ ${all.length} Do312 shows → ${args.out}`);
+  await writeFile(args.out, JSON.stringify(finalShows, null, 2));
+  console.error(`\n✓ ${finalShows.length} Do312 shows → ${args.out}`);
 }
 
 const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;

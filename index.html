@@ -379,9 +379,12 @@ const CSS = `
   background:var(--paper); color:var(--ink); border:2px solid var(--ink);
   padding:6px 10px; box-shadow:3px 3px 0 var(--ink); cursor:pointer;
   transition:transform .07s linear, box-shadow .07s linear, background .07s linear;
+  white-space:nowrap;
 }
 .spot:hover{ background:var(--tomato); color:var(--paper); transform:translate(-1px,-1px); box-shadow:4px 4px 0 var(--ink); }
 .spot:active{ transform:translate(3px,3px); box-shadow:0 0 0 var(--ink); }
+.spot.search{ opacity:.65; }
+.artist-links{ display:flex; flex-direction:column; gap:6px; align-items:flex-end; }
 /* poster (optional, not always available) */
 .d-poster{ background:var(--ink); border-bottom:3px solid var(--ink); }
 .d-poster img{ display:block; width:100%; height:360px; object-fit:contain; background:var(--ink); }
@@ -1025,10 +1028,17 @@ function App() {
                         <div className="nm">{a.name}</div>
                         {a.genre && a.genre !== "music" && <div className="gn">{a.genre}</div>}
                       </div>
-                      <a className="spot" target="_blank" rel="noreferrer"
-                        href={`https://open.spotify.com/search/${encodeURIComponent(a.name)}`}>
-                        SPOTIFY ↗
-                      </a>
+                      <div className="artist-links">
+                        <a className={"spot" + (a.spotify ? "" : " search")} target="_blank" rel="noreferrer"
+                          href={a.spotify || `https://open.spotify.com/search/${encodeURIComponent(a.name)}`}>
+                          SPOTIFY ↗
+                        </a>
+                        {a.bandcamp && (
+                          <a className="spot" target="_blank" rel="noreferrer" href={a.bandcamp}>
+                            BANDCAMP ↗
+                          </a>
+                        )}
+                      </div>
                     </div>
                   ))}
                 </div>
@@ -1041,10 +1051,17 @@ function App() {
                           <div className="nm">{a.name}</div>
                           {a.genre && a.genre !== "music" && <div className="gn">{a.genre}</div>}
                         </div>
-                        <a className="spot" target="_blank" rel="noreferrer"
-                          href={`https://open.spotify.com/search/${encodeURIComponent(a.name)}`}>
-                          SPOTIFY ↗
-                        </a>
+                        <div className="artist-links">
+                          <a className={"spot" + (a.spotify ? "" : " search")} target="_blank" rel="noreferrer"
+                            href={a.spotify || `https://open.spotify.com/search/${encodeURIComponent(a.name)}`}>
+                            SPOTIFY ↗
+                          </a>
+                          {a.bandcamp && (
+                            <a className="spot" target="_blank" rel="noreferrer" href={a.bandcamp}>
+                              BANDCAMP ↗
+                            </a>
+                          )}
+                        </div>
                       </div>
                     ))}
                   </div>
