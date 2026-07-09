@@ -276,8 +276,7 @@ const CSS = `
   font-size:11px; font-weight:800; letter-spacing:.03em;
   margin-left:auto; display:flex; gap:6px; align-items:center;
 }
-.pill .age{ border:2px solid var(--ink); padding:1px 6px; }
-.row.sel .pill .age{ border-color:var(--paper); }
+.pill > * + *::before{ content:"·"; margin-right:6px; opacity:.55; }
 .pill .price.free{ color:var(--tomato); }
 .row.sel .pill .price.free{ color:var(--paper); }
 
@@ -538,6 +537,15 @@ const venueData = (name) => VENUES[name] || VENUES._default;
 
 /* ----------------------------- HELPERS ----------------------------- */
 const fmtPrice = (p) => (p == null ? "TBD" : p === "FREE" ? "FREE" : "$" + p);
+const fmtTime = (t) => {
+  if (!t || typeof t !== "string") return null;
+  const m = t.match(/^(\d{1,2}):(\d{2})/);
+  if (!m) return null;
+  let h = parseInt(m[1], 10); const mn = m[2];
+  const suf = h >= 12 ? "P" : "A";
+  h = h % 12 || 12;
+  return mn === "00" ? `${h}${suf}` : `${h}:${mn}${suf}`;
+};
 const DOW = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
 const MON = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
 
@@ -870,10 +878,11 @@ export default function App() {
                   </div>
                   <div className="head">{h.name}</div>
                   <div className="meta">
-                    {genresOf(s).slice(0, 3).map((g) => <span key={g} className="tag">{g}</span>)}
+                    {genresOf(s).filter((g) => g !== "music").slice(0, 3).map((g) => <span key={g} className="tag">{g}</span>)}
                     <span className="pill">
+                      {s.time && <span className="tm">{fmtTime(s.time)}</span>}
+                      {s.age && <span className="ages">{s.age}</span>}
                       <span className={"price" + (s.price === "FREE" ? " free" : "")}>{fmtPrice(s.price)}</span>
-                      <span className="age">{s.age || "—"}</span>
                     </span>
                   </div>
                 </button>

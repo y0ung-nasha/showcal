@@ -20,21 +20,21 @@ These are durable — every session inherits them. Do not break them without exp
 
 ## Architecture in one paragraph
 
-Two independent halves joined by one file. **Frontend**: `index.html` (React via CDN + Babel standalone — no build step) and `venues.html` (vanilla JS). Both fetch `shows.json` client-side. **Pipeline**: five Node scripts (`do312-adapter.mjs`, `jsonld-harvester.mjs`, `oneoff-adapter.mjs`, `askapunk-adapter.mjs`, `dice-adapter.mjs`) write raw output into `data/*.json`; `normalize.mjs` merges them with `venue-registry.json` as the master allow-list; anything not in the registry is dropped. `pull.sh` runs the whole pipeline end-to-end. Cloudflare Pages just serves the static files — nothing runs server-side.
+Single-page app plus a scraper pipeline. **Frontend**: one React SPA in `index.html` (React via CDN + Babel standalone — no build step). Hash routes pick the entry mode: `#/` = calendar, `#/venues` = venues list. Both modes share the same column-stack shell, so venue detail and show detail render identically no matter which entry you came from. `venues.html` is a thin redirect stub that bounces to `#/venues` so the existing `/venues` URL keeps working. The SPA fetches `shows.json`, `venue-registry.json`, and `venue-details.json` client-side. **Pipeline**: five Node scripts (`do312-adapter.mjs`, `jsonld-harvester.mjs`, `oneoff-adapter.mjs`, `askapunk-adapter.mjs`, `dice-adapter.mjs`) write raw output into `data/*.json`; `normalize.mjs` merges them with `venue-registry.json` as the master allow-list; anything not in the registry is dropped. `pull.sh` runs the whole pipeline end-to-end. Cloudflare Pages just serves the static files — nothing runs server-side.
 
 ```
 [Do312 adapter]       ─┐
 [JSON-LD harvester]   ─┤
-[One-off scrapers]    ─┼→ data/*.json → [normalize.mjs] → shows.json ─→ [index.html]
-[Ask A Punk (Gancio)] ─┤                        │                     ─→ [venues.html]
-[DICE adapter]        ─┘                        ▲
+[One-off scrapers]    ─┼→ data/*.json → [normalize.mjs] → shows.json ─→ [index.html SPA]
+[Ask A Punk (Gancio)] ─┤                        │                        ├─ #/       calendar mode
+[DICE adapter]        ─┘                        ▲                        └─ #/venues venues mode
                                     [venue-registry.json — master allow-list]
 ```
 
 ## Local dev
 
 - **Node**: v26+ (via Homebrew).
-- **Server**: `python3 -m http.server 8080`, then open http://localhost:8080/. Use `/index.html` and `/venues.html` explicitly locally — Python's server doesn't do the Cloudflare "clean URL" rewrites, so `/venues` (without extension) 404s locally but works on prod.
+- **Server**: `python3 -m http.server 8080`, then open http://localhost:8080/. In-app navigation is hash-based (`#/`, `#/venues`), so no clean-URL rewrite is needed for the SPA itself. `/venues.html` still resolves (redirect stub → `#/venues`). Bare `/venues` 404s locally because Python's server doesn't do CF Pages' clean-URL rewrite — that only works in prod.
 - **CDN dependency pins**: React and Babel URLs in `index.html` **must stay pinned** (`react@18.3.1`, `@babel/standalone@7.24.7`). The unpinned `@babel/standalone` URL now resolves to Babel 8, which emits ES modules and breaks the in-browser Babel setup — the whole app went blank when this happened. Don't unpin.
 
 ## Running the pipeline
@@ -75,8 +75,8 @@ Closed: Golden Dagger (2023), Trace (remodel). IG-only: Wax, Sweethearts Bar, Ca
 ## Key files
 
 **Root**
-- `index.html` — calendar page (React via CDN + Babel standalone, one big self-contained file)
-- `venues.html` — venues page (vanilla JS, 3-column sliding stage: list → venue → show)
+- `index.html` — the whole SPA (React via CDN + Babel standalone, one big self-contained file). Owns both calendar and venues modes plus the shared venue/show detail columns. Hash-routed: `#/` = calendar, `#/venues` = venues.
+- `venues.html` — redirect stub (~10 lines: `<meta http-equiv="refresh">` + `location.replace('/#/venues')`). Preserves the historical `/venues` URL. Do not put page logic here.
 - `shows.json` — the *only* live data file the frontend reads; git-tracked, updated by pull.sh
 - `venue-registry.json` — 192-venue master allow-list (was 235; ~43 duplicate entries merged into canonical entries with `aliases` in July 2026); **any show at a venue not in this file is dropped**
 - `venue-details.json` — hand-curated static content per venue id (blurb, facts, genres, notes); indexed by registry id
@@ -106,11 +106,11 @@ Closed: Golden Dagger (2023), Trace (remodel). IG-only: Wax, Sweethearts Bar, Ca
 ### macOS DNS cache
 `curl` will fail with "Could not resolve host" for hostnames that were NXDOMAIN when the cache was populated, even after DNS propagates. `sudo dscacheutil -flushcache` or use `--resolve` explicitly.
 
-### CF Pages "clean URLs"
-`showcal.westindia.co/venues.html` 308-redirects to `.../venues`. In-app links use `/venues.html` for portability with local Python server.
+### CF Pages "clean URLs" + the SPA
+CF Pages 308-redirects `/venues.html` → `/venues`. The SPA doesn't actually use `/venues` as a route — it uses hash routes (`#/`, `#/venues`), so CF's clean-URL rewrite is irrelevant to in-app nav. The `venues.html` stub exists purely so anything holding the old `showcal.westindia.co/venues` URL still lands in venues mode: CF rewrites to `venues.html`, the stub then `location.replace('/#/venues')`, and the SPA boots into venues mode. Do NOT reintroduce a full page at `venues.html`.
 
 ### `python3 -m http.server` doesn't respect CF Pages rewrites
-Locally, `/venues` 404s. Test with `.html` locally, unextensioned on prod.
+Locally, bare `/venues` 404s. Use `/venues.html` (which redirects via the stub) or navigate to `#/venues` directly. On prod both `/venues` and `/venues.html` end up in the same place.
 
 ## Common workflows
 
@@ -160,11 +160,21 @@ Cloudflare Pages auto-deploys via GitHub webhook within ~30 sec. Verify with `cu
 }
 ```
 
-### venues.html structure
-Three-column flex stage inside `.panes`, 150% wide. `stage.venue-active` (mobile-only) and `stage.show-active` shift by `translateX(-33.33%)` per active class. Show detail matches calendar page's layout exactly: poster → tomato banner (with BUY TICKETS) → date/time/price/age tiles → lineup with Spotify links → venue info.
+### Column stack model (the shell the SPA is built on)
+Any link — from the list, from a venue detail, from a show detail — **pushes a new column** onto a stack (`useState([])` in `App`). Columns are never replaced, never popped one at a time. The stack can grow unbounded (venue → show → venue → show → …). The BACK bar shows whenever the stack is non-empty and jumps straight to `[list, placeholder]` in one click — it does NOT step back through the stack, by design. The stack state is intentionally **not** in the URL: only the entry mode is (`#/` vs `#/venues`). Switching modes via topnav also resets the stack.
+
+Viewport clip: 2 columns visible on desktop (`min-width:821px`), 1 on mobile. Older columns slide off left. The stage's translateX is computed as `isMobile ? stack.length : max(0, stack.length - 1)` × `col-w` where `col-w` is `50vw`/`100vw` via CSS custom prop. When the stack is empty the SPA renders a synthetic placeholder column at position 1 so desktop still shows two columns; mobile leaves it off-screen right.
+
+Three shared column components in `index.html` — do not re-implement in a sibling: `CalendarList`/`VenuesList` (list column, mode-scoped), `VenuePane` (with Upcoming/Details tabs), `ShowPane`. Any link inside any of them calls the same `pushCol({type, id})`. If you add a fourth column type, wire it through the switch in `App`'s `cols.map`.
+
+### List rows are unified
+`.row` (shows) and `.vrow` (venues) share one box model — same padding, border, hover, left-tomato-accent — and both use an internal `kicker` (tomato-red small caps) / `head` (Archivo Black) / `meta` (right-aligned) structure. The calendar row's kicker is "venue · hood"; the venues row's is "hood". Do NOT diverge these — the whole point of the SPA refactor was to eliminate structural drift between shows and venues rows.
+
+### Column base tone
+Every column-level surface — `.col.list`, `.col.detail`, `.col.placeholder`, `.slab`, `.controls`, `.panel`, `.row`, `.vrow`, `.hood-title`, `.d-facts`, `.tabs`, `.blurb` — sits on `--bg` (darker bone). Small interactive elements — `.ctrl-btn`, `.tab-btn`, `.stub`, `.chip`, `.slot`, `.tag`, `.d-ticket`, `.spot`, `.vlink` — stay `--paper` for tap-target contrast. Hover on rows uses `--paper-2` (subtle lightening) plus the tomato left-border stripe (the strong visual signal).
 
 ### The at-rest wall
-Both `index.html` and `venues.html` show a flowing "PICK A SHOW / PICK A VENUE" wall when nothing is selected. It's ONE flowing block of ~800 spans joined by spaces; `white-space: nowrap` on spans, natural word wrap between them, `overflow: hidden` on parent clips overflow. **Do not** put each phrase on its own row — the earlier row-based approach was rejected by the user.
+When the stack is empty, the SPA renders a "placeholder" column (mode-aware invite + a flowing "PICK A SHOW" or "PICK A VENUE" wall). It's ONE flowing block of ~800 spans joined by spaces; `white-space: nowrap` on spans, natural word wrap between them, `overflow: hidden` on parent clips overflow. **Do not** put each phrase on its own row — the earlier row-based approach was rejected by the user.
 
 ## Deployment stack (do not change without asking)
 
