@@ -1600,38 +1600,6 @@
     }
   },
   {
-    "id": "vs_i268dm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-05",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Chicago Cellar Boys",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/chicago-cellar-boys/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2025-november/chicago-cellar-boys-updated-11-2025.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_lljy5p",
     "source": "venue-site",
     "sourceList": [
@@ -6722,7 +6690,7 @@
       "venue-site"
     ],
     "date": "2026-08-09",
-    "time": "03:00",
+    "time": "02:00",
     "slot": "late",
     "venue": "Cole's Bar",
     "rawVenue": "Cole's Bar",
@@ -6751,6 +6719,54 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/them-in-uniform-sunday-cruise-woonds-august-08-2026-691237",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/237/compressed/TIU_Tour_Chicago_Square.jpg?1780419393",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_tua5mt",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-10",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Herr God",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Indent",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Hearthands.",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Widemouth",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/pr-herr-god-widemouth-indent-hearthands-august-09-2026-727181",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/727/181/compressed/Untitled_-_May_20__2026_at_11.26.39-6.jpg?1783461846",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -6861,7 +6877,7 @@
     }
   },
   {
-    "id": "vs_1squ778",
+    "id": "vs_yt7jk",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6881,11 +6897,6 @@
     ],
     "openers": [
       {
-        "name": "SPLITJAW",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
         "name": "supercorp",
         "genre": "music",
         "role": "opener"
@@ -6896,6 +6907,49 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/sunfo-splitjaw-supercorp-august-13-2026-721323",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/721/323/compressed/sunfo.jpg?1783255597",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_owjbox",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-15",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Authentic Pines",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "One Armed Boxer",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Nowhere Days",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/authentic-pines-one-armed-boxer-nowhere-days-august-14-2026-691232",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/232/compressed/ap-43.jpg?1783461134",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -7043,6 +7097,54 @@
     }
   },
   {
+    "id": "vs_4m6v3b",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-22",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Destructo Disk",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "better living. ",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "no good with secrets",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Broken Left Foot",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/destructo-disk-better-living-no-good-with-secrets-broken-left-foot-august-21-2026-691245",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/245/compressed/open-uri20260707-899-e2iqh3.jpg?1783462432",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
     "id": "vs_spqvt0",
     "source": "venue-site",
     "sourceList": [
@@ -7072,6 +7174,49 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_f1ud4x",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-23",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Caitlin Edwards ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Lipstick Homicide",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Blind Adam & the Federal League",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/pr-caitlin-edwards-blind-adam-and-the-federal-league-lipstick-homicide-august-22-2026-691247",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/247/compressed/Screenshot_2026-07-07_163212.jpg?1783459965",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -7179,6 +7324,49 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/king-sans-album-release-ft-bullheather-and-the-bloodflowers-frozen-charlotte-mr-phylzzz-august-29-2026-727179",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/727/179/compressed/Screenshot_2026-07-05_075500.jpg?1783256131",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_ily0gd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-02",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Backseat Dragon",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Clementine ",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Moon Destroyer",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/backseat-dragon-clementine-moon-destroyer-september-01-2026-691254",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/254/compressed/ab6761610000e5eb126efbf569e741611646d482.jpg?1783459520",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -7964,102 +8152,6 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-december-16-2026-717994",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/994/compressed/IMG_9453_2.jpg?1781551197",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
-    "id": "vs_906ejs",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-12-24",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Comedy Open Mic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-december-23-2026-717980",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/980/compressed/IMG_9453_2.jpg?1781551178",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
-    "id": "vs_n2ebxp",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-12-29",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "MissSpoken",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-december-28-2026-691261",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/261/compressed/etix-MissSpoken_663571736946266.jpg?1776872962",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
-    "id": "vs_nuwll2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-12-31",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Comedy Open Mic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-december-30-2026-717979",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/979/compressed/IMG_9453_2.jpg?1781551178",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",

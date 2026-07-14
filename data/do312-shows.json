@@ -158,7 +158,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/7/closed-mondays-and-tuesdays-black-culture-matters-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449353/c48f16b0-f2eb-4ebe-86f2-f02f1545df8a.jpg",
     "venueInfo": {
@@ -236,6 +236,41 @@
       "address": null,
       "city": null,
       "url": "https://do312.com/venues/broken-hearts"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1rjtvhv",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-07",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cafe Mustache",
+    "rawVenue": "Cafe Mustache",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Chicago Sound For Cinnema Alliance Summer Meet Up",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/7/chicago-sound-for-cinnema-alliance-summer-2026-meet-up-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33173061/07ca0061-a959-4e60-bfa3-e96d61935807.jpg",
+    "venueInfo": {
+      "name": "Cafe Mustache",
+      "address": "2313 N. Milwaukee Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/cafe-mustache"
     },
     "doors": null,
     "showtime": null
@@ -575,7 +610,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/7/the-church-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/24392225/96bb25e0-05f3-4b29-aef7-08bd1b92a0f8.jpg",
     "venueInfo": {
@@ -615,7 +650,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/7/beat-the-meatles-lunar-ticks-zoofunkyou-old-shoe-box-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33055276/0ba5eb61-7d2b-4221-b64f-1a7af31b83bd.jpg",
     "venueInfo": {
@@ -767,7 +802,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/8/bts-express-w-shirley-johnson-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449355/180fff5f-763a-46fd-9bcf-604512cb0678.jpg",
     "venueInfo": {
@@ -1218,6 +1253,76 @@
     "showtime": null
   },
   {
+    "id": "do_oklxyj",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-08",
+    "time": "17:00",
+    "slot": "evening",
+    "venue": "Ramova Loft",
+    "rawVenue": "Ramova Theatre",
+    "hood": "Bridgeport",
+    "headliners": [
+      {
+        "name": "Lost on the South Side: Pizz'amci",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/8/lost-on-the-south-side-pizz-amci-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33151238/22f9b30d-eff5-445f-81d1-1649418b3c79.jpg",
+    "venueInfo": {
+      "name": "Ramova Loft",
+      "address": "3520 S Halsted St.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/ramova-loft"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_esskv7",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-08",
+    "time": "17:00",
+    "slot": "evening",
+    "venue": "Ramova Theatre",
+    "rawVenue": "Ramova Theatre",
+    "hood": "Bridgeport",
+    "headliners": [
+      {
+        "name": "Lost on the South Side: Pizz'amci",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/8/lost-on-the-south-side-pizz-amci-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33151238/22f9b30d-eff5-445f-81d1-1649418b3c79.jpg",
+    "venueInfo": {
+      "name": "Ramova Theatre",
+      "address": "3520 S Halsted St.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/ramova-theatre"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_1g8e68f",
     "source": "do312",
     "sourceList": [
@@ -1240,7 +1345,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/8/varsity-dropout-youth-joey-acopiado-fank-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32068960/437884ce-7e29-4435-8f16-4d9f01f366ad.jpg",
     "venueInfo": {
@@ -1542,7 +1647,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/9/luke-pytel-blues-band-w-laretha-weathersby-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449354/4fa50356-0e11-4104-bf35-33b958a42517.jpg",
     "venueInfo": {
@@ -2319,7 +2424,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/9/dead-freddie-kicked-by-a-hand-steel-wolf-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30766243/99cf7dd6-b449-4202-b614-fc4aff6c070a.jpg",
     "venueInfo": {
@@ -2397,6 +2502,46 @@
       "address": "646 North Franklin Street",
       "city": "Chicago",
       "url": "https://do312.com/venues/spybar"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1gvi0jy",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-09",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Josh Spinner",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "josh-spinner",
+        "spotify": "https://open.spotify.com/artist/6r7tT2u62mlHkfk5ZAnQxW",
+        "bandcamp": "https://joshspinner.bandcamp.com/",
+        "youtube": "https://www.youtube.com/@joshspinnermusic",
+        "instagram": "http://instagram.com/joshspinner",
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/9/josh-spinner-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31149392/421eaca5-9fe8-4897-90eb-2da1fd3ed8f4.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -2499,7 +2644,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/9/mike-campbell-the-dirty-knobs-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30804151/03568cc8-7b02-463b-b0eb-c8dab1cc52cc.jpg",
     "venueInfo": {
@@ -2771,7 +2916,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/10/mike-wheeler-blues-band-w-mzz-reese-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449369/4d76f5e4-3d8c-486c-9d1f-e3cfcacbb614.png",
     "venueInfo": {
@@ -3918,7 +4063,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/10/hippies-cowboys-velvet-daydream-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31078946/a678138d-b7f8-4368-8912-5154731c5596.jpg",
     "venueInfo": {
@@ -4158,6 +4303,41 @@
     "showtime": null
   },
   {
+    "id": "do_1uqxqa0",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-10",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Emo Nite at CHICAGO, IL",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/10/emo-nite-at-chicago-il-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32674826/f13862c2-df1d-46f1-b380-3e734cc54401.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_wlvhp2",
     "source": "do312",
     "sourceList": [
@@ -4320,7 +4500,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/10/chance-pena-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/28924488/12944638-ad50-4189-8acb-e9e592087756.jpg",
     "venueInfo": {
@@ -4557,7 +4737,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/11/mike-wheeler-blues-band-w-mzz-reese-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449370/a2bee719-bca8-4748-9d02-6f0aa019ce44.png",
     "venueInfo": {
@@ -5374,7 +5554,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/11/paul-oakenfold-x-the-crystal-method-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31384692/0caacd54-2f15-4764-ab37-f601caa74f63.jpg",
     "venueInfo": {
@@ -5444,7 +5624,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/11/felicity-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31773604/8a3f2a04-2cec-42e2-af98-76b52c27ce93.jpg",
     "venueInfo": {
@@ -5479,7 +5659,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/11/mubi-market-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32999824/558dd519-26c7-4d41-9874-73b95218be89.jpg",
     "venueInfo": {
@@ -5712,6 +5892,41 @@
       "address": "646 North Franklin Street",
       "city": "Chicago",
       "url": "https://do312.com/venues/spybar"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_2r2ugh",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "PureSoul - Infinite 80s",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/11/puresoul-infinite-80s-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31410517/904a2793-a421-462a-947d-d3afa0ec2ce4.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -6076,7 +6291,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/12/luke-pytlel-blues-band-w-shirley-johnson-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449371/12a8f1b2-e30e-4d4f-8746-f5cb2c23411e.jpg",
     "venueInfo": {
@@ -6159,6 +6374,48 @@
       "address": null,
       "city": null,
       "url": "https://do312.com/venues/broken-hearts"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1a8pwgw",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-12",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cafe Mustache",
+    "rawVenue": "Cafe Mustache",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Magic Brunch (w",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Merlin Brando & Majik Æon)",
+        "genre": "music",
+        "role": "opener",
+        "slug": null
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/12/magic-brunch-w-merlin-brando-majik-aeon-tickets",
+    "poster": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-3/1539796003.jpg",
+    "venueInfo": {
+      "name": "Cafe Mustache",
+      "address": "2313 N. Milwaukee Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/cafe-mustache"
     },
     "doors": null,
     "showtime": null
@@ -6311,6 +6568,41 @@
       "url": "https://do312.com/venues/fulton-street-collective"
     },
     "doors": "4:00 PM",
+    "showtime": null
+  },
+  {
+    "id": "do_15je4vb",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-12",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dog Days of Summer!",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/12/dog-days-of-summer-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143204/45f87e97-a67b-4f54-8a64-6e5ce9c9f9af.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
     "showtime": null
   },
   {
@@ -6643,7 +6935,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/12/kontusion-bifid-corpse-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31531680/16c6c6aa-e003-4331-b94e-610066231e14.jpg",
     "venueInfo": {
@@ -6686,6 +6978,86 @@
       "address": "3159 N Southport Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/schubas"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1mmk1al",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-12",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Kenny Gray",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "kenny-gray",
+        "spotify": "https://open.spotify.com/artist/2kzyxXf6dgxrN2fgaIbHtb",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/@k3nnygray",
+        "instagram": "http://instagram.com/https://www.instagram.com/k3nnygray/",
+        "website": "https://kenny-gray.com/"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/12/kenny-gray-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30979104/5837d987-5b71-4ed6-8af7-bfd4d27f5faf.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_foxapc",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-12",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Irene Diaz",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "irene-diaz",
+        "spotify": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/3KWnRiIbD24",
+        "instagram": "http://instagram.com/https://www.instagram.com/irenediaz",
+        "website": "http://www.irenediazmusic.com"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/12/irene-diaz-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31852565/4fc54009-c5e1-432e-9b97-2300ac4d2c27.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -6978,7 +7350,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/13/closed-mondays-and-tuesdays-black-culture-matters-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449372/7b4edf0c-2ca8-4344-a7e7-19a2a2794fba.jpg",
     "venueInfo": {
@@ -6986,6 +7358,41 @@
       "address": "536 N Clark St",
       "city": "Chicago",
       "url": "https://do312.com/venues/blue-chicago"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_xwfj9b",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-13",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cafe Mustache",
+    "rawVenue": "Cafe Mustache",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Rap J & Friends! (feat. Riz, Anna Silver, DJ Dscribe, Darrin Alson, Rap J)",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/13/rap-j-friends-feat-riz-anna-silver-dj-dscribe-darrin-alson-rap-j-tickets",
+    "poster": "https://cloudinary-assets.dostuffmedia.com/res/dostuff-media/image/upload/metro-bkg_1-3/1539796003.jpg",
+    "venueInfo": {
+      "name": "Cafe Mustache",
+      "address": "2313 N. Milwaukee Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/cafe-mustache"
     },
     "doors": null,
     "showtime": null
@@ -7396,6 +7803,41 @@
     "showtime": null
   },
   {
+    "id": "do_i97f8k",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-13",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Tack Room",
+    "rawVenue": "Tack Room",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Kicking It Curbside - Tall Tall Trees",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/13/kicking-it-curbside-tall-tall-trees-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33146004/2d613897-4c17-464c-9f67-feccdf3e9fd1.jpg",
+    "venueInfo": {
+      "name": "Tack Room",
+      "address": "1807 S Allport St",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/tack-room"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_1q3ozxs",
     "source": "do312",
     "sourceList": [
@@ -7458,7 +7900,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/14/closed-mondays-and-tuesdays-black-culture-matters-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449390/744d859d-4db4-4a42-9e52-4d9b8e6bc75a.jpg",
     "venueInfo": {
@@ -7875,7 +8317,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/14/beat-the-meatles-lunar-ticks-zoofunkyou-old-shoe-box-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31773615/26942fa7-5462-40eb-a741-16206e8fc103.jpg",
     "venueInfo": {
@@ -7963,6 +8405,46 @@
       "address": "3159 N Southport Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/schubas"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_5b9p7",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-14",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Sunflower Summit",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "sunflower-summit",
+        "spotify": "https://open.spotify.com/artist/3osTxq6p6tWR1Jek9Q3bzd",
+        "bandcamp": "https://sunflowersummit.bandcamp.com",
+        "youtube": "https://www.youtube.com/@sunflowersummit",
+        "instagram": "http://instagram.com/https://www.instagram.com/sunflowersummit",
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://do312.com/events/2026/7/14/sunflower-summit-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32413691/c551f4ca-ee3b-4d2a-8131-65202c674319.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -8152,7 +8634,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/15/mike-wheeler-blues-band-w-laretha-weathersby-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449391/e4888cd0-9af1-4f9e-acc3-fdee8d96c43c.jpg",
     "venueInfo": {
@@ -8491,7 +8973,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/15/37-houses-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32068973/bf36c7df-0ad0-45f8-b7cd-9759f1165e7b.jpg",
     "venueInfo": {
@@ -8534,6 +9016,46 @@
       "address": "3159 N Southport Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/schubas"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_ytefpi",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-15",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Being as An Ocean",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "being-as-an-ocean",
+        "spotify": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/FBKPmqqmGJk",
+        "instagram": "http://instagram.com/https://www.instagram.com/beingasanocean/",
+        "website": "http://beingasanocean.com/"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/15/being-as-an-ocean-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31963237/9dfafb33-07fc-47e4-86e5-a6260255ffae.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -8898,7 +9420,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/16/luke-pytel-blues-band-w-mzz-reese-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449389/5fcbec37-89eb-4ab1-aa12-8388c9c627c8.jpg",
     "venueInfo": {
@@ -9804,7 +10326,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/16/protoje-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32334932/b55db50c-d044-47cd-8462-851e56636299.jpg",
     "venueInfo": {
@@ -9914,7 +10436,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/16/rundown-free-joel-lemon-flesh-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31141191/820f1aaf-f790-430f-bd25-12522d516e6d.webp",
     "venueInfo": {
@@ -10062,6 +10584,46 @@
       "address": "646 North Franklin Street",
       "city": "Chicago",
       "url": "https://do312.com/venues/spybar"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_k7xd98",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-16",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Crown of Thornz",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "crown-of-thornz",
+        "spotify": "https://open.spotify.com/artist/2xFMF2qGICAFXSX2Sb6DA4",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/RShldEEjlQs",
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/16/crown-of-thornz-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32354384/337e80f8-2133-4305-9558-67b44195125f.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -10324,7 +10886,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/17/sheryl-youngblood-blues-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449392/b2bc6dd1-4833-4f3b-8237-2a82dda8d06d.jpg",
     "venueInfo": {
@@ -11429,7 +11991,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/17/defrance-the-beautiful-mothers-ex-sacred-reich-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32936461/f5ffd480-81dd-4691-9162-7b37e9a08461.jpg",
     "venueInfo": {
@@ -11464,7 +12026,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/17/the-pretty-reckless-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30841756/dce7f71c-2e42-47e6-be77-bf1d329e72bc.jpg",
     "venueInfo": {
@@ -11622,6 +12184,46 @@
       "address": "646 North Franklin Street",
       "city": "Chicago",
       "url": "https://do312.com/venues/spybar"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1rzaehd",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-17",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Smidley",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "smidley",
+        "spotify": "https://open.spotify.com/artist/4VaBF2UB61CMQ45Xtp6vPc",
+        "bandcamp": "https://smidley.bandcamp.com",
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/17/smidley-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32056692/4cf97d9c-e24b-46ca-bdb8-d564b1de3dbf.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -11964,7 +12566,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/18/sheryl-youngblood-blues-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449409/72232ba0-6e14-4123-a7e5-08c54d75dcc0.jpg",
     "venueInfo": {
@@ -13247,7 +13849,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/18/jack-jones-henry-holden-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32172029/e1d61e54-53ae-4c71-8f59-f716ada521d1.jpg",
     "venueInfo": {
@@ -13440,6 +14042,81 @@
     "showtime": null
   },
   {
+    "id": "do_1warng",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-18",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Purple Madness: A Tribute to Prince",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/18/purple-madness-a-tribute-to-prince-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32266051/eb007fc6-f189-42aa-aead-884693550336.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1ssez02",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-18",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Killed By Kiwis",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "killed-by-kiwis",
+        "spotify": "https://open.spotify.com/artist/17HtziZ3UYAPmybJp7y8wd",
+        "bandcamp": "https://killedbykiwis.bandcamp.com/",
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/18/killed-by-kiwis-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32281707/02c3854a-9d7f-41da-b74d-6ad23fd063b8.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_16vsu4q",
     "source": "do312",
     "sourceList": [
@@ -13577,7 +14254,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/18/you-should-know-podcast-presents-the-ysk-house-tour-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31169893/f02ddfa8-2b2c-4d2a-bf2a-8ce45219c8a8.jpg",
     "venueInfo": {
@@ -13886,7 +14563,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/19/bts-express-w-shirley-johnson-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449410/25a67624-45eb-4f91-b27c-bb395fe6617e.jpg",
     "venueInfo": {
@@ -14630,7 +15307,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/19/low-water-bridge-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30969311/9cdc849c-4181-43d9-aa33-0881409528b4.jpg",
     "venueInfo": {
@@ -14673,6 +15350,41 @@
       "address": "3159 N Southport Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/schubas"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1pb93a1",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-19",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Until I Wake",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/19/until-i-wake-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31917628/d545ffa9-9e2b-4cf7-9312-40dbea85cd41.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -14880,7 +15592,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/20/closed-mondays-and-tuesdays-black-culture-matters-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449413/e426bdb6-9b19-4394-961b-37f5424e196c.jpg",
     "venueInfo": {
@@ -15206,7 +15918,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/20/passion-pit-the-pretty-penny-tour-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30930759/9998ddc4-8a29-49b2-b76c-ec45902e803f.jpg",
     "venueInfo": {
@@ -15351,7 +16063,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/21/closed-mondays-and-tuesdays-black-culture-matters-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449415/c6fe5537-53ea-44c6-99b8-9eadd54ca7c2.jpg",
     "venueInfo": {
@@ -15647,6 +16359,41 @@
     "showtime": "9PM"
   },
   {
+    "id": "do_2u12zb",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-21",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Open Jam",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/21/open-jam-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143231/a4b2f014-87d0-432f-8511-59959e6924d0.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_1gt8ojs",
     "source": "do312",
     "sourceList": [
@@ -15883,7 +16630,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/21/beat-the-meatles-lunar-ticks-zoofunkyou-old-shoe-box-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31773633/04a0e53f-332f-417c-9a8b-170e48862f65.jpg",
     "venueInfo": {
@@ -15966,6 +16713,46 @@
       "address": "3159 N Southport Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/schubas"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_fwjyy9",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-21",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Steven G",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "steven-g",
+        "spotify": "https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/UCFY8ce8SC39XjjWKh6NOPcw",
+        "instagram": "http://instagram.com/https://www.instagram.com/steveng.music_/",
+        "website": "https://stevengmusic.com/"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/21/steven-g-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31793861/bbcb8685-2bc6-48d6-af2d-ba5528edb39f.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -16183,7 +16970,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/22/sheryl-youngblood-blues-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449428/d9055e4a-774e-4cef-ba8d-2b0031c1a999.jpg",
     "venueInfo": {
@@ -16362,7 +17149,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": "FREE",
     "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/22/sapphic-songwriter-series-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32970207/9c3408de-46b9-4c81-9bcf-0b7d1703c683.png",
@@ -16622,7 +17409,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/22/barry-the-fountains-schrachee-kyle-j-e-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32936469/090ae859-174a-4dac-ab27-0a70148a8782.jpg",
     "venueInfo": {
@@ -16700,6 +17487,81 @@
       "address": "3159 N Southport Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/schubas"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1qv9m5z",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Gooseberry",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "gooseberry",
+        "spotify": "https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/watch?v=qdUByzIozXo",
+        "instagram": "http://instagram.com/https://www.instagram.com/gooseberryband/",
+        "website": "https://www.gooseberryband.com"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/22/gooseberry-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32009938/92be5212-736b-4adc-b98d-15cf99806e93.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_9ga446",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Blu & Exile",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/22/blu-exile-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31980370/38754cfe-db2c-4893-982b-deffdb80ce24.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -17064,7 +17926,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/23/mike-wheeler-blues-band-w-mzz-reese-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449430/33063c91-77d2-4dae-b1ae-226ff40e47b4.png",
     "venueInfo": {
@@ -17906,7 +18768,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/23/bastian-steven-amsterdam-gayun-cannon-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31078948/8b9cd380-3fb7-4c5f-8e14-c02b3150fafe.jpg",
     "venueInfo": {
@@ -17941,7 +18803,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/23/aimee-mann-bachelor-no-2-album-tour-with-kimon-kirk-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31598375/bc487310-3c71-404a-a78a-afb6239e958a.jpg",
     "venueInfo": {
@@ -18024,6 +18886,41 @@
       "address": "646 North Franklin Street",
       "city": "Chicago",
       "url": "https://do312.com/venues/spybar"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_16qogy6",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-23",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Ryan Davis & the Roadhouse Band",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/23/ryan-davis-the-roadhouse-band-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32531948/2403983b-5da0-47b8-b1db-47ef860ca251.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -18283,7 +19180,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/24/bts-express-w-laretha-weathersby-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449429/cb043f4e-466f-46ca-a447-eb079e94ce7a.jpg",
     "venueInfo": {
@@ -18934,7 +19831,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/24/nine-vicious-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31384694/e49e4863-d565-46b7-965d-530d53c77689.jpg",
     "venueInfo": {
@@ -18969,7 +19866,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/24/junius-minsk-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31391728/182cf0d6-3355-4ac5-ab11-2d580c4de33f.jpg",
     "venueInfo": {
@@ -19004,7 +19901,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/24/poppy-constantly-nowhere-tour-with-landmvrks-and-thousand-below-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30276788/559fb351-deba-4e4f-8fe5-a9f6cd9d1ab9.jpg",
     "venueInfo": {
@@ -19232,6 +20129,86 @@
       "address": "646 North Franklin Street",
       "city": "Chicago",
       "url": "https://do312.com/venues/spybar"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_c7pt6f",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-24",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "margø",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "margo-dojtaqbk",
+        "spotify": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/c/marg%C3%B84prez",
+        "instagram": "http://instagram.com/https://www.instagram.com/margo4prez/",
+        "website": "https://www.noisebymargo.com/"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/24/margo-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31550127/f8eb59fd-2f8a-47c5-b2a2-02d7e113ad98.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1vik98p",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-24",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Dr. Gabba",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "dr-gabba",
+        "spotify": "https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/@drgabba",
+        "instagram": null,
+        "website": "https://linktr.ee/dr.gabba"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/24/dr-gabba-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32413694/ac0a0968-ac4d-4ae6-a79b-3bb11e6ff739.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -19576,7 +20553,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/25/bts-express-w-laretha-weathersby-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449442/d6be5911-2893-4bb1-9e3e-d6195d27f967.jpg",
     "venueInfo": {
@@ -20006,6 +20983,46 @@
     },
     "doors": "5:00PM",
     "showtime": "8:00PM"
+  },
+  {
+    "id": "do_w897b4",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-25",
+    "time": "11:00",
+    "slot": "afternoon",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Mahj and Mingle",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "mahj-and-mingle",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/25/mahj-and-mingle-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33109705/23bef94e-2899-417a-9be1-c563024cc9f2.jpg",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
+    "showtime": null
   },
   {
     "id": "do_1k3jiy5",
@@ -20530,7 +21547,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/25/majah-hype-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31618130/1ea01f84-f46c-482f-9bfe-a2a3416f0a2b.jpg",
     "venueInfo": {
@@ -20600,7 +21617,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/25/paralysis-chemical-dependency-through-n-through-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33025782/41065261-0630-4c46-a475-c1453becd636.jpg",
     "venueInfo": {
@@ -20868,6 +21885,126 @@
     "showtime": null
   },
   {
+    "id": "do_s8g19w",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-25",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Stereosity",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "stereosity",
+        "spotify": "https://open.spotify.com/artist/0piJP9lxT0JISY5bRWnzcu",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/UC3P_TmZx6treUlNIXsD0t2g",
+        "instagram": "http://instagram.com/stereosity",
+        "website": "https://stereosity.com"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/25/stereosity-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31865188/30a81bc8-422c-47c0-9c5e-f7736e1b2348.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1r0smie",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-25",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Shannon Shaw Band",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "shannon-shaw-band",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/UCrjVeocO25uH2ZhaGbT-5Kw",
+        "instagram": "http://instagram.com/https://www.instagram.com/shannonshaw/",
+        "website": "https://www.theshannonshaw.com/"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/25/shannon-shaw-band-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32213971/eed9e706-8b03-4cb5-b9a5-aaf555f5527b.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_s92pkn",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-25",
+    "time": "22:30",
+    "slot": "late",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Austin TV",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "austin-tv",
+        "spotify": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/wFPMYdCqPCI",
+        "instagram": "http://instagram.com/austin_tv",
+        "website": "http://www.austintv.org"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/25/austin-tv-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32354389/02d04027-035c-4fee-9d93-c788264b16d7.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_1k1bnwi",
     "source": "do312",
     "sourceList": [
@@ -21010,7 +22147,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/25/rx-bandits-and-the-battle-begun-20th-anniversary-tour-with-catbite-supporting-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30301897/ab80e9c6-a1dc-4018-9cd1-028fd74c7583.png",
     "venueInfo": {
@@ -21160,7 +22297,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/26/sheryl-youngblood-blues-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449444/a5299409-609c-41f2-80d9-1bfb064f3a4a.jpg",
     "venueInfo": {
@@ -21541,6 +22678,41 @@
     },
     "doors": "6:30PM",
     "showtime": "7:30PM"
+  },
+  {
+    "id": "do_l8z45o",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-26",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dog Days of Summer!",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/26/dog-days-of-summer-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143238/c062b902-4f1a-47a8-9fa8-636ca135aad1.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
+    "showtime": null
   },
   {
     "id": "do_1m3tzwc",
@@ -21932,7 +23104,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/26/jc-and-the-reup-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31531684/882978b3-3ed4-43d3-984b-b04cd95108aa.jpg",
     "venueInfo": {
@@ -21967,7 +23139,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/26/t-i-the-king-succession-tour-with-domani-and-king-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31894318/46b4707a-8ebc-4294-bd5a-f5d90eecb7bb.jpg",
     "venueInfo": {
@@ -22050,6 +23222,46 @@
       "address": "3159 N Southport Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/schubas"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_k6t8mr",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-26",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "The Collideoscopes",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "the-collideoscopes",
+        "spotify": "https://open.spotify.com/artist/7xIVhMmVeouqwN9OxUaAtn",
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/26/the-collideoscopes-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32546046/3b5c70e7-4f30-4ea9-96ae-8688ae62c369.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
     },
     "doors": null,
     "showtime": null
@@ -22262,7 +23474,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/27/closed-mondays-and-tuesdays-black-culture-matters-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449446/637f5e69-4380-4be6-8ae1-6c2081dbb9dd.jpg",
     "venueInfo": {
@@ -22560,6 +23772,76 @@
     "showtime": null
   },
   {
+    "id": "do_1qlcgdr",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-27",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Kill Bill: The Rapper",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/27/kill-bill-the-rapper-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31852573/3cce0a48-1f41-4e92-b363-181aa640b87d.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_srg2v2",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-27",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Subterranean",
+    "rawVenue": "Subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Lower Level: An Industry Night Showcase",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/27/lower-level-an-industry-night-showcase-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30542048/71fc2bab-24e0-487c-a7b5-6a50ff211e3d.png",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_1w3t3lp",
     "source": "do312",
     "sourceList": [
@@ -22732,7 +24014,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/28/closed-mondays-and-tuesdays-black-culture-matters-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449460/d61fcd14-503e-4733-b865-e545e0d3e141.jpg",
     "venueInfo": {
@@ -23032,7 +24314,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/28/paris-paloma-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970089/8633ce55-2c5d-44f1-bad1-0dee76829afc.jpg",
     "venueInfo": {
@@ -23107,7 +24389,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/28/does-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31830835/3c41a11b-c9de-43c8-82e5-1ff72ad593d9.jpg",
     "venueInfo": {
@@ -23176,7 +24458,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/28/beat-the-meatles-lunar-ticks-zoofunkyou-old-shoe-box-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31773652/9f194ebe-e5e0-47c6-811c-59d29ef8ae4c.jpg",
     "venueInfo": {
@@ -23372,7 +24654,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/29/evening-elephants-w-the-braymores-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31922846/9e694b4e-00bd-47b7-8276-f8c0301ebb08.jpg",
     "venueInfo": {
@@ -23419,7 +24701,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/29/mike-wheeler-blues-band-w-demetria-taylor-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449462/ab5aa1e6-8f58-4301-b28c-d767e243afdf.jpg",
     "venueInfo": {
@@ -23459,7 +24741,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/29/cmat-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923186/4d51ee51-f9bc-4729-99a7-7becd8c7fab8.jpg",
     "venueInfo": {
@@ -23558,7 +24840,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/29/bad-nerves-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923763/eebe7b7a-e30a-4df4-bbf2-043e4058bad4.jpg",
     "venueInfo": {
@@ -23673,7 +24955,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/29/blood-orange-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947497/4a273b8b-3c2d-4c98-89cc-14f20846910a.jpg",
     "venueInfo": {
@@ -23720,7 +25002,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/29/bixby-w-jyn-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31969855/3768229b-1046-44de-b769-408b10e78241.png",
     "venueInfo": {
@@ -23767,7 +25049,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/29/viagra-boys-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970244/9ac548a7-8a34-4f53-b712-d14ab9ef0d71.jpg",
     "venueInfo": {
@@ -23775,41 +25057,6 @@
       "address": "3730 N Clark St",
       "city": "Chicago",
       "url": "https://do312.com/venues/metro"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_1kg3gvz",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-07-29",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Millennium Park",
-    "rawVenue": "Millennium Park",
-    "hood": "The Loop",
-    "headliners": [
-      {
-        "name": "An Evening with Ben Folds",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/29/an-evening-with-ben-folds-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29448249/4dfa19e6-1ee1-46e2-b844-3ed27c3dc0b9.jpg",
-    "venueInfo": {
-      "name": "Millennium Park",
-      "address": "201 E. Randolph St",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/millennium-park"
     },
     "doors": null,
     "showtime": null
@@ -23924,7 +25171,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/29/lord-buffalo-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31694327/ebdcf0c6-bfad-4247-bafb-c847353b3703.jpg",
     "venueInfo": {
@@ -24051,7 +25298,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/29/audrey-hobert-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32188064/79f181c4-cbee-48ae-aec5-d44848a77da1.jpg",
     "venueInfo": {
@@ -24091,7 +25338,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/29/wet-leg-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32188929/f102c3b0-6aa8-4e98-ba32-471eabdc8ab1.jpg",
     "venueInfo": {
@@ -24208,7 +25455,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/30/kettama-w-boys-noize-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31922774/04eecf93-70c1-489e-b4b5-bba7843d538f.png",
     "venueInfo": {
@@ -24290,7 +25537,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/30/bts-express-w-shirley-johnson-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449467/8ec35b21-6832-47b0-bf2b-9032e1e0a93d.jpg",
     "venueInfo": {
@@ -24337,7 +25584,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/30/balu-brigada-w-day-we-ran-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923461/bf62acd1-30f4-4d2c-ac11-0c0f661641ae.jpg",
     "venueInfo": {
@@ -24414,7 +25661,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/30/boost-w-1tbsp-david-lohlein-dj-planet-express-hotpretty-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32229447/52feedf6-b422-4e82-90b1-1b3dc5a819f4.png",
     "venueInfo": {
@@ -24501,7 +25748,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/30/high-vis-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923809/9e1570c8-1ebe-4c5a-b427-a18ef2d5d89c.jpg",
     "venueInfo": {
@@ -24541,7 +25788,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/30/ecca-vandal-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31946203/46150e8f-0cd2-483d-ad4e-25e3edce63c8.jpg",
     "venueInfo": {
@@ -24623,7 +25870,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/30/suki-waterhouse-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947559/44ff5734-6ddd-4c41-a657-048dc822e176.jpg",
     "venueInfo": {
@@ -24710,7 +25957,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/30/roz-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059800/5d1bf89b-d776-46bf-be4b-be3a4c018be6.jpg",
     "venueInfo": {
@@ -24757,7 +26004,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/30/kingfishr-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31969899/2066f474-a65f-4b9a-8b25-f10ffcca7af3.png",
     "venueInfo": {
@@ -24832,7 +26079,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/30/not-for-radio-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970249/cc147c67-aef3-4afe-bb46-dad2e8a2b3f2.jpg",
     "venueInfo": {
@@ -24912,7 +26159,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/30/mother-mother-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970656/4a098242-fdc1-4913-8900-bcbe94dfd893.jpg",
     "venueInfo": {
@@ -25017,7 +26264,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/30/james-taylor-greatest-hits-performed-by-the-steve-ramone-band-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31479617/d15a4e3f-3780-42af-b8f5-c0d563d04bbb.jpg",
     "venueInfo": {
@@ -25064,7 +26311,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/30/yungblud-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31971182/5c6fb2fe-201a-45b3-a3c9-20eb2f158a50.jpg",
     "venueInfo": {
@@ -25151,7 +26398,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/30/54-ultra-w-paloma-morphy-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187416/119476b5-bb40-4011-9395-dce3e5edccf5.jpg",
     "venueInfo": {
@@ -25191,7 +26438,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/30/mph-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059905/1ff59b32-15de-40be-a887-3a188cbab190.jpg",
     "venueInfo": {
@@ -25231,7 +26478,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/30/major-lazer-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187559/4c513f7e-0d43-4f4a-91de-bae6c601e729.jpg",
     "venueInfo": {
@@ -25278,7 +26525,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/30/zara-larsson-w-skye-newman-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32188986/3e8e5943-a02e-419c-89b4-a85ee3c60830.jpg",
     "venueInfo": {
@@ -25286,6 +26533,46 @@
       "address": "3145 N Sheffield Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/the-vic-theatre"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_olybmk",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-07-30",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "The Whistler",
+    "rawVenue": "The Whistler",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Party Girl",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "party-girl",
+        "spotify": "https://open.spotify.com/artist/2cp8R1JqElF8DvGnyEYOoB",
+        "bandcamp": "http://heypartygirl.bandcamp.com/",
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/7/30/party-girl-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33161814/211f69a2-d016-4ffa-b12f-34c9328ae28f.jpg",
+    "venueInfo": {
+      "name": "The Whistler",
+      "address": "2421 N. Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-whistler"
     },
     "doors": null,
     "showtime": null
@@ -25353,7 +26640,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/31/ado-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32217993/3dddc85c-aa0d-4081-b7f4-fb8174f698f1.jpg",
     "venueInfo": {
@@ -25428,7 +26715,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/31/jae-stephens-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31922879/da43c125-902b-4b8c-9672-4d813cba0988.png",
     "venueInfo": {
@@ -25475,7 +26762,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/31/nate-manos-w-demetria-taylor-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32449477/f5210e36-4ea2-41a1-958c-46d832d96620.jpg",
     "venueInfo": {
@@ -25562,7 +26849,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/31/cameron-whitcomb-w-dylan-conrique-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923484/2a034604-20ce-455e-93ab-d4d4273bcd73.jpg",
     "venueInfo": {
@@ -25702,7 +26989,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/31/dj-trixie-mattel-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923590/8f258dab-f655-438d-bce5-4d7e606fd9f6.jpg",
     "venueInfo": {
@@ -25742,7 +27029,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/31/know-good-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31945954/39d78c18-d176-43f6-816b-63352611d5d6.png",
     "venueInfo": {
@@ -25782,7 +27069,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/31/villanelle-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923851/eb8c32d4-5f50-4067-8afe-9b51a34f6507.jpg",
     "venueInfo": {
@@ -25962,7 +27249,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/7/31/cortis-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947674/a19608e8-121e-43ec-96f8-f33bc3cedd43.jpg",
     "venueInfo": {
@@ -26002,7 +27289,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/31/bbno-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947702/d20240fa-50ed-4c86-a6d7-e482c34442ed.jpg",
     "venueInfo": {
@@ -26089,7 +27376,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/31/avello-x-bradeazy-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059853/a6a06deb-cd3b-4d20-9f84-e8812271795a.png",
     "venueInfo": {
@@ -26136,7 +27423,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/31/momma-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31969924/1d216c02-732f-4e5c-ab6b-35258cb660d6.jpg",
     "venueInfo": {
@@ -26251,7 +27538,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/31/khamari-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970673/f933ee8b-baf8-47a6-94cb-046131354c39.jpg",
     "venueInfo": {
@@ -26326,7 +27613,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/31/devault-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33060033/53e231a2-9346-4a41-b05d-e1e20fa5fb75.png",
     "venueInfo": {
@@ -26481,7 +27768,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/31/basement-collective-mikey-harms-larry-anthony-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32574939/f1bf68bd-2f9f-421c-9b88-b094ddee5c27.jpg",
     "venueInfo": {
@@ -26528,7 +27815,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/31/clipse-w-mick-jenkins-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31971213/91794bf7-5286-4b46-af81-ef6bf1b2edfa.jpg",
     "venueInfo": {
@@ -26622,7 +27909,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/31/partyof2-w-themind-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187483/e71b1697-7536-4fba-ae28-738dde762bf9.jpg",
     "venueInfo": {
@@ -26697,7 +27984,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/31/mrd-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059939/0550f078-8bfe-4817-9de2-5f76bce403db.jpg",
     "venueInfo": {
@@ -26744,7 +28031,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/31/lyny-w-klo-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187674/c8502588-baf7-4a81-84b3-a7c7eca45623.jpg",
     "venueInfo": {
@@ -26784,7 +28071,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/7/31/sidepiece-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33060148/005ae6e8-1f60-4bdc-a7f0-7b0a7e400c97.png",
     "venueInfo": {
@@ -26831,7 +28118,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/7/31/haute-freddy-w-valencia-grace-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32188441/e633bbdd-fa89-4e04-a4e6-97efed240634.jpg",
     "venueInfo": {
@@ -26878,7 +28165,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/7/31/spacey-jane-w-the-bends-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32189028/973d11ba-a3e0-48d7-9af3-a863a058db40.jpg",
     "venueInfo": {
@@ -26953,7 +28240,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/duke-dumont-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923753/8dfed770-022e-4a9a-ab12-f02c0929fa81.jpg",
     "venueInfo": {
@@ -26993,7 +28280,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/adela-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31946152/053eb82e-2902-4670-a442-a29fb480dcf2.jpg",
     "venueInfo": {
@@ -27040,7 +28327,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/8/1/los-retros-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31923888/3bc3baae-5764-48bb-a939-08f5e65daca6.png",
     "venueInfo": {
@@ -27120,7 +28407,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/1/after-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947060/789b4e11-e24b-434b-87a8-01138dcc1638.png",
     "venueInfo": {
@@ -27155,7 +28442,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/frost-children-b2b-ninajirachi-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947267/2979e99d-6b10-4eb6-8341-b6e221ab3584.jpg",
     "venueInfo": {
@@ -27202,7 +28489,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/8/1/the-story-so-far-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947769/5128111d-56da-4832-8587-e775ece8b8b4.jpg",
     "venueInfo": {
@@ -27294,7 +28581,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/1/mc4d-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059881/dbd88d4c-39ca-42bb-98af-aa413fe141d6.jpg",
     "venueInfo": {
@@ -27341,7 +28628,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/inji-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31969974/c472a2d9-2f2c-4270-9bdf-65014312a778.jpg",
     "venueInfo": {
@@ -27423,7 +28710,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/hot-mulligan-w-footballhead-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970284/a5f20195-1313-420a-85d5-d2716cca79a7.jpg",
     "venueInfo": {
@@ -27503,7 +28790,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/kwn-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970702/f8df0b3a-557c-4eef-8eeb-fc14d10eca99.jpg",
     "venueInfo": {
@@ -27543,7 +28830,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/1/jackie-hollander-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33060106/434fece2-ad65-4dc9-af05-f1019a206b1c.jpg",
     "venueInfo": {
@@ -27813,7 +29100,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/whatmore-w-beno-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187523/d9fce706-f20f-4075-8bb3-5ad7ba637a8a.jpg",
     "venueInfo": {
@@ -27848,7 +29135,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/1/brothers-macklovitch-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33060361/fbb94269-2aaa-4fcb-b0bc-1e7b8195b659.png",
     "venueInfo": {
@@ -27888,7 +29175,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/1/dj-dextro-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059969/f7822330-76ea-4f9a-afbe-4ba22bbf09f5.jpg",
     "venueInfo": {
@@ -27928,7 +29215,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/1/whethan-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187679/c0996a35-5d7f-48be-a53c-2e79a66c4b88.jpg",
     "venueInfo": {
@@ -27968,7 +29255,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/1/westend-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33060160/2ff928ed-f545-47bf-b796-c2791cf6603d.jpg",
     "venueInfo": {
@@ -28015,7 +29302,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/8/1/amber-mark-w-ric-wilson-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32188890/8345a369-514d-4277-b0f8-4b9b0ddbb924.jpg",
     "venueInfo": {
@@ -28055,7 +29342,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/1/jade-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32189288/015f8f69-b22a-46f2-a752-6d92db960d6b.jpg",
     "venueInfo": {
@@ -28214,7 +29501,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/2/water-from-your-eyes-w-garden-solutions-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31947161/6883f544-b104-4b8d-ae88-84b35729dc70.jpg",
     "venueInfo": {
@@ -28260,6 +29547,41 @@
     },
     "doors": "5:00PM",
     "showtime": "6:30PM"
+  },
+  {
+    "id": "do_1v4qpgn",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-08-02",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dog Days of Summer!",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/2/dog-days-of-summer-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143250/a6dc14ac-5603-4e4a-a252-e785ac08dd68.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
+    "showtime": null
   },
   {
     "id": "do_324mf5",
@@ -28428,7 +29750,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/2/ethel-cain-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31970497/9a7ce398-0002-4386-9b91-4de001fb4f89.png",
     "venueInfo": {
@@ -28475,7 +29797,7 @@
     ],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/2/waylon-wyatt-w-calder-allen-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187538/911c4c41-de59-4126-b0dc-8b12045c1cc3.jpg",
     "venueInfo": {
@@ -28550,7 +29872,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/2/dombresky-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059979/3607277a-ab65-4593-a1ec-0220f540a329.jpg",
     "venueInfo": {
@@ -28760,7 +30082,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/4/tomahawk-with-melvins-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30407922/27635041-9dc2-4155-b1df-b04b7a9287e0.jpg",
     "venueInfo": {
@@ -28838,41 +30160,6 @@
       "address": "3855 N Lincoln Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/martyrs"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_1heonhi",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-08-05",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Millennium Park",
-    "rawVenue": "Millennium Park",
-    "hood": "The Loop",
-    "headliners": [
-      {
-        "name": "Ohlsson Plays Chopin",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/8/5/ohlsson-plays-chopin-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29448259/1bdd6542-4308-4057-a774-e5a7ed9f7d6f.jpg",
-    "venueInfo": {
-      "name": "Millennium Park",
-      "address": "201 E. Randolph St",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/millennium-park"
     },
     "doors": null,
     "showtime": null
@@ -29494,6 +30781,46 @@
     "showtime": null
   },
   {
+    "id": "do_7c7yap",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-08-06",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "The Whistler",
+    "rawVenue": "The Whistler",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Heat Sync",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "heat-sync",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/8/6/heat-sync-august-2026-edition-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33130288/919ceb2e-f244-494d-b7da-003f93ae2cc3.png",
+    "venueInfo": {
+      "name": "The Whistler",
+      "address": "2421 N. Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-whistler"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_lejow7",
     "source": "do312",
     "sourceList": [
@@ -29924,41 +31251,6 @@
     "showtime": null
   },
   {
-    "id": "do_ptrf71",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-08-07",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Millennium Park",
-    "rawVenue": "Millennium Park",
-    "hood": "The Loop",
-    "headliners": [
-      {
-        "name": "Mozart Requiem",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/8/7/mozart-requiem-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29448262/9915fdce-0f99-4718-8c49-2067f80dcc88.jpg",
-    "venueInfo": {
-      "name": "Millennium Park",
-      "address": "201 E. Randolph St",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/millennium-park"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
     "id": "do_1w5ze4a",
     "source": "do312",
     "sourceList": [
@@ -30096,7 +31388,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/7/bossman-dlow-with-yung-miami-and-bally-baby-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32401115/073604bf-57c6-4e62-8d30-249452a830cc.jpg",
     "venueInfo": {
@@ -30834,41 +32126,6 @@
     "showtime": "6:30pm"
   },
   {
-    "id": "do_t7p7da",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-08-08",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Millennium Park",
-    "rawVenue": "Millennium Park",
-    "hood": "The Loop",
-    "headliners": [
-      {
-        "name": "Mozart Requiem",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/8/8/mozart-requiem-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29449642/fcf79af6-7ee4-4fb1-935a-c7158d1eebd5.jpg",
-    "venueInfo": {
-      "name": "Millennium Park",
-      "address": "201 E. Randolph St",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/millennium-park"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
     "id": "do_5raj8z",
     "source": "do312",
     "sourceList": [
@@ -30961,7 +32218,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/8/8/the-psychedelic-furs-with-special-guest-living-colour-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31894324/bef788be-e222-4cbb-b3ec-babe56a1724f.jpg",
     "venueInfo": {
@@ -31334,6 +32591,41 @@
     "showtime": "4:00PM"
   },
   {
+    "id": "do_bgjxm6",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-08-09",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dog Days of Summer!",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/9/dog-days-of-summer-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143275/a9d26565-e447-4e15-9e83-d21fea7fe7b4.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_21m0x0",
     "source": "do312",
     "sourceList": [
@@ -31633,7 +32925,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/8/9/steel-pulse-reggae-against-racism-tour-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30969058/a3cad6e2-3d8d-4c40-ab2c-b9dc7a5ae28e.png",
     "venueInfo": {
@@ -31641,6 +32933,41 @@
       "address": "1227 W. 18th Street",
       "city": "Chicago",
       "url": "https://do312.com/venues/thalia-hall"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1mvuc2f",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-08-11",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Open Jam",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/11/open-jam-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143278/263be746-f099-4637-a825-bf3643807f34.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
     },
     "doors": null,
     "showtime": null
@@ -32220,7 +33547,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/13/the-marvelous-miss-gender-starring-bosco-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30804154/ca98e978-2188-4ffd-b20a-fea8bbeeb43c.jpg",
     "venueInfo": {
@@ -32712,7 +34039,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/14/rod-thill-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32242717/be5310ed-f7ca-4b7a-bcfd-3c7982bcabfd.jpg",
     "venueInfo": {
@@ -32927,7 +34254,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/8/14/dimmu-borgir-with-hypocrisy-and-hulder-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31467842/5d610827-2d26-4aed-aa8c-8baf5eef6c86.jpg",
     "venueInfo": {
@@ -33532,7 +34859,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/15/doknow-and-da-hawmies-comedy-tour-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30280076/a6945e3c-0cc7-48d0-bc82-3b3989d14dd3.jpg",
     "venueInfo": {
@@ -33877,7 +35204,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/8/15/loe-shimmy-pretty-girls-run-the-world-tour-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32509062/37eaa206-5bfa-4c58-b79b-847b02135803.jpg",
     "venueInfo": {
@@ -34033,6 +35360,41 @@
     },
     "doors": "5:30PM",
     "showtime": "6:00PM"
+  },
+  {
+    "id": "do_1aubor0",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-08-16",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dog Days of Summer!",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/16/dog-days-of-summer-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143293/4a5abbe4-04d0-4abc-b4d6-cc577881cf9e.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
+    "showtime": null
   },
   {
     "id": "do_17xvhg9",
@@ -34229,7 +35591,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/8/16/st-lucia-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32083598/b6a7a22c-664d-48b3-bead-d83ece61f134.jpg",
     "venueInfo": {
@@ -34462,6 +35824,41 @@
     "showtime": null
   },
   {
+    "id": "do_1uqev7i",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-08-18",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Gallery Cabaret",
+    "rawVenue": "Gallery Cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Open Jam",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/18/open-jam-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143299/2b7bb99e-0043-4461-8129-e4fa866ba082.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_doqcoi",
     "source": "do312",
     "sourceList": [
@@ -34484,7 +35881,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/8/18/the-crane-wives-act-iii-with-special-guest-brye-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31054062/d32d2243-6660-4b04-beae-e2fb9b340dd5.jpg",
     "venueInfo": {
@@ -34599,7 +35996,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/8/19/molly-santana-x-north-west-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32826525/b4c552cc-06ca-4ccf-a8fe-beb8070d0924.jpg",
     "venueInfo": {
@@ -35154,7 +36551,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "21+",
     "ticketUrl": "https://do312.com/events/2026/8/20/magic-men-australia-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31724342/3e216caa-e3bc-4c00-98d4-5d45fc195b38.jpg",
     "venueInfo": {
@@ -36541,7 +37938,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/8/25/los-parceritos-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33104058/9802a0fd-b11a-41f4-b515-c6692ffcac0c.jpg",
     "venueInfo": {
@@ -36654,6 +38051,41 @@
       "address": "3111 N Western Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/constellation"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
+    "id": "do_1v24yya",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-08-26",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Huntington Bank Pavilion",
+    "rawVenue": "Huntington Bank Pavilion at Northerly Island",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Ken Carson - xperimenting tour",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/26/ken-carson-xperimenting-tour-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33173141/14b3942b-e11d-436d-bfb1-739370a3b4a2.png",
+    "venueInfo": {
+      "name": "Huntington Bank Pavilion",
+      "address": "1300 S. Lynn White Dr.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/huntington-bank-pavilion"
     },
     "doors": null,
     "showtime": null
@@ -37253,7 +38685,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/28/los-yonics-los-caminantes-grupo-yndio-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32687418/9db42d00-52be-49be-913c-8a7391109007.jpg",
     "venueInfo": {
@@ -37583,7 +39015,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/8/29/t-murph-why-am-i-raising-adults-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31766486/4c3cec1a-4ae6-4d7e-9cfb-fcd59ba9935c.jpg",
     "venueInfo": {
@@ -37591,41 +39023,6 @@
       "address": "3145 N Sheffield Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/the-vic-theatre"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_1akr51k",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-08-30",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dog Days of Summer!",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/8/30/dog-days-of-summer-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143318/e4e4ad8e-99b5-48d6-952b-b1d98175f39e.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
     },
     "doors": null,
     "showtime": null
@@ -38570,7 +39967,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/4/fortunate-youth-with-quasi-kings-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30827692/5a9f147f-6acc-472d-b3b1-adbfee703ce6.jpg",
     "venueInfo": {
@@ -38605,7 +40002,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/4/linea-personal-todo-o-nada-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32955530/bccc2a25-908a-4460-90c5-c71051c6e2e5.jpg",
     "venueInfo": {
@@ -39685,7 +41082,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/8/president-north-american-campaign-2026-with-showing-teeth-and-cenobia-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31169883/07991801-4b8c-4375-bb14-65906efea914.jpg",
     "venueInfo": {
@@ -39875,7 +41272,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/9/10/noname-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32654066/f1004105-1f45-420f-8aaa-39ee86668a12.jpg",
     "venueInfo": {
@@ -40100,7 +41497,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/9/11/noname-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32930313/f56b1894-c8ce-493b-ad45-80b7b7ca8f57.jpg",
     "venueInfo": {
@@ -40275,6 +41672,41 @@
     "showtime": null
   },
   {
+    "id": "do_1dwpyml",
+    "source": "do312",
+    "sourceList": [
+      "do312"
+    ],
+    "date": "2026-09-12",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Huntington Bank Pavilion",
+    "rawVenue": "Huntington Bank Pavilion at Northerly Island",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chief Keef Live 2026",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/9/12/chief-keef-live-2026-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33173157/4be34677-ccd5-484d-a766-56c878fa45c0.png",
+    "venueInfo": {
+      "name": "Huntington Bank Pavilion",
+      "address": "1300 S. Lynn White Dr.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/huntington-bank-pavilion"
+    },
+    "doors": null,
+    "showtime": null
+  },
+  {
     "id": "do_1ejnxku",
     "source": "do312",
     "sourceList": [
@@ -40377,7 +41809,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/12/sons-of-legion-soul-to-sol-world-tour-2026-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32894025/1c660866-932d-43f2-877c-943b5e7a6635.jpg",
     "venueInfo": {
@@ -40487,7 +41919,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/12/desi-banks-your-favorite-cousin-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29213711/1bc8f6cb-c08e-4a19-81b9-049d7e9423df.png",
     "venueInfo": {
@@ -40832,7 +42264,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/16/brandon-flowers-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32955533/e61f20a9-3d88-4e5e-8358-9ff8f3d54835.jpg",
     "venueInfo": {
@@ -40867,7 +42299,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/16/altin-gun-north-america-tour-2026-with-alex-maas-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31049966/ac9762b6-fc77-4b5f-89b3-52d26772f067.jpg",
     "venueInfo": {
@@ -40987,7 +42419,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/17/the-charlatans-uk-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31618139/f515ea36-2911-41c0-8f25-6d343c13ec44.jpg",
     "venueInfo": {
@@ -41062,7 +42494,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/17/eddie-b-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30804156/954a7ffd-555e-4ed0-a960-c69ec4ff306a.jpg",
     "venueInfo": {
@@ -41357,7 +42789,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/18/calle-24-eddy-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32337942/d16c8193-cdc4-4dd9-9dc4-33fb723a9e3e.jpg",
     "venueInfo": {
@@ -41741,7 +43173,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/19/beth-hart-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31596439/fa13869e-0022-475b-b37c-7d468760a9cc.jpg",
     "venueInfo": {
@@ -41851,7 +43283,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/19/alok-new-comedy-show-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31894397/54314164-c29b-4e9f-add8-b1407887f508.jpg",
     "venueInfo": {
@@ -41859,41 +43291,6 @@
       "address": "3145 N Sheffield Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/the-vic-theatre"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_14znns",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-09-20",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dog Days of Summer!",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/9/20/dog-days-of-summer-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143379/6e76867a-e735-4a55-b672-95c8cbcc7b18.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
     },
     "doors": null,
     "showtime": null
@@ -41921,7 +43318,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/20/she-him-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32401124/584ce7a0-4e1c-4b5f-83ac-2a0f2d5b4f74.jpg",
     "venueInfo": {
@@ -42061,7 +43458,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/22/igorrr-north-american-tour-2026-with-secret-chiefs-3-and-violent-magic-orchestra-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32211073/af419e3d-361e-4b90-9e4b-0d79e493337f.jpg",
     "venueInfo": {
@@ -42171,7 +43568,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/23/a-winged-victory-for-the-sullen-with-pan-american-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32211078/8e8651b5-3c93-4d79-94ca-52f10968aa58.jpg",
     "venueInfo": {
@@ -42588,7 +43985,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/25/whipped-cream-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32501927/bb9bc349-156a-46bc-a139-dd819461db72.jpg",
     "venueInfo": {
@@ -42955,7 +44352,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/26/crashing-out-live-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31618138/86ac6534-6d52-4e35-91a9-e0c38eb6dda4.jpg",
     "venueInfo": {
@@ -42990,7 +44387,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/26/the-garden-with-ghost-mountian-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32826524/20bbeff1-d6ad-4beb-a4b3-2b053a5e583e.jpg",
     "venueInfo": {
@@ -43060,7 +44457,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/9/26/jazz-is-dead-presents-cortex-with-adrian-younge-and-j-rocc-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33168568/fe7625ae-ba8c-4805-a243-f641b0169609.jpg",
     "venueInfo": {
@@ -43103,41 +44500,6 @@
       "address": "175 N State St",
       "city": "Chicago",
       "url": "https://do312.com/venues/the-chicago-theatre"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_ghwxsf",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-09-27",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dog Days of Summer!",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/9/27/dog-days-of-summer-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143409/eb8bb41e-8099-4c53-ac7f-51819a9cf5b7.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
     },
     "doors": null,
     "showtime": null
@@ -43275,7 +44637,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/28/chelsea-wolfe-the-dark-world-tour-with-jonathan-hulten-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32894024/86d3a27f-56e8-43c5-87dc-37df613a449e.jpg",
     "venueInfo": {
@@ -43310,7 +44672,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/9/29/laurie-anderson-with-sexmob-republic-of-love-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32767639/47eca835-af3c-4a84-bd3f-434c86fc078e.jpg",
     "venueInfo": {
@@ -43390,7 +44752,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/10/1/naomi-sharon-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32654070/0f0c4ea0-b81a-4f16-a9f9-aa25f235293e.jpg",
     "venueInfo": {
@@ -43650,7 +45012,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/10/2/isaiah-falls-with-raahiim-and-luxury-lane-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32930319/3922a1b0-bfcd-4d92-9a66-bc95282b8706.jpg",
     "venueInfo": {
@@ -43765,7 +45127,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/10/2/mastodon-with-deafheaven-and-alcest-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32478130/34fb29ff-7af7-4442-8693-35d24529da68.jpg",
     "venueInfo": {
@@ -43910,7 +45272,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/10/2/dj-shadow-celebrates-30-years-of-endtroducing-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31766487/bf7a6e31-a0c1-40bd-aa15-7840cb5778be.jpg",
     "venueInfo": {
@@ -44135,7 +45497,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/10/3/celebrating-50-years-of-buzzcocks-with-mind-s-eye-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32930321/d42c63a3-3a54-45c3-a39e-4aba9c923909.jpg",
     "venueInfo": {
@@ -44298,41 +45660,6 @@
     "showtime": null
   },
   {
-    "id": "do_1jq7mn6",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-10-04",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dog Days of Summer!",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/10/4/dog-days-of-summer-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143429/84260357-37a6-4bcb-82b1-5a461ecf84ef.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
     "id": "do_1fytjsk",
     "source": "do312",
     "sourceList": [
@@ -44460,7 +45787,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "17+",
     "ticketUrl": "https://do312.com/events/2026/10/6/kelela-new-avatar-live-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32448416/6a069c65-b72a-4c95-b19c-a6e4f35a2e86.jpg",
     "venueInfo": {
@@ -45063,41 +46390,6 @@
     "showtime": null
   },
   {
-    "id": "do_k2vbsw",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-10-11",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dog Days of Summer!",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/10/11/dog-days-of-summer-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143452/f602bf1c-04eb-48b3-97c4-ff2fe40795d4.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
     "id": "do_44a9p1",
     "source": "do312",
     "sourceList": [
@@ -45235,7 +46527,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/10/14/alvaro-diaz-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32613471/1dbb6edf-1658-48b5-94c5-94242a78726f.jpg",
     "venueInfo": {
@@ -45510,7 +46802,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/10/16/subtronics-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32893998/7d564d28-995a-40a2-bc34-a9ad4c67a48f.jpg",
     "venueInfo": {
@@ -45665,7 +46957,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/10/17/subtronics-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32894010/8be9d5a1-3f76-4287-bf44-51288656e52d.jpg",
     "venueInfo": {
@@ -45780,7 +47072,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "ALL AGES",
     "ticketUrl": "https://do312.com/events/2026/10/17/judah-the-lion-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32732021/9b88ae62-0830-4b05-ab09-193ad7f0824e.jpg",
     "venueInfo": {
@@ -45860,7 +47152,7 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
+    "age": "18+",
     "ticketUrl": "https://do312.com/events/2026/10/18/subtronics-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32955431/7145f4c1-3623-42a2-b85e-2401bf9d8606.jpg",
     "venueInfo": {
@@ -46120,41 +47412,6 @@
     "showtime": null
   },
   {
-    "id": "do_dwku2f",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-10-27",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Open Jam",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/10/27/open-jam-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143492/381599fb-5047-4169-b443-a5694b56daa1.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
     "id": "do_yb914v",
     "source": "do312",
     "sourceList": [
@@ -46190,76 +47447,6 @@
       "address": "600 East Grand Avenue",
       "city": "Chicago",
       "url": "https://do312.com/venues/navy-pier"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_2xncv6",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-10-30",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Ramova Loft",
-    "rawVenue": "Ramova Theatre",
-    "hood": "Bridgeport",
-    "headliners": [
-      {
-        "name": "Periphery - A Pale White Dot US Tour",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/10/30/periphery-a-pale-white-dot-us-tour-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32318759/6e0c6e00-b9e5-4684-ba70-df944713ce3e.jpg",
-    "venueInfo": {
-      "name": "Ramova Loft",
-      "address": "3520 S Halsted St.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/ramova-loft"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_1esc09m",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-10-30",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Ramova Theatre",
-    "rawVenue": "Ramova Theatre",
-    "hood": "Bridgeport",
-    "headliners": [
-      {
-        "name": "Periphery - A Pale White Dot US Tour",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/10/30/periphery-a-pale-white-dot-us-tour-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32318759/6e0c6e00-b9e5-4684-ba70-df944713ce3e.jpg",
-    "venueInfo": {
-      "name": "Ramova Theatre",
-      "address": "3520 S Halsted St.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/ramova-theatre"
     },
     "doors": null,
     "showtime": null
@@ -46375,41 +47562,6 @@
       "address": "2047 N. Milwaukee Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/concord-music-hall"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_sgszoy",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-11-03",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Open Jam",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/11/3/open-jam-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143514/0bfcff7f-dff0-4373-a9e5-9e5dada1f529.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
     },
     "doors": null,
     "showtime": null
@@ -46990,41 +48142,6 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/cole-s-bar"
-    },
-    "doors": null,
-    "showtime": null
-  },
-  {
-    "id": "do_1k3gi54",
-    "source": "do312",
-    "sourceList": [
-      "do312"
-    ],
-    "date": "2026-12-08",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Gallery Cabaret",
-    "rawVenue": "Gallery Cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Open Jam",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/12/8/open-jam-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143636/93e36dfe-95a5-4076-ba38-4badc1aee64d.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
     },
     "doors": null,
     "showtime": null
