@@ -84,6 +84,7 @@ Closed: Golden Dagger (2023), Trace (remodel). IG-only: Wax, Sweethearts Bar, Ca
 - `venue-master-list.md` — the original ~190-venue plan doc (reference only, older than the registry)
 - `sourcing-pipeline-plan.md` — the original 6-tier sourcing strategy (reference; several assumptions turned out wrong — see below)
 - `venue-coverage.csv` — snapshot spreadsheet of which venues have working sources (per-venue status; regenerate on demand)
+- `chicago-show-calendar.jsx` — **stale mirror**, do not trust. The SPA rewrite lives only in `index.html`. This file was the pre-SPA source and has drifted; leave it alone or delete it when convenient.
 
 **Adapters + pipeline**
 - `do312-adapter.mjs`, `jsonld-harvester.mjs`, `oneoff-adapter.mjs`, `askapunk-adapter.mjs`, `dice-adapter.mjs`, `tm-adapter.mjs` (unused per user directive), `normalize.mjs`, `decode-entities.mjs`, `pull.sh`
@@ -138,6 +139,19 @@ node coverage.mjs
 ```
 Run it whenever configs/registry/shows.json change. The Notes column carries the "why" for venues with no source.
 
+### Sanity-check a React edit to `index.html`
+`python3 -m http.server` won't surface JSX parse errors until the browser tries to eval — hunts get long. Round-trip through Babel first:
+```bash
+TMP=$(mktemp -d) && cd "$TMP" && npm init -y >/dev/null && npm install --silent @babel/core @babel/preset-react
+node -e "
+const fs=require('fs'), babel=require('$TMP/node_modules/@babel/core');
+const html=fs.readFileSync('$OLDPWD/index.html','utf8');
+const m=html.match(/<script type=\"text\/babel\"[^>]*>([\s\S]*?)<\/script>/);
+babel.transformSync(m[1],{presets:['$TMP/node_modules/@babel/preset-react']});
+console.log('OK');
+"
+```
+
 ### Push to production
 **Ask first.** Then:
 ```bash
@@ -175,6 +189,16 @@ Every column-level surface — `.col.list`, `.col.detail`, `.col.placeholder`, `
 
 ### The at-rest wall
 When the stack is empty, the SPA renders a "placeholder" column (mode-aware invite + a flowing "PICK A SHOW" or "PICK A VENUE" wall). It's ONE flowing block of ~800 spans joined by spaces; `white-space: nowrap` on spans, natural word wrap between them, `overflow: hidden` on parent clips overflow. **Do not** put each phrase on its own row — the earlier row-based approach was rejected by the user.
+
+## Known follow-ups (2026-07-13 audit)
+
+Threads left open after the SPA merge + audit fixes. Pick these up when relevant:
+
+- **Genre facet is currently a no-op.** Every `headliner`/`opener` from every adapter arrives with `genre: "music"`, so `genreOpts` collapses to a single option and the PLAYING slot in the mad-lib now hides itself (see `hasGenres` in `App`). Restoring the facet requires either (a) real per-artist genre tags from the pipeline, or (b) sourcing genres from a different field.
+- **`data/jsonld-shows.json` is empty (0 bytes).** The harvester runs during `pull.sh` but produces no output — either JSON-LD isn't being emitted at the configured URLs anymore, or the parser stopped matching. Not blocking, but worth an afternoon.
+- **`venue-details.json` has ~1 entry.** VenuePane's Details tab therefore shows "This venue doesn't have curated details yet" for effectively every venue. Content debt, not a bug.
+- **129/192 venues (67%) are missing `hood`.** The venues-mode grouped view produces a large "Unassigned" section. Backfill `venue-registry.json` when next editing it.
+- **Past shows can drift into `shows.json` between pulls.** `normalize.mjs` drops `date < today` at pull time, but git-committed `shows.json` ages after that. The rail is intentionally locked to `weekOffset ≥ 0` (see `shiftWeek` in `index.html`), so the drift is invisible in the UI — but if the pipeline stalls, users would see empty days. A client-side `>= today` filter would be belt-and-suspenders.
 
 ## Deployment stack (do not change without asking)
 

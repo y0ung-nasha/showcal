@@ -801,6 +801,9 @@ function App() {
   const targetDays = useMemo(() => sliding ? buildWeek(sliding.target) : null, [shows, sliding]);
   const shiftWeek = (dir) => {
     if (sliding) return;
+    // Rail is locked to weekOffset >= 0 by design; past-week nav is
+    // intentionally disabled. Any past shows in shows.json are unreachable
+    // from the UI (see CLAUDE.md follow-ups).
     if (dir < 0 && weekOffset === 0) return;
     const target = weekOffset + dir;
     setSliding({ target, dir: dir > 0 ? "next" : "prev" });
@@ -1153,6 +1156,10 @@ function CalendarList(props) {
                 <button className={"slot" + (selHoods.length ? " filled" : "")} onClick={() => openPicker("hood")}>
                   {slotText(selHoods, "ANYWHERE")} <span className="car">▾</span>
                 </button>
+                {/* PLAYING slot hides when the day has only one distinct genre. */}
+                {/* Upstream currently emits genre="music" for every artist, so    */}
+                {/* the slot is effectively always hidden until the pipeline emits */}
+                {/* real genres. See CLAUDE.md > Known follow-ups.                 */}
                 {hasGenres && (
                   <>
                     <span className="lex">PLAYING</span>
