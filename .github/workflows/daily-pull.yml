@@ -1,0 +1,64 @@
+name: Daily data refresh
+
+# Scrapes all sources, regenerates shows.json + the venue tracker, and pushes
+# to main so Cloudflare Pages auto-deploys. Runs unattended once a day.
+#
+# Consent note: this job auto-pushes to main by design (approved 2026-07-14).
+# It is the ONLY automated pusher; all other pushes remain manual.
+
+on:
+  schedule:
+    - cron: "0 9 * * *"      # 09:00 UTC daily = 04:00 CDT / 03:00 CST (overnight in Chicago)
+  workflow_dispatch: {}       # allow manual runs from the Actions tab
+
+concurrency:
+  group: daily-pull
+  cancel-in-progress: false
+
+permissions:
+  contents: write             # needed for the bot to push the refreshed data
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Run pipeline (enriched)
+        run: ./pull.sh --enrich
+
+      - name: Regenerate coverage CSV
+        run: node coverage.mjs
+
+      - name: Build tracker workbook
+        run: |
+          npm install --no-save --silent exceljs
+          NODE_PATH="$PWD/node_modules" node make-tracker-xlsx.mjs
+
+      - name: Upload tracker workbook artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: venue-tracker-xlsx
+          path: venue-tracker.xlsx
+          retention-days: 14
+
+      - name: Commit & push refreshed data
+        run: |
+          git config user.name  "showcal-bot"
+          git config user.email "actions@github.com"
+          # Track only the pipeline's data outputs — never node_modules or the xlsx binary.
+          git add shows.json data/*.json venue-coverage.csv
+          if git diff --cached --quiet; then
+            echo "No data changes — nothing to deploy."
+          else
+            git commit -m "Daily data refresh ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Pushed — Cloudflare Pages will redeploy."
+          fi

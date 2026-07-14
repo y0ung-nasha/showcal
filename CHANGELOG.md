@@ -4,6 +4,42 @@ All notable changes ship here. Latest at the top. Dates are the day the
 change went to `main` (auto-deploys to https://showcal.westindia.co within
 ~30 sec of push).
 
+## 2026-07-14
+
+### Daily data refresh automation + venue tracker workbook
+
+- Added `.github/workflows/daily-pull.yml` — a scheduled GitHub Actions job
+  (09:00 UTC daily, ≈3–4am Chicago) that runs `./pull.sh --enrich`,
+  regenerates the coverage CSV, builds the tracker workbook, and **auto-pushes
+  the refreshed `shows.json` + raw data to `main`** so Cloudflare redeploys.
+  This is the one sanctioned automated pusher (consent given 2026-07-14); all
+  other pushes stay manual. Also runnable on demand via the Actions tab.
+- Added `make-tracker-xlsx.mjs` — builds a styled, multi-tab
+  `venue-tracker.xlsx` (Summary + All Venues + Established / Configured–No Data
+  / No Source, color-coded by status, clickable URLs). Companion to
+  `coverage.mjs` (which stays the flat-CSV generator). `exceljs` is resolved
+  via `NODE_PATH`, not vendored — the repo stays build-free. The `.xlsx` is
+  gitignored (on-demand export / CI artifact, not tracked).
+- Ran a fresh enriched pull: `shows.json` now 1,699 shows (2026-07-14 →
+  2028-11-07), price/age enrichment refreshed, past-date drift cleared.
+  Tracker snapshot: 99 established · 75 configured-no-data · 18 no-source.
+
+### JSON-LD harvester: false-alarm cleanup
+
+Investigated the "empty `data/jsonld-shows.json`" follow-up. The harvester
+was never broken — a live run parses all 8 configured venues (243 shows).
+`pull.sh` writes the harvest to `data/venue-site-shows.json`; the empty
+`jsonld-shows.json` was a stale orphan left by the CLI's old default
+`--out` path.
+
+- Aligned the harvester's default `--out` to `./data/venue-site-shows.json`
+  so bare runs and `pull.sh` agree and the orphan can't reappear.
+- Deleted the stale `data/jsonld-shows.json`.
+- Fixed the stale usage-comment example in `normalize.mjs`.
+- Marked the follow-up resolved in `CLAUDE.md`, with a note that Cole's Bar's
+  `--follow` detail crawl 404s harmlessly (listing page already carries full
+  Event JSON-LD, so no shows are lost).
+
 ## 2026-07-13
 
 Big session: the calendar page and venues page merged into a single React

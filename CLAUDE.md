@@ -14,7 +14,7 @@ A single-page static calendar for Chicago live music, deployed at **https://show
 
 These are durable — every session inherits them. Do not break them without explicit permission.
 
-1. **Never `git push` without explicit consent per push.** One prior approval doesn't carry forward — ask each time. Say "Ready locally at http://localhost:8080/ — say the word to push." after each meaningful change.
+1. **Never `git push` without explicit consent per push.** One prior approval doesn't carry forward — ask each time. Say "Ready locally at http://localhost:8080/ — say the word to push." after each meaningful change. **Exception:** the `daily-pull.yml` GitHub Actions job auto-pushes refreshed data to `main` once a day (user consented 2026-07-14). That standing consent covers *only* that automated job — it does not extend to any push you make by hand.
 2. **Always pick the cheapest viable option** for tools, hosts, plans, dependencies. Free-tier > paid. Own scrapers > paid data APIs. Ask before committing to any recurring cost.
 3. **Do not add the project back into iCloud.** iCloud has a history of corrupting `.git`. It lives at `~/Projects/showcal/` for a reason.
 
@@ -88,7 +88,9 @@ Closed: Golden Dagger (2023), Trace (remodel). IG-only: Wax, Sweethearts Bar, Ca
 
 **Adapters + pipeline**
 - `do312-adapter.mjs`, `jsonld-harvester.mjs`, `oneoff-adapter.mjs`, `askapunk-adapter.mjs`, `dice-adapter.mjs`, `tm-adapter.mjs` (unused per user directive), `normalize.mjs`, `decode-entities.mjs`, `pull.sh`
-- `coverage.mjs` — regenerates `venue-coverage.csv` from registry + configs + shows.json
+- `coverage.mjs` — regenerates `venue-coverage.csv` (flat tracker) from registry + configs + shows.json
+- `make-tracker-xlsx.mjs` — builds the styled multi-tab `venue-tracker.xlsx` (Summary + All Venues + Established/Configured-No-Data/No-Source). Needs `exceljs` via `NODE_PATH` (not vendored — repo stays build-free); the `.xlsx` output is gitignored. Run: `NODE_PATH=<dir-with-exceljs> node make-tracker-xlsx.mjs`
+- `.github/workflows/daily-pull.yml` — scheduled CI (09:00 UTC daily) that reruns the pipeline and **auto-pushes refreshed data to `main`**. See Deployment stack.
 - `probe-venues.mjs` — fingerprints venue websites for scrapeable calendar tech (JSON-LD, platform signatures); feed it a TSV of `id<TAB>url`
 
 **Data (raw)**
@@ -195,7 +197,7 @@ When the stack is empty, the SPA renders a "placeholder" column (mode-aware invi
 Threads left open after the SPA merge + audit fixes. Pick these up when relevant:
 
 - **Genre facet is currently a no-op.** Every `headliner`/`opener` from every adapter arrives with `genre: "music"`, so `genreOpts` collapses to a single option and the PLAYING slot in the mad-lib now hides itself (see `hasGenres` in `App`). Restoring the facet requires either (a) real per-artist genre tags from the pipeline, or (b) sourcing genres from a different field.
-- **`data/jsonld-shows.json` is empty (0 bytes).** The harvester runs during `pull.sh` but produces no output — either JSON-LD isn't being emitted at the configured URLs anymore, or the parser stopped matching. Not blocking, but worth an afternoon.
+- ~~**`data/jsonld-shows.json` is empty (0 bytes).**~~ **Resolved 2026-07-14 — false alarm.** The harvester was never broken: `pull.sh` writes its output to `data/venue-site-shows.json` (not `jsonld-shows.json`), and a live run confirms all 8 configured venues parse (243 shows: Andy's Jazz 95, Cole's 69, Elastic 40, Winter's 20, Sleeping Village 6, The Tonk 8, Carol's 3, Lee's 2). The empty `data/jsonld-shows.json` was a stale orphan created by the CLI's old default `--out` path; the default now matches `pull.sh` (`./data/venue-site-shows.json`) and the orphan file was deleted. Note: Cole's Bar's `--follow` detail-page crawl 404s on every link, but the listing page already carries full Event JSON-LD so no shows are lost — the follow pass is just wasted requests for that venue (drop `eventPathIncludes` from its `jsonld-venues.json` entry if the noise bothers you).
 - **`venue-details.json` has ~1 entry.** VenuePane's Details tab therefore shows "This venue doesn't have curated details yet" for effectively every venue. Content debt, not a bug.
 - **129/192 venues (67%) are missing `hood`.** The venues-mode grouped view produces a large "Unassigned" section. Backfill `venue-registry.json` when next editing it.
 - **Past shows can drift into `shows.json` between pulls.** `normalize.mjs` drops `date < today` at pull time, but git-committed `shows.json` ages after that. The rail is intentionally locked to `weekOffset ≥ 0` (see `shiftWeek` in `index.html`), so the drift is invisible in the UI — but if the pipeline stalls, users would see empty days. A client-side `>= today` filter would be belt-and-suspenders.
@@ -204,6 +206,7 @@ Threads left open after the SPA merge + audit fixes. Pick these up when relevant
 
 - **GitHub**: `y0ung-nasha/showcal`, public, `main` branch, HTTPS auth via `gh auth` on this machine
 - **Cloudflare Pages**: project `showcal`, auto-deploys from GitHub `main`, output dir `/`, no build command
+- **GitHub Actions daily refresh**: `.github/workflows/daily-pull.yml` runs `./pull.sh --enrich` at 09:00 UTC daily, regenerates `venue-coverage.csv`, uploads `venue-tracker.xlsx` as a run artifact (14-day retention), and pushes `shows.json` + `data/*.json` + the CSV to `main` (only if data changed). Uses the default `GITHUB_TOKEN` with `contents: write` — no PAT needed. Watch for CI-IP blocking: GitHub runners can get 403'd by venue sites (esp. Do312/Cloudflare-fronted) where a residential IP succeeds; if daily counts crater vs a local pull, that's the cause. Also runnable on demand from the Actions tab (`workflow_dispatch`).
 - **DNS**: `westindia.co` is at **GoDaddy** (nameservers `ns31/ns32.domaincontrol.com`). Do NOT recommend nameserver migration to Cloudflare — user picked "use current DNS provider" specifically to avoid that. Custom domain is a single CNAME: `showcal` → `showcal-2fa.pages.dev` at GoDaddy.
 - **SSL**: auto-issued by Cloudflare (Google Trust Services CA), auto-renews
 

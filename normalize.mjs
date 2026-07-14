@@ -12,7 +12,7 @@
  *   4. Write ./data/shows.json (what the app reads) + a report of unresolved venues.
  *
  * USAGE
- *   node normalize.mjs --in ./data/jsonld-shows.json [--in ./data/dice-shows.json ...]
+ *   node normalize.mjs --in ./data/venue-site-shows.json [--in ./data/dice-shows.json ...]
  *                      [--registry ./venue-registry.json] [--out ./data/shows.json]
  */
 

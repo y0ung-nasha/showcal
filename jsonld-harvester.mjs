@@ -8,7 +8,7 @@
  * the Etix family (Lincoln Hall / Schubas / Metro), and most WordPress/Squarespace bars.
  *
  * USAGE
- *   node jsonld-harvester.mjs --venues ./venues.json [--out ./data/jsonld-shows.json]
+ *   node jsonld-harvester.mjs --venues ./venues.json [--out ./data/venue-site-shows.json]
  *                             [--follow] [--max-events 80] [--delay 600]
  *
  *   venues.json: [{ "id","name"|null,"hood","url","eventPathIncludes"? }, ...]
@@ -193,7 +193,7 @@ export async function harvestVenue(cfg, opts = {}) {
 
 // ---------------- CLI ----------------
 function parseArgs(argv) {
-  const a = { venues: "./venues.json", out: "./data/jsonld-shows.json", follow: false, maxEvents: 80, delay: 600 };
+  const a = { venues: "./venues.json", out: "./data/venue-site-shows.json", follow: false, maxEvents: 80, delay: 600 };
   for (let i = 2; i < argv.length; i++) {
     const k = argv[i], v = argv[i + 1];
     if (k === "--venues") { a.venues = v; i++; }
