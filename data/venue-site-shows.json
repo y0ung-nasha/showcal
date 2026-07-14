@@ -2304,38 +2304,6 @@
     }
   },
   {
-    "id": "vs_1coin27",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-13",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Club Chiffon: Live Band Burlesque, Pole & Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-29.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_ygw145",
     "source": "venue-site",
     "sourceList": [
@@ -2461,44 +2429,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_nkneqq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Equip",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Mukqs",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/vgm-night-july-13-2026-691216",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/216/compressed/VGNsquare1.jpg?1782754114",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -3791,6 +3721,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_n96o6g",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-20",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night w/ mir.frieda",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-65.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -8119,6 +8081,38 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/missspoken-december-28-2026-691261",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/261/compressed/etix-MissSpoken_663571736946266.jpg?1776872962",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_nuwll2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-31",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Comedy Open Mic",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-december-30-2026-717979",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/979/compressed/IMG_9453_2.jpg?1781551178",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
