@@ -137,23 +137,37 @@ export function harvestDo312Page(html, cfg) {
 // and per-artist Person microdata linking to Do312 artist pages.
 export function parseDetail(html) {
   const startDate = (html.match(/itemprop="startDate"[^>]*(?:datetime|content)="([^"]+)"/) || [])[1] || null;
-  const priceTitle = (html.match(/itemprop="price"[^>]*title="([^"]+)"/)
+  const priceTitleRaw = (html.match(/itemprop="price"[^>]*title="([^"]+)"/)
                   || html.match(/title="([^"]+)"[^>]*itemprop="price"/) || [])[1] || null;
+  const priceTitle = priceTitleRaw ? decodeEntities(priceTitleRaw) : null;
   const descBlock = (html.match(/class="ds-event-description-inner[^"]*"[^>]*>([\s\S]{0,4000}?)<\/div>/) || [])[1] || "";
   const descText = descBlock.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
   const ageMatch = descText.match(/\b(\d{2})\s*\+/) || (descText.match(/\ball\s*ages\b/i) ? [null, "ALL"] : null);
   const doorsMatch = descText.match(/Doors?:?\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))/i);
   const showMatch = descText.match(/Show(?:time)?:?\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM))/i);
 
+  // Do312 overloads itemprop="price" — it can hold a dollar amount, "Free",
+  // "Sold Out", or an age gate like "18 & Over" / "All Ages". Age-shaped
+  // titles must land in `age`, not get discarded as an unparseable price.
   let price = null;
+  let ageFromTitle = null;
   if (priceTitle) {
-    const clean = priceTitle.replace(/[$,]/g, "").trim();
-    if (/free/i.test(priceTitle)) price = "FREE";
-    else if (clean && !Number.isNaN(Number(clean))) price = Number(clean);
+    const t = priceTitle.trim();
+    const ageOverMatch = t.match(/^\s*(\d{2})\s*(?:\+|&\s*over)\s*$/i);
+    if (ageOverMatch) {
+      ageFromTitle = `${ageOverMatch[1]}+`;
+    } else if (/^\s*all\s*ages\s*$/i.test(t)) {
+      ageFromTitle = "ALL AGES";
+    } else if (/free/i.test(t)) {
+      price = "FREE";
+    } else {
+      const clean = t.replace(/[$,]/g, "").trim();
+      if (clean && !Number.isNaN(Number(clean))) price = Number(clean);
+    }
   }
 
-  let age = null;
-  if (ageMatch) age = ageMatch[1] === "ALL" ? "ALL AGES" : `${ageMatch[1]}+`;
+  let age = ageFromTitle;
+  if (!age && ageMatch) age = ageMatch[1] === "ALL" ? "ALL AGES" : `${ageMatch[1]}+`;
 
   const time = (startDate || "").match(/T(\d{2}:\d{2})/)?.[1] || null;
 
