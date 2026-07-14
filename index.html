@@ -15,7 +15,7 @@
 <script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone@7.24.7/babel.min.js"></script>
-<style>html,body,#root{height:100%} body{margin:0}</style>
+<style>html,body,#root{height:100vh;height:100dvh} body{margin:0}</style>
 </head>
 <body>
 <div id="root"></div>
@@ -79,7 +79,7 @@ const CSS = `
   font-family:var(--font-display); color:var(--ink);
   font-size:20px; letter-spacing:-.02em; line-height:1;
   padding:14px 18px; text-transform:uppercase;
-  display:flex; align-items:center; gap:0;
+  display:flex; align-items:center;
   background:transparent; border:none; cursor:pointer;
 }
 .wordmark .dot{ color:var(--tomato); }
@@ -230,7 +230,7 @@ const CSS = `
   font-family:var(--font-mono); font-size:11px; font-weight:700;
   letter-spacing:.04em; text-transform:uppercase;
   background:var(--paper); color:var(--ink);
-  border:2px solid var(--ink); padding:3px 9px; cursor:pointer;
+  border:2px solid var(--ink); padding:7px 10px; cursor:pointer;
   transition:transform .07s linear, box-shadow .07s linear;
 }
 .chip:hover{ box-shadow:2px 2px 0 var(--ink); transform:translate(-1px,-1px); }
@@ -249,7 +249,7 @@ const CSS = `
   font-family:var(--font-mono); font-weight:800; font-size:12px;
   letter-spacing:.03em; text-transform:uppercase;
   background:var(--paper); color:var(--ink);
-  border:2px solid var(--ink); padding:3px 9px; cursor:pointer;
+  border:2px solid var(--ink); padding:7px 10px; cursor:pointer;
   box-shadow:2px 2px 0 var(--ink);
   display:inline-flex; align-items:center; gap:7px;
   transition:transform .07s linear, box-shadow .07s linear;
@@ -332,14 +332,15 @@ const CSS = `
   font-family:var(--font-display); text-transform:uppercase;
   font-size:19px; line-height:1; letter-spacing:-.01em; margin:5px 0 8px;
 }
-.row .meta, .vrow .meta{ display:flex; align-items:center; gap:6px; flex-wrap:wrap; }
+.row .meta, .vrow .meta{ display:flex; align-items:center; gap:8px; }
+.row .tags{ display:flex; align-items:center; gap:6px; flex-wrap:wrap; min-width:0; flex:1 1 auto; }
 .tag{
   font-size:10px; font-weight:700; letter-spacing:.06em; text-transform:uppercase;
-  border:1.5px solid var(--ink); padding:1px 6px; background:var(--paper);
+  border:1.5px solid var(--ink); padding:3px 7px; background:var(--paper);
 }
 .pill{
   font-size:11px; font-weight:800; letter-spacing:.03em;
-  margin-left:auto; display:flex; gap:6px; align-items:center;
+  flex:0 0 auto; display:flex; gap:6px; align-items:center;
 }
 .pill > * + *::before{ content:"·"; margin-right:6px; opacity:.55; }
 .pill .price.free{ color:var(--tomato); }
@@ -400,7 +401,7 @@ const CSS = `
 .d-fact .v.free{ color:var(--tomato); }
 
 .d-poster{ background:var(--ink); border-bottom:3px solid var(--ink); }
-.d-poster img{ display:block; width:100%; height:360px; object-fit:contain; background:var(--ink); }
+.d-poster img{ display:block; width:100%; height:360px; max-height:45vh; object-fit:contain; background:var(--ink); }
 
 /* ---------- SECTIONS + LINEUP + VENUE INFO ---------- */
 .section{ padding:16px 20px; border-bottom:2px solid var(--ink); }
@@ -568,6 +569,17 @@ const CSS = `
 .rest .wall span:nth-child(odd){ color:var(--tomato); }
 .rest .wall span:nth-child(even){ color:var(--ink); }
 .rest .wall span:nth-child(7n){ font-style:italic; }
+
+@media (max-width:480px){
+  .madlib{ font-size:12px; gap:6px 6px; }
+  .madlib .lex{ display:none; }
+  .madlib-clear{ margin-top:6px; }
+}
+@media (max-width:400px){
+  .d-fact{ padding:9px 8px; }
+  .d-fact .v{ font-size:15px; }
+  .d-fact .k{ letter-spacing:.08em; }
+}
 
 @media (prefers-reduced-motion:reduce){ .csc *{ transition:none !important; animation:none !important; } }
 `;
@@ -851,6 +863,14 @@ function App() {
 
   // reset day-scoped filters when the day changes
   useEffect(() => { clearAll(); setSortKey("default"); setFiltersOpen(false); setSortOpen(false); setPicker(null); }, [dayIso]);
+
+  // Esc closes the picker modal
+  useEffect(() => {
+    if (!picker) return;
+    const onKey = (e) => { if (e.key === "Escape") setPicker(null); };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [picker]);
   useEffect(() => {
     if (days.length && !days.some((d) => d.iso === dayIso)) {
       const first = days.find((d) => d.count > 0) || days[0];
@@ -966,6 +986,7 @@ function App() {
                     selHoods={selHoods} selGenres={selGenres} selAges={selAges} freeOnly={freeOnly}
                     setFreeOnly={setFreeOnly} openPicker={openPicker} slotText={slotText}
                     clearAll={clearAll} SORTS={SORTS}
+                    hasGenres={genreOpts.length > 1}
                     onOpenShow={(id) => pushCol({ type: "show", id })}
                   />
                 : <VenuesList
@@ -1065,7 +1086,7 @@ function CalendarList(props) {
     filtersOpen, setFiltersOpen, sortOpen, setSortOpen,
     activeFilterCount, anyFilter, sortKey, setSortKey,
     selHoods, selGenres, selAges, freeOnly, setFreeOnly, openPicker, slotText,
-    clearAll, SORTS, onOpenShow,
+    clearAll, SORTS, hasGenres, onOpenShow,
   } = props;
 
   const renderWeek = (weekDays) => (
@@ -1132,10 +1153,14 @@ function CalendarList(props) {
                 <button className={"slot" + (selHoods.length ? " filled" : "")} onClick={() => openPicker("hood")}>
                   {slotText(selHoods, "ANYWHERE")} <span className="car">▾</span>
                 </button>
-                <span className="lex">PLAYING</span>
-                <button className={"slot" + (selGenres.length ? " filled" : "")} onClick={() => openPicker("genre")}>
-                  {slotText(selGenres, "ANY GENRE")} <span className="car">▾</span>
-                </button>
+                {hasGenres && (
+                  <>
+                    <span className="lex">PLAYING</span>
+                    <button className={"slot" + (selGenres.length ? " filled" : "")} onClick={() => openPicker("genre")}>
+                      {slotText(selGenres, "ANY GENRE")} <span className="car">▾</span>
+                    </button>
+                  </>
+                )}
                 <span className="lex">FOR</span>
                 <button className={"slot" + (selAges.length ? " filled" : "")} onClick={() => openPicker("age")}>
                   {slotText(selAges, "ANY AGE")} <span className="car">▾</span>
@@ -1188,7 +1213,9 @@ function CalendarList(props) {
               </div>
               <div className="head">{h.name}</div>
               <div className="meta">
-                {genresOf(s).filter((g) => g !== "music").slice(0, 3).map((g) => <span key={g} className="tag">{g}</span>)}
+                <span className="tags">
+                  {genresOf(s).filter((g) => g !== "music").slice(0, 3).map((g) => <span key={g} className="tag">{g}</span>)}
+                </span>
                 <span className="pill">
                   {s.age && <span className="ages">{s.age}</span>}
                   <span className={"price" + (s.price === "FREE" ? " free" : "")}>{fmtPrice(s.price)}</span>
