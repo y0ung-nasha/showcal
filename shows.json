@@ -1,991 +1,5 @@
 [
   {
-    "id": "show_s8la9o",
-    "date": "2026-07-14",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Sharkey-Heath Xperience",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-sharkey-heath-xperience/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Sharkey-Heath-Xperience.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1d3okeg",
-    "date": "2026-07-14",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Sharkey-Heath Xperience",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-sharkey-heath-xperience/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Sharkey-Heath-Xperience.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1foj5jq",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Broken Hearts",
-    "venueId": "broken-hearts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Two Step Tuesdays : 2nd Tuesday with Brandon Good",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 5,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/two-step-tuesdays-2nd-tuesday-with-brandon-good-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33010812/8da5daea-52ac-45cd-9bcc-5cc093cbba8a.jpg",
-    "venueInfo": {
-      "name": "Broken Hearts",
-      "address": null,
-      "city": null,
-      "url": "https://do312.com/venues/broken-hearts"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_a98tan",
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cafe Mustache",
-    "venueId": "cafe-mustache",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "ÖSTEN (Album Release), Faceeater",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/osten-album-release-faceeater-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33157415/f2545ad8-55d5-467f-a427-1eb4f1427c70.jpg",
-    "venueInfo": {
-      "name": "Cafe Mustache",
-      "address": "2313 N. Milwaukee Ave.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/cafe-mustache"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_tn6j6b",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Clara",
-    "venueId": "clara",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Silvergirl",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "silvergirl",
-        "spotify": null,
-        "bandcamp": null,
-        "youtube": null,
-        "instagram": null,
-        "website": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/silvergirl-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33226016/cb9355c2-1f5b-44e3-b18b-b7af9a397441.jpg",
-    "venueInfo": {
-      "name": "Clara",
-      "address": null,
-      "city": null,
-      "url": "https://do312.com/venues/clara"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1xp0wxt",
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "venueId": "cobra-lounge",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "Twin Fin: The Kings of the Coast Tour",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/twin-fin-the-kings-of-the-coast-tour-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31938921/4813bac0-1ea1-4c46-b2fc-1cd58a81ddaf.jpg",
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N. Ashland Ave.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/cobra-lounge"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_10alhzk",
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "venueId": "cobra-lounge",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "Dutch Cove",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Twin Fin",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/v3d2xg-twin-fin-the-kings-of-the-coast-tour-w-dutch-cove-14th-jul-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb4d1071610262b012a9a6f656",
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_19fw9b4",
-    "date": "2026-07-14",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Color Club",
-    "venueId": "color-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "DD Island: Setting Sun Tour",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "18+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/dd-island-setting-sun-tour-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32366292/5274086b-cd82-4aea-b346-4fc43b22c5c0.jpg",
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 N Elston Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/color-club"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_16yw9ex",
-    "date": "2026-07-14",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "venueId": "dorian-s",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jazz Happy Hour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "FLEX Trio",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-w-flex-trio-9/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_5z6r9u",
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Elastic Arts",
-    "venueId": "elastic-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tone Glow Presents: Perceptual Ambiguity — Elastic Arts Foundation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a501c1147f2ff1a9555a6ac/1783635160452/perpetual+ambiguity+flyer.png?format=1500w",
-    "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1d3e3dt",
-    "date": "2026-07-14",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Empty Bottle",
-    "venueId": "empty-bottle",
-    "hood": "Ukrainian Village",
-    "headliners": [
-      {
-        "name": "The Body",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "the-body",
-        "spotify": "https://open.spotify.com/artist/1qEbRuQnKWZLfypT6Z2aFN",
-        "bandcamp": null,
-        "youtube": "https://www.youtube.com/channel/gdzJRfuHo_U",
-        "instagram": "http://instagram.com/https://www.instagram.com/christsredeemers/",
-        "website": "http://atalossrecordings.com"
-      }
-    ],
-    "openers": [
-      {
-        "name": "BIG BRAVE",
-        "genre": "music",
-        "role": "opener",
-        "slug": "big-brave-kystypmg",
-        "spotify": null,
-        "bandcamp": null,
-        "youtube": null,
-        "instagram": "http://instagram.com/bigbrave",
-        "website": "https://www.bigbrave.ca"
-      },
-      {
-        "name": "Stander",
-        "genre": "music",
-        "role": "opener",
-        "slug": "stander",
-        "spotify": "https://open.spotify.com/artist/5j8BtIIILfuF9GecZvWXaZ",
-        "bandcamp": null,
-        "youtube": null,
-        "instagram": null,
-        "website": null
-      }
-    ],
-    "genres": [],
-    "price": 26.78,
-    "age": "21+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/the-body-big-brave-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31353631/89eb3c6e-2441-4746-a9fc-5adc3a98ede9.jpg",
-    "venueInfo": {
-      "name": "Empty Bottle",
-      "address": "1035 N. Western Ave.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/empty-bottle"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_j0u9ff",
-    "date": "2026-07-14",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Fulton Street Collective",
-    "venueId": "fulton-street-collective",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "MORGAN TURNER QUARTET and MASON JEROME TRIO",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/morgan-turner-quartet-and-mason-jerome-trio-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33259648/6b4a3ca8-e7f0-4c0e-9509-05a932eb61d7.jpg",
-    "venueInfo": {
-      "name": "Fulton Street Collective",
-      "address": "2000 W. Fulton",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/fulton-street-collective"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1uywq1y",
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Gallery Cabaret",
-    "venueId": "gallery-cabaret",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Open Jam",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/open-jam-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143217/909cbfb9-7718-41c5-905b-159c6b524413.png",
-    "venueInfo": {
-      "name": "Gallery Cabaret",
-      "address": "2020 N Oakley Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/gallery-cabaret"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_xl5z1z",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Green Mill",
-    "venueId": "green-mill",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Chicago Cellar Boys",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "chicago-cellar-boys",
-        "spotify": "https://open.spotify.com/artist/79srruArdUt8IB0f8oV8ou",
-        "bandcamp": null,
-        "youtube": null,
-        "instagram": null,
-        "website": "https://www.chicagocellarboys.com/"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/chicago-cellar-boys-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30586160/6bb600fd-019c-470c-802c-c89c00232dfc.jpg",
-    "venueInfo": {
-      "name": "Green Mill",
-      "address": "4802 N. Broadway St.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/the-green-mill"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1pfpj69",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "venueId": "jazz-showcase",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Petra's Recession Seven",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6670/?date=2026-07-14",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_j5wcxv",
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "venueId": "lee-s-unleaded-blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-07-14-19-00",
-    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-07-14-19-00"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_8cigw3",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lemon",
-    "venueId": "lemon",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jazz Jam Session",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": "21+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/jazz-jam-session-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33138838/fbb4ae89-8a4a-45e7-a64e-a7bc7c67f492.jpg",
-    "venueInfo": {
-      "name": "Lemon",
-      "address": "1600 West Grand Avenue",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/lemon"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_fjh8da",
-    "date": "2026-07-14",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Old Town School of Folk Music",
-    "venueId": "old-town-school-of-folk-music",
-    "hood": "Lincoln Square",
-    "headliners": [
-      {
-        "name": "Wilco Songbag",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/wilco-songbag-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32236449/51228f37-75f3-426b-a482-9d19123b6e1f.jpg",
-    "venueInfo": {
-      "name": "Old Town School of Folk Music",
-      "address": "4544 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/old-town-school-of-folk-music"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_7u4biy",
-    "date": "2026-07-14",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Reggies Music Joint",
-    "venueId": "reggies-music-joint",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "BEAT THE MEATLES (lunar ticks",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [
-      {
-        "name": "Zoofunkyou",
-        "genre": "music",
-        "role": "opener",
-        "slug": "zoofunkyou",
-        "spotify": "https://open.spotify.com/artist/49trBDrSEILDO47N5dATqs",
-        "bandcamp": null,
-        "youtube": "https://www.youtube.com/channel/UCPb1F0Hj2fA66WiOeActUKg",
-        "instagram": "http://instagram.com/https://www.instagram.com/zoofunkyou/",
-        "website": "https://www.zoofunkyou.com/"
-      },
-      {
-        "name": "old shoe",
-        "genre": "music",
-        "role": "opener",
-        "slug": "old-shoe",
-        "spotify": "https://open.spotify.com/artist/2Lo5B1ueiHJ6Y00ppUN5vA",
-        "bandcamp": null,
-        "youtube": "https://www.youtube.com/channel/H6jtAuAidv0",
-        "instagram": "http://instagram.com/https://www.instagram.com/oldshoeband/",
-        "website": "http://www.old-shoe.com"
-      },
-      {
-        "name": "box band)",
-        "genre": "music",
-        "role": "opener",
-        "slug": "box-band",
-        "spotify": null,
-        "bandcamp": null,
-        "youtube": null,
-        "instagram": "http://instagram.com/https://www.instagram.com/theboxband/",
-        "website": "https://www.theboxband3.com"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/beat-the-meatles-lunar-ticks-zoofunkyou-old-shoe-box-band-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31773615/26942fa7-5462-40eb-a741-16206e8fc103.jpg",
-    "venueInfo": {
-      "name": "Reggies Music Joint",
-      "address": "2105 S State St",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/reggies-music-joint"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1fcquv1",
-    "date": "2026-07-14",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "venueId": "rosa-s-lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Dave Herrero feat. Pete Galanis",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/377969",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1r053zw",
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Salt Shed",
-    "venueId": "salt-shed",
-    "hood": "Goose Island",
-    "headliners": [
-      {
-        "name": "Royel Otis",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "royel-otis",
-        "spotify": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH",
-        "bandcamp": null,
-        "youtube": "https://www.youtube.com/@royelotis",
-        "instagram": "http://instagram.com/https://www.instagram.com/royelotis",
-        "website": "https://www.royelotis.com"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/royel-otis-meet-me-in-the-car-tour-1774555200",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31099651/e316c72a-53e7-4d23-89b8-b20cf28ef6d5.png",
-    "venueInfo": {
-      "name": "Salt Shed",
-      "address": "1357 N. Elston Ave.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/the-salt-shed"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_8csm94",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Schubas",
-    "venueId": "schubas",
-    "hood": "Lakeview",
-    "headliners": [
-      {
-        "name": "Wells Ferrari",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "wells-ferrari",
-        "spotify": "https://open.spotify.com/artist/7y3H6facbUSu09KdIycZu0",
-        "bandcamp": null,
-        "youtube": "https://www.youtube.com/watch?v=nyWk91UOLUg",
-        "instagram": "http://instagram.com/https://www.instagram.com/wellsferrari/",
-        "website": "https://wellsferrari.com/"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/wells-ferrari-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31692926/ffdc7780-4457-474a-b0a0-161891f49ae7.png",
-    "venueInfo": {
-      "name": "Schubas",
-      "address": "3159 N Southport Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/schubas"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1rdzwaj",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Subterranean",
-    "venueId": "subterranean",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Sunflower Summit",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "sunflower-summit",
-        "spotify": "https://open.spotify.com/artist/3osTxq6p6tWR1Jek9Q3bzd",
-        "bandcamp": "https://sunflowersummit.bandcamp.com",
-        "youtube": "https://www.youtube.com/@sunflowersummit",
-        "instagram": "http://instagram.com/https://www.instagram.com/sunflowersummit",
-        "website": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/sunflower-summit-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32413691/c551f4ca-ee3b-4d2a-8131-65202c674319.png",
-    "venueInfo": {
-      "name": "Subterranean",
-      "address": "2011 W. North Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/subterranean"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_na5bli",
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Subterranean Downstairs",
-    "venueId": "subterranean-downstairs",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Sunflower Summit",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "sunflower-summit",
-        "spotify": "https://open.spotify.com/artist/3osTxq6p6tWR1Jek9Q3bzd",
-        "bandcamp": "https://sunflowersummit.bandcamp.com",
-        "youtube": "https://www.youtube.com/@sunflowersummit",
-        "instagram": "http://instagram.com/https://www.instagram.com/sunflowersummit",
-        "website": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/sunflower-summit-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32413691/c551f4ca-ee3b-4d2a-8131-65202c674319.png",
-    "venueInfo": {
-      "name": "Subterranean Downstairs",
-      "address": "2011 W. North Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/subterranean-downstairs"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1xvd5ph",
-    "date": "2026-07-14",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "The BlkRoom",
-    "venueId": "the-blkroom",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sewing Class with KCAF",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.theblkroom.org/event-calendar/sewing-class",
-    "poster": "https://static1.squarespace.com/static/65491ead7b54db38b7154d33/661eac87d02fd8015022ff59/6a4563e9fff9b160e44686f2/1782934014063/",
-    "venueInfo": {
-      "name": "The BlkRoom",
-      "address": "4015 W Carroll Ave Unit 204",
-      "city": "Chicago",
-      "url": "https://www.theblkroom.org"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1on751g",
-    "date": "2026-07-14",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "The Whistler",
-    "venueId": "the-whistler",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Relax Attack Jazz Series: Ben Schmidt-Swartz Group",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": "21+",
-    "ticketUrl": "https://do312.com/events/2026/7/14/relax-attack-jazz-series-ben-schmidt-swartz-group-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32851830/af41463a-0f20-4bb5-a5e9-59ac8b8c4487.png",
-    "venueInfo": {
-      "name": "The Whistler",
-      "address": "2421 N. Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/the-whistler"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_16mudz1",
-    "date": "2026-07-14",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Wrigley Field",
-    "venueId": "wrigley-field",
-    "hood": "Wrigleyville",
-    "headliners": [
-      {
-        "name": "Noah Kahan: The Great Divide Tour",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/7/14/noah-kahan-the-great-divide-tour-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29973031/6fc1b883-ccca-4902-8dd7-a9bc636222d5.png",
-    "venueInfo": {
-      "name": "Wrigley Field",
-      "address": "1060 W. Addison St.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/wrigley-field"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_131m0f9",
     "date": "2026-07-15",
     "time": null,
@@ -1268,6 +282,39 @@
     "resolved": true
   },
   {
+    "id": "show_9y1xj3",
+    "date": "2026-07-15",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "California Clipper",
+    "venueId": "california-clipper",
+    "hood": "Humboldt Park",
+    "headliners": [
+      {
+        "name": "Clipper-Oke with Marta Jean",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/15/clipper-oke-with-marta-jean-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33302992/8c1f1087-3607-41a8-a955-8011d4a36c91.jpg",
+    "venueInfo": {
+      "name": "California Clipper",
+      "address": "1002 N. California Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-california-clipper"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_13s445e",
     "date": "2026-07-15",
     "time": "20:00",
@@ -1405,7 +452,7 @@
       }
     ],
     "genres": [],
-    "price": 20,
+    "price": 24,
     "age": null,
     "ticketUrl": "https://dice.fm/event/8eqppv-rent-strike-tape-and-tears-troll-2-universal-publick-fiend-15th-jul-cobra-lounge-chicago-tickets",
     "poster": null,
@@ -1417,49 +464,6 @@
     },
     "sourceList": [
       "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_2lgnw5",
-    "date": "2026-07-15",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "venueId": "cole-s-bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Heather Lynn",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Tyler Wagner",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Eleanor Witt Wardlaw",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/heather-lynn-tyler-wagner-eleanor-witt-wardlaw-july-14-2026-691219",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/219/compressed/Headshot_-_2HL.jpg?1781911445",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    },
-    "sourceList": [
-      "venue-site"
     ],
     "resolved": true
   },
@@ -1805,38 +809,6 @@
     "resolved": true
   },
   {
-    "id": "show_9aoone",
-    "date": "2026-07-15",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "venueId": "reed-s-local",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_rlj0ok",
     "date": "2026-07-15",
     "time": "19:00",
@@ -1988,7 +960,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 24.72,
+    "price": 30.9,
     "age": null,
     "ticketUrl": "https://dice.fm/event/eom3rw-leclair-w-charlie-chimi-15th-jul-sleeping-village-chicago-tickets",
     "poster": "https://sleeping-village.com/wp-content/uploads/2026/04/imagsdfe-42.jpg",
@@ -4191,6 +3163,39 @@
     "resolved": true
   },
   {
+    "id": "show_zcym6k",
+    "date": "2026-07-16",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "The Whistler",
+    "venueId": "the-whistler",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Tromblau & Nick2bomb",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/16/tromblau-nick2bomb-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33299628/c3b06931-0147-4d7a-a3b1-9fb271430242.jpg",
+    "venueInfo": {
+      "name": "The Whistler",
+      "address": "2421 N. Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-whistler"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_nu13gg",
     "date": "2026-07-16",
     "time": "19:00",
@@ -6308,6 +5313,38 @@
     },
     "sourceList": [
       "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_k9wu2w",
+    "date": "2026-07-17",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Spybar",
+    "venueId": "spybar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dennis Ferrer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 40,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/g536na-taste-of-river-north-afterparty-dennis-ferrer-17th-jul-spybar-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2023-12-14/35f47dd9-f259-4887-8d89-2c4792e0101a.jpg?rect=0%2C0%2C640%2C640",
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -10584,8 +9621,8 @@
   {
     "id": "show_36slkt",
     "date": "2026-07-19",
-    "time": null,
-    "slot": null,
+    "time": "20:00",
+    "slot": "evening",
     "venue": "Sleeping Village",
     "venueId": "sleeping-village",
     "hood": "Avondale",
@@ -10598,9 +9635,9 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 36.05,
     "age": null,
-    "ticketUrl": null,
+    "ticketUrl": "https://dice.fm/event/yoewxr-pedro-the-lion-30th-anniversary-show-w-advance-base-19th-jul-sleeping-village-chicago-tickets",
     "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-3.jpg",
     "venueInfo": {
       "name": "Sleeping Village",
@@ -10609,7 +9646,8 @@
       "url": "https://sleeping-village.com/"
     },
     "sourceList": [
-      "venue-site"
+      "venue-site",
+      "dice"
     ],
     "resolved": true
   },
@@ -13293,38 +12331,6 @@
     },
     "sourceList": [
       "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_o5evoo",
-    "date": "2026-07-22",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "venueId": "reed-s-local",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    },
-    "sourceList": [
-      "venue-site"
     ],
     "resolved": true
   },
@@ -16134,7 +15140,7 @@
     "resolved": true
   },
   {
-    "id": "show_19c2inz",
+    "id": "show_g4ymtq",
     "date": "2026-07-24",
     "time": "20:00",
     "slot": "evening",
@@ -16143,7 +15149,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Elastro: Lesley Mok — Elastic Arts Foundation",
+        "name": "Elastro: Lesley Mok, SloGlo, Ishamel Ali w/ Ed Wilkerson Jr + Bill Harris — Elastic Arts Foundation",
         "genre": "music",
         "role": "headliner"
       }
@@ -16153,7 +15159,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a32cabf4f07997b8de1979b/1781714617562/lesley35mm2026+%281%29.jpg?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a32cabf4f07997b8de1979b/1784052017238/lesley35mm2026+%281%29.jpg?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -16765,49 +15771,6 @@
       "address": "18 S Allport",
       "city": "Chicago",
       "url": "https://www.punchhousechicago.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1skes2o",
-    "date": "2026-07-24",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "venueId": "reed-s-local",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Daniel James Gang",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Snake Wine",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "TBA",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
     },
     "sourceList": [
       "venue-site"
@@ -24393,38 +23356,6 @@
     "resolved": true
   },
   {
-    "id": "show_p8y227",
-    "date": "2026-07-29",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "venueId": "reed-s-local",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_19pnxo6",
     "date": "2026-07-29",
     "time": "19:00",
@@ -25779,6 +24710,39 @@
     "resolved": true
   },
   {
+    "id": "show_mkgy68",
+    "date": "2026-07-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts",
+    "venueId": "epiphany-center-for-the-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Wrap Up Show",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/7/30/the-wrap-up-show-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33308766/db6eb260-e73c-48ba-82ba-2a6695d0c564.jpg",
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts",
+      "address": "201 S. Ashland Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/epiphany-center-for-the-arts"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1gzrhve",
     "date": "2026-07-30",
     "time": "19:30",
@@ -26606,30 +25570,29 @@
       {
         "name": "MPH",
         "genre": "music",
-        "role": "headliner"
+        "role": "headliner",
+        "slug": "mph",
+        "spotify": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof",
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": "http://instagram.com/https://www.instagram.com/mph_uk/",
+        "website": "https://mph-hq.com"
       }
     ],
-    "openers": [
-      {
-        "name": "Kirk",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": 38.06,
+    "price": null,
     "age": "21+",
-    "ticketUrl": "https://dice.fm/event/3ox5pp-official-lollapalooza-aftershow-mph-30th-jul-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2023-07-31/c03597bd-2d80-4c05-824e-a6e74ad6eb1d.jpg?rect=0%2C56%2C529%2C529",
+    "ticketUrl": "https://do312.com/events/2026/7/30/mph-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059905/1ff59b32-15de-40be-a887-3a188cbab190.jpg",
     "venueInfo": {
       "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "address": "2045 N Milwaukee Ave",
       "city": "Chicago",
-      "url": null
+      "url": "https://do312.com/venues/smoke-mirrors"
     },
     "sourceList": [
-      "do312",
-      "dice"
+      "do312"
     ],
     "resolved": true
   },
@@ -28185,6 +27148,52 @@
     "resolved": true
   },
   {
+    "id": "show_1knuhyv",
+    "date": "2026-07-31",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "LiveWire Lounge",
+    "venueId": "livewire-lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Sleights with Goners UK",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Take The Reins",
+        "genre": "music",
+        "role": "opener",
+        "slug": null
+      },
+      {
+        "name": "Space Age Zeros",
+        "genre": "music",
+        "role": "opener",
+        "slug": null
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/7/31/the-sleights-with-goners-uk-take-the-reins-space-age-zeros-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33322095/bad33596-1f18-4579-93fd-d590e2ce96ff.jpg",
+    "venueInfo": {
+      "name": "LiveWire Lounge",
+      "address": "3394 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/livewire-lounge"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_sh6b3a",
     "date": "2026-07-31",
     "time": "20:00",
@@ -28898,6 +27907,96 @@
     "resolved": true
   },
   {
+    "id": "show_1v4oyn5",
+    "date": "2026-07-31",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Subterranean",
+    "venueId": "subterranean",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Lucy Bedroque w",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Godly The Ruler",
+        "genre": "music",
+        "role": "opener",
+        "slug": "godly-the-ruler",
+        "spotify": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp",
+        "bandcamp": "https://godlytheruler.bandcamp.com",
+        "youtube": "https://www.youtube.com/channel/MsLG9QcwRb8",
+        "instagram": "http://instagram.com/https://www.instagram.com/godlytheruler/",
+        "website": null
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://do312.com/events/2026/7/31/lucy-bedroque-w-godly-the-ruler-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187850/41ddcf77-b4a4-4855-bdd5-d537cbd43093.jpg",
+    "venueInfo": {
+      "name": "Subterranean",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_gepkn0",
+    "date": "2026-07-31",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Subterranean Downstairs",
+    "venueId": "subterranean-downstairs",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Lucy Bedroque w",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Godly The Ruler",
+        "genre": "music",
+        "role": "opener",
+        "slug": "godly-the-ruler",
+        "spotify": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp",
+        "bandcamp": "https://godlytheruler.bandcamp.com",
+        "youtube": "https://www.youtube.com/channel/MsLG9QcwRb8",
+        "instagram": "http://instagram.com/https://www.instagram.com/godlytheruler/",
+        "website": null
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://do312.com/events/2026/7/31/lucy-bedroque-w-godly-the-ruler-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187850/41ddcf77-b4a4-4855-bdd5-d537cbd43093.jpg",
+    "venueInfo": {
+      "name": "Subterranean Downstairs",
+      "address": "2011 W. North Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/subterranean-downstairs"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_6yj5ll",
     "date": "2026-07-31",
     "time": "22:00",
@@ -28939,6 +28038,44 @@
     },
     "sourceList": [
       "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1cri98p",
+    "date": "2026-07-31",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Atlantic",
+    "venueId": "the-atlantic",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "littleHEADbutt presents CONSUMER.",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "SHITWOLF & Ruinous Time Blade",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/littleheadbutt-presents-consumer-with-shitwolf-and-ruinous-time-blade",
+    "poster": "https://chicago.askapunk.net/media/8c04751a8f3d71c84dc7e621e9f1b96e.jpg",
+    "venueInfo": {
+      "name": "The Atlantic Bar",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    },
+    "sourceList": [
+      "askapunk"
     ],
     "resolved": true
   },
@@ -29049,6 +28186,44 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1j0y039",
+    "date": "2026-08-01",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "aliveOne",
+    "venueId": "aliveone",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DJ Boathouse",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "dj-boathouse",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": "https://www.closedsessions.com/boat-house-bio"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/1/dj-boathouse-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31766415/8d3634c9-7705-4b08-a129-6ab2bc8ea043.jpg",
+    "venueInfo": {
+      "name": "aliveOne",
+      "address": "2683 N Halsted St",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/aliveone"
+    },
+    "sourceList": [
+      "do312"
     ],
     "resolved": true
   },
@@ -31100,6 +30275,44 @@
     "resolved": true
   },
   {
+    "id": "show_4tuarj",
+    "date": "2026-08-02",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Green Mill",
+    "venueId": "green-mill",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Soul Message",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "soul-message",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": "https://www.soulmessageband.com/"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/2/soul-message-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31248950/df00adb0-2cd6-43b0-96a3-78bd111889dd.jpg",
+    "venueInfo": {
+      "name": "Green Mill",
+      "address": "4802 N. Broadway St.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-green-mill"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_18dcovt",
     "date": "2026-08-02",
     "time": "16:00",
@@ -31411,26 +30624,19 @@
       {
         "name": "Waylon Wyatt w",
         "genre": "music",
-        "role": "headliner",
-        "slug": null
+        "role": "headliner"
       }
     ],
     "openers": [
       {
         "name": "Calder Allen",
         "genre": "music",
-        "role": "opener",
-        "slug": "calder-allen",
-        "spotify": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD",
-        "bandcamp": null,
-        "youtube": "https://www.youtube.com/channel/pnnDb23ZwZ8",
-        "instagram": "http://instagram.com/calder_allen",
-        "website": "https://www.calderallen.com/"
+        "role": "opener"
       }
     ],
     "genres": [],
     "price": null,
-    "age": "18+",
+    "age": null,
     "ticketUrl": "https://do312.com/events/2026/8/2/waylon-wyatt-w-calder-allen-tickets",
     "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32187538/911c4c41-de59-4126-b0dc-8b12045c1cc3.jpg",
     "venueInfo": {
@@ -31489,24 +30695,29 @@
       {
         "name": "Dombresky",
         "genre": "music",
-        "role": "headliner"
+        "role": "headliner",
+        "slug": "dombresky",
+        "spotify": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN",
+        "bandcamp": null,
+        "youtube": "https://www.youtube.com/channel/BdYRm6GcQ34",
+        "instagram": "http://instagram.com/dombresky",
+        "website": "https://dombresky.com/"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 41,
+    "price": null,
     "age": "21+",
-    "ticketUrl": "https://dice.fm/event/92klb9-official-lollapalooza-aftershow-dombresky-2nd-aug-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb90e2fc0d59a898e3f7110d24",
+    "ticketUrl": "https://do312.com/events/2026/8/2/dombresky-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33059979/3607277a-ab65-4593-a1ec-0220f540a329.jpg",
     "venueInfo": {
       "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "address": "2045 N Milwaukee Ave",
       "city": "Chicago",
-      "url": null
+      "url": "https://do312.com/venues/smoke-mirrors"
     },
     "sourceList": [
-      "do312",
-      "dice"
+      "do312"
     ],
     "resolved": true
   },
@@ -32151,6 +31362,39 @@
       "address": "2421 N. Milwaukee Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/the-whistler"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1un8yzs",
+    "date": "2026-08-05",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Beat Kitchen",
+    "venueId": "beat-kitchen",
+    "hood": "Roscoe Village",
+    "headliners": [
+      {
+        "name": "Bay Faction - Year of the Dog Tour",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/5/bay-faction-year-of-the-dog-tour-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32635476/8da0845f-0a92-4c8f-830f-a77fcb2b659a.png",
+    "venueInfo": {
+      "name": "Beat Kitchen",
+      "address": "2100 W Belmont Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/beat-kitchen"
     },
     "sourceList": [
       "do312"
@@ -33831,6 +33075,44 @@
     "resolved": true
   },
   {
+    "id": "show_1demcwf",
+    "date": "2026-08-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Beat Kitchen",
+    "venueId": "beat-kitchen",
+    "hood": "Roscoe Village",
+    "headliners": [
+      {
+        "name": "The Delta Waves",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "the-delta-waves",
+        "spotify": "https://open.spotify.com/artist/11UGbYX2jtxmg8GSvKAIBf",
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/7/the-delta-waves-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33270119/af8a3bee-69fe-4e46-a5f2-775003201099.png",
+    "venueInfo": {
+      "name": "Beat Kitchen",
+      "address": "2100 W Belmont Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/beat-kitchen"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_wykcpj",
     "date": "2026-08-07",
     "time": null,
@@ -34780,6 +34062,39 @@
     "resolved": true
   },
   {
+    "id": "show_1uhgoh1",
+    "date": "2026-08-07",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "The Whistler",
+    "venueId": "the-whistler",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "CLUB SH**T",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/7/club-sh-t-august-2026-edition-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33299633/081cfd75-7397-4871-8b08-c762a1f545a5.png",
+    "venueInfo": {
+      "name": "The Whistler",
+      "address": "2421 N. Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-whistler"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_zlivnb",
     "date": "2026-08-07",
     "time": "19:30",
@@ -34917,6 +34232,51 @@
     "resolved": true
   },
   {
+    "id": "show_xg79x6",
+    "date": "2026-08-08",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Blue Chicago",
+    "venueId": "blue-chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Luke Pytel Blues Band w",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Laretha Weathersby",
+        "genre": "music",
+        "role": "opener",
+        "slug": "laretha-weathersby",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": "http://www.princessoftheblues.net"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/8/8/luke-pytel-blues-band-w-laretha-weathersby-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33080824/5dd6bdb6-0a3b-47f9-84d5-0363ebcefff3.jpg",
+    "venueInfo": {
+      "name": "Blue Chicago",
+      "address": "536 N Clark St",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/blue-chicago"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_wpagkj",
     "date": "2026-08-08",
     "time": "21:30",
@@ -34988,6 +34348,39 @@
     "resolved": true
   },
   {
+    "id": "show_wao4dx",
+    "date": "2026-08-08",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Bourbon on Division",
+    "venueId": "bourbon-on-division",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "BUMP.: PRINTS ON PRINTS",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/8/8/bump-prints-on-prints-with-kandy-muse-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33305873/d07959da-2b35-4461-9609-18cb03368c33.jpg",
+    "venueInfo": {
+      "name": "Bourbon on Division",
+      "address": "2050 W Division St",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/bourbon-on-division"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_buywg2",
     "date": "2026-08-08",
     "time": "22:00",
@@ -35005,9 +34398,9 @@
     "openers": [],
     "genres": [],
     "price": 24.93,
-    "age": "21+",
+    "age": null,
     "ticketUrl": "https://dice.fm/event/k6lgmo-bump-prints-on-prints-with-kandy-muse-8th-aug-bourbon-on-division-chicago-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33154363/631a354b-9522-4cb6-b03e-1844e64a949b.jpg",
+    "poster": null,
     "venueInfo": {
       "name": "Bourbon on Division",
       "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
@@ -35015,7 +34408,6 @@
       "url": null
     },
     "sourceList": [
-      "do312",
       "dice"
     ],
     "resolved": true
@@ -35237,6 +34629,38 @@
     },
     "sourceList": [
       "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_16figyp",
+    "date": "2026-08-08",
+    "time": "13:00",
+    "slot": "afternoon",
+    "venue": "Elastic Arts",
+    "venueId": "elastic-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "\"quiet as it's kept\" Gallery Activation w/ Carissa Pickney + Harlem West — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a56a14e3f15261de7269737/1784067795001/6+%281%29.png?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
+    },
+    "sourceList": [
+      "venue-site"
     ],
     "resolved": true
   },
@@ -36107,6 +35531,44 @@
       "address": "1354 W Wabansia Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/the-hideout"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_yzz63k",
+    "date": "2026-08-08",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "The Whistler",
+    "venueId": "the-whistler",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "All Love",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "all-love",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/8/all-love-august-2026-edition-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33299638/b7453bf8-fb4a-4d5c-af47-e95b65bee20c.png",
+    "venueInfo": {
+      "name": "The Whistler",
+      "address": "2421 N. Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-whistler"
     },
     "sourceList": [
       "do312"
@@ -37358,6 +36820,67 @@
     "resolved": true
   },
   {
+    "id": "show_18ptvf9",
+    "date": "2026-08-11",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Empty Bottle",
+    "venueId": "empty-bottle",
+    "hood": "Ukrainian Village",
+    "headliners": [
+      {
+        "name": "Lucky Horse Red",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "lucky-horse-red",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Sports Boyfriend",
+        "genre": "music",
+        "role": "opener",
+        "slug": "sports-boyfriend",
+        "spotify": "https://open.spotify.com/artist/2zZDWTAs6gSfK3ehQhe3Yb",
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": "https://soundcloud.com/sports-boyfriend"
+      },
+      {
+        "name": "Pebbles Inc",
+        "genre": "music",
+        "role": "opener",
+        "slug": "pebbles-inc",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "genres": [],
+    "price": 16.17,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/8/11/lucky-horse-red-sports-boyfriend-pebbles-inc-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33212062/0d9b9636-f49a-422d-84dc-d369825c2ff2.jpg",
+    "venueInfo": {
+      "name": "Empty Bottle",
+      "address": "1035 N. Western Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/empty-bottle"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_elific",
     "date": "2026-08-11",
     "time": "19:00",
@@ -38297,7 +37820,7 @@
     "resolved": true
   },
   {
-    "id": "show_1ev4ip5",
+    "id": "show_18yr3ok",
     "date": "2026-08-13",
     "time": "20:30",
     "slot": "evening",
@@ -38306,7 +37829,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Improvised Music Series: Ken Ueno + TBA — Elastic Arts Foundation",
+        "name": "Improvised Music Series: Ken Ueno, BananaAcid — Elastic Arts Foundation",
         "genre": "music",
         "role": "headliner"
       }
@@ -38316,7 +37839,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a0cd5da7213d450fdd7ad82/1783371849241/Ken+with+tubes+-+Ken+Ueno.jpg?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a0cd5da7213d450fdd7ad82/1784078684898/Ken+with+tubes+-+Ken+Ueno.jpg?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -39585,6 +39108,39 @@
     "resolved": true
   },
   {
+    "id": "show_tmjozu",
+    "date": "2026-08-14",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Schubas",
+    "venueId": "schubas",
+    "hood": "Lakeview",
+    "headliners": [
+      {
+        "name": "Babymorocco, Harmony Tividad",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/14/babymorocco-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32001436/1c34866b-ac86-4e65-b939-85044644292c.png",
+    "venueInfo": {
+      "name": "Schubas",
+      "address": "3159 N Southport Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/schubas"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_uw2xr4",
     "date": "2026-08-14",
     "time": "22:00",
@@ -40226,7 +39782,7 @@
   {
     "id": "show_997982",
     "date": "2026-08-15",
-    "time": "20:00",
+    "time": "20:30",
     "slot": "evening",
     "venue": "Elastic Arts",
     "venueId": "elastic-arts",
@@ -40243,7 +39799,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a554b782f55be51534b0532/1783976290461/01FC8654-3890-4A60-B41F-E380F7122B4C.png?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a554b782f55be51534b0532/1784048735138/DF59B42D-7477-4315-9501-2EFED9465233.png?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -40858,6 +40414,39 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1kn1ynu",
+    "date": "2026-08-15",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smartbar",
+    "venueId": "smartbar",
+    "hood": "Lakeview",
+    "headliners": [
+      {
+        "name": "Jamie 3:26 * Darryn Jones * Material * Dave Maze & Erica Kane",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/8/15/jamie-3-26-darryn-jones-material-dave-maze-erica-kane-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33303766/40358ca6-5be7-42bc-9c91-ac05b81e23f4.jpg",
+    "venueInfo": {
+      "name": "Smartbar",
+      "address": "3730 N Clark St",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/smartbar"
+    },
+    "sourceList": [
+      "do312"
     ],
     "resolved": true
   },
@@ -43431,6 +43020,44 @@
     "resolved": true
   },
   {
+    "id": "show_18jga2c",
+    "date": "2026-08-21",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Clara",
+    "venueId": "clara",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Aaron Krings Quartet",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "aaron-krings-quartet",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/21/aaron-krings-quartet-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/31847656/b263a184-21da-4d6f-84e0-e02cfd76304f.jpg",
+    "venueInfo": {
+      "name": "Clara",
+      "address": null,
+      "city": null,
+      "url": "https://do312.com/venues/clara"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_ug2yip",
     "date": "2026-08-21",
     "time": "18:30",
@@ -43846,6 +43473,52 @@
     "resolved": true
   },
   {
+    "id": "show_1k6vabe",
+    "date": "2026-08-21",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "LiveWire Lounge",
+    "venueId": "livewire-lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Throne",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Nequient",
+        "genre": "music",
+        "role": "opener",
+        "slug": null
+      },
+      {
+        "name": "Heroine Sentinel",
+        "genre": "music",
+        "role": "opener",
+        "slug": null
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/8/21/throne-nequient-heroine-sentinel-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33322097/85e148aa-6be3-4bbd-9d15-af070ef9b386.jpg",
+    "venueInfo": {
+      "name": "LiveWire Lounge",
+      "address": "3394 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/livewire-lounge"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_mzgvcm",
     "date": "2026-08-21",
     "time": "19:00",
@@ -44086,6 +43759,44 @@
       "address": "1357 N. Elston Ave.",
       "city": "Chicago",
       "url": "https://do312.com/venues/the-salt-shed"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_sqd6kz",
+    "date": "2026-08-21",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smartbar",
+    "venueId": "smartbar",
+    "hood": "Lakeview",
+    "headliners": [
+      {
+        "name": "Diamond Formation",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "diamond-formation",
+        "spotify": null,
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/8/21/diamond-formation-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33303773/fcb34b4b-0008-4936-9fe5-e8f393772772.jpg",
+    "venueInfo": {
+      "name": "Smartbar",
+      "address": "3730 N Clark St",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/smartbar"
     },
     "sourceList": [
       "do312"
@@ -44602,7 +44313,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a3985f5c402c50733ef2ff1/1782240163504/_edited_FFFT_8_22_2026.jpeg?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a3985f5c402c50733ef2ff1/1784050834944/Edited2_FFFT8_22.jpeg?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -45182,6 +44893,44 @@
     "resolved": true
   },
   {
+    "id": "show_sup3hu",
+    "date": "2026-08-22",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "The Whistler",
+    "venueId": "the-whistler",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Genrefluid",
+        "genre": "music",
+        "role": "headliner",
+        "slug": "genrefluid",
+        "spotify": "https://open.spotify.com/artist/6KoFVcpqHT9lx5Ddp3vQ0K",
+        "bandcamp": null,
+        "youtube": null,
+        "instagram": null,
+        "website": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/22/genrefluid-august-2026-edition-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33299643/7ab13c69-90b9-4329-a82d-4cc3bcf064e2.jpg",
+    "venueInfo": {
+      "name": "The Whistler",
+      "address": "2421 N. Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-whistler"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1wbnt89",
     "date": "2026-08-23",
     "time": "19:00",
@@ -45354,6 +45103,39 @@
       "address": "201 S. Ashland Ave.",
       "city": "Chicago",
       "url": "https://do312.com/venues/epiphany-center-for-the-arts"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_g6oo8m",
+    "date": "2026-08-23",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Gallery Cabaret",
+    "venueId": "gallery-cabaret",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dog Days of Summer!",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/23/dog-days-of-summer-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33143310/c57814b2-40ca-4b28-8162-a6506d0852fc.png",
+    "venueInfo": {
+      "name": "Gallery Cabaret",
+      "address": "2020 N Oakley Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/gallery-cabaret"
     },
     "sourceList": [
       "do312"
@@ -46137,6 +45919,46 @@
     "resolved": true
   },
   {
+    "id": "show_8vzshd",
+    "date": "2026-08-26",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "venueId": "cobra-lounge",
+    "hood": "West Town",
+    "headliners": [
+      {
+        "name": "Lucky Feeling",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [
+      {
+        "name": "Pure Bliss",
+        "genre": "music",
+        "role": "opener",
+        "slug": null
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://do312.com/events/2026/8/26/lucky-feeling-pure-bliss-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33207189/d670fa2d-e549-41f5-a483-ab4a2cb67065.jpg",
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N. Ashland Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/cobra-lounge"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_aymhg6",
     "date": "2026-08-26",
     "time": "20:30",
@@ -46163,39 +45985,6 @@
       "address": "3111 N Western Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/constellation"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_plyi8f",
-    "date": "2026-08-26",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts",
-    "venueId": "epiphany-center-for-the-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The Growing Together Tour",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://do312.com/events/2026/8/26/the-growing-together-tour-in-chicago-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32882690/deffc6c2-abfe-4e54-b0db-4043f8311136.jpg",
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts",
-      "address": "201 S. Ashland Ave.",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/epiphany-center-for-the-arts"
     },
     "sourceList": [
       "do312"
@@ -47365,6 +47154,38 @@
     "resolved": true
   },
   {
+    "id": "show_1k7d4uc",
+    "date": "2026-08-28",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "venueId": "sound-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "MYLA at Sound-Bar",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/myla-at-sound-bar/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_16rrdii",
     "date": "2026-08-28",
     "time": "22:00",
@@ -47837,6 +47658,39 @@
       "address": "2424 N Lincoln Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/lincoln-hall"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_vj9hrh",
+    "date": "2026-08-29",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Martyrs'",
+    "venueId": "martyrs",
+    "hood": "North Center",
+    "headliners": [
+      {
+        "name": "Meg and The Wheelers, Wire & Nail",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/8/29/meg-and-the-wheelers-wire-nail-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33303845/29afaf1b-59ad-4ed0-981a-f0a7bc2b61b6.jpg",
+    "venueInfo": {
+      "name": "Martyrs'",
+      "address": "3855 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/martyrs"
     },
     "sourceList": [
       "do312"
@@ -48644,6 +48498,39 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_18vzgaq",
+    "date": "2026-09-02",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Lemon",
+    "venueId": "lemon",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Juno Dunes",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://do312.com/events/2026/9/2/juno-dunes-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33317998/6957dc17-fcb4-4d96-9897-fcb0c3f96d3f.jpg",
+    "venueInfo": {
+      "name": "Lemon",
+      "address": "1600 West Grand Avenue",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/lemon"
+    },
+    "sourceList": [
+      "do312"
     ],
     "resolved": true
   },
@@ -50575,7 +50462,7 @@
     "genres": [],
     "price": 35,
     "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/the-boy-band-night-joes-on-weed-street-tickets/14689433?pl=joesbar",
+    "ticketUrl": "https://www.ticketweb.com/event/house-freestyle-affair-with-joes-on-weed-street-tickets/14256714?pl=joesbar",
     "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1783994339712-FTIHY0VH6H2KQMRRE8TY/2026.9.6_House+%26+Freestyle+Affair_16-9-Plain.jpg",
     "venueInfo": {
       "name": "Joe's on Weed",
@@ -52337,6 +52224,38 @@
     "resolved": true
   },
   {
+    "id": "show_8nba1r",
+    "date": "2026-09-13",
+    "time": "13:00",
+    "slot": "afternoon",
+    "venue": "Elastic Arts",
+    "venueId": "elastic-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "\"quiet as it's kept\" Visual Gallery Exhibition Closing Reception — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a56b6e6e4c59143baf0c1a3/1784068116138/7+%281%29.png?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_vfufh7",
     "date": "2026-09-13",
     "time": "10:00",
@@ -52636,6 +52555,39 @@
     "resolved": true
   },
   {
+    "id": "show_ox2vaq",
+    "date": "2026-09-14",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Salt Shed",
+    "venueId": "salt-shed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "Bikini Kill with Ganser",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/9/14/bikini-kill-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/29856074/0027ae94-60ef-4f82-916a-37bcbe42236d.png",
+    "venueInfo": {
+      "name": "Salt Shed",
+      "address": "1357 N. Elston Ave.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-salt-shed"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_fmyayf",
     "date": "2026-09-15",
     "time": "20:00",
@@ -52697,39 +52649,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_wvd12p",
-    "date": "2026-09-15",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Martyrs'",
-    "venueId": "martyrs",
-    "hood": "North Center",
-    "headliners": [
-      {
-        "name": "Tony Rogers & Friends - The Significant Birthday Show",
-        "genre": "music",
-        "role": "headliner",
-        "slug": null
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/9/15/tony-rogers-friends-the-significant-birthday-show-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/30668532/8430c0db-8090-42d4-8c70-b366ed965283.jpg",
-    "venueInfo": {
-      "name": "Martyrs'",
-      "address": "3855 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/martyrs"
-    },
-    "sourceList": [
-      "do312"
     ],
     "resolved": true
   },
@@ -54336,6 +54255,38 @@
     "resolved": true
   },
   {
+    "id": "show_fdi4gu",
+    "date": "2026-09-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "venueId": "garcia-s",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Thundersmack",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/thunderstruck-chicago-illinois-09-22-2026/event/040064EC9FEC68CE",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1wogul9",
     "date": "2026-09-22",
     "time": "19:00",
@@ -54990,6 +54941,39 @@
       "address": "2047 N. Milwaukee Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/concord-music-hall"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1opc89r",
+    "date": "2026-09-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Copernicus Center",
+    "venueId": "copernicus-center",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Biyaheng Bente 20th Anniversary",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/9/25/biyaheng-bente-20th-anniversary-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33292583/2034c0af-3bcb-45b6-b28e-3afcdb50a816.jpg",
+    "venueInfo": {
+      "name": "Copernicus Center",
+      "address": "5216 W.Lawrence Ave",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/copernicus-center"
     },
     "sourceList": [
       "do312"
@@ -56395,6 +56379,39 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_rdlouf",
+    "date": "2026-10-01",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chicago Theatre",
+    "venueId": "chicago-theatre",
+    "hood": "The Loop",
+    "headliners": [
+      {
+        "name": "Insecure: The 10th Anniversary Tour, with Issa Rae",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/10/1/insecure-the-10th-anniversary-tour-with-issa-rae-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33302796/c9421a55-1720-4001-8f5f-2eb148797a11.jpg",
+    "venueInfo": {
+      "name": "Chicago Theatre",
+      "address": "175 N State St",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/the-chicago-theatre"
+    },
+    "sourceList": [
+      "do312"
     ],
     "resolved": true
   },
@@ -58311,44 +58328,6 @@
       "address": "1106 W. Lawrence Ave.",
       "city": "Chicago",
       "url": "https://do312.com/venues/byline-bank-aragon-ballroom"
-    },
-    "sourceList": [
-      "do312"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_15ga0g9",
-    "date": "2026-10-09",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Chicago Theatre",
-    "venueId": "chicago-theatre",
-    "hood": "The Loop",
-    "headliners": [
-      {
-        "name": "Jerry Seinfeld",
-        "genre": "music",
-        "role": "headliner",
-        "slug": "jerry-seinfeld",
-        "spotify": "https://open.spotify.com/artist/4eQeZFlDU3froIAkzS6vnC",
-        "bandcamp": null,
-        "youtube": "https://www.youtube.com/channel/xR1ckgXN8G0",
-        "instagram": "http://instagram.com/JerrySeinfeld",
-        "website": "https://www.jerryseinfeld.com/"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://do312.com/events/2026/10/9/jerry-seinfeld-tickets",
-    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/32845255/96c3734a-a99c-4860-bc48-545bc730af9f.jpg",
-    "venueInfo": {
-      "name": "Chicago Theatre",
-      "address": "175 N State St",
-      "city": "Chicago",
-      "url": "https://do312.com/venues/the-chicago-theatre"
     },
     "sourceList": [
       "do312"
@@ -61117,6 +61096,39 @@
       "address": "1675 N. Elston Ave",
       "city": "Chicago",
       "url": "https://do312.com/venues/outset"
+    },
+    "sourceList": [
+      "do312"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_owf8s7",
+    "date": "2026-11-20",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Radius",
+    "venueId": "radius",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Prophecy",
+        "genre": "music",
+        "role": "headliner",
+        "slug": null
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://do312.com/events/2026/11/20/prospa-present-prophecy-tickets",
+    "poster": "https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/33306349/aa4e18ae-b747-4ceb-ae03-1b8a0794dc0c.png",
+    "venueInfo": {
+      "name": "Radius",
+      "address": "640 W. Cermak Rd.",
+      "city": "Chicago",
+      "url": "https://do312.com/venues/radius"
     },
     "sourceList": [
       "do312"

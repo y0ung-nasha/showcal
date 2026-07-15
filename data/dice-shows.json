@@ -1,38 +1,32 @@
 [
   {
-    "id": "dc_1ycapjt",
+    "id": "dc_1431t5g",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-07-14",
-    "time": "19:00",
+    "date": "2026-07-15",
+    "time": "21:00",
     "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
     "hood": null,
     "headliners": [
       {
-        "name": "Dutch Cove",
+        "name": "L'Eclair w/ Charlie Chimi",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Twin Fin",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": 26,
+    "price": 30.9,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/v3d2xg-twin-fin-the-kings-of-the-coast-tour-w-dutch-cove-14th-jul-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb4d1071610262b012a9a6f656",
+    "ticketUrl": "https://dice.fm/event/eom3rw-leclair-w-charlie-chimi-15th-jul-sleeping-village-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -65,38 +59,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1431t5g",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-07-15",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "L'Eclair w/ Charlie Chimi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 24.72,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/eom3rw-leclair-w-charlie-chimi-15th-jul-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -138,45 +100,13 @@
       }
     ],
     "genres": [],
-    "price": 20,
+    "price": 24,
     "age": null,
     "ticketUrl": "https://dice.fm/event/8eqppv-rent-strike-tape-and-tears-troll-2-universal-publick-fiend-15th-jul-cobra-lounge-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_xfmn04",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-07-16",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "<open source />",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/avrp9d-open-source-16th-jul-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
       "city": "Chicago",
       "url": null
     }
@@ -209,6 +139,38 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_xfmn04",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-16",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Bourbon on Division",
+    "rawVenue": "Bourbon on Division",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "<open source />",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/avrp9d-open-source-16th-jul-bourbon-on-division-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Bourbon on Division",
+      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
       "city": "Chicago",
       "url": null
     }
@@ -421,6 +383,38 @@
     }
   },
   {
+    "id": "dc_17ji5hb",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-17",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Free Blues Friday Featuring A Patch of Blues",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/3oxy88-free-blues-friday-featuring-a-patch-of-blues-17th-jul-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_xfb1oz",
     "source": "dice",
     "sourceList": [
@@ -469,33 +463,33 @@
     }
   },
   {
-    "id": "dc_17ji5hb",
+    "id": "dc_dq5g31",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-07-17",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
     "hood": null,
     "headliners": [
       {
-        "name": "Free Blues Friday Featuring A Patch of Blues",
+        "name": "Dennis Ferrer",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 40,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/3oxy88-free-blues-friday-featuring-a-patch-of-blues-17th-jul-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
-    "poster": null,
+    "ticketUrl": "https://dice.fm/event/g536na-taste-of-river-north-afterparty-dennis-ferrer-17th-jul-spybar-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2023-12-14/35f47dd9-f259-4887-8d89-2c4792e0101a.jpg?rect=0%2C0%2C640%2C640",
     "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -613,6 +607,38 @@
     "venueInfo": {
       "name": "Robert's Westside",
       "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_ixz0pl",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-19",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Pedro the Lion: 30th Anniversary Show w/ Advance Base",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 36.05,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/yoewxr-pedro-the-lion-30th-anniversary-show-w-advance-base-19th-jul-sleeping-village-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -746,39 +772,33 @@
     }
   },
   {
-    "id": "dc_15dxgt3",
+    "id": "dc_2ajsid",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-07-30",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - The Sanctuary",
+    "rawVenue": "Epiphany Center for the Arts - The Sanctuary ",
     "hood": null,
     "headliners": [
       {
-        "name": "MPH",
+        "name": "The Wrap Up Show",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Kirk",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": 38.06,
+    "price": "FREE",
     "age": null,
-    "ticketUrl": "https://dice.fm/event/3ox5pp-official-lollapalooza-aftershow-mph-30th-jul-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2023-07-31/c03597bd-2d80-4c05-824e-a6e74ad6eb1d.jpg?rect=0%2C56%2C529%2C529",
+    "ticketUrl": "https://dice.fm/event/pynwep-the-wrap-up-show-30th-jul-epiphany-center-for-the-arts-the-sanctuary-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "name": "Epiphany Center for the Arts - The Sanctuary",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -843,38 +863,6 @@
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1xd2s8y",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-02",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dombresky",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 41,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/92klb9-official-lollapalooza-aftershow-dombresky-2nd-aug-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb90e2fc0d59a898e3f7110d24",
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }

@@ -1,267 +1,5 @@
 [
   {
-    "id": "os_emhpd7",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Petra's Recession Seven",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6670/?date=2026-07-14",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_ftjj7c",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Dave Herrero feat. Pete Galanis",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/377969",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_ftjj7c",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Dave Herrero feat. Pete Galanis",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/377970",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1rhczkz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Jazz Happy Hour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "FLEX Trio",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-w-flex-trio-9/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_158qktk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Tuesday Trivia Night",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_l8cvzh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Karaoke with host Millie May",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
-    "id": "os_1c2pjp7",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": "Greater Grand Crossing",
-    "headliners": [
-      {
-        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-07-14-19-00",
-    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.leesunleadedblues.com"
-    }
-  },
-  {
-    "id": "os_1e3d1so",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-14",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "The BlkRoom",
-    "rawVenue": "The BlkRoom",
-    "hood": "East Garfield Park",
-    "headliners": [
-      {
-        "name": "Sewing Class with KCAF",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.theblkroom.org/event-calendar/sewing-class",
-    "poster": "https://static1.squarespace.com/static/65491ead7b54db38b7154d33/661eac87d02fd8015022ff59/6a4563e9fff9b160e44686f2/1782934014063/",
-    "venueInfo": {
-      "name": "The BlkRoom",
-      "address": "4015 W Carroll Ave Unit 204",
-      "city": "Chicago",
-      "url": "https://www.theblkroom.org"
-    }
-  },
-  {
     "id": "os_1jurfhf",
     "source": "venue-site",
     "sourceList": [
@@ -489,38 +227,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_x2hsuv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-15",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
     }
   },
   {
@@ -1580,38 +1286,6 @@
     }
   },
   {
-    "id": "os_v0e1fw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-18",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Karaoke hosted by Sweet Melissa",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
     "id": "os_1q4midp",
     "source": "venue-site",
     "sourceList": [
@@ -1871,38 +1545,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1khpe37",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Fun Simulation 2000 Open Mic Comedy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
     }
   },
   {
@@ -2200,38 +1842,6 @@
     }
   },
   {
-    "id": "os_l82oqz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-21",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Karaoke with host Millie May",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
     "id": "os_1m5r2x",
     "source": "venue-site",
     "sourceList": [
@@ -2453,38 +2063,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1bx7zw5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
     }
   },
   {
@@ -2991,49 +2569,6 @@
     }
   },
   {
-    "id": "os_onkujx",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-24",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Daniel James Gang",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Snake Wine",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "TBA",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
     "id": "os_122b07s",
     "source": "venue-site",
     "sourceList": [
@@ -3386,38 +2921,6 @@
     }
   },
   {
-    "id": "os_w9ot7u",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-25",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Karaoke hosted by Sweet Melissa",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
     "id": "os_bkm6qj",
     "source": "venue-site",
     "sourceList": [
@@ -3738,38 +3241,6 @@
     }
   },
   {
-    "id": "os_q2uapd",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Fun Simulation 2000 Open Mic Comedy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
     "id": "os_thvrem",
     "source": "venue-site",
     "sourceList": [
@@ -4061,38 +3532,6 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_zffinm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-28",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Karaoke with host Millie May",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
     }
   },
   {
@@ -4451,38 +3890,6 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_1d0r69o",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-29",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
     }
   },
   {
@@ -9991,6 +9398,38 @@
     }
   },
   {
+    "id": "os_1g04nn5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-28",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "rawVenue": "Sound-Bar",
+    "hood": "River North",
+    "headliners": [
+      {
+        "name": "MYLA at Sound-Bar",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/myla-at-sound-bar/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    }
+  },
+  {
     "id": "os_84khdk",
     "source": "venue-site",
     "sourceList": [
@@ -10621,7 +10060,7 @@
     "genres": [],
     "price": 35,
     "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/the-boy-band-night-joes-on-weed-street-tickets/14689433?pl=joesbar",
+    "ticketUrl": "https://www.ticketweb.com/event/house-freestyle-affair-with-joes-on-weed-street-tickets/14256714?pl=joesbar",
     "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1783994339712-FTIHY0VH6H2KQMRRE8TY/2026.9.6_House+%26+Freestyle+Affair_16-9-Plain.jpg",
     "venueInfo": {
       "name": "Joe's on Weed",
@@ -11119,6 +10558,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_mudv6g",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Thundersmack",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/thunderstruck-chicago-illinois-09-22-2026/event/040064EC9FEC68CE",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     }
   },
   {
