@@ -416,6 +416,49 @@
     }
   },
   {
+    "id": "aap_1u7bsu",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-23",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Casa del Migrante",
+    "rawVenue": "Casa del Migrante",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Flowering",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Corrupture",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Marine Corpse",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/floweringcorrupturemarine-corpse",
+    "poster": "https://chicago.askapunk.net/media/451f8754a8acfc487f98cf3361a7ee7c.jpg",
+    "venueInfo": {
+      "name": "Casa del Migrante",
+      "address": "Ask a Punk",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_15823b2",
     "source": "askapunk",
     "sourceList": [
@@ -850,6 +893,38 @@
     "venueInfo": {
       "name": "la casa del migrante 3",
       "address": "Email for addy",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1fq9s12",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-15",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Hollywood Beach",
+    "rawVenue": "Hollywood Beach",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Beach Bitc.",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/beach-bitc",
+    "poster": "https://chicago.askapunk.net/media/02af5960d8fc6d789713741d29eaa346.jpg",
+    "venueInfo": {
+      "name": "Hollywood Beach",
+      "address": "5800 North Jean-Baptiste Pointe DuSable Lake Shore Drive Chicago, IL 60640 United States",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }

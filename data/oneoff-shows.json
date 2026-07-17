@@ -1,293 +1,5 @@
 [
   {
-    "id": "os_1d4a3aw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Marques Carroll",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6120/?date=2026-07-16",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_j0p9vb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Joey J. Saye: Traditional Blues Hour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378962",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/51593/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_127h3h3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374431",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_127h3h3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374432",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_xuvu6e",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "OMAR COLEMAN",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/78041659/omar-coleman-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1thr3pn",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Skeleton Crewe",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/skeleton-crewe-chicago-illinois-07-16-2026/event/0400647DD1917E45",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_kj2ex",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Low Spark",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/low-spark/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_259zow",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "RILEY!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/riley-tba-reggies-rock-club-tickets/14925933",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_1ohjn80",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-16",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Street Soul with Kosmo",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/street-soul-with-kosmo-2",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1782761890579-07MK779PR8503B92YSX0/PH-122925-DJs_Kosmo_1x1_a01.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_iu0t2x",
     "source": "venue-site",
     "sourceList": [
@@ -2510,7 +2222,7 @@
     }
   },
   {
-    "id": "os_1bjvquf",
+    "id": "os_y3pfqw",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -2523,7 +2235,7 @@
     "hood": "West Loop",
     "headliners": [
       {
-        "name": "Nocté Royale",
+        "name": "Midnight Society Presents: International Leaders",
         "genre": "music",
         "role": "headliner"
       }
@@ -2533,7 +2245,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/midnightsociety-july24",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1783660237828-Z750ZIX0H86ZLLQYYRXZ/B%26W+headshots+%289%29.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1784261913006-U8VSCJ958I9P65YNTDLW/B%26W+headshots+%2810%29.png",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -4600,7 +4312,7 @@
     }
   },
   {
-    "id": "os_1w9aj2n",
+    "id": "os_xnwopy",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -4613,7 +4325,7 @@
     "hood": "West Loop",
     "headliners": [
       {
-        "name": "DJ Emagic - Poetic JustUs",
+        "name": "DJ Emagic - Deep City House Rave",
         "genre": "music",
         "role": "headliner"
       }
@@ -4623,7 +4335,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/djemagic-july31",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1783659607729-LFMB5SEBO3ETHJ30C7BX/B%26W+headshots+%288%29.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1784261802098-GLWLW9BQSW6SO2HYMY96/B%26W+headshots+%2811%29.png",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -4746,7 +4458,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Vinyl Palace",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
