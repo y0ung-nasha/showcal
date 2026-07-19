@@ -2592,38 +2592,6 @@
     }
   },
   {
-    "id": "vs_50e96l",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-17",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Decoy Prayer Meeting",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/decoy-prayer-meeting/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-july/07-17-2026_8pm_Decoy-Prayer-Meeting.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_fezy5b",
     "source": "venue-site",
     "sourceList": [
@@ -2717,70 +2685,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_kenf9d",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-18",
-    "time": "21:20",
-    "slot": "evening",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Psychotic Break (4pm - 7pm)",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/psychotic-break-4pm-7pm-july-18-2026-727358",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/727/358/compressed/JULY_2026_SQUARE.jpg?1783362130",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
-    "id": "vs_v8ynwd",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-18",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Bryan Eng Trio",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/bryan-eng-trio-4",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_90b9af6780b247a38e284cc24d8cbc40~mv2.png/v1/fill/w_1198,h_796,al_c/8ffa2d_90b9af6780b247a38e284cc24d8cbc40~mv2.png",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/bryan-eng-trio-4"
     }
   },
   {
@@ -2973,49 +2877,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_vkf2tx",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "03:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Raccoon Junior",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Mucho Mango",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Gamma Ray ",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/raccoon-junior-gamma-ray-mucho-mango-july-18-2026-691217",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/217/compressed/13281.jpg?1781919872",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -6322,6 +6183,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_ebgzsl",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-15",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Marques Carroll Quintet - The Music of Dexter Gordon and Freddie Hubbard",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/marques-carroll-quintet-the-music-of-dexter-gordon-and-freddie-hubbard-2",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_27753440cbb14b83ab43057105db6241~mv2.png/v1/fill/w_1200,h_800,al_c/8ffa2d_27753440cbb14b83ab43057105db6241~mv2.png",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/marques-carroll-quintet-the-music-of-dexter-gordon-and-freddie-hubbard-2"
     }
   },
   {
