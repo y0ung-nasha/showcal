@@ -1,106 +1,5 @@
 [
   {
-    "id": "aap_1b3frun",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-07-19",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Casa Cafe",
-    "rawVenue": "Casa Cafe",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "East Moon",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Daylongsigh",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "One Armed Boxer",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Downside Salesman",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/east-moon-daylongsigh-one-armed-boxer-downside-salesman",
-    "poster": "https://chicago.askapunk.net/media/81bbdfa97973fe8ef46ea09044e9e27b.jpg",
-    "venueInfo": {
-      "name": "Casa Cafe",
-      "address": "2025 s western ave",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
-    "id": "aap_1uk6gv2",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-07-19",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Canalport Riverwalk",
-    "rawVenue": "Canalport Riverwalk",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Pet Peeves",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Swim Two Birds",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Naomi 10",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "000",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "000 at the Riverfront",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/pet-peeves-swim-two-birds-naomi-10000000-at-the-riverfront",
-    "poster": "https://chicago.askapunk.net/media/212175a1a2d0f9dfe5e89be92016eff6.jpg",
-    "venueInfo": {
-      "name": "Canalport Riverwalk",
-      "address": "message or ask for address",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1pk5f90",
     "source": "askapunk",
     "sourceList": [
@@ -192,38 +91,6 @@
     }
   },
   {
-    "id": "aap_1f6tau3",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-07-23",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "Everywhere (TBA)",
-    "rawVenue": "Everywhere (TBA)",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Nitro-A-Go-Go",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/nitro-a-go-go",
-    "poster": "https://chicago.askapunk.net/media/61e383e7299c423efd1ed15f69b144cc.jpg",
-    "venueInfo": {
-      "name": "Everywhere (TBA)",
-      "address": "More info soon",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1lck3uv",
     "source": "askapunk",
     "sourceList": [
@@ -299,6 +166,59 @@
     }
   },
   {
+    "id": "aap_1awuo78",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-23",
+    "time": "20:15",
+    "slot": "evening",
+    "venue": "Cortland Bridge",
+    "rawVenue": "Cortland Bridge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nitro-A-Go-Go: July 23rd - Hazel City",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "TV Buddha",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Memory Card",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Macie Stewart",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Emma Draga & Swallowed in White",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/nitro-a-go-go-july-23rd-hazel-city-tv-buddha-memory-card-macie-stewart-emma-draga-and-swallowed-in-white",
+    "poster": "https://chicago.askapunk.net/media/f6a5e4c1eef5fd6ca964a120f6986210.jpg",
+    "venueInfo": {
+      "name": "Cortland Bridge",
+      "address": "Follow @nitroglycerine.mp3",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_15823b2",
     "source": "askapunk",
     "sourceList": [
@@ -326,6 +246,74 @@
     "venueInfo": {
       "name": "New Rose",
       "address": "2058 W Cermak Rd",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_n0qr87",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-24",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Canalport Riverwalk Park",
+    "rawVenue": "Canalport Riverwalk Park",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nitro-A-Go-Go: July 24th - Lifeguard",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Answering Machines",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Current Union TM",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Blank Hellscape",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Debris Bardot (NYC)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Guyscrapers (NYC)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Feather Dusters",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Good Dog Nigel",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/nitro-a-go-go-july-24th-lifeguard-answering-machines-current-union-tm-blank-hellscape-tx-debris-bardot-nyc-guyscrapers-nyc-feather-dusters-ca-good-dog-nigel-ca",
+    "poster": "https://chicago.askapunk.net/media/26ef6dbf5b8522704deebd91ec6b1ab2.jpg",
+    "venueInfo": {
+      "name": "Canalport Riverwalk Park",
+      "address": "(41.8438341, -87.6692408)",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -470,6 +458,54 @@
     }
   },
   {
+    "id": "aap_1ict5fu",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-25",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Humboldt Park Boathouse",
+    "rawVenue": "Humboldt Park Boathouse",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nitro-A-Go-Go: July 25th (Day) - National Photo Committee",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "2w33dy",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Paper Jam",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Dead Nettle",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/nitro-a-go-go-july-25th-day-national-photo-committee-2w33dy-kc-paper-jam-tx-dead-nettle-mi",
+    "poster": "https://chicago.askapunk.net/media/863291c738eafa7d625f6a0e73f83ecd.jpg",
+    "venueInfo": {
+      "name": "Humboldt Park Boathouse",
+      "address": "follow @nitroglycerine.mp3",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_1p0jwg2",
     "source": "askapunk",
     "sourceList": [
@@ -497,6 +533,64 @@
     "venueInfo": {
       "name": "Emerald City Coffee",
       "address": "1224 W Wilson Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_gdyfwb",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-25",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Southside by the Lake",
+    "rawVenue": "Southside by the Lake",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nitro-A-Go-Go: July 25th (Night) - Touch Girl Apple Blossom",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Bullseye (NYC)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Genre",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Janitors",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Badger Hunt (NYC)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Silver Dolls",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/nitro-a-go-go-july-25th-night-touch-girl-apple-blossom-tx-bullseye-nyc-genre-kc-janitors-dc-badger-hunt-nyc-silver-dolls",
+    "poster": "https://chicago.askapunk.net/media/a6dd3812c93686a09c71f3cafdda090d.jpg",
+    "venueInfo": {
+      "name": "Southside by the Lake",
+      "address": "follow @nitroglycerine.mp3",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -535,6 +629,117 @@
     "venueInfo": {
       "name": "Dreamland",
       "address": "3052 w Carroll Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_w5fob8",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-26",
+    "time": "11:00",
+    "slot": "afternoon",
+    "venue": "Logan Square",
+    "rawVenue": "Logan Square",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nitro-A-Go-Go: July 26th (Day) - Talulah God (OH",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Good Flying Birds)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Laurie Duo",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Diondre Dunigan",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/nitro-a-go-go-july-26th-day-talulah-god-oh-good-flying-birds-laurie-duo-diondre-dunigan",
+    "poster": "https://chicago.askapunk.net/media/abb3c3c0cd45a487444599c0a148a03b.jpg",
+    "venueInfo": {
+      "name": "Logan Square",
+      "address": "follow @nitroglycerine.mp3",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_tcch4x",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-26",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "montrose beach ledge",
+    "rawVenue": "montrose beach ledge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nitro-A-Go-Go: July 26th (Night) - Parking",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Greg Freeman",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Post Office Winter",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Age of Peace",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Jason Shapiro",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Tom Jennings",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Uncommon Rat",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/nitro-a-go-go-july-26th-night-parking-ky-greg-freeman-vt-post-office-winter-age-of-peace-oh-jason-shapiro-tom-jennings-uncommon-rat",
+    "poster": "https://chicago.askapunk.net/media/939f6f80f1d477e9a41ab7587e4c83d9.jpg",
+    "venueInfo": {
+      "name": "montrose beach ledge",
+      "address": "by the bird sanctuary",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -712,6 +917,38 @@
     }
   },
   {
+    "id": "aap_bwh6rj",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-01",
+    "time": "17:00",
+    "slot": "evening",
+    "venue": "The Kombucha Club",
+    "rawVenue": "The Kombucha Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Femme Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/femme-night",
+    "poster": "https://chicago.askapunk.net/media/cad1c2f82669ab9d156cacb941f88fed.jpg",
+    "venueInfo": {
+      "name": "The Kombucha Club",
+      "address": "2854 W 38th St - Chicago",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_1wao87g",
     "source": "askapunk",
     "sourceList": [
@@ -739,6 +976,38 @@
     "venueInfo": {
       "name": "Gallery Cabaret",
       "address": "2020 N Oakley",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1b0z3eu",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-08",
+    "time": "17:00",
+    "slot": "evening",
+    "venue": "The Kombucha Club",
+    "rawVenue": "The Kombucha Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Freak Show Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/freak-show-night",
+    "poster": "https://chicago.askapunk.net/media/6acaa2abcbce97f3bf801260aca81d06.jpg",
+    "venueInfo": {
+      "name": "The Kombucha Club",
+      "address": "2854 W 38th St - Chicago",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -803,6 +1072,38 @@
     "venueInfo": {
       "name": "la casa del migrante 3",
       "address": "Email for addy",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_11ei7je",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-15",
+    "time": "17:00",
+    "slot": "evening",
+    "venue": "The Kombucha Club",
+    "rawVenue": "The Kombucha Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Punks Not Dead Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/punks-not-dead-night",
+    "poster": "https://chicago.askapunk.net/media/283b008d1c122af28140a8b405338dc7.jpg",
+    "venueInfo": {
+      "name": "The Kombucha Club",
+      "address": "2854 W 38th St - Chicago",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }

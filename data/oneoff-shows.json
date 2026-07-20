@@ -1,267 +1,5 @@
 [
   {
-    "id": "os_tamam3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Marques Carroll",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6120/?date=2026-07-19",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_15qiiji",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/380198",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_awscxy",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "WILLIE BUCK",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/94014745/willie-buck-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_mxsb1j",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Sound Obsession",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "DJ Zipgun Boogie",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/sound-obsession-w-dj-zipgun-boogie-6/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_4hfunm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Mr. G & the Mystery Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_1khpe37",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Fun Simulation 2000 Open Mic Comedy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
-    "id": "os_1k8x34w",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Baby J & Golden Street Reggae Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-july19",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
-    "id": "os_fujcv8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": null,
-    "slot": null,
-    "venue": "Beauty Bar",
-    "rawVenue": "Beauty Bar",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "EMO VS POP PUNK NEVER A COVER + HAPPY HOUR 7-9 feat. $2 OLD STYLE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Beauty Bar",
-      "address": "1444 W Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.beautybarchicago.com"
-    }
-  },
-  {
     "id": "os_eoxd3y",
     "source": "venue-site",
     "sourceList": [
@@ -1652,6 +1390,70 @@
     }
   },
   {
+    "id": "os_pxgv4m",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Greasy Gravy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
+    "id": "os_1f8wpdm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Couple2Trio",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_119zrbj",
     "source": "venue-site",
     "sourceList": [
@@ -2039,6 +1841,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_uln5yb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-26",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "BANG BANG BINGO!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
     }
   },
   {
