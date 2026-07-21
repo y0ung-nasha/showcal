@@ -2912,38 +2912,6 @@
     }
   },
   {
-    "id": "vs_n96o6g",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-20",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Industry Night w/ mir.frieda",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-65.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_bfflg4",
     "source": "venue-site",
     "sourceList": [
@@ -3069,38 +3037,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1icpqvf",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-21",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Cole's Bar Jam Session",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/cole-s-bar-jam-session-july-20-2026-727569",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/727/569/compressed/ColesJam081924_RMP-155_websize.jpg?1783438634",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -4230,6 +4166,38 @@
     }
   },
   {
+    "id": "vs_c85vqg",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-26",
+    "time": "03:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Champagne Lane / Dr. Drase",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/champagne-lane-dr-drase-july-25-2026-730758",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/730/758/compressed/20260725.jpg?1784576551",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
     "id": "vs_fx3ox1",
     "source": "venue-site",
     "sourceList": [
@@ -4515,6 +4483,38 @@
       "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
       "city": null,
       "url": "https://www.leesunleadedblues.com/event-details/l-sebastians-birthday-bash"
+    }
+  },
+  {
+    "id": "vs_ak9spd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-29",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Sleeping Village and C3 Presents: Pearly Drops w/ RIP Swirl Official Lollapalooza Aftershow",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-39.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -5373,6 +5373,54 @@
     }
   },
   {
+    "id": "vs_lh3168",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-04",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "black triangle badge",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "lnr tmb",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "wolf gordin",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "amRadio",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/black-triangle-badge-lnr-tmb-wolf-gordin-amradio-august-03-2026-728762",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/728/762/compressed/Untitled_-_May_01__2026_at_15.24.53-1.jpg?1784556244",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
     "id": "vs_mlyp1v",
     "source": "venue-site",
     "sourceList": [
@@ -5857,6 +5905,49 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/video-game-night-with-djs-equip-mukqs-august-10-2026-725606",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/725/606/compressed/VGNsquare1.jpg?1782754377",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1x464y8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-12",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "dweller.",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "MONEYBALL",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Highdiver",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/dweller-moneyball-highdiver-august-11-2026-727775",
+    "poster": "https://colesbarchicago.com/assets/coles-bar-logo.png",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",

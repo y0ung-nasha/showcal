@@ -1,101 +1,5 @@
 [
   {
-    "id": "os_eoxd3y",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-20",
-    "time": "17:30",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Chicago Jazz Orchestra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/7020/?date=2026-07-20",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_tjffxy",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-20",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/380191",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_dhxfk5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-20",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Welcome To The Show Hosted by Derek Bish",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/welcome-to-the-show/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
     "id": "os_qyscws",
     "source": "venue-site",
     "sourceList": [
@@ -358,7 +262,7 @@
     }
   },
   {
-    "id": "os_1fgvp4p",
+    "id": "os_12md40p",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -371,12 +275,18 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "name": "Giulio Brouzet",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -476,7 +386,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/62346552/jimmy-burns-host-the-jam-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "javascript:void(0)",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -547,6 +457,49 @@
       "address": "3017 W Belmont",
       "city": "Chicago",
       "url": "https://reedslocal.com"
+    }
+  },
+  {
+    "id": "os_sjkv3r",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-22",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "King Hippo",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "BillyTheKid",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Tromblau",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/king-hippo-billythekid-tromblau",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1784570656857-LDPJMBOQMGMYMYRQPH35/btk2.jpg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -777,6 +730,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_c7gi1e",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-23",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Blesstonio x Nosike",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/blesstonio-x-nosike",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1784570741071-VM7DSVGRKKZ7Z2X1N4SS/Blesstonio%2BHeadshot.jpeg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -1547,6 +1532,38 @@
       "address": "3017 W Belmont",
       "city": "Chicago",
       "url": "https://reedslocal.com"
+    }
+  },
+  {
+    "id": "os_sjgw3g",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": "Greater Grand Crossing",
+    "headliners": [
+      {
+        "name": "LIVE BLUES - TAZZ THE MUSICIAN & THE UNLEADED KINGS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-07-25-21-00",
+    "poster": "https://static.wixstatic.com/media/17e034_aca59cf27906437f9bb89b164206c859~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.leesunleadedblues.com"
     }
   },
   {
@@ -2394,6 +2411,44 @@
     }
   },
   {
+    "id": "os_1qbxl8g",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-29",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Giulio Brouzet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/378955",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/84087/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
     "id": "os_10fw60z",
     "source": "venue-site",
     "sourceList": [
@@ -2418,38 +2473,6 @@
     "age": null,
     "ticketUrl": "https://www.rosaslounge.com/shows/379960",
     "poster": "https://files.seatengine.com/talent/headshots/photos/93598/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_8tkiww",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-29",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378955",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/84087/full/data",
     "venueInfo": {
       "name": "Rosa's Lounge",
       "address": "3420 W Armitage Ave.",
@@ -3352,6 +3375,38 @@
     }
   },
   {
+    "id": "os_193709b",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-31",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Kid Clay",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/kid-clay",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1784570827105-MQFY9EMQS7HJE41VK7FL/73126_KidClay.jpg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
+    }
+  },
+  {
     "id": "os_xnwopy",
     "source": "venue-site",
     "sourceList": [
@@ -4164,7 +4219,7 @@
     }
   },
   {
-    "id": "os_fq1zv",
+    "id": "os_gd08e3",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -4177,12 +4232,18 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "name": "Giulio Brouzet",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -4583,6 +4644,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_i51oy8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-06",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Street Soul with Kosmo",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/iwnkxnsvdngujfb6k5whq3dm5pwjee",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1784570974069-O93CMITWOUKKDHP1HEOR/Kosmo+1.jpeg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -5317,6 +5410,44 @@
     }
   },
   {
+    "id": "os_r0c391",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-09",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Sound-Bar",
+    "rawVenue": "Sound-Bar",
+    "hood": "River North",
+    "headliners": [
+      {
+        "name": "OBI'S HOUSE",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "22ND ANNUAL UIU CONVENTION",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/obis-house-22nd-annual-uiu-convention-doors-3pm/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    }
+  },
+  {
     "id": "os_1dg1zj8",
     "source": "venue-site",
     "sourceList": [
@@ -5605,7 +5736,7 @@
     }
   },
   {
-    "id": "os_1p72czd",
+    "id": "os_1ay1nmh",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5618,12 +5749,18 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "name": "Giulio Brouzet",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -6699,7 +6836,7 @@
     }
   },
   {
-    "id": "os_ijr6rk",
+    "id": "os_1ynm4u8",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6712,12 +6849,18 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "name": "Giulio Brouzet",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -6888,6 +7031,38 @@
       "address": null,
       "city": "Chicago",
       "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
+    "id": "os_1ua276f",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-20",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Avondale Arts Presents: Avondalia Night Out",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/381121",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/93862/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
     }
   },
   {
@@ -7841,7 +8016,7 @@
     }
   },
   {
-    "id": "os_89zfry",
+    "id": "os_u7ji3i",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -7854,12 +8029,18 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "name": "Giulio Brouzet",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -10982,7 +11163,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Dylan Chambers",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -11178,7 +11365,7 @@
     "genres": [],
     "price": null,
     "age": "ALL AGES",
-    "ticketUrl": null,
+    "ticketUrl": "https://www.ticketweb.com/event/gavn-tba-reggies-rock-club-tickets/14208404",
     "poster": null,
     "venueInfo": {
       "name": "Reggies Rock Club",
@@ -11618,6 +11805,38 @@
       "address": null,
       "city": "Chicago",
       "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
+    "id": "os_t0f5e8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-25",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "The Adler Brothers - Thanksgiving Eve",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/the-adler-brothers-joes-on-weed-street-tickets/14261864?pl=joesbar",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1784554104621-PNH6KQ9J4OGLDAOUGITJ/2026.11.25_The+Adler+Brothers_16-9.jpg",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
     }
   },
   {
