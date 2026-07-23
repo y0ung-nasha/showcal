@@ -64,20 +64,20 @@
     }
   },
   {
-    "id": "dc_1qwlx1u",
+    "id": "dc_fyhh6k",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-07-24",
-    "time": "20:00",
+    "date": "2026-07-23",
+    "time": "19:30",
     "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
+    "venue": "Epiphany Center for the Arts - The Sanctuary",
+    "rawVenue": "Epiphany Center for the Arts - The Sanctuary ",
     "hood": null,
     "headliners": [
       {
-        "name": "All Your Friends",
+        "name": "The Martin Metzger Flamenco-Jazz Ensemble",
         "genre": "music",
         "role": "headliner"
       }
@@ -86,11 +86,11 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/k6y7xp-all-your-friends-24th-jul-cobra-lounge-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/53pxmd-the-martin-metzger-flamenco-jazz-ensemble-23rd-jul-epiphany-center-for-the-arts-the-sanctuary-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "name": "Epiphany Center for the Arts - The Sanctuary",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -128,20 +128,20 @@
     }
   },
   {
-    "id": "dc_crgjh5",
+    "id": "dc_1qwlx1u",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-07-24",
-    "time": "19:30",
+    "time": "20:00",
     "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
     "hood": null,
     "headliners": [
       {
-        "name": "Fly Club Presents: Party Like a Rock Star",
+        "name": "All Your Friends",
         "genre": "music",
         "role": "headliner"
       }
@@ -150,11 +150,11 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/k6lbp9-fly-club-presents-party-like-a-rock-star-24th-jul-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/k6y7xp-all-your-friends-24th-jul-cobra-lounge-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -219,6 +219,70 @@
     "venueInfo": {
       "name": "JOY District",
       "address": "112 West Hubbard Street, Chicago, Illinois 60654, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_crgjh5",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-24",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Fly Club Presents: Party Like a Rock Star",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/k6lbp9-fly-club-presents-party-like-a-rock-star-24th-jul-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_fww1fx",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-24",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Cool Kids",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 32.77,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/mx99gk-the-cool-kids-nnamdi-24th-jul-chop-shop-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb2c99da51f515397d12573d13",
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -352,38 +416,6 @@
     }
   },
   {
-    "id": "dc_1tq6ko9",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-07-29",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Steady Payse & Friends",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 18.18,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/ww935p-steady-payse-friends-29th-jul-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_2ajsid",
     "source": "dice",
     "sourceList": [
@@ -468,13 +500,51 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 52.06,
+    "price": 50,
     "age": null,
     "ticketUrl": "https://dice.fm/event/l8kgpl-official-lollapalooza-aftershow-westend-1st-aug-spybar-chicago-tickets",
     "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb18d92af87e4eff40249995f9",
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_11a22zf",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-01",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Simon Grossmann",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Los Retros",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 41.5,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/g5qgpb-official-lollapalooza-aftershow-los-retros-simon-grossman-1st-aug-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebface6d5bad4919469a0a262a",
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -512,39 +582,33 @@
     }
   },
   {
-    "id": "dc_11r3bt3",
+    "id": "dc_18xqf07",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-08-02",
-    "time": "18:00",
+    "date": "2026-08-08",
+    "time": "16:00",
     "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
+    "venue": "Secret Location - Chicago",
+    "rawVenue": "Secret Location - Chicago",
     "hood": null,
     "headliners": [
       {
-        "name": "Devi April McCallion",
+        "name": "BOOTS - Market Days Weekend",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Bubblegum Octopus",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": 22.5,
+    "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/ry8w8w-devi-mccallion-bubblegum-octopus-2nd-aug-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebd21dec6752573bf107dc12d9",
+    "ticketUrl": "https://dice.fm/event/eo65e6-boots-market-days-weekend-8th-aug-secret-location-chicago-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "name": "Secret Location - Chicago",
+      "address": "Chicago, IL, USA",
       "city": "Chicago",
       "url": null
     }
@@ -652,20 +716,20 @@
     }
   },
   {
-    "id": "dc_6mithd",
+    "id": "dc_6cq4ix",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-08-22",
-    "time": "21:00",
+    "date": "2026-08-20",
+    "time": "20:00",
     "slot": "evening",
     "venue": "Chop Shop",
     "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Lady Shaka",
+        "name": "Eli",
         "genre": "music",
         "role": "headliner"
       }
@@ -674,7 +738,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/q2p35y-everywhere-between-22nd-aug-chop-shop-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/oe799g-eli-20th-aug-chop-shop-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Chop Shop",
@@ -796,38 +860,6 @@
     "venueInfo": {
       "name": "The Salt Shed",
       "address": "1357 North Elston Avenue, Chicago, Illinois 60642, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1d7bbg3",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-11",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Metro Presents... Com Truise (DJ Set) * Merrick Brown * AVA ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 28.84,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/6d8av7-metro-presents-com-truise-dj-set-merrick-brown-ava-11th-sep-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -956,38 +988,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_yz3jbb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Maddie Zahm",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 36.05,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/pybbby-maddie-zahm-everything-all-the-time-tour-7th-nov-chop-shop-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb894be93791dbaf816cf0cfbe",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }

@@ -1,246 +1,5 @@
 [
   {
-    "id": "os_y3rwnw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Kyle Swan Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6134/?date=2026-07-22",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_12md40p",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Giulio Brouzet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378954",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/84087/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_12ykxty",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "A Patch of Blues",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378563",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/92096/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_12ykxty",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "A Patch of Blues",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378564",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/92096/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1ioopnz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "JIMMY BURNS – Host The Jam",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "javascript:void(0)",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1e1vxg2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Raina Sokolov-Gonzalez",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/raina-sokolov-gonzalez/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_sjkv3r",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "King Hippo",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "BillyTheKid",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Tromblau",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/king-hippo-billythekid-tromblau",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1784570656857-LDPJMBOQMGMYMYRQPH35/btk2.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_181okuj",
     "source": "venue-site",
     "sourceList": [
@@ -398,44 +157,6 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1ot7m3j",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-23",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "David Murphy: For My Peeps",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "DJ Cousin Eli aka Andy Farag of Umphrey's McGee",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/david-murphy-for-my-peeps-chicago-illinois-07-23-2026/event/04006467AD22702C",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
     }
   },
   {
@@ -701,6 +422,44 @@
     }
   },
   {
+    "id": "os_1bj33ix",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-24",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Salisman",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Tambourine Moon, The Embryos",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_1j3ftz4",
     "source": "venue-site",
     "sourceList": [
@@ -773,6 +532,81 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_onkujx",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-24",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Daniel James Gang",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Snake Wine",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "TBA",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
+    }
+  },
+  {
+    "id": "os_ccimjp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-24",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": "Greater Grand Crossing",
+    "headliners": [
+      {
+        "name": "Ladies Night at Lees with Moe & Mzs China",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.leesunleadedblues.com/event-details/ladies-night-at-lees-with-moe-mzs-china",
+    "poster": "https://static.wixstatic.com/media/17e034_895ec619626648a28a4f92eb3858f6be~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.leesunleadedblues.com"
     }
   },
   {
@@ -1032,6 +866,70 @@
     }
   },
   {
+    "id": "os_pxgv4m",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Greasy Gravy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
+    "id": "os_1f8wpdm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Couple2Trio",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_119zrbj",
     "source": "venue-site",
     "sourceList": [
@@ -1096,6 +994,38 @@
     }
   },
   {
+    "id": "os_w9ot7u",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Karaoke hosted by Sweet Melissa",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
+    }
+  },
+  {
     "id": "os_sjgw3g",
     "source": "venue-site",
     "sourceList": [
@@ -1119,7 +1049,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-07-25-21-00",
-    "poster": "https://static.wixstatic.com/media/17e034_aca59cf27906437f9bb89b164206c859~mv2.png",
+    "poster": "https://static.wixstatic.com/media/17e034_59242dcda75c45b298d3b26366db7a4e~mv2.png",
     "venueInfo": {
       "name": "Lee's Unleaded Blues",
       "address": "7401 S South Chicago Ave",
@@ -1422,6 +1352,38 @@
     }
   },
   {
+    "id": "os_uln5yb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-26",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "BANG BANG BINGO!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_uu8zcm",
     "source": "venue-site",
     "sourceList": [
@@ -1451,6 +1413,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_q2uapd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-26",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Fun Simulation 2000 Open Mic Comedy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -1716,6 +1710,38 @@
     }
   },
   {
+    "id": "os_ayzf3h",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-28",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Tuesday Trivia Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_e17wt1",
     "source": "venue-site",
     "sourceList": [
@@ -1745,6 +1771,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_zffinm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-28",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Karaoke with host Millie May",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -1876,6 +1934,38 @@
     }
   },
   {
+    "id": "os_10fw60z",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-29",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Re-Elect Jessie Fuentes for 26th Ward - Fundraiser – July 29th   6:00–8:00 PM",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/379960",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/93598/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
     "id": "os_1qbxl8g",
     "source": "venue-site",
     "sourceList": [
@@ -1906,38 +1996,6 @@
     "age": null,
     "ticketUrl": "https://www.rosaslounge.com/shows/378955",
     "poster": "https://files.seatengine.com/talent/headshots/photos/84087/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_10fw60z",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-29",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Re-Elect Jessie Fuentes for 26th Ward - Fundraiser – July 29th   6:00–8:00 PM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/379960",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/93598/full/data",
     "venueInfo": {
       "name": "Rosa's Lounge",
       "address": "3420 W Armitage Ave.",
@@ -2141,6 +2199,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_1d0r69o",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-29",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "AEW Watch Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -3137,6 +3227,70 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_ne8fx",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-01",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": "Greater Grand Crossing",
+    "headliners": [
+      {
+        "name": "Melinda’s BIG 56th Birthday Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.leesunleadedblues.com/event-details/melindas-big-56th-birthday-party",
+    "poster": "https://static.wixstatic.com/media/17e034_d27fcc7fbc124be3ba62202c2972b8ec~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.leesunleadedblues.com"
+    }
+  },
+  {
+    "id": "os_1esxl3r",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-01",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": "Greater Grand Crossing",
+    "headliners": [
+      {
+        "name": "LIVE BLUES - TAZZ THE MUSICIAN & THE UNLEADED KINGS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-08-01-21-00",
+    "poster": "https://static.wixstatic.com/media/17e034_59242dcda75c45b298d3b26366db7a4e~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.leesunleadedblues.com"
     }
   },
   {
@@ -4336,38 +4490,6 @@
     }
   },
   {
-    "id": "os_247df4",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "SAVAGE HANDS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/savage-hands-of-virtue-reggies-rock-club-tickets/14916683",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
     "id": "os_1fh891b",
     "source": "venue-site",
     "sourceList": [
@@ -4712,6 +4834,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_dbhkta",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-08",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": "Greater Grand Crossing",
+    "headliners": [
+      {
+        "name": "LIVE BLUES - TAZZ THE MUSICIAN & THE UNLEADED KINGS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-08-08-19-00",
+    "poster": "https://static.wixstatic.com/media/17e034_59242dcda75c45b298d3b26366db7a4e~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.leesunleadedblues.com"
     }
   },
   {
@@ -8261,6 +8415,38 @@
     }
   },
   {
+    "id": "os_1eywm32",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-29",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Peach Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/peach-jam-chicago-illinois-08-29-2026/event/040064F2D41524D8",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
     "id": "os_1mn9syp",
     "source": "venue-site",
     "sourceList": [
@@ -10471,6 +10657,38 @@
     }
   },
   {
+    "id": "os_12wjcoc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "rawVenue": "Sound-Bar",
+    "hood": "River North",
+    "headliners": [
+      {
+        "name": "ELEPHANTE at Sound-Bar",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/elephante-at-sound-bar/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    }
+  },
+  {
     "id": "os_1vg1jci",
     "source": "venue-site",
     "sourceList": [
@@ -10607,6 +10825,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_1w2ykls",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-16",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Grateful String Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/grateful-string-band-chicago-illinois-10-16-2026/event/040064F5F25854FD",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     }
   },
   {
@@ -10904,6 +11154,38 @@
     }
   },
   {
+    "id": "os_bk0yz1",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-30",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "FORBIDDEN",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/forbidden-heathen-void-reggies-rock-club-tickets/14274074",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
     "id": "os_1eq9ac3",
     "source": "venue-site",
     "sourceList": [
@@ -11003,6 +11285,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_164dx8x",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-12",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "PSYCROPTIC",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/psycroptic-inferi-cognitive-summoning-the-reggies-rock-club-tickets/14274814",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
     }
   },
   {

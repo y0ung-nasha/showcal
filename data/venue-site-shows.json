@@ -1,34 +1,98 @@
 [
   {
-    "id": "vs_19glz3u",
+    "id": "vs_ej40en",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
     ],
-    "date": "2026-06-11",
-    "time": "20:30",
+    "date": "2025-12-28",
+    "time": "19:20",
     "slot": "evening",
-    "venue": "Elastic Arts",
-    "rawVenue": null,
-    "hood": null,
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol's Pub",
+    "hood": "Uptown",
     "headliners": [
       {
-        "name": "Improvised Music Series: Sri Perangur's Enargeia, Clark / Rubin + Dessel / Nguyen — Elastic Arts Foundation",
+        "name": "Chicago Bears @ San Francisco — Watch Party",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": "FREE",
     "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a15f2748c07bb753f602f25/1780608740941/sri_perangur-synesthesia+-+Sri+Perangur.JPG?format=1500w",
+    "ticketUrl": "https://carolspub.com/music.html",
+    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
     "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com/"
+    }
+  },
+  {
+    "id": "vs_6lj7mk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-02-05",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Jade Eagleson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
+    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
+    "id": "vs_6juvvq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-04-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Canaan Cox",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
+    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
     }
   },
   {
@@ -2592,38 +2656,6 @@
     }
   },
   {
-    "id": "vs_11asdip",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-18",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The Lizard Kings",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/the-lizard-kings/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-july/07-18-2026_8pm_The-Lizard-Kings.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_h3qqzb",
     "source": "venue-site",
     "sourceList": [
@@ -2752,38 +2784,6 @@
     }
   },
   {
-    "id": "vs_157woz3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-19",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Chicago Cellar Boys",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/chicago-cellar-boys/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2025-november/chicago-cellar-boys-updated-11-2025.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_bfflg4",
     "source": "venue-site",
     "sourceList": [
@@ -2909,38 +2909,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1hb9tp5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-21",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-07-21-19-00"
     }
   },
   {
@@ -3083,38 +3051,6 @@
     }
   },
   {
-    "id": "vs_b5wp3j",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-22",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Michael Lerich Quartet - Swingin’ the Great American Songbook",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/michael-lerich-quartet-swingin-the-great-american-songbook-2",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_17d0dadf86254c248cbe81f5fa25731a~mv2.jpg/v1/fill/w_5167,h_3438,al_c,q_90/8ffa2d_17d0dadf86254c248cbe81f5fa25731a~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/michael-lerich-quartet-swingin-the-great-american-songbook-2"
-    }
-  },
-  {
     "id": "vs_ta3urg",
     "source": "venue-site",
     "sourceList": [
@@ -3144,6 +3080,38 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_v1u0la",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-23",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Ambient Chess",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-7.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3371,6 +3339,38 @@
     }
   },
   {
+    "id": "vs_1iwpqy9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-24",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Chicago Gothic Scene & Velvet Ladybug Present Flowerbabe / Fantasma Negra / The Sea Ghouls / Scary Lady Sarah (DJ Set)",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-1.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_1v8413i",
     "source": "venue-site",
     "sourceList": [
@@ -3574,6 +3574,38 @@
     }
   },
   {
+    "id": "vs_o1ysbi",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-24",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Ladies Night at Lees with Moe & Mzs China ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://static.wixstatic.com/media/17e034_895ec619626648a28a4f92eb3858f6be~mv2.png/v1/fill/w_1023,h_1537,al_c/17e034_895ec619626648a28a4f92eb3858f6be~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/ladies-night-at-lees-with-moe-mzs-china"
+    }
+  },
+  {
     "id": "vs_1q1218k",
     "source": "venue-site",
     "sourceList": [
@@ -3603,6 +3635,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_uu08co",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Garden Of: Pillow Princess",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-53.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3750,6 +3814,70 @@
     }
   },
   {
+    "id": "vs_3ecbl6",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Bosman Twins Quintet - A Birthday Bash!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-a-birthday-bash-4",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_d5fdb94fb8dd4741949ac2cf8c32a4fc~mv2.jpg/v1/fill/w_1359,h_764,al_c,q_85/8ffa2d_d5fdb94fb8dd4741949ac2cf8c32a4fc~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-a-birthday-bash-4"
+    }
+  },
+  {
+    "id": "vs_hlh6yd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-25",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "LIVE BLUES - TAZZ THE MUSICIAN & THE UNLEADED KINGS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://static.wixstatic.com/media/17e034_59242dcda75c45b298d3b26366db7a4e~mv2.png/v1/fill/w_1024,h_1536,al_c/17e034_59242dcda75c45b298d3b26366db7a4e~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-07-25-21-00"
+    }
+  },
+  {
     "id": "vs_1u1x6oq",
     "source": "venue-site",
     "sourceList": [
@@ -3779,6 +3907,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_kl07cy",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-26",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Kickstand Productions Presents: Ovlov w/ Special Guests Cusp",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-5.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3974,6 +4134,38 @@
     }
   },
   {
+    "id": "vs_1f6074l",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-27",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Umbra Ground Presents… Viridian Hollows",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/04/imagsdfe-24.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_epnw8c",
     "source": "venue-site",
     "sourceList": [
@@ -4163,6 +4355,70 @@
       "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
       "city": null,
       "url": "https://www.leesunleadedblues.com/event-details/l-sebastians-birthday-bash"
+    }
+  },
+  {
+    "id": "vs_tf2gm8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-28",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-07-28-19-00"
+    }
+  },
+  {
+    "id": "vs_ak9spd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-29",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Sleeping Village and C3 Presents: Pearly Drops w/ RIP Swirl Official Lollapalooza Aftershow",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-39.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -4903,6 +5159,38 @@
     }
   },
   {
+    "id": "vs_lg1qm5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-01",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Melinda’s BIG 56th Birthday Party ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://static.wixstatic.com/media/17e034_d27fcc7fbc124be3ba62202c2972b8ec~mv2.png/v1/fill/w_1290,h_2796,al_c/17e034_d27fcc7fbc124be3ba62202c2972b8ec~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/melindas-big-56th-birthday-party"
+    }
+  },
+  {
     "id": "vs_17txl1u",
     "source": "venue-site",
     "sourceList": [
@@ -5523,6 +5811,38 @@
     }
   },
   {
+    "id": "vs_1kve3lj",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-10",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Elastic Arts",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Horses 4K, Desert Liminal, Sam Wagster (solo) — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a6183902b5b407a3a8bac7d/1784775936138/horses_4k+-+Robin+Guiler.jpg?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
+    }
+  },
+  {
     "id": "vs_91hosg",
     "source": "venue-site",
     "sourceList": [
@@ -5957,6 +6277,38 @@
     }
   },
   {
+    "id": "vs_moste4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-16",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes Trio with special guest Angel Spiccia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/thaddeus-tukes-trio-with-special-guest-angel-spiccia",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_11f60c5b1efb42bf911534cfad935a70~mv2.jpg/v1/fill/w_2000,h_1387,al_c,q_90/8ffa2d_11f60c5b1efb42bf911534cfad935a70~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/thaddeus-tukes-trio-with-special-guest-angel-spiccia"
+    }
+  },
+  {
     "id": "vs_nxp11z",
     "source": "venue-site",
     "sourceList": [
@@ -6050,6 +6402,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1cc88z8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-19",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Abigail Riccards & Friends - A Night of Soul / Jazz / Blues Favorites",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-19",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg/v1/fill/w_3600,h_2400,al_c,q_90/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-19"
     }
   },
   {
