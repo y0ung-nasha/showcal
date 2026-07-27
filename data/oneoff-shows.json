@@ -1,299 +1,5 @@
 [
   {
-    "id": "os_1c3wob2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Derrick Gardner & the Jazz Prophets",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/11702/?date=2026-07-26",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_188xosc",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/380199",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_ka1pky",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "STEFAN HILLISHIEM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/58307083/stefan-hillishiem-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_14tntvl",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Bobby Rush",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Lil' Ed & The Blues Imperials",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/bobby-rush-chicago-illinois-07-26-2026/event/04006486005F26A1",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_19u0ql9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "LAGOS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/lagos/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_uu8zcm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": null,
-    "slot": null,
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "MACABRE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/mark-sawickis-memorial-reggies-rock-club-tickets/14843563",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_q2uapd",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Fun Simulation 2000 Open Mic Comedy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
-    "id": "os_thvrem",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Baby J & Golden Street Reggae Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-july26",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
-    "id": "os_1tkbwjm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-26",
-    "time": null,
-    "slot": null,
-    "venue": "Beauty Bar",
-    "rawVenue": "Beauty Bar",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "EMO VS POP PUNK NEVER A COVER + HAPPY HOUR 7-9 feat. $2 OLD STYLE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Beauty Bar",
-      "address": "1444 W Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.beautybarchicago.com"
-    }
-  },
-  {
     "id": "os_1pev5qd",
     "source": "venue-site",
     "sourceList": [
@@ -524,38 +230,6 @@
     }
   },
   {
-    "id": "os_zffinm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-28",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Karaoke with host Millie May",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
     "id": "os_vlswrq",
     "source": "venue-site",
     "sourceList": [
@@ -684,7 +358,7 @@
     }
   },
   {
-    "id": "os_1qbxl8g",
+    "id": "os_8tkiww",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -697,18 +371,12 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet",
+        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
     "price": null,
     "age": null,
@@ -949,38 +617,6 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_1d0r69o",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-29",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
     }
   },
   {
@@ -2300,6 +1936,70 @@
     }
   },
   {
+    "id": "os_pa0hj",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-02",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "BLISS rooftop experience: Jamaican Independence Day",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/bliss-august2",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785101860383-1X4XFMOOEZ2G51I0G16F/bliss.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
+    "id": "os_17yd4p1",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-02",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Reggae on the rooftop: Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august2",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_l9rza5",
     "source": "venue-site",
     "sourceList": [
@@ -2588,7 +2288,7 @@
     }
   },
   {
-    "id": "os_gd08e3",
+    "id": "os_fq1zv",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -2601,18 +2301,12 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet",
+        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
     "price": null,
     "age": null,
@@ -3363,6 +3057,44 @@
     }
   },
   {
+    "id": "os_1p9uwrm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Midnight Society Presents: Tacky Twinnzz",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Meet & Greet",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/midnightsociety-august7",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785102120013-P76YSEW841UH3UNPL5H3/tacky.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_1thwmem",
     "source": "venue-site",
     "sourceList": [
@@ -3619,6 +3351,38 @@
     }
   },
   {
+    "id": "os_r7pu5i",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-08",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Tales by Moonlight",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/lightboxlineup/tales-august8",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785103323969-D2MPST0DJL9V6PAEUKZ7/tales.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_5i9wwt",
     "source": "venue-site",
     "sourceList": [
@@ -3814,6 +3578,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_1pctgtc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-09",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august9",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {
@@ -4073,6 +3869,38 @@
     }
   },
   {
+    "id": "os_1ktp0j8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Y’all Not Dancing No More: Chris Brown vs. Usher",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/lightboxlineup/yall-august11",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785103795259-FFSK5T8RRQNY6B9ET5NP/YALL.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_5g19se",
     "source": "venue-site",
     "sourceList": [
@@ -4105,7 +3933,7 @@
     }
   },
   {
-    "id": "os_1ay1nmh",
+    "id": "os_1p72czd",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -4118,18 +3946,12 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet",
+        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
     "price": null,
     "age": null,
@@ -4629,6 +4451,38 @@
     }
   },
   {
+    "id": "os_6hc1xz",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-14",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Jama",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/jama-august14",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785104045983-LT4TMC8VFG3FTP8N8RVK/jama.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_6o657j",
     "source": "venue-site",
     "sourceList": [
@@ -4917,6 +4771,38 @@
     }
   },
   {
+    "id": "os_gho1j2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-15",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Household Names",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/householdnames-august15",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785102634770-2UPY6HA1EGM7RVLBC71L/household.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_1t8ql53",
     "source": "venue-site",
     "sourceList": [
@@ -5010,6 +4896,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    }
+  },
+  {
+    "id": "os_iys60a",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-16",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Reggae on the rooftop: Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august16",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {
@@ -5205,7 +5123,7 @@
     }
   },
   {
-    "id": "os_1ynm4u8",
+    "id": "os_ijr6rk",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5218,18 +5136,12 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet",
+        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
     "price": null,
     "age": null,
@@ -5803,6 +5715,38 @@
     }
   },
   {
+    "id": "os_1978p7e",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-21",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Baby J & GOlden street reggae band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august21",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785104298937-3QON6FJ1SS6JEBB1731S/bbyj.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_1dz7nqf",
     "source": "venue-site",
     "sourceList": [
@@ -6065,6 +6009,38 @@
     }
   },
   {
+    "id": "os_1a619by",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "DJ G Sharp & DJ Fucha - REMEDY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/djfucha-august22",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785102977768-AYHGB5OTRQOTB5RYWTQR/REMEDY.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_arjbt4",
     "source": "venue-site",
     "sourceList": [
@@ -6190,6 +6166,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_7uqtcs",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-23",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august23",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {
@@ -6417,7 +6425,7 @@
     }
   },
   {
-    "id": "os_u7ji3i",
+    "id": "os_89zfry",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6430,18 +6438,12 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Giulio Brouzet",
+        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Alex Smith: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
     "price": null,
     "age": null,
@@ -6772,6 +6774,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_5n4nl7",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-27",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Vibes Pon di Roof",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/vibes-august27",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785104501047-M0KP1ILPTY2CGBNBKAQA/vibes+pon.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {
@@ -7418,6 +7452,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    }
+  },
+  {
+    "id": "os_1g4tjlm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-30",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august30",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {
