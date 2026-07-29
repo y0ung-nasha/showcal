@@ -1,31 +1,68 @@
 [
   {
-    "id": "aap_w2tud9",
+    "id": "aap_1fa1xhw",
     "source": "askapunk",
     "sourceList": [
       "askapunk"
     ],
-    "date": "2026-07-28",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Empty Bottle",
-    "rawVenue": "Empty Bottle",
+    "date": "2026-07-31",
+    "time": "08:30",
+    "slot": "afternoon",
+    "venue": "Coles Bar",
+    "rawVenue": "Coles Bar",
     "hood": null,
     "headliners": [
       {
-        "name": "Teeth Kids \"Fake Hell\" LP Release with Mensa",
+        "name": "Coles bad",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/coles-bad",
+    "poster": "https://chicago.askapunk.net/media/276c34437f4914b64dd879062b636d96.jpg",
+    "venueInfo": {
+      "name": "Coles Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1urtgy0",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-07-31",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Lowdown",
+    "rawVenue": "Lowdown",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Faint",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [
       {
-        "name": "Stander",
+        "name": "Stoneyard",
         "genre": "music",
         "role": "opener"
       },
       {
-        "name": "Prime Angel Weather",
+        "name": "Goo Man",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Instrument",
         "genre": "music",
         "role": "opener"
       }
@@ -33,11 +70,11 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/teeth-kids-fake-hell-lp-release-with-mensa-stander-prime-angel-weather",
-    "poster": "https://chicago.askapunk.net/media/1b37675635f1077915234a85a8e48343.jpg",
+    "ticketUrl": "https://chicago.askapunk.net/event/faint-stoneyard-goo-man-instrument",
+    "poster": "https://chicago.askapunk.net/media/0676937023401a9a08e4c9345ec2627d.jpg",
     "venueInfo": {
-      "name": "Empty Bottle",
-      "address": "1035 N Western Ave",
+      "name": "Lowdown",
+      "address": "email lowdownchi.diy@gmail.com",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -161,6 +198,49 @@
     "venueInfo": {
       "name": "The Kombucha Club",
       "address": "2854 W 38th St - Chicago",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_n9xbu3",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-01",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Tivoli Bowl",
+    "rawVenue": "Tivoli Bowl",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Reely Big Moose",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Armadillo Invasion",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Meteor Man",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/reely-big-moose-armadillo-invasion-meteor-man",
+    "poster": "https://chicago.askapunk.net/media/868e7b8bb85add3f957156f26cae57fd.jpg",
+    "venueInfo": {
+      "name": "Tivoli Bowl",
+      "address": "938 Warren Ave Ste A, Downers Grove, IL 60515",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
