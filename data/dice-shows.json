@@ -1,69 +1,5 @@
 [
   {
-    "id": "dc_1tq6ko9",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-07-29",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Steady Payse & Friends",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 18.18,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/ww935p-steady-payse-friends-29th-jul-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_ak9spd",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-07-29",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sleeping Village and C3 Presents: Pearly Drops w/ RIP Swirl Official Lollapalooza Aftershow",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 31.93,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/92kobo-sleeping-village-and-c3-presents-pearly-drops-w-rip-swirl-official-lollapalooza-aftershow-29th-jul-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_2ajsid",
     "source": "dice",
     "sourceList": [
@@ -122,7 +58,7 @@
       }
     ],
     "genres": [],
-    "price": 39.86,
+    "price": null,
     "age": null,
     "ticketUrl": "https://dice.fm/event/xeobpk-official-lollapalooza-aftershow-high-vis-30th-jul-cobra-lounge-chicago-tickets",
     "poster": "https://dice-media.imgix.net/attachments/2025-08-12/c629221a-f8a9-42a9-97b5-66f62c701614.jpg?rect=0%2C0%2C640%2C640",
@@ -134,13 +70,77 @@
     }
   },
   {
+    "id": "dc_beuava",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-30",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "FULL BUSH: A Kate Bush Drag Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/7dw6rv-full-bush-a-kate-bush-drag-show-30th-jul-color-club-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1wjbl85",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-30",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "BIJOU",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/pynrop-bijou-30th-jul-spybar-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2025-06-10/97686c56-49f7-4234-8235-bc8c812ac6ac.jpg?rect=0%2C26%2C513%2C513",
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_te5wrj",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-07-31",
-    "time": "23:00",
+    "time": "22:00",
     "slot": "late",
     "venue": "Chop Shop",
     "rawVenue": "Chop Shop",
@@ -161,6 +161,38 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1totf1u",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-31",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "REDLINEPALOOZA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30.13,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6doqgq-redlinepalooza-31st-jul-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -189,6 +221,70 @@
     "price": "FREE",
     "age": null,
     "ticketUrl": "https://dice.fm/event/v3nl7v-tokyo-disco-31st-jul-sleeping-village-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_f1agxi",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-07-31",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "MRD",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/xeolqe-official-lollapalooza-aftershow-mrd-31st-jul-smoke-mirrors-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_raz39f",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-01",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Sleeping Village and C3 Presents: Vandelux (DJ Set) Official Lollapalooza Aftershow",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 54.59,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/g5x875-sleeping-village-and-c3-presents-vandelux-dj-set-official-lollapalooza-aftershow-1st-aug-sleeping-village-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Sleeping Village",
@@ -236,6 +332,38 @@
     }
   },
   {
+    "id": "dc_1sqbrth",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-01",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DJ Dextro",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 31,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/dkp95v-official-lollapalooza-aftershow-dj-dextro-1st-aug-smoke-mirrors-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb7c3318acd91bf144834e3df1",
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_10rbsfd",
     "source": "dice",
     "sourceList": [
@@ -268,71 +396,7 @@
     }
   },
   {
-    "id": "dc_raz39f",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-01",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sleeping Village and C3 Presents: Vandelux (DJ Set) Official Lollapalooza Aftershow",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 52.53,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/g5x875-sleeping-village-and-c3-presents-vandelux-dj-set-official-lollapalooza-aftershow-1st-aug-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1sqbrth",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-01",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "DJ Dextro",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/dkp95v-official-lollapalooza-aftershow-dj-dextro-1st-aug-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb7c3318acd91bf144834e3df1",
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1s7iq2o",
+    "id": "dc_16nyvss",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -345,7 +409,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Jazz Funk On Vinyl at Sophy Hotel",
+        "name": "Jazz Funk On Vinyl",
         "genre": "music",
         "role": "headliner"
       }
@@ -354,7 +418,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/nv56dl-jazz-funk-on-vinyl-at-sophy-hotel-2nd-aug-sophy-hotel-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/nv56dl-jazz-funk-on-vinyl-2nd-aug-sophy-hotel-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Sophy Hotel",
@@ -813,6 +877,38 @@
     }
   },
   {
+    "id": "dc_g3d07v",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-24",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "ear w/Quiet Light",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 34.51,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/v3xmwg-ear-wquiet-light-24th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_144eee8",
     "source": "dice",
     "sourceList": [
@@ -840,38 +936,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bolebw",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-01",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Shwayze",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 39.33,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/7dwkvp-shwayze-the-nostalgia-tour-1st-oct-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-09-25/a6ab430d-2687-4e58-bc37-a1c9483eb763.jpg?rect=0%2C54%2C532%2C532",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
