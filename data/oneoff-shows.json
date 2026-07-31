@@ -1,305 +1,5 @@
 [
   {
-    "id": "os_ord43w",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Sharel Cassity Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/11462/?date=2026-07-30",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_multf",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Joey J. Saye: Traditional Blues Hour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378964",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/51593/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_hnxlhv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374435",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_hnxlhv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374436",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1i5f7ir",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "LUKE PYTEL",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/51290853/luke-pytel-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1yg0ffi",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "The Army, The Navy – Official Lollapalooza Aftershow",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Next of Kin",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/the-army-the-navy-official-lollapalooza-chicago-illinois-07-30-2026/event/040064B438059855",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_128w7as",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Nasty Snacks",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/nasty-snacks-4/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_4jtuer",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "JULIA WOLF",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_hpkpv1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "MAJOR LAZER",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "LOLLAPALOOZA OFFICIAL AFTER SHOW",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/major-lazer-lollapalooza-official-after-show/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
     "id": "os_10ytf3e",
     "source": "venue-site",
     "sourceList": [
@@ -498,70 +198,6 @@
     }
   },
   {
-    "id": "os_fj1zod",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Open Beats * Hosted by Fess Grandiose",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/open-beats-hosted-by-fess-grandiose-4/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_dootql",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Groove Aces",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
     "id": "os_jdhwmc",
     "source": "venue-site",
     "sourceList": [
@@ -629,6 +265,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_5wmkj3",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-07-31",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": "Greater Grand Crossing",
+    "headliners": [
+      {
+        "name": "F@CKED UP FRIDAYS AT LEE’S with Mzs China & Ray",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.leesunleadedblues.com/event-details/f-cked-up-fridays-at-lees-with-mzs-china-ray",
+    "poster": "https://static.wixstatic.com/media/17e034_b0400f6181144983b63492989d59a82f~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.leesunleadedblues.com"
     }
   },
   {
@@ -856,7 +524,7 @@
     }
   },
   {
-    "id": "os_ltqofe",
+    "id": "os_1frfxfa",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -869,7 +537,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "CARLOS JOHNSON",
         "genre": "music",
         "role": "headliner"
       }
@@ -878,7 +546,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/77299052/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/77299052/carlos-johnson-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -926,76 +594,6 @@
     }
   },
   {
-    "id": "os_1imfthk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-01",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Neafsey",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Sorin Blues Duo",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_1isijkp",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-01",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Mather HS reunion",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
     "id": "os_cxscgz",
     "source": "venue-site",
     "sourceList": [
@@ -1018,7 +616,7 @@
     "genres": [],
     "price": null,
     "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/destin-conrad-senite-reggies-rock-club-tickets/14858533",
+    "ticketUrl": null,
     "poster": null,
     "venueInfo": {
       "name": "Reggies Rock Club",
@@ -1194,6 +792,38 @@
     }
   },
   {
+    "id": "os_1sdcfsh",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-01",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "DJ rybread",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/djset-august1",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785453371598-ZB4WN24WUU6C81M3FRNG/Square.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_11pdaga",
     "source": "venue-site",
     "sourceList": [
@@ -1351,38 +981,6 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_158d1hr",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-02",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "1st SUNDAY JAZZ wth THE DO-RIGHTS!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -1703,38 +1301,6 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_xfwso8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-04",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Tuesday Trivia Night",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -3089,6 +2655,38 @@
     }
   },
   {
+    "id": "os_2ptb2p",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-09",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "PAOLO APULI",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/51790884/paolo-apuli-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_eh1g79",
     "source": "venue-site",
     "sourceList": [
@@ -3831,6 +3429,38 @@
     }
   },
   {
+    "id": "os_adsv3f",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-13",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "Four Star Fight Club Presents: Jab at Joe's hosted by Virgil Pilate",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 40,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/four-star-fight-club-presents-joes-on-weed-street-tickets/14990893?pl=joesbar",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1785429167804-ZBYXT95E0PQNBBV37P93/2026.8.13_Jab+at+Joe%27s_16-9.jpg",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
+    }
+  },
+  {
     "id": "os_1fe2b7r",
     "source": "venue-site",
     "sourceList": [
@@ -3959,6 +3589,38 @@
     }
   },
   {
+    "id": "os_1kq7wyg",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-14",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "PIPER & THE HARD TIMES",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/89852361/piper-the-hard-times-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1238ukl",
     "source": "venue-site",
     "sourceList": [
@@ -4058,6 +3720,70 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_c900e8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-14",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Atlantic",
+    "rawVenue": "The Atlantic",
+    "hood": "Lincoln Square",
+    "headliners": [
+      {
+        "name": "Little Headbutt & Ragbagalia Present",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "The Atlantic",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://theatlanticbarandgrill.com"
+    }
+  },
+  {
+    "id": "os_jc0q48",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-14",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "JC-Palooza",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 35,
+    "age": null,
+    "ticketUrl": "https://www.joesbar.com/livemusic-events/jc-palooza",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1785427197767-ZKX8GV15M2X94YRR6N9F/2026.08.14_JCPalooza_16-9.png",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
     }
   },
   {
@@ -4349,20 +4075,20 @@
     }
   },
   {
-    "id": "os_1kxh2g1",
+    "id": "os_29pira",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
     ],
     "date": "2026-08-15",
-    "time": "20:00",
+    "time": "17:45",
     "slot": "evening",
     "venue": "The Atlantic",
     "rawVenue": "The Atlantic",
     "hood": "Lincoln Square",
     "headliners": [
       {
-        "name": "Little Headbutt & Ragbagalia Present",
+        "name": "Live at The Atlantic",
         "genre": "music",
         "role": "headliner"
       }
@@ -4527,11 +4253,17 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "DEREK CARUSO PERFORMING",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/41941738/chicago-blues-hall-of-fame-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/41941738/chicago-blues-hall-of-fame-wderek-caruso-performing-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -7257,6 +6989,38 @@
     }
   },
   {
+    "id": "os_yue31t",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-04",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "BRANDON SANTINI",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/69800273/brandon-santini-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_u6msfe",
     "source": "venue-site",
     "sourceList": [
@@ -7318,6 +7082,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_1spstti",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-05",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "JOHN PRIMER",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/62932467/john-primer-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -7481,6 +7277,38 @@
     }
   },
   {
+    "id": "os_1r2m29e",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-10",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "CHRIS O’LEARY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/63380495/chris-oleary-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1rrrkuq",
     "source": "venue-site",
     "sourceList": [
@@ -7574,6 +7402,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_1m83yrs",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-11",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "MIKE DANGEROUX",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/98193964/mike-dangeroux-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -9673,6 +9533,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_1s1vmgm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-31",
+    "time": "11:00",
+    "slot": "afternoon",
+    "venue": "The Atlantic",
+    "rawVenue": "The Atlantic",
+    "hood": "Lincoln Square",
+    "headliners": [
+      {
+        "name": "Halloween",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "The Atlantic",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://theatlanticbarandgrill.com"
     }
   },
   {

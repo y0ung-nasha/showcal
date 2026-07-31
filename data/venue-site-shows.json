@@ -1,133 +1,5 @@
 [
   {
-    "id": "vs_ej40en",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2025-12-28",
-    "time": "19:20",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol's Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Chicago Bears @ San Francisco — Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://carolspub.com/music.html",
-    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com/"
-    }
-  },
-  {
-    "id": "vs_6lj7mk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-02-05",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol’s Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Jade Eagleson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
-    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com"
-    }
-  },
-  {
-    "id": "vs_6juvvq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-04-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol’s Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Canaan Cox",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
-    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com"
-    }
-  },
-  {
-    "id": "vs_1rb7hbv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-06-21",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Elastic Arts",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Days of Wonder: it is time to be very tender with our grief  — Elastic Arts Foundation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/69d95bced7a25d48a4b3b2d6/1776122362145/square+days+of+wonder+promo+image.png?format=1500w",
-    "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
-    }
-  },
-  {
     "id": "vs_1juqd4s",
     "source": "venue-site",
     "sourceList": [
@@ -253,102 +125,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_qfvhli",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-06-28",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1k4yaua",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-06-28",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_k4eqaa",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-06-28",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Sunday Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -3488,38 +3264,6 @@
     }
   },
   {
-    "id": "vs_1bm1gc7",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "11:00",
-    "slot": "afternoon",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Sleeping Village and C3 Presents: Penelope Road w/ Tobacco Road Official Lollapalooza Aftershow",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-41.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_jbx7am",
     "source": "venue-site",
     "sourceList": [
@@ -3616,38 +3360,6 @@
     }
   },
   {
-    "id": "vs_10nsxim",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "John Dokes Quartet - The Music of Chet Baker and Joe Williams",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/john-dokes-quartet-the-music-of-chet-baker-and-joe-williams",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_2c67346888ea420fbf380623a8f9b9c2~mv2.jpeg/v1/fill/w_2478,h_1982,al_c,q_90/8ffa2d_2c67346888ea420fbf380623a8f9b9c2~mv2.jpeg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/john-dokes-quartet-the-music-of-chet-baker-and-joe-williams"
-    }
-  },
-  {
     "id": "vs_if719o",
     "source": "venue-site",
     "sourceList": [
@@ -3677,38 +3389,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_ux74b3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "TOKYO DISCO",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-27.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3805,49 +3485,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_fb9ahb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Binary Star ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Bradly ",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Undead Doctor Scott",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/binary-star-undead-doctor-friends-july-30-2026-691234",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/234/compressed/binary.jpg?1783724089",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -3976,38 +3613,6 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
-    "id": "vs_raz39f",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-01",
-    "time": "10:00",
-    "slot": "afternoon",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Sleeping Village and C3 Presents: Vandelux (DJ Set) Official Lollapalooza Aftershow",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-43.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -4385,38 +3990,6 @@
     }
   },
   {
-    "id": "vs_271hmj",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-03",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Industry Night w/ DJ Greazy-E",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-26.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_gs6h4v",
     "source": "venue-site",
     "sourceList": [
@@ -4761,38 +4334,6 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
-    "id": "vs_1cssn89",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Abstract Science + Satellite Era Present: Telephase",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-20.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -5363,38 +4904,6 @@
     }
   },
   {
-    "id": "vs_lh1yu7",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-13",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Little HEADbutt Presents: ABOLISHVICTORY! w/ French Inhaler, Hoverboard",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-10.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_6hkwjv",
     "source": "venue-site",
     "sourceList": [
@@ -5459,7 +4968,7 @@
     }
   },
   {
-    "id": "vs_tsdelt",
+    "id": "vs_zfblhl",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5472,7 +4981,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Improvised Music Series: Ken Ueno, BananaAcid — Elastic Arts Foundation",
+        "name": "Improvised Music Series: Ken Ueno (solo & ensemble), BananaAcid — Elastic Arts Foundation",
         "genre": "music",
         "role": "headliner"
       }
@@ -5482,7 +4991,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a0cd5da7213d450fdd7ad82/1784078684898/Ken+with+tubes+-+Ken+Ueno.jpg?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a0cd5da7213d450fdd7ad82/1785453513376/Ken+with+tubes+-+Ken+Ueno.jpg?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -5595,6 +5104,38 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/better-together-music-to-move-your-soul-20"
+    }
+  },
+  {
+    "id": "vs_py9lkf",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-14",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Elastic Arts",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "CLEAT Series: Suzanne Thorpe's 'A Serenade for Settling' w/ Bonnie Jones & Stephan Moore, Binary Stitches — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a6bd960b2f8ee60e2da775e/1785453667801/ThorpeSFSBuf1+-+Suzanne+Thorpe.jpg?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
     }
   },
   {
@@ -6626,6 +6167,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_79q5tc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-27",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chris White Quartet - Presents Dave Brubeck’s \"Time Out\"",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/chris-white-quartet-presents-dave-brubecks-time-out-3",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_8fced4d1dd704895b2da3851d8de02ae~mv2.jpg/v1/fill/w_1835,h_1376,al_c,q_90/8ffa2d_8fced4d1dd704895b2da3851d8de02ae~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/chris-white-quartet-presents-dave-brubecks-time-out-3"
     }
   },
   {
