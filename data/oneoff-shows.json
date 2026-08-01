@@ -1,433 +1,5 @@
 [
   {
-    "id": "os_10ytf3e",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "The Voyage with Quicktastic & Desma",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/the-voyage-with-quicktastic-desma",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1785177732378-IE54YMGOUJS31UKECTER/73026_thevoyage.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
-    "id": "os_b51crx",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Sharel Cassity Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/11462/?date=2026-07-31",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_8s94au",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Luke Pytel Band feat. Laretha Weathersby",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374173",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/61434/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_8s94au",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Luke Pytel Band feat. Laretha Weathersby",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374174",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/61434/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1ejli8o",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "SELWYN BIRCHWOOD",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/74261743/selwyn-birchwood-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_19x96zi",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Chezile – Official Lollapalooza Aftershow",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "RYMAN",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/chezile-official-lollapalooza-aftershow-chicago-illinois-07-31-2026/event/040064B442DCA3F0",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_jdhwmc",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "LOATHE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_8bpcar",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "LYNY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "LOLLAPALOOZA OFFICIAL AFTER SHOW",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/lyny-lollapalooza-official-after-show/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_5wmkj3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": "Greater Grand Crossing",
-    "headliners": [
-      {
-        "name": "F@CKED UP FRIDAYS AT LEE’S with Mzs China & Ray",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/f-cked-up-fridays-at-lees-with-mzs-china-ray",
-    "poster": "https://static.wixstatic.com/media/17e034_b0400f6181144983b63492989d59a82f~mv2.png",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.leesunleadedblues.com"
-    }
-  },
-  {
-    "id": "os_18jbey2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Atlantic",
-    "rawVenue": "The Atlantic",
-    "hood": "Lincoln Square",
-    "headliners": [
-      {
-        "name": "Little Headbutt Presents:",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The Atlantic",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://theatlanticbarandgrill.com"
-    }
-  },
-  {
-    "id": "os_c8ygr3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Joe's on Weed",
-    "rawVenue": "Joe's on Weed",
-    "hood": "Goose Island",
-    "headliners": [
-      {
-        "name": "Bollywave Club Vibes with DJ Shadow Dubai",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://www.joesbar.com/livemusic-events/bollywaveclubvibes",
-    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1784335368604-0URF7GSNH94RRSXYZVYX/2026.7.31_Bollywave_16-9.jpg",
-    "venueInfo": {
-      "name": "Joe's on Weed",
-      "address": "940 W Weed St.",
-      "city": "Chicago",
-      "url": "https://www.joesbar.com"
-    }
-  },
-  {
-    "id": "os_193709b",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Kid Clay",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/kid-clay",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1784570827105-MQFY9EMQS7HJE41VK7FL/73126_KidClay.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
-    "id": "os_xnwopy",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "DJ Emagic - Deep City House Rave",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/djemagic-july31",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1784261802098-GLWLW9BQSW6SO2HYMY96/B%26W+headshots+%2811%29.png",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
     "id": "os_fcquqz",
     "source": "venue-site",
     "sourceList": [
@@ -815,7 +387,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/djset-august1",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785453371598-ZB4WN24WUU6C81M3FRNG/Square.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785511386495-MWJS97SJVQCGAYGFPPWE/RYBREAD+SAT+AUG+1+EDIT.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -1048,20 +620,20 @@
     }
   },
   {
-    "id": "os_17yd4p1",
+    "id": "os_1l5als4",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
     ],
     "date": "2026-08-02",
-    "time": "19:00",
+    "time": "20:00",
     "slot": "evening",
     "venue": "Wild Hare",
     "rawVenue": "Wild Hare",
     "hood": "West Loop",
     "headliners": [
       {
-        "name": "Reggae on the rooftop: Baby J & Golden Street Reggae Band",
+        "name": "urban hours",
         "genre": "music",
         "role": "headliner"
       }
@@ -1070,8 +642,8 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august2",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1771909992932-2X5SC208VG398YAH4OTA/babyJ.png",
+    "ticketUrl": "https://www.wildharemusic.com/lineup/djset-august2",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785511830487-PII1GDP73OUVLWRMQKAV/URBAN+HOURS+AUG+2+ROOFTOP+%281%29.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -3100,7 +2672,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/lightboxlineup/yall-august11",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785103795259-FFSK5T8RRQNY6B9ET5NP/YALL.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785511979511-HHGT04HMEL7CHAI8AYYU/TUESDAY+AUG+11+LIVE+YOUNG+ENT.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -4162,7 +3734,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/householdnames-august15",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785102634770-2UPY6HA1EGM7RVLBC71L/household.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785512014211-BFAK7TSBCPB40PSCSJYL/HOUSEHOLD+NAMES+AUG+15.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -5112,7 +4684,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august21",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785104298937-3QON6FJ1SS6JEBB1731S/bbyj.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785512051142-FTLWK9OOFNLGS046L779/NOCTE+ROYAL+AUG+21+BAND.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -5406,7 +4978,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/djfucha-august22",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785102977768-AYHGB5OTRQOTB5RYWTQR/REMEDY.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785512077803-UMH2242YG9OBY9MYAGW6/REMEDY+AUG22+.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
