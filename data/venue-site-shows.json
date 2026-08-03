@@ -1,101 +1,5 @@
 [
   {
-    "id": "vs_ej40en",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2025-12-28",
-    "time": "19:20",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol's Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Chicago Bears @ San Francisco — Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://carolspub.com/music.html",
-    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com/"
-    }
-  },
-  {
-    "id": "vs_6lj7mk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-02-05",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol’s Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Jade Eagleson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
-    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com"
-    }
-  },
-  {
-    "id": "vs_6juvvq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-04-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol’s Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Canaan Cox",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
-    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com"
-    }
-  },
-  {
     "id": "vs_1juqd4s",
     "source": "venue-site",
     "sourceList": [
@@ -1312,38 +1216,6 @@
     }
   },
   {
-    "id": "vs_1n8r9d9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Mike Hanisch",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/mike-hanisch/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-july/07-31-2026_8pm_Mike-Hanisch.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_1h208b1",
     "source": "venue-site",
     "sourceList": [
@@ -1437,38 +1309,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_30cq8b",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-01",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The Key Suspects",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/the-key-suspects/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-august/08-01-2026_8pm_The-Key-Suspects.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -1568,38 +1408,6 @@
     }
   },
   {
-    "id": "vs_18b7k7j",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-02",
-    "time": "17:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Mad-Good - Songbird Series - Celebrating Signature Voices of Jazz: Carmen McRae",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/mad-good-songbird-series-celebrating-signature-voices-of-jazz-carmen-mcrae",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_10ccd631fdc748a98e51e1522b29f923~mv2.jpeg/v1/fill/w_4236,h_2822,al_c,q_90/8ffa2d_10ccd631fdc748a98e51e1522b29f923~mv2.jpeg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/mad-good-songbird-series-celebrating-signature-voices-of-jazz-carmen-mcrae"
-    }
-  },
-  {
     "id": "vs_1irgxvs",
     "source": "venue-site",
     "sourceList": [
@@ -1629,38 +1437,6 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
-    "id": "vs_271hmj",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-03",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Industry Night w/ DJ Greazy-E",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-26.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1725,49 +1501,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_gs6h4v",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-03",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Kaycie Satterfield",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Morpho",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Jane Hobson",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/kaycie-satterfield-morpho-jane-hobson-august-02-2026-712553",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/712/553/compressed/open-uri20260524-820-ckzai1.jpg?1779666349",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -1944,38 +1677,6 @@
       "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
       "city": null,
       "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-08-04-19-00"
-    }
-  },
-  {
-    "id": "vs_1yzitjb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-05",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Topo Bandido (DJ Set)",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-35.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -2363,38 +2064,6 @@
     }
   },
   {
-    "id": "vs_1cssn89",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Abstract Science + Satellite Era Present: Telephase",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-20.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_fr7wg6",
     "source": "venue-site",
     "sourceList": [
@@ -2584,6 +2253,38 @@
       "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
       "city": null,
       "url": "https://www.leesunleadedblues.com/event-details/adult-back-to-school-house-party"
+    }
+  },
+  {
+    "id": "vs_dyd6iy",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Joyful Soundz",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/the-joyful-soundz/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-august/08-07-2026_8pm_The-Joyful-Soundz.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -3057,70 +2758,6 @@
     }
   },
   {
-    "id": "vs_1odlygv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-10",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Back Room Shakespeare",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-33.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
-    "id": "vs_vta8cy",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-10",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Industry Night w/ Purity Culture x Panic Priest",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-39.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_ukhd6r",
     "source": "venue-site",
     "sourceList": [
@@ -3567,38 +3204,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_lh1yu7",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-13",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Little HEADbutt Presents: ABOLISHVICTORY! w/ French Inhaler, Hoverboard",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-10.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -6673,6 +6278,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1d16qcu",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-30",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Ben Paterson Organ Trio featuring Randy Napoleon - Play the Music of Jimmy Smith and Kenny Burrell",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/ben-paterson-organ-trio-featuring-randy-napoleon-play-the-music-of-jimmy-smith-and-kenny-burrell",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_d207d1f7f56f43d89660c210bd073bef~mv2.jpg/v1/fill/w_7726,h_5153,al_c,q_90/8ffa2d_d207d1f7f56f43d89660c210bd073bef~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/ben-paterson-organ-trio-featuring-randy-napoleon-play-the-music-of-jimmy-smith-and-kenny-burrell"
     }
   },
   {
