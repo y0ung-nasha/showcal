@@ -32,6 +32,44 @@
     }
   },
   {
+    "id": "dc_1bfktem",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-06",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Triptides",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Dark Canyon",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 22.29,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/dk2n3q-triptides-dark-canyon-la-croix-mystique-6th-aug-chop-shop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2024-12-01/df5d7847-a605-4003-8cf1-7f7e540391a6.jpg?rect=0%2C0%2C640%2C640",
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_ifgg1y",
     "source": "dice",
     "sourceList": [
@@ -59,38 +97,6 @@
     "venueInfo": {
       "name": "Robert's Westside",
       "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_zeqbro",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-07",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Free Blues Friday featuring Paolo Apuli",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/53me5k-free-blues-friday-featuring-paolo-apuli-7th-aug-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -129,6 +135,119 @@
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_zeqbro",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-07",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Free Blues Friday featuring Paolo Apuli",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/53me5k-free-blues-friday-featuring-paolo-apuli-7th-aug-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_gmu7ft",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Judson & Moore Distillery",
+    "rawVenue": "Judson & Moore Distillery",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "V.V. Lightbody",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Daniel Villarreal",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/l87adb-daniel-villarreal-vv-lightbody-7th-aug-judson-moore-distillery-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2020-05-15/b144008b-3181-4c29-8315-f7a9e483b74b.jpg?rect=198%2C0%2C805%2C805",
+    "venueInfo": {
+      "name": "Judson & Moore Distillery",
+      "address": "3057 North Rockwell Street, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_q6cwtj",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-07",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Skinblasted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Guttural",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Carnotura",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 17,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/yoxnxa-carnotura-thorns-guttural-skinblasted-7th-aug-cobra-lounge-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -257,6 +376,38 @@
     "venueInfo": {
       "name": "Bourbon on Division",
       "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_7r1kqc",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-13",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Charis Listening Bar",
+    "rawVenue": "Charis Listening Bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Mike D - Thank You - Advanced Album Listening ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/ryr63r-mike-d-thank-you-advanced-album-listening-13th-aug-charis-listening-bar-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Charis Listening Bar",
+      "address": "3317 South Morgan Street, Chicago, Illinois 60608, United States",
       "city": "Chicago",
       "url": null
     }
@@ -396,38 +547,6 @@
     }
   },
   {
-    "id": "dc_6cq4ix",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-20",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Eli",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/oe799g-eli-20th-aug-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_gglp3n",
     "source": "dice",
     "sourceList": [
@@ -562,6 +681,38 @@
     }
   },
   {
+    "id": "dc_183ad0q",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-28",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "ero808",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/nv5aq3-ero808-28th-aug-spybar-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_hy8um4",
     "source": "dice",
     "sourceList": [
@@ -589,38 +740,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_rav2gk",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-03",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bassment",
-    "rawVenue": "Bassment",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Robbie Doherty",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/yod32v-the-prelude-w-robbie-doherty-3rd-sep-bassment-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bassment",
-      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
       "city": "Chicago",
       "url": null
     }
@@ -706,70 +825,6 @@
     "venueInfo": {
       "name": "Color Club",
       "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1e7n4ei",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-13",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Helen Sun",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 15,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/k65pb8-helen-sun-with-hank-underwood-13th-sep-color-club-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2026-06-12/ee8ae507-59ee-470f-a360-fc7624e235d1.jpg?rect=0%2C0%2C1440%2C1440",
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1b57ds2",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-13",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "J Parker Rooftop",
-    "rawVenue": "J Parker Rooftop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sem Jacobs",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/2wylwm-hello-sundays-w-sem-jacobs-13th-sep-j-parker-rooftop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "J Parker Rooftop",
-      "address": "1816 North Clark Street, Chicago, Illinois 60614, United States",
       "city": "Chicago",
       "url": null
     }
@@ -898,44 +953,6 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_paltgz",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-24",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Seven Kingdoms ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "NINI",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 29,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/dkde7v-nini-seven-kingdoms-24th-oct-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2021-08-06/9e95a510-3299-4a02-8d63-23426caa2211.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
