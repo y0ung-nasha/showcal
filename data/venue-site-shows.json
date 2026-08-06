@@ -1,5 +1,101 @@
 [
   {
+    "id": "vs_ej40en",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2025-12-28",
+    "time": "19:20",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol's Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears @ San Francisco — Watch Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html",
+    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com/"
+    }
+  },
+  {
+    "id": "vs_6lj7mk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-02-05",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Jade Eagleson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
+    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
+    "id": "vs_6juvvq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-04-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Canaan Cox",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
+    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
     "id": "vs_194pqbb",
     "source": "venue-site",
     "sourceList": [
@@ -1376,38 +1472,6 @@
     }
   },
   {
-    "id": "vs_1irgxvs",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-02",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Chicago Cellar Boys",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/chicago-cellar-boys/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2025-november/chicago-cellar-boys-updated-11-2025.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_1393jkb",
     "source": "venue-site",
     "sourceList": [
@@ -1568,38 +1632,6 @@
     }
   },
   {
-    "id": "vs_nw6i7v",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-04",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-08-04-19-00"
-    }
-  },
-  {
     "id": "vs_12cp18l",
     "source": "venue-site",
     "sourceList": [
@@ -1693,38 +1725,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_mlyp1v",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-05",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Carmen Stokes Quartet - Under the Influence:  Exploring the Musical Influences of Nat ‘King’ and Natalie Cole",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-nat-king-and-natalie-cole-1",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg/v1/fill/w_1440,h_962,al_c,q_85/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-nat-king-and-natalie-cole-1"
     }
   },
   {
@@ -1856,38 +1856,6 @@
     }
   },
   {
-    "id": "vs_1qnyrhp",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-06",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Comedy Open Mic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-august-05-2026-717973",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/973/compressed/IMG_9453_2.jpg?1781551164",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
     "id": "vs_1d7slgv",
     "source": "venue-site",
     "sourceList": [
@@ -1981,6 +1949,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1cssn89",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-07",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Abstract Science + Satellite Era Present: Telephase",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-20.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -2571,49 +2571,6 @@
     }
   },
   {
-    "id": "vs_1hncs56",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-09",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Them In Uniform",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Sunday Cruise",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Woonds",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/them-in-uniform-sunday-cruise-woonds-august-08-2026-691237",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/237/compressed/TIU_Tour_Chicago_Square.jpg?1780419393",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
     "id": "vs_rswxid",
     "source": "venue-site",
     "sourceList": [
@@ -2675,6 +2632,70 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1odlygv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-10",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Back Room Shakespeare",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-33.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_vta8cy",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-10",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night w/ Purity Culture x Panic Priest",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-39.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -2924,6 +2945,38 @@
     }
   },
   {
+    "id": "vs_1heih95",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-11",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-08-11-19-00"
+    }
+  },
+  {
     "id": "vs_1o2mear",
     "source": "venue-site",
     "sourceList": [
@@ -3124,6 +3177,38 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_lh1yu7",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-13",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Little HEADbutt Presents: ABOLISHVICTORY! w/ French Inhaler, Hoverboard",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-10.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3351,6 +3436,38 @@
     }
   },
   {
+    "id": "vs_obeswj",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-14",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "North by North w/ Liska, Flwers",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-5.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_14s2lhs",
     "source": "venue-site",
     "sourceList": [
@@ -3487,38 +3604,6 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
-    }
-  },
-  {
-    "id": "vs_qjyr55",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-14",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Better Together - Music to Move Your Soul!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/better-together-music-to-move-your-soul-20",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_ec218348b34f421e80fe5ba31e934209~mv2.jpg/v1/fill/w_7313,h_4876,al_c,q_90/8ffa2d_ec218348b34f421e80fe5ba31e934209~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/better-together-music-to-move-your-soul-20"
     }
   },
   {
@@ -3821,6 +3906,38 @@
     }
   },
   {
+    "id": "vs_1657tzc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-16",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Healing Gems w/ Family Junket",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-55.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_48xcol",
     "source": "venue-site",
     "sourceList": [
@@ -4088,7 +4205,7 @@
     }
   },
   {
-    "id": "vs_nxp11z",
+    "id": "vs_1yr77kr",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -4101,17 +4218,28 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "rocknite presents!",
+        "name": "Mel Senese",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "The Silver Palms",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "And the bats",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/rocknite-presents-august-16-2026-730967",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/730/967/compressed/hero.jpg?1784646676",
+    "poster": "https://colesbarchicago.com/assets/coles-bar-logo.png",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -5897,6 +6025,38 @@
     }
   },
   {
+    "id": "vs_1yxd7ix",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-28",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Frank Russell",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-frank-russell/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Frank-Russell.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_lrpr96",
     "source": "venue-site",
     "sourceList": [
@@ -6017,6 +6177,38 @@
     "age": null,
     "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-pamoja-project/",
     "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Pamoja-Project.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1hr25y2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-29",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Frank Russell",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-frank-russell/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Frank-Russell.jpg",
     "venueInfo": {
       "name": "Andy's Jazz Club",
       "address": null,
@@ -6607,6 +6799,38 @@
     }
   },
   {
+    "id": "vs_2n0y26",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-02",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Carmen Stokes Quartet - Under the Influence:  Exploring the Musical Influences of Ray Charles",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-ray-charles",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg/v1/fill/w_1440,h_962,al_c,q_85/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-ray-charles"
+    }
+  },
+  {
     "id": "vs_1dwggnz",
     "source": "venue-site",
     "sourceList": [
@@ -6924,6 +7148,49 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1uauxw9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-09",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "tragic heroine",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "try a dull knife",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "plastic peach",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/mouse-magazine-presents-tragic-heroine-try-a-dull-knife-plastic-peach-september-08-2026-736744",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/744/compressed/0041092957_10.jpg?1785979885",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -7251,6 +7518,87 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/brotha-josh-mel-crozby-kent-avenue-carpool-september-17-2026-691249",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/249/compressed/Photo_Apr_02_2026__6_34_57_AM_%282%29.jpg?1785277166",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_d44osc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-19",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Am I Talking",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Cat Merkle",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Here For Now",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/am-i-talking-cat-merkle-here-for-now-september-18-2026-736739",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/739/compressed/Screenshot_2026-08-05_192335.jpg?1785975847",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1vakbvb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-20",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Asaka The Renegade",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Color. ",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/asaka-the-renegade-september-19-2026-736742",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/742/compressed/ab67616d00001e0262bfd4a2e9f1ab6efbed02c0.jpg?1785976844",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -7751,6 +8099,38 @@
     }
   },
   {
+    "id": "vs_tiv7bm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-08",
+    "time": "03:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Supergold",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/supergold-november-07-2026-736738",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/738/compressed/Press_photo.jpg?1785974682",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
     "id": "vs_hwed9g",
     "source": "venue-site",
     "sourceList": [
@@ -7775,6 +8155,49 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-november-11-2026-717992",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/992/compressed/IMG_9453_2.jpg?1781551195",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_bd0jyw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-15",
+    "time": "03:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Big Bill",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "bugoff!",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Wild Zero",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/big-bill-bugoff-wild-zero-november-14-2026-727178",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/727/178/compressed/big_bill_applemusic_avatar2026.jpg?1785974204",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",

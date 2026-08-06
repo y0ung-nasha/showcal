@@ -8638,5 +8638,65 @@
     "hasSpotify": true,
     "empty": false,
     "fetchedAt": 1785930214681
+  },
+  "combinados": {
+    "spotify": null,
+    "bandcamp": null,
+    "youtube": null,
+    "instagram": null,
+    "website": null,
+    "hasSpotify": false,
+    "empty": true,
+    "fetchedAt": 1786016782204
+  },
+  "south-loop-standup": {
+    "spotify": null,
+    "bandcamp": null,
+    "youtube": null,
+    "instagram": null,
+    "website": "https://www.reggieslive.com/show/south-loop-stand-up-4/",
+    "hasSpotify": false,
+    "empty": true,
+    "fetchedAt": 1786016782204
+  },
+  "shrineburner": {
+    "spotify": null,
+    "bandcamp": "https://shrineburner.bandcamp.com/",
+    "youtube": null,
+    "instagram": "http://instagram.com/shrineburnerband",
+    "website": null,
+    "hasSpotify": false,
+    "empty": false,
+    "fetchedAt": 1786016782204
+  },
+  "thesaurus-rex": {
+    "spotify": "https://open.spotify.com/artist/4cuLIQaTu3tq9mimOFwNVk",
+    "bandcamp": null,
+    "youtube": "https://www.youtube.com/channel/F8Jg1iGa9UI",
+    "instagram": "http://instagram.com/https://www.instagram.com/thesaurusrexband/",
+    "website": "https://www.thesaurusrexband.com/",
+    "hasSpotify": true,
+    "empty": false,
+    "fetchedAt": 1786016782204
+  },
+  "antelope-allstars": {
+    "spotify": null,
+    "bandcamp": null,
+    "youtube": null,
+    "instagram": null,
+    "website": null,
+    "hasSpotify": false,
+    "empty": true,
+    "fetchedAt": 1786016782204
+  },
+  "aria-vega": {
+    "spotify": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X",
+    "bandcamp": null,
+    "youtube": null,
+    "instagram": null,
+    "website": null,
+    "hasSpotify": true,
+    "empty": false,
+    "fetchedAt": 1786016782204
   }
 }

@@ -1,53 +1,5 @@
 [
   {
-    "id": "aap_18vro26",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-08-05",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reggies",
-    "rawVenue": "Reggies",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "GCxAW",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Phet Man",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Ugly Lovers",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Lobotomites",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/gcxaw-phet-man-ugly-lovers-lobotomites",
-    "poster": "https://chicago.askapunk.net/media/4aa2f4ddc3080e3d87d81080639ae395.jpg",
-    "venueInfo": {
-      "name": "Reggies",
-      "address": "2105 S State St, Chicago, IL 60616",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1wao87g",
     "source": "askapunk",
     "sourceList": [
@@ -482,6 +434,54 @@
     "venueInfo": {
       "name": "Metro",
       "address": "3730 N. Clark Street",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_kdacdg",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-19",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Dreamland",
+    "rawVenue": "Dreamland",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nitroglycerine! Presents: Parking",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Debris Bardot (NYC)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Current Union TM",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Instrument",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/nitroglycerine-presents-parking-ky-debris-bardot-nyc-current-union-tm-instrument",
+    "poster": "https://chicago.askapunk.net/media/9f13cba7dd65ba0ecc6eac564cc33840.jpg",
+    "venueInfo": {
+      "name": "Dreamland",
+      "address": "3052 w Carroll Ave",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }

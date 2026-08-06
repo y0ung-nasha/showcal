@@ -58,7 +58,7 @@
       }
     ],
     "genres": [],
-    "price": 22.29,
+    "price": 26.22,
     "age": null,
     "ticketUrl": "https://dice.fm/event/dk2n3q-triptides-dark-canyon-la-croix-mystique-6th-aug-chop-shop-chicago-tickets",
     "poster": "https://dice-media.imgix.net/attachments/2024-12-01/df5d7847-a605-4003-8cf1-7f7e540391a6.jpg?rect=0%2C0%2C640%2C640",
@@ -108,38 +108,6 @@
     }
   },
   {
-    "id": "dc_ifgg1y",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-07",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Robert's Westside",
-    "rawVenue": " Robert's Westside",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "DeeOhGee",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/92ra8n-deeohgee-roberts-westside-7th-aug-roberts-westside-forest-park-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Robert's Westside",
-      "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_zeqbro",
     "source": "dice",
     "sourceList": [
@@ -167,44 +135,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_gmu7ft",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-07",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Judson & Moore Distillery",
-    "rawVenue": "Judson & Moore Distillery",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "V.V. Lightbody",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Daniel Villarreal",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/l87adb-daniel-villarreal-vv-lightbody-7th-aug-judson-moore-distillery-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2020-05-15/b144008b-3181-4c29-8315-f7a9e483b74b.jpg?rect=198%2C0%2C805%2C805",
-    "venueInfo": {
-      "name": "Judson & Moore Distillery",
-      "address": "3057 North Rockwell Street, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -253,6 +183,108 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_ifgg1y",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-07",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Robert's Westside",
+    "rawVenue": " Robert's Westside",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DeeOhGee",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/92ra8n-deeohgee-roberts-westside-7th-aug-roberts-westside-forest-park-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Robert's Westside",
+      "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1f7tdw1",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-07",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Tony Romera ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/v3nm7d-tony-romera-7th-aug-spybar-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2021-09-27/1b059325-9f01-4736-a7d9-01c563c8a55a.jpg?rect=0%2C0%2C640%2C640",
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_gmu7ft",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Judson & Moore Distillery",
+    "rawVenue": "Judson & Moore Distillery",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "V.V. Lightbody",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Daniel Villarreal",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/l87adb-daniel-villarreal-vv-lightbody-7th-aug-judson-moore-distillery-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2020-05-15/b144008b-3181-4c29-8315-f7a9e483b74b.jpg?rect=198%2C0%2C805%2C805",
+    "venueInfo": {
+      "name": "Judson & Moore Distillery",
+      "address": "3057 North Rockwell Street, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -418,38 +450,6 @@
     }
   },
   {
-    "id": "dc_1b2mbyr",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Hoste",
-    "rawVenue": "Hoste",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jazz Funk On Vinyl",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/nv56dl-jazz-funk-on-vinyl-14th-aug-hoste-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Hoste",
-      "address": "1857 West 16th Street, Chicago, Illinois 60608, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_9bf2po",
     "source": "dice",
     "sourceList": [
@@ -477,6 +477,38 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1b2mbyr",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-14",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Hoste",
+    "rawVenue": "Hoste",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Jazz Funk On Vinyl",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/nv56dl-jazz-funk-on-vinyl-14th-aug-hoste-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Hoste",
+      "address": "1857 West 16th Street, Chicago, Illinois 60608, United States",
       "city": "Chicago",
       "url": null
     }
@@ -616,38 +648,6 @@
     }
   },
   {
-    "id": "dc_l91ky7",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-21",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Blacklight Blackout",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/avx9nq-blacklight-blackout-21st-aug-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_2dpm50",
     "source": "dice",
     "sourceList": [
@@ -776,6 +776,38 @@
     }
   },
   {
+    "id": "dc_omqx0r",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-23",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "A.Chal",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2qyp9-achal-chologante-23rd-sep-chop-shop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_g3d07v",
     "source": "dice",
     "sourceList": [
@@ -840,33 +872,39 @@
     }
   },
   {
-    "id": "dc_289bdu",
+    "id": "dc_ohasrc",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-25",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
+    "date": "2026-09-26",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Ali",
+        "name": "Frank Walker",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "ARTY",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
-    "price": 24.72,
+    "price": 35.4,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/av59oq-ali-25th-sep-sleeping-village-chicago-tickets",
-    "poster": null,
+    "ticketUrl": "https://dice.fm/event/8e9w6r-frank-walker-presents-golden-era-with-special-guest-arty-26th-sep-chop-shop-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb58c06f9cad2cad43d14b8432",
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -878,8 +916,8 @@
       "dice"
     ],
     "date": "2026-10-24",
-    "time": "22:00",
-    "slot": "late",
+    "time": "20:00",
+    "slot": "evening",
     "venue": "Chop Shop",
     "rawVenue": "Chop Shop",
     "hood": null,
@@ -896,38 +934,6 @@
     "age": null,
     "ticketUrl": "https://dice.fm/event/xe3xd3-caroline-kingsbury-24th-oct-chop-shop-chicago-tickets",
     "poster": "https://dice-media.imgix.net/attachments/2022-05-04/7c3ceae6-fb67-408e-adf9-02e35cebef1a.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_yz3jbb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Maddie Zahm",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 36.05,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/pybbby-maddie-zahm-everything-all-the-time-tour-7th-nov-chop-shop-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb894be93791dbaf816cf0cfbe",
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
