@@ -1,75 +1,5 @@
 [
   {
-    "id": "dc_brmndx",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-06",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sound Test Thursday ft Coki",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/bb9wbx-sound-test-thursday-ft-coki-6th-aug-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bfktem",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-06",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Triptides",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Dark Canyon",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 26.22,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/dk2n3q-triptides-dark-canyon-la-croix-mystique-6th-aug-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-12-01/df5d7847-a605-4003-8cf1-7f7e540391a6.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_13psa7w",
     "source": "dice",
     "sourceList": [
@@ -108,33 +38,33 @@
     }
   },
   {
-    "id": "dc_zeqbro",
+    "id": "dc_1f7tdw1",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-08-07",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
     "hood": null,
     "headliners": [
       {
-        "name": "Free Blues Friday featuring Paolo Apuli",
+        "name": "Tony Romera ",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 25,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/53me5k-free-blues-friday-featuring-paolo-apuli-7th-aug-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
-    "poster": null,
+    "ticketUrl": "https://dice.fm/event/v3nm7d-tony-romera-7th-aug-spybar-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2021-09-27/1b059325-9f01-4736-a7d9-01c563c8a55a.jpg?rect=0%2C0%2C640%2C640",
     "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -176,13 +106,45 @@
       }
     ],
     "genres": [],
-    "price": 17,
+    "price": 20,
     "age": null,
     "ticketUrl": "https://dice.fm/event/yoxnxa-carnotura-thorns-guttural-skinblasted-7th-aug-cobra-lounge-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_zeqbro",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-07",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Free Blues Friday featuring Paolo Apuli",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/53me5k-free-blues-friday-featuring-paolo-apuli-7th-aug-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -215,38 +177,6 @@
     "venueInfo": {
       "name": "Robert's Westside",
       "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1f7tdw1",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-07",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tony Romera ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/v3nm7d-tony-romera-7th-aug-spybar-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2021-09-27/1b059325-9f01-4736-a7d9-01c563c8a55a.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -374,7 +304,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 36.36,
+    "price": 42.08,
     "age": null,
     "ticketUrl": "https://dice.fm/event/k6lgmo-bump-prints-on-prints-with-kandy-muse-8th-aug-bourbon-on-division-chicago-tickets",
     "poster": null,
@@ -680,6 +610,38 @@
     }
   },
   {
+    "id": "dc_7hl8p4",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-26",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "POPSTAR: A BITCHIN' PARTY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/3orywg-popstar-a-bitchin-party-26th-aug-sleeping-village-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_hy8um4",
     "source": "dice",
     "sourceList": [
@@ -840,20 +802,20 @@
     }
   },
   {
-    "id": "dc_m78pjf",
+    "id": "dc_l4kufh",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-24",
-    "time": "18:30",
+    "date": "2026-09-26",
+    "time": "21:00",
     "slot": "evening",
-    "venue": "Robert's Westside",
-    "rawVenue": " Robert's Westside",
+    "venue": "Bassment",
+    "rawVenue": "Bassment",
     "hood": null,
     "headliners": [
       {
-        "name": "Shinyribs",
+        "name": "Jay de Lys",
         "genre": "music",
         "role": "headliner"
       }
@@ -862,49 +824,43 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/nv9753-shinyribs-roberts-westside-24th-sep-roberts-westside-forest-park-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2020-06-05/00645dfd-25f2-4df9-895e-1de4bd028e78.jpg?rect=137%2C0%2C927%2C927",
+    "ticketUrl": "https://dice.fm/event/pywrop-house-calls-w-jay-de-lys-26th-sep-bassment-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "Robert's Westside",
-      "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
+      "name": "Bassment",
+      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
       "city": "Chicago",
       "url": null
     }
   },
   {
-    "id": "dc_ohasrc",
+    "id": "dc_1j5d0ar",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-26",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
+    "date": "2026-09-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
     "hood": null,
     "headliners": [
       {
-        "name": "Frank Walker",
+        "name": "Metro Presents... Olof Dreijer (Live)",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "ARTY",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": 35.4,
+    "price": 25.75,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/8e9w6r-frank-walker-presents-golden-era-with-special-guest-arty-26th-sep-chop-shop-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb58c06f9cad2cad43d14b8432",
+    "ticketUrl": "https://dice.fm/event/yod36x-metro-presents-olof-dreijer-live-30th-sep-sleeping-village-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -1001,6 +957,38 @@
     "venueInfo": {
       "name": "Bourbon on Division",
       "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_2kazzh",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-28",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "TWOFACED",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/yod76p-twofaced-28th-nov-smoke-mirrors-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
