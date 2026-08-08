@@ -1,454 +1,5 @@
 [
   {
-    "id": "os_2zng50",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Dee Alexander Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/7611/?date=2026-08-07",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_16dfr5q",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Big Mike & The R&B Kings",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378565",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/39968/full/data?1646886272",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_16dfr5q",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Big Mike & The R&B Kings",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378566",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/39968/full/data?1646886272",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1ayw448",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "JOHNNY RAWLS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/34011185/johnny-rawls-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_kgq97j",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Steph Strings",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Elizabeth Moen",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/steph-strings-chicago-illinois-08-07-2026/event/040064D2248B565A",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_oouwnw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Illville Vanguard",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/illville-vanguard/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_7m6fab",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Windy City Witches - Burlesque",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_1fh891b",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "BRÜT",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "CHICAGO MARKET DAYS",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "PRIVATE EVENT!",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/brut-chicago-market-days-private-event/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_13clgkn",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": "Greater Grand Crossing",
-    "headliners": [
-      {
-        "name": "Adult Back To School House Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/adult-back-to-school-house-party",
-    "poster": "https://static.wixstatic.com/media/17e034_e2ea688fbdf646b39e5b9464ed8423e0~mv2.jpg",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.leesunleadedblues.com"
-    }
-  },
-  {
-    "id": "os_1vt4bkj",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Joe's on Weed",
-    "rawVenue": "Joe's on Weed",
-    "hood": "Goose Island",
-    "headliners": [
-      {
-        "name": "CHICAGO NEW HORIZONS PRESENTS: Friends From School",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Honk Shoo",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Dan Vallejo",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "WIRE MOTHER",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 15,
-    "age": null,
-    "ticketUrl": "https://www.joesbar.com/livemusic-events/wiremother-pfwtt",
-    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1780679296890-D02C0RR3FOB2X7JJI6YX/2026.8.7_Wire+Mother_16-9.jpg",
-    "venueInfo": {
-      "name": "Joe's on Weed",
-      "address": "940 W Weed St.",
-      "city": "Chicago",
-      "url": "https://www.joesbar.com"
-    }
-  },
-  {
-    "id": "os_19y0rzo",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Eccentric Disco",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/tlxly49rzcx726rb58klcxa4kty38e",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1785177976483-VNL09XMJ7OEKZYJNHB6C/Eccentric+Disco+Recurring+Flyer+%281%29.jpeg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
-    "id": "os_zhrt8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "NOCTÉ ROYALE Presents: DJ MILE HIGH",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/midnightsociety-august7",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785944258897-SMCDCD6V42TOQ7A6QCFA/nocte+royale+aug+7th.jpg",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
-    "id": "os_1thwmem",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-07",
-    "time": null,
-    "slot": null,
-    "venue": "Beauty Bar",
-    "rawVenue": "Beauty Bar",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "SAGE & SADE R&B + CLASSIC HIP-HOP",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Beauty Bar",
-      "address": "1444 W Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.beautybarchicago.com"
-    }
-  },
-  {
     "id": "os_1mjhk51",
     "source": "venue-site",
     "sourceList": [
@@ -638,70 +189,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1rlx6h5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-08",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Dueling Teles",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_1kx8tp1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-08",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Strugglebus presents…",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -1060,76 +547,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_34r41t",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-09",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "DJ Auntie Party New Wave Matinee All Vinyl Set!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_1pq8d1q",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-09",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Rent Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Steve Mend and the Exiles",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -6759,6 +6176,44 @@
     }
   },
   {
+    "id": "os_bgq11q",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-03",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "rawVenue": "Sound-Bar",
+    "hood": "River North",
+    "headliners": [
+      {
+        "name": "MERSIV",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "NORTH COAST OFFICIAL PRE-PARTY",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/mersiv-north-coast-official-pre-party/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    }
+  },
+  {
     "id": "os_a6p3li",
     "source": "venue-site",
     "sourceList": [
@@ -6823,7 +6278,7 @@
     }
   },
   {
-    "id": "os_u6msfe",
+    "id": "os_6ltwcf",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6836,7 +6291,7 @@
     "hood": "West Loop",
     "headliners": [
       {
-        "name": "JoJo Hermann",
+        "name": "JoJo Hermann Band",
         "genre": "music",
         "role": "headliner"
       }
@@ -6884,6 +6339,44 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_1rdl7ee",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-04",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "rawVenue": "Sound-Bar",
+    "hood": "River North",
+    "headliners": [
+      {
+        "name": "LEVEL UP",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "NORTH COAST OFFICIAL AFTER SHOW",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/level-up-north-coast-official-after-show/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
     }
   },
   {
@@ -6951,7 +6444,7 @@
     }
   },
   {
-    "id": "os_1amh1qj",
+    "id": "os_1jod7pc",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6964,7 +6457,7 @@
     "hood": "West Loop",
     "headliners": [
       {
-        "name": "JoJo Hermann",
+        "name": "JoJo Hermann Band",
         "genre": "music",
         "role": "headliner"
       }
@@ -7015,6 +6508,44 @@
     }
   },
   {
+    "id": "os_1shhmtb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-05",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "rawVenue": "Sound-Bar",
+    "hood": "River North",
+    "headliners": [
+      {
+        "name": "ARMNHMR PRESENTS PASSPORT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "NORTH COAST OFFICIAL AFTER SHOW",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/armnhmr-presents-passport-north-coast-official-after-show/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    }
+  },
+  {
     "id": "os_15owf08",
     "source": "venue-site",
     "sourceList": [
@@ -7044,6 +6575,44 @@
       "address": null,
       "city": "Chicago",
       "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
+    "id": "os_13e10pw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-06",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "rawVenue": "Sound-Bar",
+    "hood": "River North",
+    "headliners": [
+      {
+        "name": "SLANDER",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "NORTH COAST OFFICIAL AFTER SHOW",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/slander-north-coast-official-after-show/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
     }
   },
   {
@@ -7471,6 +7040,49 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_16vvfwa",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-12",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "Chicago New Horizons Presents: moose.",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Steph & the shenanigans",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "mouse house",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://www.joesbar.com/livemusic-events/chicagonewhorizons",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1786137902191-4A9MLG4LDWGVHASMLMXZ/9.12+16x9.png",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
     }
   },
   {
