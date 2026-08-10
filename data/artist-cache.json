@@ -8898,5 +8898,45 @@
     "hasSpotify": true,
     "empty": false,
     "fetchedAt": 1786269983749
+  },
+  "solya": {
+    "spotify": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza",
+    "bandcamp": null,
+    "youtube": "https://www.youtube.com/@solyamusic",
+    "instagram": "http://instagram.com/https://www.instagram.com/solyamusic/",
+    "website": "https://www.solyamusic.com",
+    "hasSpotify": true,
+    "empty": false,
+    "fetchedAt": 1786358554118
+  },
+  "radium-dolls": {
+    "spotify": "https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr",
+    "bandcamp": null,
+    "youtube": "https://www.youtube.com/channel/UCCFM7L1WCyDJ9Dd6ouHiiYA",
+    "instagram": "http://instagram.com/https://www.instagram.com/radiumdolls/",
+    "website": "https://www.radiumdolls.org",
+    "hasSpotify": true,
+    "empty": false,
+    "fetchedAt": 1786358554118
+  },
+  "marielle-kraft": {
+    "spotify": "https://open.spotify.com/artist/2RQN5dFKtdR5cXWsZtSldV",
+    "bandcamp": null,
+    "youtube": "https://www.youtube.com/mariellekraft",
+    "instagram": "http://instagram.com/mariellekraft",
+    "website": "https://www.mariellekraft.com/",
+    "hasSpotify": true,
+    "empty": false,
+    "fetchedAt": 1786358554118
+  },
+  "nina-simone-reimagined": {
+    "spotify": null,
+    "bandcamp": null,
+    "youtube": null,
+    "instagram": null,
+    "website": null,
+    "hasSpotify": false,
+    "empty": true,
+    "fetchedAt": 1786358554118
   }
 }
