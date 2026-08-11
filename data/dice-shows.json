@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_18xqf07",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-08",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Secret Location - Chicago",
-    "rawVenue": "Secret Location - Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "BOOTS - Market Days Weekend",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/eo65e6-boots-market-days-weekend-8th-aug-secret-location-chicago-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Secret Location - Chicago",
-      "address": "Chicago, IL, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_7r1kqc",
     "source": "dice",
     "sourceList": [
@@ -64,7 +32,7 @@
     }
   },
   {
-    "id": "dc_9bf2po",
+    "id": "dc_ilrz93",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -77,52 +45,31 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Pinkshift",
+        "name": "Directrix",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Arcadia Grey",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Pinkshift",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/pynag8-pinkshift-saccharine-5-year-anniversary-tour-14th-aug-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebecccf0630fccc39fdd7b686f",
+    "ticketUrl": "https://dice.fm/event/pynag8-pinkshift-arcadia-grey-directrix-14th-aug-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2025-02-13/71798e06-2cf8-4147-aa6d-36b66b354c49.jpg?rect=0%2C54%2C532%2C532",
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_79j02d",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-15",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Catacombs",
-    "rawVenue": "Epiphany Center for the Arts - Catacombs",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Rogue Fashion Show",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e5e6r-rogue-fashion-show-15th-aug-epiphany-center-for-the-arts-catacombs-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Catacombs",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -155,6 +102,38 @@
     "venueInfo": {
       "name": "The CheckOut",
       "address": "4116 North Clark Street, Chicago, Illinois 60613, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_79j02d",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-15",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Catacombs",
+    "rawVenue": "Epiphany Center for the Arts - Catacombs",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Rogue Fashion Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/8e5e6r-rogue-fashion-show-15th-aug-epiphany-center-for-the-arts-catacombs-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Catacombs",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -230,38 +209,6 @@
     }
   },
   {
-    "id": "dc_6cq4ix",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-20",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Eli",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/oe799g-eli-20th-aug-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_17b0x2y",
     "source": "dice",
     "sourceList": [
@@ -289,38 +236,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_gglp3n",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-21",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Hideaway",
-    "rawVenue": "Hideaway",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Lincoln Jesser ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/923ymd-lincoln-jesser-21st-aug-hideaway-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Hideaway",
-      "address": "5 West Division Street, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -385,6 +300,38 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1pzatul",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-26",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "The CheckOut",
+    "rawVenue": "The CheckOut",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Viva la Diva: How to Become an Opera Fan in 90 Minutes or Less",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 24.11,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/8eqan2-viva-la-diva-how-to-become-an-opera-fan-in-90-minutes-or-less-26th-aug-the-checkout-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "The CheckOut",
+      "address": "4116 North Clark Street, Chicago, Illinois 60613, United States",
       "city": "Chicago",
       "url": null
     }
@@ -550,59 +497,6 @@
     }
   },
   {
-    "id": "dc_1bix6ro",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-05",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "The Salt Shed",
-    "rawVenue": "The Salt Shed",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Everyday People",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "DJ Moma",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "DJ R-Tistic",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "DJ Mochi",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Milhouse",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/dkmrao-everyday-people-chicago-5th-sep-the-salt-shed-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2022-04-28/e23761ed-1a3b-4afb-a331-0ef2a8c31684.jpg?rect=0%2C0%2C1469%2C1469",
-    "venueInfo": {
-      "name": "The Salt Shed",
-      "address": "1357 North Elston Avenue, Chicago, Illinois 60642, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_n3l577",
     "source": "dice",
     "sourceList": [
@@ -691,38 +585,6 @@
     "age": null,
     "ticketUrl": "https://dice.fm/event/q2pqdo-malt-adult-animation-nite-13th-sep-color-club-chicago-tickets",
     "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1e7n4ei",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-13",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Helen Sun",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 16.51,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/k65pb8-helen-sun-with-hank-underwood-13th-sep-color-club-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2026-06-12/ee8ae507-59ee-470f-a360-fc7624e235d1.jpg?rect=0%2C0%2C1440%2C1440",
     "venueInfo": {
       "name": "Color Club",
       "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
@@ -827,6 +689,38 @@
     }
   },
   {
+    "id": "dc_1orni11",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-26",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Zero",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/bb958v-zero-26th-sep-smoke-mirrors-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_l4kufh",
     "source": "dice",
     "sourceList": [
@@ -885,7 +779,7 @@
       }
     ],
     "genres": [],
-    "price": 35.4,
+    "price": 39.33,
     "age": null,
     "ticketUrl": "https://dice.fm/event/8e9w6r-frank-walker-presents-golden-era-with-special-guest-arty-26th-sep-chop-shop-chicago-tickets",
     "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb58c06f9cad2cad43d14b8432",
@@ -920,6 +814,38 @@
     "price": 25.75,
     "age": null,
     "ticketUrl": "https://dice.fm/event/yod36x-metro-presents-olof-dreijer-live-30th-sep-sleeping-village-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1eicyir",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-17",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "BLOODRAVE",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6dod78-bloodrave-17th-oct-sleeping-village-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Sleeping Village",
