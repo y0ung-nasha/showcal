@@ -139,6 +139,38 @@
     }
   },
   {
+    "id": "aap_1ek1rkw",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-15",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Sushi’s Storefront",
+    "rawVenue": "Sushi’s Storefront",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dummy Pass",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/dummy-pass",
+    "poster": "https://chicago.askapunk.net/media/44ef8e9761827f82bc0fde20f23f5ee9.jpg",
+    "venueInfo": {
+      "name": "Sushi’s Storefront",
+      "address": "ask around",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_yh9qon",
     "source": "askapunk",
     "sourceList": [
@@ -321,6 +353,38 @@
     "venueInfo": {
       "name": "Dreamland",
       "address": "3052 w Carroll Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1h3r06v",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-20",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Live Wire Lounge",
+    "rawVenue": "Live Wire Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Guardrail",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/guardrail",
+    "poster": "https://chicago.askapunk.net/media/615e916198fccc2fb800bf1f8d22c6cb.jpg",
+    "venueInfo": {
+      "name": "Live Wire Lounge",
+      "address": "3394 N Milwaukee",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
