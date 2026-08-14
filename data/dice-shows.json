@@ -20,13 +20,51 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 15,
+    "price": 20,
     "age": null,
     "ticketUrl": "https://dice.fm/event/9238d7-randomer-14th-aug-smoke-mirrors-chicago-tickets",
     "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebc1aedefa0404c2afb145faa7",
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1jed3ek",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-14",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Basura Boyz",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Sage Armstrong",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/v32g2l-sage-armstrong-14th-aug-spybar-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2023-04-17/d6d7eeb8-0f59-48a2-be28-aa55b5da9606.jpg?rect=0%2C56%2C529%2C529",
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -107,39 +145,33 @@
     }
   },
   {
-    "id": "dc_1jed3ek",
+    "id": "dc_1rlz1wx",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-08-14",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
     "hood": null,
     "headliners": [
       {
-        "name": "Basura Boyz",
+        "name": "Mood Indigo: The Album Release",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Sage Armstrong",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": 20,
+    "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/v32g2l-sage-armstrong-14th-aug-spybar-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2023-04-17/d6d7eeb8-0f59-48a2-be28-aa55b5da9606.jpg?rect=0%2C56%2C529%2C529",
+    "ticketUrl": "https://dice.fm/event/dkpvdv-mood-indigo-the-album-release-14th-aug-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -172,6 +204,38 @@
     "venueInfo": {
       "name": "The CheckOut",
       "address": "4116 North Clark Street, Chicago, Illinois 60613, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_79j02d",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-15",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Catacombs",
+    "rawVenue": "Epiphany Center for the Arts - Catacombs",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Rogue Fashion Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/8e5e6r-rogue-fashion-show-15th-aug-epiphany-center-for-the-arts-catacombs-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Catacombs",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -215,38 +279,6 @@
     }
   },
   {
-    "id": "dc_79j02d",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-15",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Catacombs",
-    "rawVenue": "Epiphany Center for the Arts - Catacombs",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Rogue Fashion Show",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e5e6r-rogue-fashion-show-15th-aug-epiphany-center-for-the-arts-catacombs-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Catacombs",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1weo8kx",
     "source": "dice",
     "sourceList": [
@@ -279,6 +311,38 @@
     }
   },
   {
+    "id": "dc_1qv9uw1",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-16",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Azul Rooftop",
+    "rawVenue": "Azul Rooftop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "\"Hello?!\" Sundays w/ Hank B2B Cole Terrazas",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/wwp3wv-hello-sundays-w-hank-b2b-cole-terrazas-16th-aug-azul-rooftop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Azul Rooftop",
+      "address": "1177 North Elston Avenue, Chicago, Illinois 60642, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_eevgwh",
     "source": "dice",
     "sourceList": [
@@ -306,38 +370,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_6cq4ix",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-20",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Eli",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/oe799g-eli-20th-aug-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -434,6 +466,38 @@
     "venueInfo": {
       "name": "The CheckOut",
       "address": "4116 North Clark Street, Chicago, Illinois 60613, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_iywc35",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-27",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Thursday Social: Open Decks + Night Market",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/nvp97l-thursday-social-open-decks-night-market-27th-aug-spybar-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -599,38 +663,6 @@
     }
   },
   {
-    "id": "dc_33ixsb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-13",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Malt Adult Animation Nite",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/q2pqdo-malt-adult-animation-nite-13th-sep-color-club-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_albqv6",
     "source": "dice",
     "sourceList": [
@@ -759,70 +791,6 @@
     }
   },
   {
-    "id": "dc_1j5d0ar",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Metro Presents... Olof Dreijer (Live)",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25.75,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/yod36x-metro-presents-olof-dreijer-live-30th-sep-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1eicyir",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-17",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "BLOODRAVE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/6dod78-bloodrave-17th-oct-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_ten03x",
     "source": "dice",
     "sourceList": [
@@ -882,6 +850,38 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1w7v4eh",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-25",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Hissy Kits: Fur Fright's Sake! (7 PM)",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 16.51,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/eo6mvo-the-hissy-kits-fur-frights-sake-7-pm-25th-oct-color-club-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -971,7 +971,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 25,
+    "price": 27.06,
     "age": null,
     "ticketUrl": "https://dice.fm/event/yod76p-twofaced-28th-nov-smoke-mirrors-chicago-tickets",
     "poster": null,

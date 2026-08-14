@@ -1,37 +1,5 @@
 [
   {
-    "id": "aap_1qbkqch",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-08-13",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "French Inhaler cassette release  show! With Hoverboard & Abolish Victory!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/french-inhaler-cassette-release-show-with-hoverboard-and-abolish-victory",
-    "poster": "https://chicago.askapunk.net/media/72310d540f6b7d2065e752c4042a9f33.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1b1e73c",
     "source": "askapunk",
     "sourceList": [
@@ -705,6 +673,96 @@
     "venueInfo": {
       "name": "Not Not",
       "address": "Email for more info",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_ql17by",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-09-05",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Casa Cafe",
+    "rawVenue": "Casa Cafe",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "United Stare",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Fuerza Bruta",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Perro Mundo",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "CAW",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Angry All the Time",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Sociedad Salvaje",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/united-stare-fuerza-bruta-perro-mundo-caw-angry-all-the-time-sociedad-salvaje",
+    "poster": "https://chicago.askapunk.net/media/6b8e9f07e655ecc966d7e1b5534d70bb.jpg",
+    "venueInfo": {
+      "name": "Casa Cafe",
+      "address": "2025 s western ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_afqyk2",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-03",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Lowdown",
+    "rawVenue": "Lowdown",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "De Rodillas",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/de-rodillas",
+    "poster": null,
+    "venueInfo": {
+      "name": "Lowdown",
+      "address": "email lowdownchi.diy@gmail.com",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
