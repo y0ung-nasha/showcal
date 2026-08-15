@@ -64,6 +64,38 @@
     }
   },
   {
+    "id": "aap_ap35kw",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-15",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Waywards Art Haus",
+    "rawVenue": "Waywards Art Haus",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Waywards Art Haus' 3 Year Anniversary",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/waywards-art-haus-3-year-anniversary",
+    "poster": "https://chicago.askapunk.net/media/80882996906eac791f9f918bd9602de0.jpg",
+    "venueInfo": {
+      "name": "Waywards Art Haus",
+      "address": "32 W Clinton St Joliet, IL",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_m2kvr1",
     "source": "askapunk",
     "sourceList": [
@@ -588,6 +620,54 @@
     }
   },
   {
+    "id": "aap_12lkumc",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-28",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Gman Tavern",
+    "rawVenue": "Gman Tavern",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Won't Stay Dead",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Five Hundred Bucks",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Little Low",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Mush at Gman",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/wont-stay-dead-five-hundred-bucks-little-low-mush-at-gman",
+    "poster": "https://chicago.askapunk.net/media/4ed13550374d7ba560770d70d78cf996.jpg",
+    "venueInfo": {
+      "name": "Gman Tavern",
+      "address": "3740 N Clark St",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_pnjjwy",
     "source": "askapunk",
     "sourceList": [
@@ -731,6 +811,49 @@
     "venueInfo": {
       "name": "Casa Cafe",
       "address": "2025 s western ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_11yamyb",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-09-13",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Coles Bar",
+    "rawVenue": "Coles Bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Sex Mex",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Won't Stay Dead",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "King Sans at Cole's",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/sex-mex-wont-stay-dead-king-sans-at-coles",
+    "poster": "https://chicago.askapunk.net/media/346cf8877bc79d73e7379f39b655517e.jpg",
+    "venueInfo": {
+      "name": "Coles Bar",
+      "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
