@@ -1,459 +1,5 @@
 [
   {
-    "id": "os_xfav3a",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Jerry Weldon Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/12143/?date=2026-08-15",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_1y07ztz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Mississippi Heat",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378569",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35222/full/data?1632425206",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1y07ztz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Mississippi Heat",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378570",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35222/full/data?1632425206",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_b9eam5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "NICHOLAS ALEXANDER",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/88075936/nicholas-alexander-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_10sr8om",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Isaiah Sharkey",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Felicia Patton & The Arrangements",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/isaiah-sharkey-chicago-illinois-08-15-2026/event/040064AC0AEB2DB1",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_1eekq6z",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Proximity",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/proximity-4/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1bz64mw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "DJ Chris Baran Birthday Party 🎉Decks on the Deck",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_d9qjv9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "DJ Shon Dervis",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_ycl14z",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "POISON’D CRUE (80's glam rock covers)",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_1mkugvx",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "CYRIL at Sound-Bar",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/cyril-at-sound-bar/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_p6a8xo",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": "Greater Grand Crossing",
-    "headliners": [
-      {
-        "name": "LIVE BLUES - TAZZ THE MUSICIAN & THE UNLEADED KINGS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-08-15-20-00",
-    "poster": "https://static.wixstatic.com/media/17e034_59242dcda75c45b298d3b26366db7a4e~mv2.png",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.leesunleadedblues.com"
-    }
-  },
-  {
-    "id": "os_29pira",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "17:45",
-    "slot": "evening",
-    "venue": "The Atlantic",
-    "rawVenue": "The Atlantic",
-    "hood": "Lincoln Square",
-    "headliners": [
-      {
-        "name": "Live at The Atlantic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The Atlantic",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://theatlanticbarandgrill.com"
-    }
-  },
-  {
-    "id": "os_111liu5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Joe's on Weed",
-    "rawVenue": "Joe's on Weed",
-    "hood": "Goose Island",
-    "headliners": [
-      {
-        "name": "Eddie & The Getaway",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/eddie-and-the-getaway-joes-on-weed-street-tickets/14826103?pl=joesbar",
-    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1775601434140-N3TBZK9HSU2OQ317XQYM/2026.08.15_16x9_EddieandtheGetaway+.png",
-    "venueInfo": {
-      "name": "Joe's on Weed",
-      "address": "940 W Weed St.",
-      "city": "Chicago",
-      "url": "https://www.joesbar.com"
-    }
-  },
-  {
-    "id": "os_1dasf6p",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Ashina Hamilton & Paul Caston",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/rfh0blif9m8yx3ked6ph0p13kpklv7",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1786383706298-HCXQF40KM3942QW8UJDV/Ashina+Hamilton+and+DJ+Pauly.jpeg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_gho1j2",
     "source": "venue-site",
     "sourceList": [
@@ -483,38 +29,6 @@
       "address": "952 W Fulton St",
       "city": "Chicago",
       "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
-    "id": "os_650vov",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "10:00",
-    "slot": "afternoon",
-    "venue": "The BlkRoom",
-    "rawVenue": "The BlkRoom",
-    "hood": "East Garfield Park",
-    "headliners": [
-      {
-        "name": "Indie headshot Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.theblkroom.org/event-calendar/indie-headshot-party-1",
-    "poster": "https://images.squarespace-cdn.com/content/v1/65491ead7b54db38b7154d33/1786640968971-IPL2SIAQH4QG4C6XZRM1/IMG_9426.jpeg",
-    "venueInfo": {
-      "name": "The BlkRoom",
-      "address": "4015 W Carroll Ave Unit 204",
-      "city": "Chicago",
-      "url": "https://www.theblkroom.org"
     }
   },
   {
@@ -658,20 +172,20 @@
     }
   },
   {
-    "id": "os_pavplj",
+    "id": "os_1glaq5t",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
     ],
     "date": "2026-08-16",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
     "headliners": [
       {
-        "name": "Nora O'Connor & Casey McDonough",
+        "name": "Fun Simulation 2000 Open Mic Comedy",
         "genre": "music",
         "role": "headliner"
       }
@@ -683,42 +197,10 @@
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
       "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_9fvw26",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-16",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "The Wild Night",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -879,6 +361,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1mokto1",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-17",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Monkeys On Ecstasy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/monkeys-on-ecstasy-chicago-illinois-08-17-2026/event/04006507B6F2F6B5",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     }
   },
   {
@@ -1045,6 +559,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_1if5do2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-18",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Karaoke with host Millie May",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -1301,6 +847,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_13lsxbw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-19",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "AEW Watch Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -2350,6 +1928,38 @@
     }
   },
   {
+    "id": "os_jevex4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-22",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Karaoke hosted by Sweet Melissa",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
+    }
+  },
+  {
     "id": "os_1112x22",
     "source": "venue-site",
     "sourceList": [
@@ -2603,6 +2213,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_m6fmrz",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-23",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Fun Simulation 2000 Open Mic Comedy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -2862,6 +2504,38 @@
     }
   },
   {
+    "id": "os_1iev6fk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-25",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Karaoke with host Millie May",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
+    }
+  },
+  {
     "id": "os_vx7vha",
     "source": "venue-site",
     "sourceList": [
@@ -3115,6 +2789,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_1igj4d6",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-26",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "AEW Watch Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -3988,6 +3694,38 @@
     }
   },
   {
+    "id": "os_1gurf4f",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-29",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Karaoke hosted by Sweet Melissa",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
+    }
+  },
+  {
     "id": "os_1t24wp9",
     "source": "venue-site",
     "sourceList": [
@@ -4348,6 +4086,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_1qsold9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-30",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Reed's Local",
+    "rawVenue": "Reed's Local",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Fun Simulation 2000 Open Mic Comedy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reed's Local",
+      "address": "3017 W Belmont",
+      "city": "Chicago",
+      "url": "https://reedslocal.com"
     }
   },
   {
@@ -7664,6 +7434,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_mmk0m0",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Jeremiah Hunt Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/12818/?date=2026-09-22",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {

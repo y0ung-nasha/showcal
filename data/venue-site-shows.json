@@ -1,5 +1,101 @@
 [
   {
+    "id": "vs_ej40en",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2025-12-28",
+    "time": "19:20",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol's Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears @ San Francisco — Watch Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html",
+    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com/"
+    }
+  },
+  {
+    "id": "vs_6lj7mk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-02-05",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Jade Eagleson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
+    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
+    "id": "vs_6juvvq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-04-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Canaan Cox",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
+    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
     "id": "vs_155k5oe",
     "source": "venue-site",
     "sourceList": [
@@ -2368,38 +2464,6 @@
     }
   },
   {
-    "id": "vs_9wm5k6",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-13",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tyvon 'Tank' Rice",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/tyvon-tank-rice/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-TYVON-UNRLSD-First-Thursday.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_14s2lhs",
     "source": "venue-site",
     "sourceList": [
@@ -2560,70 +2624,6 @@
     }
   },
   {
-    "id": "vs_1hc3u7e",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "F@CKED UP FRIDAYS AT LEE’S with Mzs China & Ray",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://static.wixstatic.com/media/17e034_7bff3880d8574a57a60cacbc25fdc702~mv2.png/v1/fill/w_1023,h_1537,al_c/17e034_7bff3880d8574a57a60cacbc25fdc702~mv2.png",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/f-cked-up-fridays-at-lees-with-mzs-china-ray"
-    }
-  },
-  {
-    "id": "vs_haccwt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-14",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Khaos and Komedy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/khaos-and-komedy/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-august/08-14-2026_9pm_Khaos-and-Komedy.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
     "id": "vs_1huw969",
     "source": "venue-site",
     "sourceList": [
@@ -2717,38 +2717,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_ebgzsl",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Marques Carroll Quintet - The Music of Dexter Gordon and Freddie Hubbard",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/marques-carroll-quintet-the-music-of-dexter-gordon-and-freddie-hubbard-2",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_27753440cbb14b83ab43057105db6241~mv2.png/v1/fill/w_1200,h_800,al_c/8ffa2d_27753440cbb14b83ab43057105db6241~mv2.png",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/marques-carroll-quintet-the-music-of-dexter-gordon-and-freddie-hubbard-2"
     }
   },
   {
@@ -2848,6 +2816,70 @@
     }
   },
   {
+    "id": "vs_1657tzc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-16",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Healing Gems w/ Family Junket",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-55.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_wkg6py",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-16",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Velo Vino x Natties & Patties",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-22.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_48xcol",
     "source": "venue-site",
     "sourceList": [
@@ -2944,81 +2976,6 @@
     }
   },
   {
-    "id": "vs_1ibexxu",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-16",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Desolation Plains",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Gloamwalker",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Kennel Master",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/kennel-master-gloamwalker-mortlach-august-15-2026-691242",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/242/compressed/8_15_Road_to_GLDS_square.jpg?1782150975",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
-    "id": "vs_1xxd3dq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-16",
-    "time": "04:30",
-    "slot": "afternoon",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "DJ Wet Bread",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/dj-wet-bread-august-15-2026-741671",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/741/671/compressed/IMG_9375.jpg?1786385159",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
     "id": "vs_moste4",
     "source": "venue-site",
     "sourceList": [
@@ -3080,6 +3037,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1ns47ds",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-17",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night w/ DJ HUMAN FLY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-16.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3510,6 +3499,38 @@
     }
   },
   {
+    "id": "vs_ca091e",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-20",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Vinyl Collectiv Art Hang",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-34.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_x3fz0d",
     "source": "venue-site",
     "sourceList": [
@@ -3731,6 +3752,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1ylngy2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-21",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Druuna Debut Vinyl Release Show w/ Become Death, Doomzday Slutz",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-38.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -4409,6 +4462,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1328g5y",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-24",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night w/ DJ Zaphlon",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-3.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -6667,6 +6752,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_44o3we",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-12",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chicago Soul Jazz Collective with Boyce Hudson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/chicago-soul-jazz-collective-with-boyce-hudson-2",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_d2b02791acad40a1ab2496a963d52e90~mv2.jpg/v1/fill/w_5059,h_3373,al_c,q_90/8ffa2d_d2b02791acad40a1ab2496a963d52e90~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/chicago-soul-jazz-collective-with-boyce-hudson-2"
     }
   },
   {
