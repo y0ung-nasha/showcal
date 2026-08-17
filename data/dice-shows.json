@@ -1,80 +1,5 @@
 [
   {
-    "id": "dc_1kqgyqv",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-15",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jennifer Cardini",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Hotpretty",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Ciel",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 30,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8eqqor-jennifer-cardinis-nightclubbing-15th-aug-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-04-10/88cb7b59-5c32-43ce-b06d-a80bc43831b7.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1qv9uw1",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-16",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Azul Rooftop",
-    "rawVenue": "Azul Rooftop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "\"Hello?!\" Sundays w/ Hank B2B Cole Terrazas",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/wwp3wv-hello-sundays-w-hank-b2b-cole-terrazas-16th-aug-azul-rooftop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Azul Rooftop",
-      "address": "1177 North Elston Avenue, Chicago, Illinois 60642, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_eevgwh",
     "source": "dice",
     "sourceList": [
@@ -235,6 +160,38 @@
     }
   },
   {
+    "id": "dc_6mithd",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-22",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Lady Shaka",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2p35y-everywhere-between-22nd-aug-chop-shop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1krrn7r",
     "source": "dice",
     "sourceList": [
@@ -364,6 +321,38 @@
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_zutcpm",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-28",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Garden Of: DYKES IN DENIM | Y2GAY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/g5blrb-garden-of-dykes-in-denim-y2gay-28th-aug-sleeping-village-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -643,38 +632,6 @@
     }
   },
   {
-    "id": "dc_omqx0r",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-23",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "A.Chal",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 32.77,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/q2qyp9-achal-chologante-23rd-sep-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_g3d07v",
     "source": "dice",
     "sourceList": [
@@ -734,38 +691,6 @@
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bolebw",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-01",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Shwayze",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 39.33,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/7dwkvp-shwayze-the-nostalgia-tour-1st-oct-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-09-25/a6ab430d-2687-4e58-bc37-a1c9483eb763.jpg?rect=0%2C54%2C532%2C532",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -899,6 +824,38 @@
     }
   },
   {
+    "id": "dc_1ejmy6j",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-25",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Hissy Kits: Fur Fright's Sake! (9 PM) ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 16.51,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/avxwl2-the-hissy-kits-fur-frights-sake-9-pm-25th-oct-color-club-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1w7v4eh",
     "source": "dice",
     "sourceList": [
@@ -922,38 +879,6 @@
     "price": 16.51,
     "age": null,
     "ticketUrl": "https://dice.fm/event/eo6mvo-the-hissy-kits-fur-frights-sake-7-pm-25th-oct-color-club-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1ejmy6j",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-25",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The Hissy Kits: Fur Fright's Sake! (9 PM) ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 15,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/avxwl2-the-hissy-kits-fur-frights-sake-9-pm-25th-oct-color-club-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Color Club",
@@ -995,6 +920,38 @@
     }
   },
   {
+    "id": "dc_1apy0we",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-14",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "the olllam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 32.77,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/3orgo8-the-olllam-14th-nov-chop-shop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2025-01-09/778ba6b8-78a1-45c6-8082-1dbeee1e5b18.jpg?rect=0%2C0%2C640%2C640",
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_14veqix",
     "source": "dice",
     "sourceList": [
@@ -1022,38 +979,6 @@
     "venueInfo": {
       "name": "Rockefeller Memorial Chapel",
       "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_2kazzh",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-28",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TWOFACED",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 27.06,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/yod76p-twofaced-28th-nov-smoke-mirrors-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
