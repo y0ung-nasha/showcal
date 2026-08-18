@@ -1,133 +1,5 @@
 [
   {
-    "id": "os_j2d7gl",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-17",
-    "time": "17:30",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Chicago Jazz Orchestra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/7020/?date=2026-08-17",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_1v1nihp",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-17",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/380195",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1mokto1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-17",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Monkeys On Ecstasy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/monkeys-on-ecstasy-chicago-illinois-08-17-2026/event/04006507B6F2F6B5",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_1qx2toj",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-17",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Taylor Tee Comedy Special",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/taylor-tee-comedy-special/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
     "id": "os_t832jn",
     "source": "venue-site",
     "sourceList": [
@@ -259,6 +131,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_365my5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-18",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Tuesday Trivia Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
     }
   },
   {
@@ -1126,6 +1030,38 @@
     }
   },
   {
+    "id": "os_15eb5r4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-21",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "The Henry Carpender Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_eam27",
     "source": "venue-site",
     "sourceList": [
@@ -1529,6 +1465,102 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_jyb9lu",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-22",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Customer Appreciation Party!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
+    "id": "os_sm8vyo",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-22",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Charlie Pierce",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
+    "id": "os_1acwuyz",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-22",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "DJ Chris Baran",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
     }
   },
   {
@@ -2524,6 +2556,38 @@
     }
   },
   {
+    "id": "os_4ynboh",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-26",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "The Ryans",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/tksenru3cewfdaps47psjf8tbkjjmt",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1786996867871-UADT7P65JY5YWCY7TQUD/82626_theryans.jpg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
+    }
+  },
+  {
     "id": "os_nnaymk",
     "source": "venue-site",
     "sourceList": [
@@ -2745,6 +2809,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_zfeqao",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-27",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "BVAX with DJ Usual Suspect",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/bvax-with-dj-usual-suspect",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1786997042277-C95PQ8QUP34H19R4N0ET/BVAX+1.jpeg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -5253,6 +5349,70 @@
     }
   },
   {
+    "id": "os_1juabiu",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-09",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Derek Caruso & The Blues Fuse - \"High Voltage Night\"",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/384186",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/94747/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1juabiu",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-09",
+    "time": "23:00",
+    "slot": "late",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Derek Caruso & The Blues Fuse - \"High Voltage Night\"",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/384187",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/94747/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
     "id": "os_wfxx6i",
     "source": "venue-site",
     "sourceList": [
@@ -5889,7 +6049,7 @@
     "genres": [],
     "price": null,
     "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/all-shall-perish-tba-reggies-rock-club-tickets/14912183",
+    "ticketUrl": null,
     "poster": null,
     "venueInfo": {
       "name": "Reggies Rock Club",
@@ -9240,49 +9400,6 @@
     }
   },
   {
-    "id": "os_1vg1jci",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-10",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "BED BY 10PM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "NORTH AMERICA TOUR!",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "DAYTIME EVENT 4PM - 9PM",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/bed-by-10pm-north-america-tour-daytime-event-4pm-9pm/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
     "id": "os_akbya7",
     "source": "venue-site",
     "sourceList": [
@@ -9792,6 +9909,70 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.ticketmaster.com/houseplant-chicago-illinois-10-22-2026/event/040064D8DC657ABB",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_a912ur",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "ISABEL LAROSA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "18+",
+    "ticketUrl": "https://www.ticketweb.com/event/isabel-larosa-tba-reggies-rock-club-tickets/15017423",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_xzbkwb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-23",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Maggie Rose",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/maggie-rose-chicago-illinois-10-23-2026/event/0400650FEAA2E1A7",
     "poster": null,
     "venueInfo": {
       "name": "Garcia's",
@@ -10351,6 +10532,38 @@
     }
   },
   {
+    "id": "os_1s1b533",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-07",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "tennessee whiskey, the ultimate eric church experience & bell bottom revival",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/tennessee-whiskey-chris-stapleton-tribute-joes-on-weed-street-tickets/15031193?pl=joesbar",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1786842121177-P8JE0A7WFMM6OCL3W2JA/2026.11.7_16x9.png",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
+    }
+  },
+  {
     "id": "os_gjtrz0",
     "source": "venue-site",
     "sourceList": [
@@ -10833,6 +11046,38 @@
     "price": null,
     "age": "17+",
     "ticketUrl": "https://www.ticketweb.com/event/ok-goodnight-snooze-eve-reggies-rock-club-tickets/14235614",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_16aqm8l",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-24",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "THE KOFFIN KATS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/koffin-kats-and-voodoo-glow-reggies-rock-club-tickets/15017353",
     "poster": null,
     "venueInfo": {
       "name": "Reggies Rock Club",
