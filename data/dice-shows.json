@@ -84,41 +84,9 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 34.09,
+    "price": 40.64,
     "age": null,
     "ticketUrl": "https://dice.fm/event/oe799g-eli-20th-aug-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1s6p0vh",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-21",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "supersonic: North America's tribute to oasis",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 32.77,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/q2v8kp-supersonic-north-americas-tribute-to-oasis-21st-aug-chop-shop-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Chop Shop",
@@ -160,6 +128,38 @@
     }
   },
   {
+    "id": "dc_1s6p0vh",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-21",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "supersonic: North America's tribute to oasis",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 32.77,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2v8kp-supersonic-north-americas-tribute-to-oasis-21st-aug-chop-shop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1prm2t4",
     "source": "dice",
     "sourceList": [
@@ -186,10 +186,53 @@
       }
     ],
     "genres": [],
-    "price": 15,
+    "price": 20,
     "age": null,
     "ticketUrl": "https://dice.fm/event/mxn6xv-rikhter-21st-aug-smoke-mirrors-chicago-tickets",
     "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_j4fx6t",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-22",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "hhunter",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Kayzo",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Elarm",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 32.06,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/ryrkwy-on-the-hhunt-22nd-aug-smoke-mirrors-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2025-06-02/0bd35a38-eb72-4aa2-b1ae-1405e354c968.jpg?rect=0%2C713%2C2851%2C2851",
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
@@ -218,7 +261,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 53.82,
+    "price": 59.74,
     "age": null,
     "ticketUrl": "https://dice.fm/event/2wyko6-lash-a-dark-fetish-soire-22nd-aug-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
     "poster": null,
@@ -294,49 +337,6 @@
     }
   },
   {
-    "id": "dc_j4fx6t",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-22",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "hhunter",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Kayzo",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Elarm",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/ryrkwy-on-the-hhunt-22nd-aug-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2025-06-02/0bd35a38-eb72-4aa2-b1ae-1405e354c968.jpg?rect=0%2C713%2C2851%2C2851",
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_iywc35",
     "source": "dice",
     "sourceList": [
@@ -364,38 +364,6 @@
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1fbanid",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-28",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - The Sanctuary",
-    "rawVenue": "Epiphany Center for the Arts - The Sanctuary ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "OPUS Album Release Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/6dow83-opus-album-release-party-28th-aug-epiphany-center-for-the-arts-the-sanctuary-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - The Sanctuary",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -471,6 +439,38 @@
     }
   },
   {
+    "id": "dc_183ad0q",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-28",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "ero808",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/nv5aq3-ero808-28th-aug-spybar-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_lj3gqe",
     "source": "dice",
     "sourceList": [
@@ -503,118 +503,65 @@
     }
   },
   {
-    "id": "dc_rav2gk",
+    "id": "dc_1q1cnj7",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-03",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bassment",
-    "rawVenue": "Bassment",
+    "date": "2026-08-29",
+    "time": "11:00",
+    "slot": "afternoon",
+    "venue": "Epiphany Center for the Arts - Courtyard",
+    "rawVenue": " Epiphany Center for the Arts - Courtyard ",
     "hood": null,
     "headliners": [
       {
-        "name": "Robbie Doherty",
+        "name": "Cantando con Salita: A Trilingual Musical Storytime (Ages 0–6)",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": "FREE",
     "age": null,
-    "ticketUrl": "https://dice.fm/event/yod32v-the-prelude-w-robbie-doherty-3rd-sep-bassment-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/8e95qw-cantando-con-salita-a-trilingual-musical-storytime-ages-06-29th-aug-epiphany-center-for-the-arts-courtyard-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Bassment",
-      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
+      "name": "Epiphany Center for the Arts - Courtyard",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
   },
   {
-    "id": "dc_vnx6bq",
+    "id": "dc_100jj5k",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-05",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Hideaway",
-    "rawVenue": "Hideaway",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Official North Coast Afters ft. Marie Vaunt",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/pywpm8-official-north-coast-afters-ft-marie-vaunt-5th-sep-hideaway-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Hideaway",
-      "address": "5 West Division Street, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bix6ro",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-05",
+    "date": "2026-08-29",
     "time": "15:00",
     "slot": "afternoon",
-    "venue": "The Salt Shed",
-    "rawVenue": "The Salt Shed",
+    "venue": "Epiphany Center for the Arts - Chase House",
+    "rawVenue": "Epiphany Center for the Arts - Chase House",
     "hood": null,
     "headliners": [
       {
-        "name": "Everyday People",
+        "name": "S4TS VOLUME 17",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "DJ Moma",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "DJ R-Tistic",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "DJ Mochi",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Milhouse",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": null,
+    "price": 24.72,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/dkmrao-everyday-people-chicago-5th-sep-the-salt-shed-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2022-04-28/e23761ed-1a3b-4afb-a331-0ef2a8c31684.jpg?rect=0%2C0%2C1469%2C1469",
+    "ticketUrl": "https://dice.fm/event/yodg32-s4ts-volume-17-29th-aug-epiphany-center-for-the-arts-chase-house-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "The Salt Shed",
-      "address": "1357 North Elston Avenue, Chicago, Illinois 60642, United States",
+      "name": "Epiphany Center for the Arts - Chase House",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -862,38 +809,6 @@
     }
   },
   {
-    "id": "dc_1orni11",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-26",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Zero",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/bb958v-zero-26th-sep-smoke-mirrors-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_lfvt9t",
     "source": "dice",
     "sourceList": [
@@ -953,38 +868,6 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1h2knpf",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-24",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Effy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e96xv-effy-24th-oct-spybar-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2023-08-07/aa33a45d-53d4-4bab-abd0-6417c6935a5d.jpg?rect=0%2C54%2C532%2C532",
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
