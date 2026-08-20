@@ -96,38 +96,6 @@
     }
   },
   {
-    "id": "vs_azo17j",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-07-09",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Elastic Arts",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Improvised Music Series: Dave Gordon Quintet, Fred Jackson Jr./Norman Long — Elastic Arts Foundation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a160761d504b350c0eaed84/1779830264940/DB+Saxism+-+Dave+Gordon+Music.JPG?format=1500w",
-    "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
-    }
-  },
-  {
     "id": "vs_onu420",
     "source": "venue-site",
     "sourceList": [
@@ -3040,38 +3008,6 @@
     }
   },
   {
-    "id": "vs_1cc88z8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Abigail Riccards & Friends - A Night of Soul / Jazz / Blues Favorites",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-19",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg/v1/fill/w_3600,h_2400,al_c,q_90/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-19"
-    }
-  },
-  {
     "id": "vs_g1qhmg",
     "source": "venue-site",
     "sourceList": [
@@ -3229,38 +3165,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_lcb3l5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-20",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Comedy Open Mic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-august-19-2026-717975",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/975/compressed/IMG_9453_2.jpg?1781551169",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -4974,6 +4878,49 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1vf7uqe",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-08-28",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Surgeon General",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Flash Flash Comfort",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "The Living Head",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/surgeon-general-flash-flash-comfort-the-living-head-august-27-2026-730976",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/730/976/compressed/00_Flash_Flash_2026.jpg?1787172881",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -6733,6 +6680,38 @@
     }
   },
   {
+    "id": "vs_152rcgs",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Elastic Arts",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "CLEAT Series: Steve Reidell & Tim Kinsella, Alexander Panos, Squonk — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a8662b0a59b9a03b8ad6a3f/1787192347491/TIM+K+STEVE+R+COMP+-+Tim+Kinsella.jpg?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
+    }
+  },
+  {
     "id": "vs_3za4pr",
     "source": "venue-site",
     "sourceList": [
@@ -7043,6 +7022,38 @@
     }
   },
   {
+    "id": "vs_1bsn5ua",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-16",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Abigail Riccards & Friends - A Night of Soul / Jazz / Blues Favorites",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-20",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg/v1/fill/w_3600,h_2400,al_c,q_90/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-20"
+    }
+  },
+  {
     "id": "vs_d0w10w",
     "source": "venue-site",
     "sourceList": [
@@ -7195,7 +7206,7 @@
     "price": null,
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/asaka-the-renegade-september-19-2026-736742",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/742/compressed/ab67616d00001e0262bfd4a2e9f1ab6efbed02c0.jpg?1785976844",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/742/compressed/flyer.jpg?1787165970",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",

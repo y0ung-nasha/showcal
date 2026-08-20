@@ -1,293 +1,5 @@
 [
   {
-    "id": "os_1h3rq6u",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Kevin King Quartet feat. Bobby Broom",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6701/?date=2026-08-19",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_ijr6rk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Giulio Brouzet: Chromatic Harmonica meets Chicago blues - Acoustic Series",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/378958",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/84087/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_uy7vvg",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Rosa's Blues Jam hosted by David Levit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374423",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/62425/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_uy7vvg",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Rosa's Blues Jam hosted by David Levit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/374424",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/62425/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_lna5zq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "JIMMY BURNS – Host The Jam",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/52200204/jimmy-burns-host-the-jam-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_l97kmb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "MYÍTA & Friends",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 5,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/myita-2/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_13lsxbw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reed's Local",
-    "rawVenue": "Reed's Local",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "AEW Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reed's Local",
-      "address": "3017 W Belmont",
-      "city": "Chicago",
-      "url": "https://reedslocal.com"
-    }
-  },
-  {
-    "id": "os_1xqwif8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The Atlantic",
-    "rawVenue": "The Atlantic",
-    "hood": "Lincoln Square",
-    "headliners": [
-      {
-        "name": "Blue Grass Jam",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The Atlantic",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://theatlanticbarandgrill.com"
-    }
-  },
-  {
-    "id": "os_1g485ns",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Sotelo & Vagabundo",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/sotelo-vagabundo",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1786383767606-V96BXLQ2YVZT0BJ7L3R7/81926_SoteloVagabundo.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_1ldg9lx",
     "source": "venue-site",
     "sourceList": [
@@ -1942,7 +1654,7 @@
     }
   },
   {
-    "id": "os_11nwwvv",
+    "id": "os_125bdlr",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -1955,7 +1667,7 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Dave Herrero feat. Pete Galanis",
+        "name": "Every Damn Tuesday: Dave Herrero feat. Pete Galanis",
         "genre": "music",
         "role": "headliner"
       }
@@ -1974,7 +1686,7 @@
     }
   },
   {
-    "id": "os_11nwwvv",
+    "id": "os_125bdlr",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -1987,7 +1699,7 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Dave Herrero feat. Pete Galanis",
+        "name": "Every Damn Tuesday: Dave Herrero feat. Pete Galanis",
         "genre": "music",
         "role": "headliner"
       }
@@ -4109,6 +3821,38 @@
     }
   },
   {
+    "id": "os_1vwrpkw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-02",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Sexpectations Sex Ed Trivia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/sexpectations-sex-ed-trivia",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1787174832290-MZ2M95CWFR3BMMIOU1VK/PH-09022026-Events_Sexpectations-Trivia_a01-01.png",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
+    }
+  },
+  {
     "id": "os_ty5gvp",
     "source": "venue-site",
     "sourceList": [
@@ -5905,6 +5649,38 @@
     }
   },
   {
+    "id": "os_739ave",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-11",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Anthony Bruno",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/anthony-bruno-trio-2/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
     "id": "os_chq1vl",
     "source": "venue-site",
     "sourceList": [
@@ -6036,6 +5812,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_qv6dmh",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-12",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Proximity",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/proximity-4/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
     }
   },
   {
@@ -6250,6 +6058,44 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_xtc78j",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-13",
+    "time": null,
+    "slot": null,
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Sound Obsession",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "DJ Zipgun Boogie",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/sound-obsession-w-dj-zipgun-boogie-5/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
     }
   },
   {
@@ -6547,6 +6393,70 @@
     }
   },
   {
+    "id": "os_1hl9mb4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-16",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "MYÍTA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 5,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/myita/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_11mifaa",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-16",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "The Atlantic",
+    "rawVenue": "The Atlantic",
+    "hood": "Lincoln Square",
+    "headliners": [
+      {
+        "name": "Blue Grass Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "The Atlantic",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://theatlanticbarandgrill.com"
+    }
+  },
+  {
     "id": "os_7qo8vi",
     "source": "venue-site",
     "sourceList": [
@@ -6835,6 +6745,70 @@
     }
   },
   {
+    "id": "os_1ynkgah",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-18",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Rock & Rye",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/rock-rye-chicago-illinois-09-18-2026/event/04006511D596D7CC",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_ckb65k",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-18",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Alejandro Salazar",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/alejandro-salazar-quartet/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
     "id": "os_iis2li",
     "source": "venue-site",
     "sourceList": [
@@ -7088,6 +7062,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_46om9c",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-19",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Rene Avila’s Afro~Cuban~ Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/rene-avilas-afrocuban-band/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
     }
   },
   {
@@ -7472,6 +7478,44 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1m43a2s",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-22",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "JAZZ HAPPY HOUR",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Arman Sangalang Trio",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-11/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
     }
   },
   {
@@ -7865,6 +7909,38 @@
     }
   },
   {
+    "id": "os_11eo3ah",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Open Beats",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/open-beats-hosted-by-fess-grandiose-3/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
     "id": "os_1nhkx7v",
     "source": "venue-site",
     "sourceList": [
@@ -8097,6 +8173,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1c32mxr",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-26",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "M.e.h",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/1520/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
     }
   },
   {
@@ -8490,7 +8598,7 @@
     }
   },
   {
-    "id": "os_1m8zisg",
+    "id": "os_8sudj5",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -8503,7 +8611,7 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Dave Herrero feat. Pete Galanis",
+        "name": "Dave Herrero Feat. Pete Galanis special guest Adam Hernacki",
         "genre": "music",
         "role": "headliner"
       }
@@ -8512,7 +8620,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383637",
+    "ticketUrl": "https://www.rosaslounge.com/shows/384508",
     "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
     "venueInfo": {
       "name": "Rosa's Lounge",
@@ -8583,6 +8691,44 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1n7mggb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-29",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "JAZZ HAPPY HOUR",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Arman Sangalang Trio",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-10/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
     }
   },
   {
@@ -9776,6 +9922,38 @@
     }
   },
   {
+    "id": "os_17kk3uv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-17",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "OSO OSO",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/oso-oso-leisure-hour-bad-reggies-rock-club-tickets/15043713",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
     "id": "os_dqqz5i",
     "source": "venue-site",
     "sourceList": [
@@ -10259,6 +10437,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_19derqt",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-27",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "The Empty Pockets",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/the-empty-pockets-chicago-illinois-10-27-2026/event/0400650FE740DB29",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     }
   },
   {
@@ -11143,6 +11353,38 @@
     }
   },
   {
+    "id": "os_109jkio",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-18",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "HAVOK",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
     "id": "os_ns0s8h",
     "source": "venue-site",
     "sourceList": [
@@ -11396,6 +11638,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_10wezsh",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-28",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "TheARTI$T",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "18+",
+    "ticketUrl": "https://www.ticketweb.com/event/thankful-for-rb-ladies-night-reggies-rock-club-tickets/15038493",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
     }
   },
   {

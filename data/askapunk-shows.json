@@ -1,53 +1,5 @@
 [
   {
-    "id": "aap_kdacdg",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-08-19",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Dreamland",
-    "rawVenue": "Dreamland",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Nitroglycerine! Presents: Parking",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Debris Bardot (NYC)",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Current Union TM",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Instrument",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/nitroglycerine-presents-parking-ky-debris-bardot-nyc-current-union-tm-instrument",
-    "poster": "https://chicago.askapunk.net/media/9f13cba7dd65ba0ecc6eac564cc33840.jpg",
-    "venueInfo": {
-      "name": "Dreamland",
-      "address": "3052 w Carroll Ave",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1h3r06v",
     "source": "askapunk",
     "sourceList": [
@@ -465,6 +417,38 @@
     "venueInfo": {
       "name": "(Skate park) W Logan Blvd & N Western Ave",
       "address": "W Logan Blvd & N Western Ave Chicago, IL  60647 United States",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_vkh4k2",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-29",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "First Unitarian Church of Chicago",
+    "rawVenue": "First Unitarian Church of Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Midwest Immigration Bond Fund Benefit Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/midwest-immigration-bond-fund-benefit-show",
+    "poster": "https://chicago.askapunk.net/media/2974c89be6d37fe654abb0807c79e857.jpg",
+    "venueInfo": {
+      "name": "First Unitarian Church of Chicago",
+      "address": "5650 S WOODLAWN AVE HYDE PARK",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
