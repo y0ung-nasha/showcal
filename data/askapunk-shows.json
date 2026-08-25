@@ -1,5 +1,48 @@
 [
   {
+    "id": "aap_hdbq8w",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-08-26",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Empty Bottle",
+    "rawVenue": "Empty Bottle",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Golden Output Presents: Yada Yada",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Pucker Up!",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Faerie Dream — A Benefit for Brave Space Alliance",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/golden-output-presents-yada-yada-pucker-up-faerie-dream-a-benefit-for-brave-space-alliance",
+    "poster": "https://chicago.askapunk.net/media/b8874320af7077f307b6be39250bc9ae.jpg",
+    "venueInfo": {
+      "name": "Empty Bottle",
+      "address": "1035 N Western Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_12lkumc",
     "source": "askapunk",
     "sourceList": [
@@ -298,6 +341,69 @@
     "venueInfo": {
       "name": "Reed’s Local",
       "address": "3017 W Belmont, Chicago",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_mnwmzq",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-09-19",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "The Compound",
+    "rawVenue": "The Compound",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Cherry Cheeks (Portland",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "OR)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Action Figure (Ft Collins",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "CO)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Cel Ray",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Bungee Jumpers",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Asko",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/cherry-cheeks-portland-or-action-figure-ft-collins-co-cel-ray-bungee-jumpers-asko",
+    "poster": "https://chicago.askapunk.net/media/9e7ef1f9bcd7d835cf131fdbfc9a7bb7.jpg",
+    "venueInfo": {
+      "name": "The Compound",
+      "address": "Ask a punk!",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
