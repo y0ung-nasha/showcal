@@ -1,115 +1,19 @@
 [
   {
-    "id": "dc_iywc35",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-27",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Thursday Social: Open Decks + Night Market",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/nvp97l-thursday-social-open-decks-night-market-27th-aug-spybar-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1itnyif",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-27",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "<open source />",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/bb9xog-open-source-27th-aug-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_o3wqcs",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-08-27",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Gus Heagerty, Live! Is This the New Me?",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 22.02,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/l8x3wx-gus-heagerty-live-is-this-the-new-me-27th-aug-color-club-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_zutcpm",
+    "id": "dc_16elz09",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-08-28",
-    "time": "21:00",
+    "time": "20:00",
     "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
+    "venue": "Joe's On Weed St.",
+    "rawVenue": "Joe's On Weed St. ",
     "hood": null,
     "headliners": [
       {
-        "name": "Garden Of: DYKES IN DENIM | Y2GAY",
+        "name": "Boots 'N Beats - Presented By Weber Ranch Agave Vodka",
         "genre": "music",
         "role": "headliner"
       }
@@ -118,11 +22,11 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/g5blrb-garden-of-dykes-in-denim-y2gay-28th-aug-sleeping-village-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/bb2r2g-boots-n-beats-presented-by-weber-ranch-agave-vodka-28th-aug-joes-on-weed-st-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "name": "Joe's On Weed St.",
+      "address": "940 West Weed Street, Chicago, Illinois 60642, United States",
       "city": "Chicago",
       "url": null
     }
@@ -166,6 +70,38 @@
     }
   },
   {
+    "id": "dc_zutcpm",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-28",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Garden Of: DYKES IN DENIM | Y2GAY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/g5blrb-garden-of-dykes-in-denim-y2gay-28th-aug-sleeping-village-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_183ad0q",
     "source": "dice",
     "sourceList": [
@@ -186,7 +122,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": 32.06,
     "age": null,
     "ticketUrl": "https://dice.fm/event/nv5aq3-ero808-28th-aug-spybar-chicago-tickets",
     "poster": null,
@@ -230,33 +166,54 @@
     }
   },
   {
-    "id": "dc_lj3gqe",
+    "id": "dc_1phpgat",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-08-29",
-    "time": "21:00",
+    "date": "2026-08-28",
+    "time": "18:00",
     "slot": "evening",
-    "venue": "Joe's On Weed St.",
-    "rawVenue": "Joe's On Weed St. ",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
     "hood": null,
     "headliners": [
       {
-        "name": "Golden Era Rave: 2010’s EDM Classics",
+        "name": "Spare No Mercy",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Invasive",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Champagne",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Mankind",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Soulless",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
-    "price": null,
+    "price": 26,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/7dwee9-golden-era-rave-2010s-edm-classics-29th-aug-joes-on-weed-st-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/pynd2w-risk-soulless-mankind-champagne-invasive-spare-no-mercy-28th-aug-cobra-lounge-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Joe's On Weed St.",
-      "address": "940 West Weed Street, Chicago, Illinois 60642, United States",
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -294,33 +251,103 @@
     }
   },
   {
-    "id": "dc_4vm4vf",
+    "id": "dc_u6swdj",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-03",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
+    "date": "2026-08-29",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wicker Park Lutheran Church",
+    "rawVenue": "Wicker Park Lutheran Church",
     "hood": null,
     "headliners": [
       {
-        "name": "Luke Dean",
+        "name": "Colloboh",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Visible Cloaks",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 49.44,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/8eq8lw-reflections-visible-cloaks-colloboh-29th-aug-wicker-park-lutheran-church-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2022-08-08/5b957db3-6e55-46b5-817f-a2efc9a39045.jpg?rect=0%2C0%2C640%2C640",
+    "venueInfo": {
+      "name": "Wicker Park Lutheran Church",
+      "address": "1500 North Hoyne Avenue, Chicago, Illinois 60622, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_hy8um4",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-30",
+    "time": "13:00",
+    "slot": "afternoon",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Homeflour Market ",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 77.06,
+    "price": "FREE",
     "age": null,
-    "ticketUrl": "https://dice.fm/event/mxndgr-arc-after-dark-luke-dean-3rd-sep-spybar-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2025-07-05/c184465d-e8ae-4725-878d-c6bc716566ab.jpg?rect=0%2C625%2C2500%2C2500",
+    "ticketUrl": "https://dice.fm/event/nvpgx9-homeflour-market-30th-aug-sleeping-village-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_lufjlm",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-08-30",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "SUNNYGUN",
+    "rawVenue": "SUNNYGUN",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "\"Hello?!\" Sundays w/ Mai Iachetti",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2lx2o-hello-sundays-w-mai-iachetti-30th-aug-sunnygun-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "SUNNYGUN",
+      "address": "664 West Lake Street, Chicago, Illinois 60661, United States",
       "city": "Chicago",
       "url": null
     }
@@ -390,76 +417,33 @@
     }
   },
   {
-    "id": "dc_12zgylt",
+    "id": "dc_1u66ckp",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-04",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
+    "date": "2026-09-03",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
     "hood": null,
     "headliners": [
       {
-        "name": "Pegassi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Nola",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Mary K",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 69.53,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/oe88ly-arc-after-dark-pegassi-4th-sep-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2026-04-18/8e74ff7e-3f87-42be-bf11-2be9617d9b6b.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1ho3vba",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-04",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Brunello",
+        "name": "You Set Me Up! ",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 92.06,
+    "price": 24.72,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/eo66k6-arc-after-dark-brunello-4th-sep-spybar-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2025-05-20/b5dcbc35-6c43-4dec-ae2f-d9fe6ae5b2e9.jpg?rect=0%2C51%2C538%2C538",
+    "ticketUrl": "https://dice.fm/event/g5bwyp-you-set-me-up-3rd-sep-sleeping-village-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -496,77 +480,13 @@
       }
     ],
     "genres": [],
-    "price": 62.32,
+    "price": 64.38,
     "age": null,
     "ticketUrl": "https://dice.fm/event/6doo67-arc-after-dark-dubfire-b2b-dj-hyperactive-lindsey-herbert-5th-sep-smoke-mirrors-chicago-tickets",
     "poster": "https://dice-media.imgix.net/attachments/2025-08-08/4ef872f5-2569-4a09-9738-76fd153a8c36.jpg?rect=1364%2C0%2C5464%2C5464",
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1lub69q",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-05",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Omar+",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 92.06,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/6dooe3-arc-after-dark-omar-5th-sep-spybar-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2025-01-09/87bdaca9-c55d-406d-9cbe-337b2e880542.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_vnx6bq",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-05",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Hideaway",
-    "rawVenue": "Hideaway",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Official North Coast Afters ft. Marie Vaunt",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/pywpm8-official-north-coast-afters-ft-marie-vaunt-5th-sep-hideaway-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Hideaway",
-      "address": "5 West Division Street, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -625,87 +545,33 @@
     }
   },
   {
-    "id": "dc_2f659t",
+    "id": "dc_vnx6bq",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-06",
+    "date": "2026-09-05",
     "time": "22:00",
     "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
+    "venue": "Hideaway",
+    "rawVenue": "Hideaway",
     "hood": null,
     "headliners": [
       {
-        "name": "X CLUB.",
+        "name": "Official North Coast Afters ft. Marie Vaunt",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Sam Alfred",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Club Angel",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "HOTPRETTY",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/bb99dk-arc-after-dark-x-club-b2b-sam-alfred-club-angel-6th-sep-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2022-10-11/5da9a951-87e7-45cc-b0fc-83f8207fa5fa.jpg?rect=0%2C53%2C535%2C535",
+    "ticketUrl": "https://dice.fm/event/pywpm8-official-north-coast-afters-ft-marie-vaunt-5th-sep-hideaway-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_4fbnrq",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-06",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Marsolo",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Jamback",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 77.06,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/7dxx6v-arc-after-dark-jamback-marsolo-6th-sep-spybar-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebef7999a8dfa4771765b96dcb",
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Hideaway",
+      "address": "5 West Division Street, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -738,49 +604,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_v6accf",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-07",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "DJ HEARTSTRING",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "BAUGRUPPE90",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Quest",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 59.23,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/l8776l-arc-after-dark-dj-heartstring-baugruppe90-quest-7th-sep-smoke-mirrors-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2025-01-22/79f852f1-dc59-4dba-a824-6487ef2888ba.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -819,6 +642,49 @@
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1rhp7p9",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-07",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DJ HEARTSTRING",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "BAUGRUPPE90",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Quest",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 59.23,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/l8776l-arc-after-dark-dj-heartstring-baugruppe90-quest-7th-sep-smoke-mirrors-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2025-01-22/79f852f1-dc59-4dba-a824-6487ef2888ba.jpg?rect=0%2C0%2C640%2C640",
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -926,6 +792,140 @@
     }
   },
   {
+    "id": "dc_1727ykc",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-25",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Marrøn",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Kimba",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/k62xm8-marrn-25th-sep-smoke-mirrors-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1gsff7a",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-25",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Tetto Rooftop",
+    "rawVenue": "Tetto Rooftop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Double Touch",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2q38p--double-touch-at-tetto-rooftop-25th-sep-tetto-rooftop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2023-10-02/e05b3bec-3118-4274-9745-ab53d170875e.jpg?rect=0%2C53%2C535%2C535",
+    "venueInfo": {
+      "name": "Tetto Rooftop",
+      "address": "406 North Sangamon Street, Chicago, Illinois 60642, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1d4or89",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Free Blues Friday featuring Bear Williams Trio",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/xe3emk-free-blues-friday-featuring-bear-williams-trio-25th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_88gnny",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-27",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "J Parker Rooftop",
+    "rawVenue": "J Parker Rooftop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dennis Quin",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/8e99yr-hello-sundays-w-dennis-quin-27th-sep-j-parker-rooftop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "J Parker Rooftop",
+      "address": "1816 North Clark Street, Chicago, Illinois 60614, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1bolebw",
     "source": "dice",
     "sourceList": [
@@ -958,108 +958,33 @@
     }
   },
   {
-    "id": "dc_15jzebx",
+    "id": "dc_13ysvdx",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-17",
-    "time": "18:00",
+    "date": "2026-11-06",
+    "time": "21:00",
     "slot": "evening",
-    "venue": "Park West",
-    "rawVenue": "Park West",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Earlybirds Club - Chicago Halloween-ish Party",
+        "name": "Nickcheo",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 41.93,
+    "price": 26.22,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/oe8dqr-earlybirds-club-chicago-halloween-ish-party-17th-oct-park-west-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/3oboe8-nickcheo-the-tour-the-movie-6th-nov-chop-shop-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Park West",
-      "address": "322 West Armitage Avenue, Chicago, Illinois 60614, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_pgtpww",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-23",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Robert's Westside",
-    "rawVenue": " Robert's Westside",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Lissie",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/k6553q-lissie-roberts-westside-23rd-oct-roberts-westside-forest-park-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb776fda7d38a156fbd0aa6739",
-    "venueInfo": {
-      "name": "Robert's Westside",
-      "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1uow2zc",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Saint Blonde",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Motherfolk",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "All Get Out",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/2wq68m-all-get-out-motherfolk-saint-blonde-7th-nov-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebd4b0d1ab55104780366a3aeb",
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -1117,45 +1042,13 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 25,
     "age": null,
     "ticketUrl": "https://dice.fm/event/3obql8-hans-glader-18th-dec-spybar-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_ep9cw4",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-01-23",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "THE RESISTANCE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 27.76,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/xe3gne-the-resistance-rise-of-the-shadowcell-tour-23rd-jan-chop-shop-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebd73a3ed37e6ae15a702b3163",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
