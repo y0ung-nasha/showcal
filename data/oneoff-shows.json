@@ -1,368 +1,5 @@
 [
   {
-    "id": "os_e8r9kh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Eric Schneider & Friends",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/12145/?date=2026-08-30",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_1ls256g",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/380203",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_otmla2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "STEFAN HILLESHEIM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/43675713/stefan-hillesheim-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_ur5xg2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Bluegrass Brunch with Chatsworth and Dupree",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/bluegrass-brunch-with-chatsworth-and-dupree-chicago-illinois-08-30-2026/event/04006502EA6E47B2",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_5c3pof",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Sunset Situation King Hippo + Tromblau",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/sunset-situation-king-hippo-tromblau/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1oy9djz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "BANG BANG BINGO!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_lw5s2n",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "17:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Malört World Record Event!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_1qzy0rl",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "11:00",
-    "slot": "afternoon",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "SCHOOL OF ROCK CHICAGO",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "ALL AGES",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_rqqcae",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "FRNDS ONLY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "REP YOUR FLAG EDITION",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "DOORS AT 4PM",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/frnds-only-rep-your-flag-edition-doors-at-4pm/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_1pa8rm5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "LYFE IS SOCIAL: VIRGO SZN DAY PARTY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/vibes-august27-bdsbx",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785944582022-5INC91J9AT4EQ98J322I/097CAAF0-775B-4391-850A-BB79F326EFAB.png",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
-    "id": "os_1g4tjlm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Baby J & Golden Street Reggae Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-august30",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785944359417-D9WPIL5DGKEBR2HVUVQ5/BABY+J+SUNDAY+OFFICIAL+edited.jpg",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
     "id": "os_1i84b7l",
     "source": "venue-site",
     "sourceList": [
@@ -526,38 +163,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1krq0cm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-01",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Tuesday Trivia Night",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -945,7 +550,7 @@
     }
   },
   {
-    "id": "os_gdy3v1",
+    "id": "os_16pomxw",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -958,7 +563,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "KENT BURNSIDE",
         "genre": "music",
         "role": "headliner"
       }
@@ -967,7 +572,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/71881022/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/71881022/kent-burnside-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -1000,6 +605,38 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.ticketmaster.com/little-stranger-chicago-illinois-09-03-2026/event/0400651AE0013A2A",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_3k78h7",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-03",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Joe Marcinek Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/joe-marcinek-band-chicago-illinois-09-03-2026/event/0400650B993C786E",
     "poster": null,
     "venueInfo": {
       "name": "Garcia's",
@@ -1332,38 +969,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_148rv2u",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Birthday Bash",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -3067,7 +2672,7 @@
     }
   },
   {
-    "id": "os_h0jhv1",
+    "id": "os_1cqgsf1",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -3080,7 +2685,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "IVAN SINGH",
         "genre": "music",
         "role": "headliner"
       }
@@ -3089,7 +2694,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/70802438/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/70802438/ivan-singh-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -4061,7 +3666,7 @@
     }
   },
   {
-    "id": "os_h42l6a",
+    "id": "os_16xf9xo",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -4074,7 +3679,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "WINN NOLL",
         "genre": "music",
         "role": "headliner"
       }
@@ -4083,7 +3688,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/56132814/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/56132814/winn-noll-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -5571,7 +5176,7 @@
     }
   },
   {
-    "id": "os_hp951s",
+    "id": "os_1krzf2d",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5584,7 +5189,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "SEAN MCKEE",
         "genre": "music",
         "role": "headliner"
       }
@@ -5593,7 +5198,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/48710635/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/48710635/sean-mckee-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -6100,7 +5705,7 @@
     }
   },
   {
-    "id": "os_hqnz6a",
+    "id": "os_1cj07uy",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6113,7 +5718,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "CHICAGO BLUES ALLSTARS",
         "genre": "music",
         "role": "headliner"
       }
@@ -6122,7 +5727,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/95974669/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/95974669/chicago-blues-allstars-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -6394,7 +5999,7 @@
     }
   },
   {
-    "id": "os_hrde8j",
+    "id": "os_1oj21q9",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6407,7 +6012,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "NICHOLAS ALEXANDER",
         "genre": "music",
         "role": "headliner"
       }
@@ -6416,7 +6021,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/52598991/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/52598991/nicholas-alexander-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -7116,6 +6721,38 @@
     }
   },
   {
+    "id": "os_iqoi0b",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-01",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "SONIC SOUL",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/98175218/sonic-soul-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_shrpxr",
     "source": "venue-site",
     "sourceList": [
@@ -7247,6 +6884,38 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_xx6zo7",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-02",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "LIL ED",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/35071753/lil-ed-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -7439,6 +7108,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1vd1vib",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-03",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "CURTIS SALGADO",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/61146845/curtis-salgado-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -7663,6 +7364,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1dqi4nv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-04",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "DAVE WELD",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/60957268/dave-weld-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -8088,6 +7821,38 @@
     }
   },
   {
+    "id": "os_1jxrh8h",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-07",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "BROTHER JOHN – Host The Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/57483882/brother-john-host-the-jam-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1dirds8",
     "source": "venue-site",
     "sourceList": [
@@ -8228,6 +7993,38 @@
     }
   },
   {
+    "id": "os_n1bh4f",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-08",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "J.W. JONES",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/67618800/jwjones-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1kr7mj7",
     "source": "venue-site",
     "sourceList": [
@@ -8289,6 +8086,38 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_1xq6ltq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "WILL TILLON",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/71230066/will-tillon-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -8481,6 +8310,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1txz6mq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-10",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "DEMETRIA TAYLOR",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/84506689/demetria-taylor-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -8687,6 +8548,38 @@
     }
   },
   {
+    "id": "os_1t3lqks",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-11",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "LUKE PYTEL",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/69431750/luke-pytel-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1cpk56e",
     "source": "venue-site",
     "sourceList": [
@@ -8815,6 +8708,38 @@
     }
   },
   {
+    "id": "os_1hbq3t6",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-14",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "JIMMY BURNS – Host The Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/57044481/jimmy-burns-host-the-jam-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_gbldr0",
     "source": "venue-site",
     "sourceList": [
@@ -8920,6 +8845,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_wvm0t1",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-15",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "ROCK ATLAS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/51234414/rock-atlas-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -9051,6 +9008,38 @@
     }
   },
   {
+    "id": "os_11yqu83",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-16",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "MAHINDRA BLUES FEST – JENI GROUWS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/54005901/mahindra-blues-fest-jeni-grouws-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1w2ykls",
     "source": "venue-site",
     "sourceList": [
@@ -9179,6 +9168,38 @@
     }
   },
   {
+    "id": "os_av3rma",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-17",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "MAHINDRA BLUES FEST – NEW ORLEANS BEAU",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/93802915/mahindra-blues-fest-new-orleans-beau-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_n6ku44",
     "source": "venue-site",
     "sourceList": [
@@ -9304,6 +9325,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_rq2bm3",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-18",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "TBA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/57474738/tba-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -9537,6 +9590,38 @@
     }
   },
   {
+    "id": "os_1wuobp9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "BROTHER JOHN – Host The Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/98464193/brother-john-host-the-jam-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_rrce05",
     "source": "venue-site",
     "sourceList": [
@@ -9613,6 +9698,38 @@
     }
   },
   {
+    "id": "os_s94mau",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-22",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "TBA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/90958842/tba-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1x73l1m",
     "source": "venue-site",
     "sourceList": [
@@ -9674,6 +9791,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_1gy2gti",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-23",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "RAY FULLER",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/48887228/ray-fuller-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -9869,6 +10018,38 @@
     }
   },
   {
+    "id": "os_1a1jzqp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-24",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "COREY DENNISON",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/70419946/corey-dennison-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1quxdi3",
     "source": "venue-site",
     "sourceList": [
@@ -9994,6 +10175,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_sb8vhl",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-25",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "TBA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/41229697/tba-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -10157,6 +10370,70 @@
     }
   },
   {
+    "id": "os_18ljmj3",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "JIMMY BURNS – Host The Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/90525590/jimmy-burns-host-the-jam-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
+    "id": "os_1objz5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-29",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "NIGEL MACK",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/81155500/nigel-mack-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
+    }
+  },
+  {
     "id": "os_1f065w5",
     "source": "venue-site",
     "sourceList": [
@@ -10218,6 +10495,38 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_fqwy0e",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-30",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "BLUES PEOPLE",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/30336062/blues-people-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
