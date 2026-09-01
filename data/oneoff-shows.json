@@ -1,69 +1,5 @@
 [
   {
-    "id": "os_1i84b7l",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-31",
-    "time": "17:30",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Chicago Jazz Orchestra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/7020/?date=2026-08-31",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_11dt09",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-31",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/380197",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
     "id": "os_1nvq0t2",
     "source": "venue-site",
     "sourceList": [
@@ -163,6 +99,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_1krq0cm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-01",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Tuesday Trivia Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
     }
   },
   {
@@ -422,6 +390,38 @@
     }
   },
   {
+    "id": "os_ne79z3",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-02",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Noche De Kumbia with Eva Maria",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/noche-de-kumbia-with-eva-maria-1",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205350548-U4D40I6IUHEK1FANV49T/9226_NOCHEDEKUMBIA.jpg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
+    }
+  },
+  {
     "id": "os_ty5gvp",
     "source": "venue-site",
     "sourceList": [
@@ -614,38 +614,6 @@
     }
   },
   {
-    "id": "os_3k78h7",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Joe Marcinek Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/joe-marcinek-band-chicago-illinois-09-03-2026/event/0400650B993C786E",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
     "id": "os_13r0ur3",
     "source": "venue-site",
     "sourceList": [
@@ -745,6 +713,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_marymv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-03",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Mike Slugs with DJ Trilogy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/l4871eh1fc1h6obdipl1m6qb1gc6nw",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205589365-8MZAIOMNWK5KA5D5R7WX/Lovebug+and+Mike+Slugs+Evergreen.png",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -972,6 +972,70 @@
     }
   },
   {
+    "id": "os_148rv2u",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-04",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Birthday Bash",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
+    "id": "os_117hvcf",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-04",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Groove Aces",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_w1n0hu",
     "source": "venue-site",
     "sourceList": [
@@ -1039,6 +1103,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_1fdsq36",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-04",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Eccentric Disco",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/n8tr4ecmdke95ly6ycd7jb84am4spe",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205521302-6S4JHVEI02EBTGW1O8XK/Eccentric+Disco+Recurring+Flyer+%282%29.jpeg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -1266,6 +1362,70 @@
     }
   },
   {
+    "id": "os_1arfx3h",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-05",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "The Bucktown Stompers",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
+    "id": "os_16qvv02",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-05",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "Decoy Prayer Meeting",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
+    }
+  },
+  {
     "id": "os_19ej6wz",
     "source": "venue-site",
     "sourceList": [
@@ -1365,6 +1525,38 @@
       "address": "7401 S South Chicago Ave",
       "city": "Chicago",
       "url": "https://www.leesunleadedblues.com"
+    }
+  },
+  {
+    "id": "os_17551k5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-05",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Basement Boogie with Jerry Reyes",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/dn6r59t4ygywsjme4f7xnkm9wm442z",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205679457-63WTBPLZDYDVOULNJHDO/Jerry+Reyes+1.jpg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -2023,6 +2215,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_n4c0e2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-09",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Frank Leone",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/frank-leone",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205787283-LKRP0K3EQA386B33UJHE/9926_frankleon.jpg",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -2915,6 +3139,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_idw1de",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-12",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Punch House",
+    "rawVenue": "Punch House",
+    "hood": "Pilsen",
+    "headliners": [
+      {
+        "name": "Jigsaw Singles Trivia Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.punchhousechicago.com/happenings/jigsaw-singles-trivia-night",
+    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205983023-I4E7MIHZ9O3G7JZ1XZHZ/PH-07252026-Events_Singles-Trivia-Night_a01-01.png",
+    "venueInfo": {
+      "name": "Punch House",
+      "address": "18 S Allport",
+      "city": "Chicago",
+      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -3954,6 +4210,38 @@
     }
   },
   {
+    "id": "os_19bpiay",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-18",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Sam Greenfield",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/sam-greenfield-chicago-illinois-09-18-2026/event/040062FCBBB71F52",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
     "id": "os_ckb65k",
     "source": "venue-site",
     "sourceList": [
@@ -4367,6 +4655,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_1v7kbkx",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-19",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": "Greater Grand Crossing",
+    "headliners": [
+      {
+        "name": "LIVE BLUES - TAZZ THE MUSICIAN & THE UNLEADED KINGS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-09-19-20-00",
+    "poster": "https://static.wixstatic.com/media/17e034_59242dcda75c45b298d3b26366db7a4e~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.leesunleadedblues.com"
     }
   },
   {
@@ -6753,38 +7073,6 @@
     }
   },
   {
-    "id": "os_shrpxr",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-01",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Illville Vanguard",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/ilville-vanguard/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
     "id": "os_1pde4jp",
     "source": "venue-site",
     "sourceList": [
@@ -6808,6 +7096,38 @@
     "price": 10,
     "age": null,
     "ticketUrl": "https://throughtherecordshop.com/events/the-big-kid-show/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_shrpxr",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-01",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Illville Vanguard",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/ilville-vanguard/",
     "poster": null,
     "venueInfo": {
       "name": "Dorian's",
@@ -7431,6 +7751,38 @@
     }
   },
   {
+    "id": "os_7zymzy",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-04",
+    "time": null,
+    "slot": null,
+    "venue": "Dorian's",
+    "rawVenue": "Dorian's",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Hot Potato Hearts Speed Dating",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://throughtherecordshop.com/events/hot-potato-hearts-speed-dating/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Dorian's",
+      "address": "1939 W North Ave.",
+      "city": "Chicago",
+      "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
     "id": "os_iececb",
     "source": "venue-site",
     "sourceList": [
@@ -7460,38 +7812,6 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://throughtherecordshop.com/events/sound-obsession-w-dj-zipgun-boogie-4/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_7zymzy",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-04",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Hot Potato Hearts Speed Dating",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/hot-potato-hearts-speed-dating/",
     "poster": null,
     "venueInfo": {
       "name": "Dorian's",
@@ -7917,82 +8237,6 @@
     }
   },
   {
-    "id": "os_88gwq1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-08",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Thursday Night Live Blues: Feat. Lil’ Ed Williams",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Sumito Ariyoshi",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385465",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_88gwq1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-08",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Thursday Night Live Blues: Feat. Lil’ Ed Williams",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Sumito Ariyoshi",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385466",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
     "id": "os_n1bh4f",
     "source": "venue-site",
     "sourceList": [
@@ -8086,6 +8330,70 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_1mr028i",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Mike Wheeler Band –Thats What Love Will Make You Do",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386097",
+    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/39676/full/data?1646159004",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1mr028i",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": "23:00",
+    "slot": "late",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Mike Wheeler Band –Thats What Love Will Make You Do",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386098",
+    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/39676/full/data?1646159004",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
     }
   },
   {
@@ -9590,6 +9898,70 @@
     }
   },
   {
+    "id": "os_vsnwj2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Rosa's Blues Jam hosted by David Levit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386101",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/62425/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_vsnwj2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": "23:00",
+    "slot": "late",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Rosa's Blues Jam hosted by David Levit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386102",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/62425/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
     "id": "os_1wuobp9",
     "source": "venue-site",
     "sourceList": [
@@ -10370,6 +10742,70 @@
     }
   },
   {
+    "id": "os_1bvcscp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Nate Manos Band – Pro-Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386103",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/51043/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1bvcscp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": "23:00",
+    "slot": "late",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Nate Manos Band – Pro-Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386104",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/51043/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
     "id": "os_18ljmj3",
     "source": "venue-site",
     "sourceList": [
@@ -10399,6 +10835,82 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    }
+  },
+  {
+    "id": "os_1e5v0do",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-29",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Thursday Night Live Blues: Feat. Lil’ Ed Williams",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Sumito Ariyoshi",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386099",
+    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1e5v0do",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-29",
+    "time": "23:00",
+    "slot": "late",
+    "venue": "Rosa's Lounge",
+    "rawVenue": "Rosa's Lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Thursday Night Live Blues: Feat. Lil’ Ed Williams",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Sumito Ariyoshi",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/386100",
+    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
     }
   },
   {
