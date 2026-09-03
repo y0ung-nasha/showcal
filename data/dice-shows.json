@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_rav2gk",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-03",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bassment",
-    "rawVenue": "Bassment",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Robbie Doherty",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/yod32v-the-prelude-w-robbie-doherty-3rd-sep-bassment-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bassment",
-      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1gm95kt",
     "source": "dice",
     "sourceList": [
@@ -59,6 +27,38 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_rav2gk",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-03",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Bassment",
+    "rawVenue": "Bassment",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Robbie Doherty",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/yod32v-the-prelude-w-robbie-doherty-3rd-sep-bassment-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Bassment",
+      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
       "city": "Chicago",
       "url": null
     }
@@ -96,6 +96,44 @@
     }
   },
   {
+    "id": "dc_ji8d4u",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-03",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "The Burlington",
+    "rawVenue": "The Burlington",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DJ Philly Peroxide",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Fantasma Negra",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 13.6,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6doyr7-goths-for-gaza-the-childrens-crusade-faithless-devotion-fantasma-negra-dj-philly-peroxide-sihaya-scarlet-saja-bilasan-3rd-sep-the-burlington-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "The Burlington",
+      "address": "3425 West Fullerton Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1u66ckp",
     "source": "dice",
     "sourceList": [
@@ -123,6 +161,76 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_inrez3",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-03",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Tres Mortimer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Valeria Fride",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 26.27,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/9233on-arc-after-dark-kevsquared-trs-mortimer-b2b-allnightkev-3rd-sep-smoke-mirrors-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2022-05-02/6b5bc6e0-215f-40e3-9397-baf759aa40f3.jpg?rect=0%2C0%2C640%2C640",
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_4vm4vf",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-03",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Luke Dean",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 77.06,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/mxndgr-arc-after-dark-luke-dean-3rd-sep-spybar-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2025-07-05/c184465d-e8ae-4725-878d-c6bc716566ab.jpg?rect=0%2C625%2C2500%2C2500",
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -161,38 +269,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1puveun",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-04",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Chicago Garage Authority Vol. 3 ft Neumonic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20.24,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/l8723x-chicago-garage-authority-vol-3-ft-neumonic-4th-sep-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
       "city": "Chicago",
       "url": null
     }
@@ -246,6 +322,38 @@
     "venueInfo": {
       "name": "The Salt Shed",
       "address": "1357 North Elston Avenue, Chicago, Illinois 60642, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1dncmis",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-05",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Redline Festival Afters: Cathedral",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 24.72,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/ryoxww-redline-festival-afters-cathedral-5th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -374,6 +482,38 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_vu4fub",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-11",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "ARC Decompression Weekend: Casa de Babylon",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/bbg66g-arc-decompression-weekend-casa-de-babylon-11th-sep-spybar-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -539,70 +679,6 @@
     }
   },
   {
-    "id": "dc_omqx0r",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-23",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "A.Chal",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 32.77,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/q2qyp9-achal-chologante-23rd-sep-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1gsff7a",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-25",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Tetto Rooftop",
-    "rawVenue": "Tetto Rooftop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Double Touch",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/q2q38p--double-touch-at-tetto-rooftop-25th-sep-tetto-rooftop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2023-10-02/e05b3bec-3118-4274-9745-ab53d170875e.jpg?rect=0%2C53%2C535%2C535",
-    "venueInfo": {
-      "name": "Tetto Rooftop",
-      "address": "406 North Sangamon Street, Chicago, Illinois 60642, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1727ykc",
     "source": "dice",
     "sourceList": [
@@ -673,52 +749,20 @@
     }
   },
   {
-    "id": "dc_zn0vx0",
+    "id": "dc_1gsff7a",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-27",
-    "time": "21:00",
+    "date": "2026-09-25",
+    "time": "18:00",
     "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
+    "venue": "Tetto Rooftop",
+    "rawVenue": "Tetto Rooftop",
     "hood": null,
     "headliners": [
       {
-        "name": "Deceits w/ Computer Kill, Fantasma Negra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 24.72,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/mxnd3k-deceits-w-computer-kill-fantasma-negra-27th-sep-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_88gnny",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-27",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "J Parker Rooftop",
-    "rawVenue": "J Parker Rooftop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dennis Quin",
+        "name": "Double Touch",
         "genre": "music",
         "role": "headliner"
       }
@@ -727,11 +771,11 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/8e99yr-hello-sundays-w-dennis-quin-27th-sep-j-parker-rooftop-chicago-tickets",
-    "poster": null,
+    "ticketUrl": "https://dice.fm/event/q2q38p--double-touch-at-tetto-rooftop-25th-sep-tetto-rooftop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2023-10-02/e05b3bec-3118-4274-9745-ab53d170875e.jpg?rect=0%2C53%2C535%2C535",
     "venueInfo": {
-      "name": "J Parker Rooftop",
-      "address": "1816 North Clark Street, Chicago, Illinois 60614, United States",
+      "name": "Tetto Rooftop",
+      "address": "406 North Sangamon Street, Chicago, Illinois 60642, United States",
       "city": "Chicago",
       "url": null
     }
@@ -924,38 +968,6 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_14veqix",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Rockefeller Memorial Chapel",
-    "rawVenue": "Rockefeller Memorial Chapel",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Reflections: William Basinski + Purelink",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 49.93,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/92323o-reflections-william-basinski-purelink-14th-nov-rockefeller-memorial-chapel-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Rockefeller Memorial Chapel",
-      "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
       "city": "Chicago",
       "url": null
     }

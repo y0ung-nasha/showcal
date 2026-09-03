@@ -1,261 +1,5 @@
 [
   {
-    "id": "os_1b0m23z",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Kevin King Quartet feat. Bobby Broom",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6701/?date=2026-09-02",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_ocs0mh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Stefan Hillesheim: New CD is out – Live at the Chicago Blues Festival",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383647",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/89160/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_ocs0mh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Stefan Hillesheim: New CD is out – Live at the Chicago Blues Festival",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383648",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/89160/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1di3azz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "JIMMY BURNS – Host The Jam",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/39387024/jimmy-burns-host-the-jam-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1dit7ap",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Kabir Dalawari",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/kabir-dalawari-2/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1id0kt9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "The Atlantic",
-    "rawVenue": "The Atlantic",
-    "hood": "Lincoln Square",
-    "headliners": [
-      {
-        "name": "Blue Grass Jam",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The Atlantic",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://theatlanticbarandgrill.com"
-    }
-  },
-  {
-    "id": "os_1vwrpkw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Sexpectations Sex Ed Trivia",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/sexpectations-sex-ed-trivia",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1787174832290-MZ2M95CWFR3BMMIOU1VK/PH-09022026-Events_Sexpectations-Trivia_a01-01.png",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
-    "id": "os_ne79z3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Noche De Kumbia with Eva Maria",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/noche-de-kumbia-with-eva-maria-1",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205350548-U4D40I6IUHEK1FANV49T/9226_NOCHEDEKUMBIA.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_ty5gvp",
     "source": "venue-site",
     "sourceList": [
@@ -1522,7 +1266,7 @@
     }
   },
   {
-    "id": "os_gg2d1s",
+    "id": "os_lhel6w",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -1535,7 +1279,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "CARLOS SHOWERS",
         "genre": "music",
         "role": "headliner"
       }
@@ -1544,7 +1288,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/52242486/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/52242486/carlos-showers-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -1589,6 +1333,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_euaefz",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-06",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "Cary's Lounge",
+    "rawVenue": "Cary's Lounge",
+    "hood": "Rogers Park",
+    "headliners": [
+      {
+        "name": "DJ Auntie Party New Wave Matinee All Vinyl Set!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cary's Lounge",
+      "address": "2251 W Devon Ave",
+      "city": "Chicago",
+      "url": "https://caryslounge.com"
     }
   },
   {
@@ -3762,7 +3538,7 @@
     }
   },
   {
-    "id": "os_16xf9xo",
+    "id": "os_seomou",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -3775,7 +3551,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "WINN NOLL",
+        "name": "WIN NOLL",
         "genre": "music",
         "role": "headliner"
       }
@@ -3784,7 +3560,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/56132814/winn-noll-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/56132814/win-noll-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -6229,7 +6005,7 @@
       "venue-site"
     ],
     "date": "2026-09-27",
-    "time": "19:30",
+    "time": "19:00",
     "slot": "evening",
     "venue": "Reggies Rock Club",
     "rawVenue": "Reggies Rock Club",
@@ -8077,6 +7853,38 @@
     }
   },
   {
+    "id": "os_15go4pm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-07",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "The Atlantic",
+    "rawVenue": "The Atlantic",
+    "hood": "Lincoln Square",
+    "headliners": [
+      {
+        "name": "Blue Grass Jam",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "The Atlantic",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://theatlanticbarandgrill.com"
+    }
+  },
+  {
     "id": "os_1g7begm",
     "source": "venue-site",
     "sourceList": [
@@ -8153,7 +7961,7 @@
     }
   },
   {
-    "id": "os_n1bh4f",
+    "id": "os_9zfgqb",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -8166,7 +7974,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "J.W. JONES",
+        "name": "JW JONES",
         "genre": "music",
         "role": "headliner"
       }
@@ -8175,7 +7983,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/67618800/jwjones-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/67618800/jw-jones-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -8214,6 +8022,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_14u6erc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-08",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "SCALP",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/scalp-snuffed-bifid-corpse-ampolla-reggies-rock-club-tickets/14296274",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
     }
   },
   {
@@ -9552,7 +9392,7 @@
     }
   },
   {
-    "id": "os_rq2bm3",
+    "id": "os_1ewxdpz",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -9565,7 +9405,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "TBA",
+        "name": "ELEVATION BAND – LITTLE WALTER FOUNDATION",
         "genre": "music",
         "role": "headliner"
       }
@@ -9574,7 +9414,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/57474738/tba-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/57474738/elevation-band-little-walter-foundation-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",

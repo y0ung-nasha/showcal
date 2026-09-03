@@ -1108,7 +1108,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 20,
+    "price": 10,
     "age": null,
     "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-kevin-nabors-jr/",
     "poster": "https://andysjazzclub.com/wp-content/uploads/2026/08/Kevin-Nabors-Jr.jpg",
@@ -1117,38 +1117,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_2n0y26",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Carmen Stokes Quartet - Under the Influence:  Exploring the Musical Influences of Ray Charles",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-ray-charles",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg/v1/fill/w_1440,h_962,al_c,q_85/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-ray-charles"
     }
   },
   {
@@ -1309,38 +1277,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1w3qpl7",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Comedy Open Mic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-september-02-2026-717977",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/977/compressed/IMG_9453_2.jpg?1781551169",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -5929,7 +5865,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 20,
+    "price": 10,
     "age": null,
     "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-kevin-nabors-jr/",
     "poster": "https://andysjazzclub.com/wp-content/uploads/2026/08/Kevin-Nabors-Jr.jpg",
@@ -5981,6 +5917,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1qgp6f4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-30",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Patricia Barber",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/patricia-barber-37",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_d4823fc0f6ec478ea6531e7a9b064220~mv2.jpg/v1/fill/w_2878,h_1841,al_c,q_90/8ffa2d_d4823fc0f6ec478ea6531e7a9b064220~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/patricia-barber-37"
     }
   },
   {
