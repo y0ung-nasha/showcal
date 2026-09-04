@@ -1,363 +1,5 @@
 [
   {
-    "id": "os_ty5gvp",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "After Fest Jam Session hosted by Bobby Watson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6715/?date=2026-09-03",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_9zlqt8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Joey J. Saye: Traditional Blues Hour at 8:30 PM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385473",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/51593/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1be2o6t",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383639",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1be2o6t",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383640",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_16pomxw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "KENT BURNSIDE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/71881022/kent-burnside-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1ogek5e",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Little Stranger",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/little-stranger-chicago-illinois-09-03-2026/event/0400651AE0013A2A",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_13r0ur3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Big Kid Show",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/big-kid-show/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_zrqla2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "LARRY AND HIS FLASK",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/larry-and-his-flask-black-reggies-rock-club-tickets/14813173",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_bgq11q",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "MERSIV",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "NORTH COAST OFFICIAL PRE-PARTY",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/mersiv-north-coast-official-pre-party/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_marymv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Mike Slugs with DJ Trilogy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/l4871eh1fc1h6obdipl1m6qb1gc6nw",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205589365-8MZAIOMNWK5KA5D5R7WX/Lovebug+and+Mike+Slugs+Evergreen.png",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
-    "id": "os_1bo8vs5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": null,
-    "slot": null,
-    "venue": "Beauty Bar",
-    "rawVenue": "Beauty Bar",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "AUDIO SUPPORT - HOUSE & MORE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Beauty Bar",
-      "address": "1444 W Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.beautybarchicago.com"
-    }
-  },
-  {
     "id": "os_a6p3li",
     "source": "venue-site",
     "sourceList": [
@@ -681,38 +323,6 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_1fdsq36",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Eccentric Disco",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/n8tr4ecmdke95ly6ycd7jb84am4spe",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205521302-6S4JHVEI02EBTGW1O8XK/Eccentric+Disco+Recurring+Flyer+%282%29.jpeg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
     }
   },
   {
@@ -1106,38 +716,6 @@
     }
   },
   {
-    "id": "os_17551k5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Basement Boogie with Jerry Reyes",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/dn6r59t4ygywsjme4f7xnkm9wm442z",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205679457-63WTBPLZDYDVOULNJHDO/Jerry+Reyes+1.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_4rho6k",
     "source": "venue-site",
     "sourceList": [
@@ -1161,7 +739,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/pyro-september5",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1787716076787-MKEUIJ3RA781NNRT44ZX/Sep5.jpeg",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1788457179036-79M43XKGFTUPD5AUUXL7/pyro+sept+5.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -1828,38 +1406,6 @@
     }
   },
   {
-    "id": "os_n4c0e2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-09",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Frank Leone",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/frank-leone",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205787283-LKRP0K3EQA386B33UJHE/9926_frankleon.jpg",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_1luudrb",
     "source": "venue-site",
     "sourceList": [
@@ -2416,6 +1962,38 @@
     }
   },
   {
+    "id": "os_q1y7co",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "scarlet sound system",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/pyro-september11-tm8mc",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1788457311516-I2V2RVT9WOS761MKK1JX/sept+11+colours.jpg",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_um6v3d",
     "source": "venue-site",
     "sourceList": [
@@ -2758,38 +2336,6 @@
     }
   },
   {
-    "id": "os_idw1de",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-12",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Punch House",
-    "rawVenue": "Punch House",
-    "hood": "Pilsen",
-    "headliners": [
-      {
-        "name": "Jigsaw Singles Trivia Night",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.punchhousechicago.com/happenings/jigsaw-singles-trivia-night",
-    "poster": "https://images.squarespace-cdn.com/content/v1/63f55c9709669726b1501964/1788205983023-I4E7MIHZ9O3G7JZ1XZHZ/PH-07252026-Events_Singles-Trivia-Night_a01-01.png",
-    "venueInfo": {
-      "name": "Punch House",
-      "address": "18 S Allport",
-      "city": "Chicago",
-      "url": "https://www.punchhousechicago.com"
-    }
-  },
-  {
     "id": "os_1shfm8v",
     "source": "venue-site",
     "sourceList": [
@@ -2985,6 +2531,38 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
+    }
+  },
+  {
+    "id": "os_qkrngp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-13",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "bliss day party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/dayparty-september13-tm8mc-9y7kg",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1788458459000-2YXJUFS6MC7O2QE32ZC6/BLISS+Sept+13.jpg",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {
@@ -3977,7 +3555,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/midnightsociety-september18",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1787716364316-RXCUMR7LF0QH7VVCFRS5/Sep18.jpeg",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1788458613642-J7HMYL89SQSUHT8DK0R3/sept+18+midnight+society.jpg",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -4303,6 +3881,38 @@
       "address": "7401 S South Chicago Ave",
       "city": "Chicago",
       "url": "https://www.leesunleadedblues.com"
+    }
+  },
+  {
+    "id": "os_ozissb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-19",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "remedy caribbean night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/remedy-september19-tm8mc-zzjcd",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1788458774199-1H17DH0W9QI2D98VCEW1/SEPT+19+REMEDY.jpg",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {

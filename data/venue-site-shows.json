@@ -1,101 +1,5 @@
 [
   {
-    "id": "vs_ej40en",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2025-12-28",
-    "time": "19:20",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol's Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Chicago Bears @ San Francisco — Watch Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://carolspub.com/music.html",
-    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com/"
-    }
-  },
-  {
-    "id": "vs_6lj7mk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-02-05",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol’s Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Jade Eagleson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
-    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com"
-    }
-  },
-  {
-    "id": "vs_6juvvq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-04-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Carol's Pub",
-    "rawVenue": "Carol’s Pub",
-    "hood": "Uptown",
-    "headliners": [
-      {
-        "name": "Canaan Cox",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
-    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
-    "venueInfo": {
-      "name": "Carol's Pub",
-      "address": "4659 N Clark St",
-      "city": "Chicago",
-      "url": "https://carolspub.com"
-    }
-  },
-  {
     "id": "vs_jymzjx",
     "source": "venue-site",
     "sourceList": [
@@ -1152,38 +1056,6 @@
     }
   },
   {
-    "id": "vs_am51pl",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "You Set Me Up!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-17.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_1dwggnz",
     "source": "venue-site",
     "sourceList": [
@@ -1280,38 +1152,6 @@
     }
   },
   {
-    "id": "vs_1qgwf0c",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Abram Collier Quintet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/abram-collier-quintet",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_a94cc86fe25742e2a1d4ce4c4bfd7cfb~mv2.jpg/v1/fill/w_7952,h_5304,al_c,q_90/8ffa2d_a94cc86fe25742e2a1d4ce4c4bfd7cfb~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/abram-collier-quintet"
-    }
-  },
-  {
     "id": "vs_1gcy1kw",
     "source": "venue-site",
     "sourceList": [
@@ -1341,70 +1181,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_f0ij8m",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tyvon 'Tank' Rice",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/tyvon-tank-rice/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-TYVON-UNRLSD-First-Thursday.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
-    "id": "vs_12ir4mu",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Sexual Purity w/ Moon 17, X & Stacy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-11.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1504,38 +1280,6 @@
     }
   },
   {
-    "id": "vs_1ct0ytg",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Numero Group DJs",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/numero-group-djs-september-03-2026-747348",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/747/348/compressed/Cole's_Flyer_9-3-2026.jpg?1788212140",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
     "id": "vs_wic1st",
     "source": "venue-site",
     "sourceList": [
@@ -1568,20 +1312,20 @@
     }
   },
   {
-    "id": "vs_1nj39yj",
+    "id": "vs_tpc9v3",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
     ],
-    "date": "2026-09-05",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
+    "date": "2026-09-04",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
     "headliners": [
       {
-        "name": "Raging Opossum Press 2nd Anniversary Party",
+        "name": "Charles Thomas' Steps",
         "genre": "music",
         "role": "headliner"
       }
@@ -1590,45 +1334,13 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-27.jpg",
+    "ticketUrl": "https://thetonkchicago.com/artists/charles-thomas-steps/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/04-09-2026-8pm_Charles-Thomas-Steps.webp",
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
-    "id": "vs_1nwprnp",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Lover’s Lounge",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-14.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -1890,7 +1602,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://thetonkchicago.com/artists/the-lizard-kings/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/09-05-2026-8pm_PulpFictionNight_The-Lizard-Kings.webp",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/05-09-2026-8pm_Pulp-Fiction-Night_The-Lizard-Kings.webp",
     "venueInfo": {
       "name": "The Tonk",
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
@@ -2465,38 +2177,6 @@
     }
   },
   {
-    "id": "vs_1s8dt6e",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Facing w/ Laliberté, baby",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-7.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_g2hv7h",
     "source": "venue-site",
     "sourceList": [
@@ -2721,38 +2401,6 @@
     }
   },
   {
-    "id": "vs_1vn8x22",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-11",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Metro Presents… Com Truise (DJ Set) * Merrick Brown * AVA",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-5.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_1mrmfmb",
     "source": "venue-site",
     "sourceList": [
@@ -2953,6 +2601,38 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_6fnll5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chris Johnson Experience",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/chris-johnson-experience/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/11-09-2026-8pm_Chris-Johnson-Experience.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -3188,6 +2868,38 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_nmn2yv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-12",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Atomic",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/atomic/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/12-09-2026-8pm_Atomic.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -4019,6 +3731,38 @@
     }
   },
   {
+    "id": "vs_31ad5w",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-17",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Ian Valentin and Mimi Martinez",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/ian-valentin-and-mimi-martinez/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-Juan-Gabriel.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
     "id": "vs_hocawb",
     "source": "venue-site",
     "sourceList": [
@@ -4190,6 +3934,38 @@
     }
   },
   {
+    "id": "vs_1t9hsrs",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-18",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Karaoke Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/karaoke-night/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/18-09-2026-8pm_Karaoke-Night.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
     "id": "vs_ur5yks",
     "source": "venue-site",
     "sourceList": [
@@ -4358,6 +4134,38 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/the-john-dokes-big-band-2"
+    }
+  },
+  {
+    "id": "vs_rp96ym",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-19",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "My Biggest Thrills",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/my-biggest-thrills/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/19-09-2026-8pm_My-Biggest-Thrills.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -4561,6 +4369,38 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_xu22x",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-20",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chicago Cellar Boys",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/chicago-cellar-boys/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2025-november/chicago-cellar-boys-updated-11-2025.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -5087,6 +4927,38 @@
     }
   },
   {
+    "id": "vs_ufbrox",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-24",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Joshua Robertson and The Saints",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/joshua-robertson-and-the-saints/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-Joshua-Robertson-and-the-Saints-Fourth-Thursday.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
     "id": "vs_qnrb24",
     "source": "venue-site",
     "sourceList": [
@@ -5244,6 +5116,38 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-42"
+    }
+  },
+  {
+    "id": "vs_1gl2qzl",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Prizmatic",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/prizmatic/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/25-09-2026-8pm_Prizmatic.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -5450,6 +5354,38 @@
     }
   },
   {
+    "id": "vs_8ngw2t",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-26",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Superfly Redneck",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/superfly-redneck/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/26-09-2026-8pm_Superfly-Redneck.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
     "id": "vs_q3aqd4",
     "source": "venue-site",
     "sourceList": [
@@ -5618,6 +5554,38 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/spider-saloff-quintet-chet-baker-the-cool-jazz-of-the-50s"
+    }
+  },
+  {
+    "id": "vs_1ur4ils",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-27",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "The Tonk",
+    "rawVenue": "The Tonk Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chicago Cellar Boys",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/chicago-cellar-boys/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2025-november/chicago-cellar-boys-updated-11-2025.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -6077,6 +6045,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_3dzhp1",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-01",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Spotlight On:  Alfonso Ponticelli",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/spotlight-on-alfonso-ponticelli",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_e449d8f81f88416688636b789eb0d582~mv2.jpg/v1/fill/w_2560,h_1707,al_c,q_90/8ffa2d_e449d8f81f88416688636b789eb0d582~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/spotlight-on-alfonso-ponticelli"
     }
   },
   {
