@@ -1,5 +1,101 @@
 [
   {
+    "id": "vs_ej40en",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2025-12-28",
+    "time": "19:20",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol's Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears @ San Francisco — Watch Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html",
+    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com/"
+    }
+  },
+  {
+    "id": "vs_6lj7mk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-02-05",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Jade Eagleson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
+    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
+    "id": "vs_6juvvq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-04-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Canaan Cox",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
+    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
     "id": "vs_jymzjx",
     "source": "venue-site",
     "sourceList": [
@@ -1280,38 +1376,6 @@
     }
   },
   {
-    "id": "vs_wic1st",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Abigail Riccards Organ Quartet - Motown Gems: The Music of Stevie Wonder, Smokey Robinson, and Aretha Franklin (1)",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/abigail-riccards-organ-quartet-motown-gems-the-music-of-stevie-wonder-smokey-robinson-and-aretha-franklin-1",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_73f1d8578f724e0b91d9219e31eeeb1e~mv2.jpg/v1/fill/w_2125,h_1983,al_c,q_90/8ffa2d_73f1d8578f724e0b91d9219e31eeeb1e~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/abigail-riccards-organ-quartet-motown-gems-the-music-of-stevie-wonder-smokey-robinson-and-aretha-franklin-1"
-    }
-  },
-  {
     "id": "vs_tpc9v3",
     "source": "venue-site",
     "sourceList": [
@@ -1341,6 +1405,70 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1nj39yj",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-05",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Raging Opossum Press 2nd Anniversary Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-27.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_1nwprnp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-05",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Lover’s Lounge",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-14.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1437,49 +1565,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1fn9fp5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Big Chemical",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Growing Boys",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Peter Hunt And The Great Outdoors",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/big-chemical-growing-boys-peter-hunt-the-great-outdoors-september-04-2026-736748",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/748/compressed/open-uri20260827-893-nw6491.jpg?1787799656",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -2177,6 +2262,38 @@
     }
   },
   {
+    "id": "vs_1s8dt6e",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-10",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Facing w/ Laliberté, baby",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-7.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_g2hv7h",
     "source": "venue-site",
     "sourceList": [
@@ -2398,6 +2515,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1vn8x22",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-11",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Metro Presents… Com Truise (DJ Set) * Merrick Brown * AVA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-5.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -2633,6 +2782,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1pzz9e2",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-12",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "JEMBAA GROOVE w/ Dark Canyon",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-17.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3156,6 +3337,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1w2skcq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-14",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night Market",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/09/imagsdfe-13.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -5354,39 +5567,7 @@
     }
   },
   {
-    "id": "vs_8ngw2t",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-26",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Superfly Redneck",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/superfly-redneck/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-september/26-09-2026-8pm_Superfly-Redneck.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
-    "id": "vs_q3aqd4",
+    "id": "vs_f7ntbq",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5399,7 +5580,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "1st Set With Andy Brown Quartet",
+        "name": "1st Set With Russ Phillips Quartet",
         "genre": "music",
         "role": "headliner"
       }
@@ -5408,8 +5589,8 @@
     "genres": [],
     "price": 20,
     "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-russ-phillips-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/03/Russ-Phillips-Trombone.jpg",
     "venueInfo": {
       "name": "Andy's Jazz Club",
       "address": null,
@@ -5418,7 +5599,7 @@
     }
   },
   {
-    "id": "vs_1jsdjlw",
+    "id": "vs_1i3u3pe",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5431,7 +5612,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "2nd Set With Andy Brown Quartet",
+        "name": "2nd Set With Russ Phillips Quartet",
         "genre": "music",
         "role": "headliner"
       }
@@ -5440,8 +5621,8 @@
     "genres": [],
     "price": 20,
     "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-russ-phillips-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/03/Russ-Phillips-Trombone.jpg",
     "venueInfo": {
       "name": "Andy's Jazz Club",
       "address": null,
@@ -6205,6 +6386,38 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1dfaa2n",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-02",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Better Together - Music to Move Your Soul!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/better-together-music-to-move-your-soul-22",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_ec218348b34f421e80fe5ba31e934209~mv2.jpg/v1/fill/w_7313,h_4876,al_c,q_90/8ffa2d_ec218348b34f421e80fe5ba31e934209~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/better-together-music-to-move-your-soul-22"
     }
   },
   {

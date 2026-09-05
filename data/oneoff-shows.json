@@ -1,363 +1,5 @@
 [
   {
-    "id": "os_a6p3li",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "After Fest Jam Session hosted by Bobby Watson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6715/?date=2026-09-04",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_ufjpi8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Omar Coleman Westside Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383625",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/67452/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_ufjpi8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Omar Coleman Westside Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383626",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/67452/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_yue31t",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "BRANDON SANTINI",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/69800273/brandon-santini-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_6ltwcf",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "JoJo Hermann Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/jojo-hermann-chicago-illinois-09-04-2026/event/040064BA181F1B9A",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_1fcwsl6",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Illville Vanguard",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/illville-vanguard/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_148rv2u",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Birthday Bash",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_117hvcf",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Groove Aces",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_w1n0hu",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "DOGS WITH HATS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "18+",
-    "ticketUrl": "https://www.ticketweb.com/event/chicago-indie-night-ft-dogs-reggies-rock-club-tickets/14989243",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_1rdl7ee",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "LEVEL UP",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "NORTH COAST OFFICIAL AFTER SHOW",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/level-up-north-coast-official-after-show/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_1geya1l",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Green Light Fridays",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/greenlight-september4",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1787715823331-7U6K2Q2P3P97RP4W4JN7/Sep4.png",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
     "id": "os_1pgcsaf",
     "source": "venue-site",
     "sourceList": [
@@ -547,70 +189,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1arfx3h",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "The Bucktown Stompers",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_16qvv02",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Decoy Prayer Meeting",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -911,38 +489,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_euaefz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-06",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "DJ Auntie Party New Wave Matinee All Vinyl Set!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -3372,38 +2918,6 @@
     }
   },
   {
-    "id": "os_1ynkgah",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-18",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Rock & Rye",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/rock-rye-chicago-illinois-09-18-2026/event/04006511D596D7CC",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
     "id": "os_19bpiay",
     "source": "venue-site",
     "sourceList": [
@@ -3427,6 +2941,38 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.ticketmaster.com/sam-greenfield-chicago-illinois-09-18-2026/event/040062FCBBB71F52",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1ynkgah",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-18",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Rock & Rye",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/rock-rye-chicago-illinois-09-18-2026/event/04006511D596D7CC",
     "poster": null,
     "venueInfo": {
       "name": "Garcia's",
@@ -7667,6 +7213,38 @@
     }
   },
   {
+    "id": "os_f10bhk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-08",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "Comedian At Law Featuring Eli Castro",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": "https://www.joesbar.com/livemusic-events/knights-comedianatlaw",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1788565420772-L3ITVFKTSRTME1OAXOGF/2026.10.08_MO_EliCastro_16-9.png",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
+    }
+  },
+  {
     "id": "os_165rcv8",
     "source": "venue-site",
     "sourceList": [
@@ -8251,6 +7829,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    }
+  },
+  {
+    "id": "os_c6ma33",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-11",
+    "time": "17:00",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "3rd Annual Autism Unplugged: Stories from The Spectrum",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 50,
+    "age": null,
+    "ticketUrl": "https://www.joesbar.com/livemusic-events/uniquesweets-autismunplugged",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1788566045136-MZ9TYAB3HDMCATI5V14Z/2026.10.11_MO_Autism_16-9.png",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
     }
   },
   {
@@ -11238,6 +10848,38 @@
     }
   },
   {
+    "id": "os_nqw548",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-13",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "TOM KENNY & THE HI-SEAS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/tom-kenny-the-hi-reggies-rock-club-tickets/14304774",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
     "id": "os_1kj725a",
     "source": "venue-site",
     "sourceList": [
@@ -11633,6 +11275,38 @@
     }
   },
   {
+    "id": "os_1s4w96u",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-20",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "WOOKIEFOOT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/wookiefoot-special-guests-tba-reggies-rock-club-tickets/14299554",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
     "id": "os_1a9m4j6",
     "source": "venue-site",
     "sourceList": [
@@ -11662,6 +11336,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_6oqk13",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-21",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "WOOKIEFOOT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/wookiefoot-special-guests-tba-reggies-rock-club-tickets/14299574",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
     }
   },
   {

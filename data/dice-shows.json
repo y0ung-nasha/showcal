@@ -1,75 +1,5 @@
 [
   {
-    "id": "dc_7w81y5",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-04",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Moon 17",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "X & Stacy",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 24.72,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e593w-sexual-purity-w-moon-17-x-stacy-4th-sep-sleeping-village-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-10-11/8fa17155-c61c-47b9-a594-b80f4eca2943.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1puveun",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-04",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bourbon on Division",
-    "rawVenue": "Bourbon on Division",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Chicago Garage Authority Vol. 3 ft Neumonic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26.99,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/l8723x-chicago-garage-authority-vol-3-ft-neumonic-4th-sep-bourbon-on-division-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bourbon on Division",
-      "address": "2050 West Division Street, Chicago, Illinois 60622, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1bix6ro",
     "source": "dice",
     "sourceList": [
@@ -143,7 +73,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30.13,
+    "price": 36.57,
     "age": null,
     "ticketUrl": "https://dice.fm/event/ryoxww-redline-festival-afters-cathedral-5th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
     "poster": null,
@@ -175,7 +105,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 18.18,
+    "price": 21.05,
     "age": null,
     "ticketUrl": "https://dice.fm/event/yodnv2-ground-zer-arc-after-party-5th-sep-bourbon-on-division-chicago-tickets",
     "poster": null,
@@ -246,6 +176,134 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_8uge07",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-05",
+    "time": "22:30",
+    "slot": "late",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Hakim Dough",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/mxyknw-everyday-people-after-party-w-hakim-dough-dj-moma-everywhere-between-dj-set-5th-sep-chop-shop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_ygc0jr",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-05",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "East Moon",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Lollygagger",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Destiny Bond",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Death Lens",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 33,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/927pn7-death-lens-destiny-bond-lollygagger-east-moon-5th-sep-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb9123f67f2055f6ee24b06fb6",
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_16u8mbq",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-05",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Strangersfilth",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Atheena",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Demo Division",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "NVRMORE",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 17,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/ryrwgr-nvrmore-demo-division-atheena-strangersfilth-5th-sep-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb53bfb679a239bc73dc6a2626",
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -406,6 +464,38 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_131946j",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - The Sanctuary",
+    "rawVenue": "Epiphany Center for the Arts - The Sanctuary ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Free Blues Friday Featuring Brother Jacob",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/92nbvo-free-blues-friday-featuring-brother-jacob-11th-sep-epiphany-center-for-the-arts-the-sanctuary-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - The Sanctuary",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -603,38 +693,6 @@
     }
   },
   {
-    "id": "dc_omqx0r",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-23",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "A.Chal",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 32.77,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/q2qyp9-achal-chologante-23rd-sep-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1d4or89",
     "source": "dice",
     "sourceList": [
@@ -667,65 +725,33 @@
     }
   },
   {
-    "id": "dc_1gsff7a",
+    "id": "dc_1orni11",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-25",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Tetto Rooftop",
-    "rawVenue": "Tetto Rooftop",
+    "date": "2026-09-26",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
     "hood": null,
     "headliners": [
       {
-        "name": "Double Touch",
+        "name": "Zero",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 20,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/q2q38p--double-touch-at-tetto-rooftop-25th-sep-tetto-rooftop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2023-10-02/e05b3bec-3118-4274-9745-ab53d170875e.jpg?rect=0%2C53%2C535%2C535",
-    "venueInfo": {
-      "name": "Tetto Rooftop",
-      "address": "406 North Sangamon Street, Chicago, Illinois 60642, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_zn0vx0",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-27",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Deceits w/ Computer Kill, Fantasma Negra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 24.72,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/mxnd3k-deceits-w-computer-kill-fantasma-negra-27th-sep-sleeping-village-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/bb958v-zero-26th-sep-smoke-mirrors-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -859,6 +885,38 @@
     }
   },
   {
+    "id": "dc_14rz7r4",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-17",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Robert's Westside",
+    "rawVenue": " Robert's Westside",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dollyfest @ Robert's Westside",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/oe93mr-dollyfest-roberts-westside-17th-oct-roberts-westside-forest-park-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Robert's Westside",
+      "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1oolq4v",
     "source": "dice",
     "sourceList": [
@@ -915,38 +973,6 @@
     "age": null,
     "ticketUrl": "https://dice.fm/event/3oboe8-nickcheo-the-tour-the-movie-6th-nov-chop-shop-chicago-tickets",
     "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1eswita",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-12",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Alix Perez",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 40.37,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e9dw2-alix-perez-12th-nov-chop-shop-chicago-tickets",
-    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5ebda4005e3d5704978d60def96",
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
