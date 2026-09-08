@@ -1,107 +1,5 @@
 [
   {
-    "id": "dc_fhg6kq",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-06",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Hideaway",
-    "rawVenue": "Hideaway",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Official North Coast Afters ft. 33 Below",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/ryrwmr-official-north-coast-afters-ft-33-below-6th-sep-hideaway-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Hideaway",
-      "address": "5 West Division Street, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_zyrvbe",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-07",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Méssous",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "LuSiD",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 35,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/2w52e7-arc-after-dark-pnk-records-ft-lusid-7th-sep-spybar-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2026-09-05/aa2e2957-e723-4d74-9883-3c4546ddce5e.jpg?rect=0%2C559%2C4472%2C4472",
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_n3l577",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-10",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "LAVENDER: Queer Dance Social",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e9xv5-lavender-queer-dance-social-10th-sep-color-club-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_xb8hf8",
     "source": "dice",
     "sourceList": [
@@ -166,38 +64,6 @@
     }
   },
   {
-    "id": "dc_3pecx7",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-11",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "RIFF CITY at Color Club",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 18.03,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/k65wq8-riff-city-at-color-club-11th-sep-color-club-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_131946j",
     "source": "dice",
     "sourceList": [
@@ -230,6 +96,38 @@
     }
   },
   {
+    "id": "dc_3pecx7",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "RIFF CITY at Color Club",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 18.03,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/k65wq8-riff-city-at-color-club-11th-sep-color-club-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1b83g3o",
     "source": "dice",
     "sourceList": [
@@ -257,6 +155,38 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_11j08x",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-11",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Robert's Westside",
+    "rawVenue": " Robert's Westside",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Hot Flash Dance! @ Robert's Westside ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6d8m72-hot-flash-dance-roberts-westside-11th-sep-roberts-westside-forest-park-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Robert's Westside",
+      "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
       "city": "Chicago",
       "url": null
     }
@@ -326,6 +256,38 @@
     }
   },
   {
+    "id": "dc_1i5qqw9",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-12",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Emo Night Brooklyn",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/v3xy66-emo-night-brooklyn-12th-sep-cobra-lounge-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_iop3dm",
     "source": "dice",
     "sourceList": [
@@ -353,6 +315,38 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Courtyard",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_trce9v",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-15",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Metro Presents... Avalon Emerson & the Charm w/ Lipsticism",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 28.84,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/eo8x9y-metro-presents-avalon-emerson-the-charm-w-lipsticism-15th-sep-sleeping-village-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -518,70 +512,6 @@
     }
   },
   {
-    "id": "dc_we0ybc",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-20",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "EQUINOX: An Immersive Sound Healing Experience with Davin Youngs",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 55,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8eqvvv-equinox-an-immersive-sound-healing-experience-with-davin-youngs-20th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1d4or89",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-25",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Free Blues Friday featuring Bear Williams Trio",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/xe3emk-free-blues-friday-featuring-bear-williams-trio-25th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1727ykc",
     "source": "dice",
     "sourceList": [
@@ -615,6 +545,38 @@
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1d4or89",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Free Blues Friday featuring Bear Williams Trio",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/xe3emk-free-blues-friday-featuring-bear-williams-trio-25th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -812,6 +774,49 @@
     }
   },
   {
+    "id": "dc_1wrf68i",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-16",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Latenightsinmycar.",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Malört & Savior",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Millington",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 26,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/ww98rp-millington-malort-savior-latenightsinmycar-16th-oct-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2023-11-17/35aecda5-7540-4271-bd5c-b0f2f89b79fc.jpg?rect=0%2C53%2C535%2C535",
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_14rz7r4",
     "source": "dice",
     "sourceList": [
@@ -876,38 +881,6 @@
     }
   },
   {
-    "id": "dc_13ysvdx",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-06",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Nickcheo",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26.22,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/3oboe8-nickcheo-the-tour-the-movie-6th-nov-chop-shop-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1hvr0ix",
     "source": "dice",
     "sourceList": [
@@ -940,33 +913,33 @@
     }
   },
   {
-    "id": "dc_14veqix",
+    "id": "dc_13ysvdx",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-14",
-    "time": "19:00",
+    "date": "2026-11-06",
+    "time": "21:00",
     "slot": "evening",
-    "venue": "Rockefeller Memorial Chapel",
-    "rawVenue": "Rockefeller Memorial Chapel",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Reflections: William Basinski + Purelink",
+        "name": "Nickcheo",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 49.93,
+    "price": 26.22,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/92323o-reflections-william-basinski-purelink-14th-nov-rockefeller-memorial-chapel-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/3oboe8-nickcheo-the-tour-the-movie-6th-nov-chop-shop-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Rockefeller Memorial Chapel",
-      "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
