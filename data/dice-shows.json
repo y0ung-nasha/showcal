@@ -52,7 +52,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 10,
     "age": null,
     "ticketUrl": "https://dice.fm/event/bbg66g-arc-decompression-weekend-casa-de-babylon-11th-sep-spybar-chicago-tickets",
     "poster": null,
@@ -128,38 +128,6 @@
     }
   },
   {
-    "id": "dc_1b83g3o",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-11",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Evangelia",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/pybr8l-evangelia-stolar-djs-barraki-11th-sep-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-03-27/add0aa56-d3f6-426e-b9fb-9a07c4bf9847.jpg?rect=0%2C51%2C538%2C538",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_11j08x",
     "source": "dice",
     "sourceList": [
@@ -192,33 +160,65 @@
     }
   },
   {
-    "id": "dc_1ihml46",
+    "id": "dc_1b83g3o",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-09-12",
+    "date": "2026-09-11",
     "time": "20:00",
     "slot": "evening",
-    "venue": "Judson & Moore Distillery",
-    "rawVenue": "Judson & Moore Distillery",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Living on Memories of You",
+        "name": "Evangelia",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 18.54,
+    "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/dk7bw6-living-on-memories-of-you-12th-sep-judson-moore-distillery-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/pybr8l-evangelia-stolar-djs-barraki-11th-sep-chop-shop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2024-03-27/add0aa56-d3f6-426e-b9fb-9a07c4bf9847.jpg?rect=0%2C51%2C538%2C538",
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1d7bbg3",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-11",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Metro Presents... Com Truise (DJ Set) * Merrick Brown * AVA ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 28.84,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6d8av7-metro-presents-com-truise-dj-set-merrick-brown-ava-11th-sep-sleeping-village-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Judson & Moore Distillery",
-      "address": "3057 North Rockwell Street, Chicago, Illinois 60618, United States",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -256,6 +256,38 @@
     }
   },
   {
+    "id": "dc_1ihml46",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-12",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Judson & Moore Distillery",
+    "rawVenue": "Judson & Moore Distillery",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Living on Memories of You",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 18.54,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/dk7bw6-living-on-memories-of-you-12th-sep-judson-moore-distillery-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Judson & Moore Distillery",
+      "address": "3057 North Rockwell Street, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1i5qqw9",
     "source": "dice",
     "sourceList": [
@@ -283,38 +315,6 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_iop3dm",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-13",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Courtyard",
-    "rawVenue": " Epiphany Center for the Arts - Courtyard ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Live on the Lawn Featuring Frank Russell",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/xeay8l-live-on-the-lawn-featuring-frank-russell-13th-sep-epiphany-center-for-the-arts-courtyard-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Courtyard",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -480,6 +480,38 @@
     }
   },
   {
+    "id": "dc_15v3trm",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-18",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "MM Productions Presents - Sacred Threads",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2qg9a-mm-productions-presents-sacred-threads-18th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_dcvdc6",
     "source": "dice",
     "sourceList": [
@@ -550,38 +582,6 @@
     }
   },
   {
-    "id": "dc_1d4or89",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-25",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Free Blues Friday featuring Bear Williams Trio",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/xe3emk-free-blues-friday-featuring-bear-williams-trio-25th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1orni11",
     "source": "dice",
     "sourceList": [
@@ -602,7 +602,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 20,
+    "price": 25,
     "age": null,
     "ticketUrl": "https://dice.fm/event/bb958v-zero-26th-sep-smoke-mirrors-chicago-tickets",
     "poster": null,
@@ -614,33 +614,33 @@
     }
   },
   {
-    "id": "dc_1bolebw",
+    "id": "dc_1sdcdjq",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-01",
-    "time": "21:00",
+    "date": "2026-10-04",
+    "time": "18:00",
     "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
     "hood": null,
     "headliners": [
       {
-        "name": "Shwayze",
+        "name": "Outcast Jazz Band's Big Band Dance Party",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 39.33,
+    "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/7dwkvp-shwayze-the-nostalgia-tour-1st-oct-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-09-25/a6ab430d-2687-4e58-bc37-a1c9483eb763.jpg?rect=0%2C54%2C532%2C532",
+    "ticketUrl": "https://dice.fm/event/8exkqv-outcast-jazz-bands-big-band-dance-party-4th-oct-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": null,
     "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -673,38 +673,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1roqlxp",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-13",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Victor Jones",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/ww9dwg-victor-jones-13th-oct-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2025-09-28/18c5469f-b2b5-411b-a71f-5aa9293e3c46.jpg?rect=0%2C0%2C640%2C640",
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -774,49 +742,6 @@
     }
   },
   {
-    "id": "dc_1wrf68i",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-16",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Latenightsinmycar.",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Malört & Savior",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Millington",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/ww98rp-millington-malort-savior-latenightsinmycar-16th-oct-cobra-lounge-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2023-11-17/35aecda5-7540-4271-bd5c-b0f2f89b79fc.jpg?rect=0%2C53%2C535%2C535",
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_14rz7r4",
     "source": "dice",
     "sourceList": [
@@ -849,20 +774,20 @@
     }
   },
   {
-    "id": "dc_1oolq4v",
+    "id": "dc_36qabt",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-28",
-    "time": "19:00",
+    "date": "2026-10-31",
+    "time": "21:00",
     "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
     "hood": null,
     "headliners": [
       {
-        "name": "Lexi Jayde",
+        "name": "GARDEN OF: ON THE CROSS",
         "genre": "music",
         "role": "headliner"
       }
@@ -871,11 +796,11 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/bbgabo-lexi-jayde-28th-oct-chop-shop-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/q2dmyy-garden-of-on-the-cross-31st-oct-sleeping-village-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -945,6 +870,81 @@
     }
   },
   {
+    "id": "dc_14veqix",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-14",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Rockefeller Memorial Chapel",
+    "rawVenue": "Rockefeller Memorial Chapel",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Reflections: William Basinski + Purelink",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 49.93,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/92323o-reflections-william-basinski-purelink-14th-nov-rockefeller-memorial-chapel-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Rockefeller Memorial Chapel",
+      "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_12fhqqu",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-17",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "xMERCYx",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Thus Spoke Zarathustra",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Girl of Glass",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/7d5y39-girl-of-glass-thus-spoke-zarathustra-xmercyx-17th-nov-cobra-lounge-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1x3z8gq",
     "source": "dice",
     "sourceList": [
@@ -972,6 +972,38 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1yem36x",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-02-27",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Fake Names",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 33,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/7d5yy6-fake-names-27th-feb-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb4011f539110e53af14b6d373",
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
