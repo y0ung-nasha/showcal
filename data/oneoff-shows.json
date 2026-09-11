@@ -1,325 +1,5 @@
 [
   {
-    "id": "os_1luudrb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Clark Sommers W'Ba(SH)",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/12793/?date=2026-09-10",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_zsm0wq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Joey J. Saye: Traditional Blues Hour at 8:30 PM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385474",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/51593/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_114ax77",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383641",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_114ax77",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383642",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1r2m29e",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "CHRIS O’LEARY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/63380495/chris-oleary-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1rrrkuq",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Shadowgrass",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/shadowgrass-chicago-illinois-09-10-2026/event/0400648BAED95D36",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_78x875",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Unfamiliar Sessions",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/unfamiliar-sessions-2/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1sfnrsh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "VOLUMES",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/volumes-catsclaw-tba-reggies-rock-club-tickets/14975933",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_bp9c05",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Joe's on Weed",
-    "rawVenue": "Joe's on Weed",
-    "hood": "Goose Island",
-    "headliners": [
-      {
-        "name": "JAM FOR GOOD PRESENTS: NIKO MOON",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 50,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/jam-for-good-presents-joes-on-weed-street-tickets/14925003?pl=joesbar",
-    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1779184595107-1YF4JUNM9RBSKLIVBBTX/2026.9.10_Niko+Moon_TW+%281%29.png",
-    "venueInfo": {
-      "name": "Joe's on Weed",
-      "address": "940 W Weed St.",
-      "city": "Chicago",
-      "url": "https://www.joesbar.com"
-    }
-  },
-  {
-    "id": "os_6rof1h",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": null,
-    "slot": null,
-    "venue": "Beauty Bar",
-    "rawVenue": "Beauty Bar",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "RITUAL - GOTH DANCE PARTY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Beauty Bar",
-      "address": "1444 W Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.beautybarchicago.com"
-    }
-  },
-  {
     "id": "os_188imfc",
     "source": "venue-site",
     "sourceList": [
@@ -515,38 +195,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_3lkxdt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-11",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "SPATIAL AWARENESS III: Ambient • Improvisation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -809,70 +457,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_u2rxo3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-12",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "The Country Doctors",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_zxolhh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-12",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Wills McKenna's Static Ritual - Jazz Trio",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -1221,70 +805,6 @@
       "address": "1939 W North Ave.",
       "city": "Chicago",
       "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_1rf43o3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-13",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "BEARS @ Panthers",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
-    }
-  },
-  {
-    "id": "os_t8jqmt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-13",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Cary's Lounge",
-    "rawVenue": "Cary's Lounge",
-    "hood": "Rogers Park",
-    "headliners": [
-      {
-        "name": "Greasy Gravy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cary's Lounge",
-      "address": "2251 W Devon Ave",
-      "city": "Chicago",
-      "url": "https://caryslounge.com"
     }
   },
   {
@@ -3072,7 +2592,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Majestic 12",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -4957,6 +4483,38 @@
     }
   },
   {
+    "id": "os_263tvt",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-01",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Chico Freeman Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8684/?date=2026-10-01",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1kv2cbm",
     "source": "venue-site",
     "sourceList": [
@@ -5199,6 +4757,38 @@
     }
   },
   {
+    "id": "os_1lpxxvu",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-02",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Chico Freeman Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8684/?date=2026-10-02",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_xx6zo7",
     "source": "venue-site",
     "sourceList": [
@@ -5362,6 +4952,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_168nzwr",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-03",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Chico Freeman Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8684/?date=2026-10-03",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -5659,6 +5281,38 @@
     }
   },
   {
+    "id": "os_qre1xo",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-04",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Chico Freeman Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8684/?date=2026-10-04",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1bgvus2",
     "source": "venue-site",
     "sourceList": [
@@ -5895,6 +5549,38 @@
     }
   },
   {
+    "id": "os_p3vwlo",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-05",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Tommy Muellner Album Release - Solitary Moon",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13101/?date=2026-10-05",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1prbkkz",
     "source": "venue-site",
     "sourceList": [
@@ -5924,6 +5610,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_1j0vnmt",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-06",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Gabriel Wade Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/7017/?date=2026-10-06",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -6291,6 +6009,38 @@
     }
   },
   {
+    "id": "os_4mg28d",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-08",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Christopher McBride Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13099/?date=2026-10-08",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1g7begm",
     "source": "venue-site",
     "sourceList": [
@@ -6524,6 +6274,38 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_1s14dzi",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Christopher McBride Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13099/?date=2026-10-09",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -6780,6 +6562,38 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_1x734km",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-10",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Christopher McBride Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13099/?date=2026-10-10",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -7050,6 +6864,38 @@
     }
   },
   {
+    "id": "os_1lknecn",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-11",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Christopher McBride Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13099/?date=2026-10-11",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1dzb10w",
     "source": "venue-site",
     "sourceList": [
@@ -7175,6 +7021,38 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_5oekz4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-12",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Carmen sings Monk",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13102/?date=2026-10-12",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -7338,6 +7216,38 @@
     }
   },
   {
+    "id": "os_n5o4do",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-15",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6770/?date=2026-10-15",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1higocn",
     "source": "venue-site",
     "sourceList": [
@@ -7414,7 +7324,7 @@
     }
   },
   {
-    "id": "os_wvm0t1",
+    "id": "os_wvlxg1",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -7427,7 +7337,7 @@
     "hood": "South Loop",
     "headliners": [
       {
-        "name": "ROCK ATLAS",
+        "name": "ROCK ATHAS",
         "genre": "music",
         "role": "headliner"
       }
@@ -7436,7 +7346,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/51234414/rock-atlas-chicago-buddy-guys-legends?partner_id=100",
+    "ticketUrl": "https://www.etix.com/ticket/p/51234414/rock-athas-chicago-buddy-guys-legends?partner_id=100",
     "poster": null,
     "venueInfo": {
       "name": "Buddy Guy's Legends",
@@ -7507,6 +7417,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_9jcd1p",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-16",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6770/?date=2026-10-16",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -7667,6 +7609,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_1uy4nou",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-17",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6770/?date=2026-10-17",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -7859,6 +7833,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    }
+  },
+  {
+    "id": "os_1hbswcv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-18",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6770/?date=2026-10-18",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -8060,6 +8066,38 @@
     }
   },
   {
+    "id": "os_1wmaboi",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-20",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Petra's Recession Seven",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6670/?date=2026-10-20",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_hle2oj",
     "source": "venue-site",
     "sourceList": [
@@ -8156,6 +8194,38 @@
     }
   },
   {
+    "id": "os_9j7w05",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Christian Dillingham Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/7102/?date=2026-10-21",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_vsnwj2",
     "source": "venue-site",
     "sourceList": [
@@ -8249,6 +8319,70 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    }
+  },
+  {
+    "id": "os_1g3ykg4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "SUSTO",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/susto-chicago-illinois-10-21-2026/event/0400652AD0B3EE59",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_42gm87",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Lenard Simpson Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6707/?date=2026-10-22",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -8424,6 +8558,38 @@
     }
   },
   {
+    "id": "os_1ph8wvc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-23",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Lenard Simpson Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6707/?date=2026-10-23",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1gy2gti",
     "source": "venue-site",
     "sourceList": [
@@ -8474,7 +8640,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "MP Gannon",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -8581,6 +8753,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_1bux5jd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-24",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Lenard Simpson Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6707/?date=2026-10-24",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -8776,6 +8980,38 @@
     }
   },
   {
+    "id": "os_y8le7e",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-25",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Lenard Simpson Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6707/?date=2026-10-25",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1bpelq0",
     "source": "venue-site",
     "sourceList": [
@@ -8869,6 +9105,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_trofc3",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-26",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Bob Lark",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6121/?date=2026-10-26",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -9128,6 +9396,38 @@
     }
   },
   {
+    "id": "os_4grtdn",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-29",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Mike Stern",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8695/?date=2026-10-29",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_1e5v0do",
     "source": "venue-site",
     "sourceList": [
@@ -9300,6 +9600,38 @@
     }
   },
   {
+    "id": "os_1ab851v",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Mike Stern",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8695/?date=2026-10-30",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
     "id": "os_fqwy0e",
     "source": "venue-site",
     "sourceList": [
@@ -9463,6 +9795,38 @@
       "address": "1444 W Chicago Ave",
       "city": "Chicago",
       "url": "https://www.beautybarchicago.com"
+    }
+  },
+  {
+    "id": "os_1nw6hv8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-31",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Mike Stern",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8695/?date=2026-10-31",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {
@@ -9673,6 +10037,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    }
+  },
+  {
+    "id": "os_134oe2a",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-01",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Jazz Showcase",
+    "rawVenue": "Jazz Showcase",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "Mike Stern",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8695/?date=2026-11-01",
+    "poster": null,
+    "venueInfo": {
+      "name": "Jazz Showcase",
+      "address": null,
+      "city": "Chicago",
+      "url": "https://www.jazzshowcase.com"
     }
   },
   {

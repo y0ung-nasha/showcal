@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_n3l577",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-10",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "LAVENDER: Queer Dance Social",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e9xv5-lavender-queer-dance-social-10th-sep-color-club-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_131946j",
     "source": "dice",
     "sourceList": [
@@ -52,13 +20,45 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": "FREE",
     "age": null,
     "ticketUrl": "https://dice.fm/event/92nbvo-free-blues-friday-featuring-brother-jacob-11th-sep-epiphany-center-for-the-arts-the-sanctuary-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Epiphany Center for the Arts - The Sanctuary",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_3pecx7",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-11",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "RIFF CITY at Color Club",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 18.03,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/k65wq8-riff-city-at-color-club-11th-sep-color-club-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -128,70 +128,6 @@
     }
   },
   {
-    "id": "dc_3pecx7",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-11",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "RIFF CITY at Color Club",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 18.03,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/k65wq8-riff-city-at-color-club-11th-sep-color-club-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_11j08x",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-11",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Robert's Westside",
-    "rawVenue": " Robert's Westside",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Hot Flash Dance! @ Robert's Westside ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/6d8m72-hot-flash-dance-roberts-westside-11th-sep-roberts-westside-forest-park-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Robert's Westside",
-      "address": "7321 Madison Street, Forest Park, Illinois 60130, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1d7bbg3",
     "source": "dice",
     "sourceList": [
@@ -212,7 +148,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 28.84,
+    "price": 33.99,
     "age": null,
     "ticketUrl": "https://dice.fm/event/6d8av7-metro-presents-com-truise-dj-set-merrick-brown-ava-11th-sep-sleeping-village-chicago-tickets",
     "poster": null,
@@ -251,6 +187,38 @@
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_oci72k",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-12",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Nooriyah",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30.15,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/xeo3ma-nooriyah-everywhere-between-dj-set-a-parssi-12th-sep-chop-shop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2025-12-15/b1dd7581-f349-4549-9676-ea6708c93116.jpg?rect=0%2C1141%2C5504%2C5504",
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -320,52 +288,20 @@
     }
   },
   {
-    "id": "dc_oci72k",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-12",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Nooriyah",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 30.15,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/xeo3ma-nooriyah-everywhere-between-dj-set-a-parssi-12th-sep-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2025-12-15/b1dd7581-f349-4549-9676-ea6708c93116.jpg?rect=0%2C1141%2C5504%2C5504",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_10o221w",
+    "id": "dc_iop3dm",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-09-13",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Secret Location - Chicago",
-    "rawVenue": "Secret Location - Chicago",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Courtyard",
+    "rawVenue": " Epiphany Center for the Arts - Courtyard ",
     "hood": null,
     "headliners": [
       {
-        "name": "Sem Jacobs",
+        "name": "Live on the Lawn Featuring Frank Russell",
         "genre": "music",
         "role": "headliner"
       }
@@ -374,11 +310,11 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/2wylwm-hello-sundays-w-sem-jacobs-13th-sep-secret-location-chicago-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/xeay8l-live-on-the-lawn-featuring-frank-russell-13th-sep-epiphany-center-for-the-arts-courtyard-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Secret Location - Chicago",
-      "address": "Chicago, IL, USA",
+      "name": "Epiphany Center for the Arts - Courtyard",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -448,38 +384,6 @@
     }
   },
   {
-    "id": "dc_1cdwwpw",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-18",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "868",
-    "rawVenue": "868",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "House Calls 5 Year Anniversary",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/l8mv2p-house-calls-5-year-anniversary-18th-sep-868-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "868",
-      "address": "868 North Franklin Street, Chicago, Illinois 60610, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_fjk2p6",
     "source": "dice",
     "sourceList": [
@@ -539,6 +443,38 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1cdwwpw",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-18",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "868",
+    "rawVenue": "868",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House Calls 5 Year Anniversary",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/l8mv2p-house-calls-5-year-anniversary-18th-sep-868-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "868",
+      "address": "868 North Franklin Street, Chicago, Illinois 60610, United States",
       "city": "Chicago",
       "url": null
     }
@@ -608,6 +544,38 @@
     }
   },
   {
+    "id": "dc_albqv6",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-19",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "The Burlington",
+    "rawVenue": "The Burlington",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Jenny Fox",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 11.33,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/9236r7-the-farewell-eden-19th-sep-the-burlington-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "The Burlington",
+      "address": "3425 West Fullerton Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_we0ybc",
     "source": "dice",
     "sourceList": [
@@ -635,38 +603,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1orni11",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-26",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Zero",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/bb958v-zero-26th-sep-smoke-mirrors-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -704,6 +640,38 @@
     }
   },
   {
+    "id": "dc_1mgo5t3",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-04",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Secret Location - Chicago",
+    "rawVenue": "Secret Location - Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "\"Hello?!\" Sundays Closing Party w/ Getbusy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/xeovel-hello-sundays-closing-party-w-getbusy-4th-oct-secret-location-chicago-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Secret Location - Chicago",
+      "address": "Chicago, IL, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1tzhg1k",
     "source": "dice",
     "sourceList": [
@@ -727,38 +695,6 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://dice.fm/event/q2dk5o-bump-disco-w-naomi-smalls-10th-oct-sleeping-village-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_97vfjb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-13",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "FREE TUESDAY w/ Hell Is Real & Degenerate Synapse [presented by Still Austin Whiskey Co.]",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/mxymkr-free-tuesday-w-hell-is-real-degenerate-synapse-presented-by-still-austin-whiskey-co-13th-oct-sleeping-village-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Sleeping Village",
@@ -832,6 +768,70 @@
     }
   },
   {
+    "id": "dc_wee74e",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Alhambra Palace",
+    "rawVenue": "Alhambra Palace",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Skream",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/bbg5xg-area-code-w-skream-all-night-long-30th-oct-alhambra-palace-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2020-08-19/37fc0019-6327-46da-a046-4db5109d4b78.jpg?rect=0%2C0%2C1622%2C1622",
+    "venueInfo": {
+      "name": "Alhambra Palace",
+      "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_60e3pr",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Multiple Venues - Chicago, IL",
+    "rawVenue": "Multiple Venues - Chicago, IL",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House Calls Halloween Weekend Pass",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 55,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6dg5o7-house-calls-halloween-weekend-pass-30th-oct-multiple-venues-chicago-il-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Multiple Venues - Chicago, IL",
+      "address": "Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_36qabt",
     "source": "dice",
     "sourceList": [
@@ -864,7 +864,7 @@
     }
   },
   {
-    "id": "dc_1hvr0ix",
+    "id": "dc_muqdn9",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -877,7 +877,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Leenalchi",
+        "name": "Leenalchi w/ Clickbait",
         "genre": "music",
         "role": "headliner"
       }
@@ -886,7 +886,7 @@
     "genres": [],
     "price": 25.75,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/yoe5yp-leenalchi-6th-nov-sleeping-village-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/yoe5yp-leenalchi-w-clickbait-6th-nov-sleeping-village-chicago-tickets",
     "poster": null,
     "venueInfo": {
       "name": "Sleeping Village",
@@ -928,41 +928,30 @@
     }
   },
   {
-    "id": "dc_12fhqqu",
+    "id": "dc_1yem36x",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-17",
-    "time": "18:30",
+    "date": "2027-02-27",
+    "time": "18:00",
     "slot": "evening",
     "venue": "Cobra Lounge",
     "rawVenue": "Cobra Lounge",
     "hood": null,
     "headliners": [
       {
-        "name": "xMERCYx",
+        "name": "Fake Names",
         "genre": "music",
         "role": "headliner"
       }
     ],
-    "openers": [
-      {
-        "name": "Thus Spoke Zarathustra",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Girl of Glass",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
+    "openers": [],
     "genres": [],
-    "price": 20,
+    "price": 33,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/7d5y39-girl-of-glass-thus-spoke-zarathustra-xmercyx-17th-nov-cobra-lounge-chicago-tickets",
-    "poster": null,
+    "ticketUrl": "https://dice.fm/event/7d5yy6-fake-names-27th-feb-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb4011f539110e53af14b6d373",
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
