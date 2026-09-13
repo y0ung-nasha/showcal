@@ -1,37 +1,5 @@
 [
   {
-    "id": "aap_1hin3rr",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-09-12",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "CRUELSTER",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/cruelster",
-    "poster": "https://chicago.askapunk.net/media/ccbd2f7aa3ea7a954e64715050f9a054.jpg",
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N. Ashland Ave",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_11yamyb",
     "source": "askapunk",
     "sourceList": [
@@ -716,6 +684,54 @@
     "venueInfo": {
       "name": "TBD",
       "address": "TBD",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_10t6hg9",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-10",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Not Not",
+    "rawVenue": "Not Not",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Laliberte",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Pet Peeves",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Thermostat (Detroit)",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Strange Bouquet",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/laliberte-pet-peeves-thermostat-detroit-strange-bouquet",
+    "poster": "https://chicago.askapunk.net/media/83ce4cad45ff058154080721e9a603b7.jpg",
+    "venueInfo": {
+      "name": "Not Not",
+      "address": "Email for more info",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
