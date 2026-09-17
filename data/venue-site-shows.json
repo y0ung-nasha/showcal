@@ -2432,38 +2432,6 @@
     }
   },
   {
-    "id": "vs_h3sylt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-16",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Metro Presents… upsammy & Valentina Magaletti * composuresquad * Mithra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-7.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_1cr57oo",
     "source": "venue-site",
     "sourceList": [
@@ -2557,38 +2525,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1bsn5ua",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-16",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Abigail Riccards & Friends - A Night of Soul / Jazz / Blues Favorites",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-20",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg/v1/fill/w_3600,h_2400,al_c,q_90/8ffa2d_a3b61383d1724981ad809381c377aff2~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/abigail-riccards-friends-a-night-of-soul-jazz-blues-favorites-20"
     }
   },
   {
@@ -2717,38 +2653,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_d0w10w",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-17",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Comedy Open Mic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-september-16-2026-717981",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/981/compressed/IMG_9453_2.jpg?1781551178",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -3478,7 +3382,7 @@
     }
   },
   {
-    "id": "vs_1eib15l",
+    "id": "vs_azphgz",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -3496,11 +3400,22 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Sour Milk",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Tarantula Threat Pose",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/asaka-the-renegade-september-19-2026-736742",
+    "ticketUrl": "https://colesbarchicago.com/shows/bullheather-sourmilk-tarantula",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/742/compressed/IMG_0385.jpg?1789432865",
     "venueInfo": {
       "name": "Cole's Bar",
@@ -3769,6 +3684,38 @@
     "age": null,
     "ticketUrl": null,
     "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-49.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_1nztrk7",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-22",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Sleeping Village Presents: Truck Violence at NOT NOT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-49.jpg",
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, ",
@@ -5800,7 +5747,7 @@
     }
   },
   {
-    "id": "vs_1jds5h8",
+    "id": "vs_1b8h1td",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5813,7 +5760,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "AFROFUTURIST WEEKEND 11: Xavi burgos staged reading and talkbalk [offsite in humboldt Park] — Elastic Arts Foundation",
+        "name": "AFw 2026: Xavi burgos, Black warrior angel (part one) staged reading and talkbalk [offsite in humboldt Park] — Elastic Arts Foundation",
         "genre": "music",
         "role": "headliner"
       }
@@ -5823,7 +5770,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a970b4c577d683deff4d239/1788896730874/103+xavi.png?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a970b4c577d683deff4d239/1789595186181/Black+Warrior+Angel+Promo.jpeg?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -6315,7 +6262,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6aa062548fb1a625b69d7d93/1789062310578/FRIEND+LESS+by+Mike+Norris.jpeg?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6aa062548fb1a625b69d7d93/1789585491483/FRIEND+LESS+by+Mike+Norris.jpeg?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -6466,6 +6413,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_fyhfka",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-14",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Michael Lerich Quartet - Swingin’ the Great American Songbook",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/michael-lerich-quartet-swingin-the-great-american-songbook-4",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_17d0dadf86254c248cbe81f5fa25731a~mv2.jpg/v1/fill/w_5167,h_3438,al_c,q_90/8ffa2d_17d0dadf86254c248cbe81f5fa25731a~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/michael-lerich-quartet-swingin-the-great-american-songbook-4"
     }
   },
   {

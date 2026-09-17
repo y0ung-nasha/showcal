@@ -1,37 +1,5 @@
 [
   {
-    "id": "aap_wvgu3a",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-09-16",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Empty Bottle",
-    "rawVenue": "Empty Bottle",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Marlon Mageé",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/marlon-magee",
-    "poster": "https://chicago.askapunk.net/media/9282042d1649cd766de23a1f7d9ef946.jpg",
-    "venueInfo": {
-      "name": "Empty Bottle",
-      "address": "1035 N Western Ave",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_f4d3e3",
     "source": "askapunk",
     "sourceList": [
@@ -250,6 +218,49 @@
     }
   },
   {
+    "id": "aap_1elkp1u",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-09-19",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Casa Cafe",
+    "rawVenue": "Casa Cafe",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Tollbooth",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Starly Kind",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Cherry Decay",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/tollbooth-starly-kind-cherry-decay",
+    "poster": "https://chicago.askapunk.net/media/cabbdb28cbbc866a15516854d475c49f.jpg",
+    "venueInfo": {
+      "name": "Casa Cafe",
+      "address": "2025 s western ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_10un5il",
     "source": "askapunk",
     "sourceList": [
@@ -454,6 +465,54 @@
     "venueInfo": {
       "name": "The Atlantic Bar",
       "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_dbw2ym",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-09-26",
+    "time": "20:15",
+    "slot": "evening",
+    "venue": "Timber lanes",
+    "rawVenue": "Timber lanes",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Beauty Saloon",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Bug Charmer",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Heirloom Locket",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "and Hungu",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/beauty-saloon-bug-charmer-heirloom-locket-and-hungu",
+    "poster": "https://chicago.askapunk.net/media/c6a745b3731bd67082b81a3c6cd5a84d.jpg",
+    "venueInfo": {
+      "name": "Timber lanes",
+      "address": "1851 W Irving Park Rd",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -854,6 +913,49 @@
     "venueInfo": {
       "name": "Casa Cafe",
       "address": "2025 s western ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_gtqi61",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-16",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Logan Avondale VFW",
+    "rawVenue": "Logan Avondale VFW",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Steeplechase bday show - drag",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "vendors",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "music",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/steeplechase-bday-show-drag-vendors-music",
+    "poster": null,
+    "venueInfo": {
+      "name": "Logan Avondale VFW",
+      "address": "3009 N Kedzie Ave, Chicago, IL 60618",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
