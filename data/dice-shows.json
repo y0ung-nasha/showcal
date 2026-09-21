@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_hljf2e",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-20",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Secret Location - Chicago",
-    "rawVenue": "Secret Location - Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "\"Hello?!\" Sundays w/ Makèz",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/mx9bxk-hello-sundays-w-makz-20th-sep-secret-location-chicago-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Secret Location - Chicago",
-      "address": "Chicago, IL, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1nztrk7",
     "source": "dice",
     "sourceList": [
@@ -91,6 +59,38 @@
     "venueInfo": {
       "name": "Judson & Moore Distillery",
       "address": "3057 North Rockwell Street, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_omqx0r",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-23",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "A.Chal",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 32.77,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2qyp9-achal-chologante-23rd-sep-chop-shop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -160,70 +160,6 @@
     }
   },
   {
-    "id": "dc_l4kufh",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-26",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bassment",
-    "rawVenue": "Bassment",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jay de Lys",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/pywrop-house-calls-w-jay-de-lys-26th-sep-bassment-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bassment",
-      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1orni11",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-26",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Zero",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/bb958v-zero-26th-sep-smoke-mirrors-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_ohasrc",
     "source": "dice",
     "sourceList": [
@@ -262,6 +198,38 @@
     }
   },
   {
+    "id": "dc_l4kufh",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-26",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Bassment",
+    "rawVenue": "Bassment",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Jay de Lys",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/pywrop-house-calls-w-jay-de-lys-26th-sep-bassment-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Bassment",
+      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_o0me5q",
     "source": "dice",
     "sourceList": [
@@ -294,6 +262,38 @@
     }
   },
   {
+    "id": "dc_1orni11",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-26",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Zero",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/bb958v-zero-26th-sep-smoke-mirrors-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_zn0vx0",
     "source": "dice",
     "sourceList": [
@@ -321,38 +321,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bolebw",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-01",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Shwayze",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 39.33,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/7dwkvp-shwayze-the-nostalgia-tour-1st-oct-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-09-25/a6ab430d-2687-4e58-bc37-a1c9483eb763.jpg?rect=0%2C54%2C532%2C532",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -433,6 +401,38 @@
     }
   },
   {
+    "id": "dc_1oxj3kz",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-03",
+    "time": "22:45",
+    "slot": "late",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "COSTA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 36.7,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6dawl8-costa-3rd-oct-chop-shop-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1sdcdjq",
     "source": "dice",
     "sourceList": [
@@ -453,7 +453,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 24.72,
     "age": null,
     "ticketUrl": "https://dice.fm/event/8exkqv-outcast-jazz-bands-big-band-dance-party-4th-oct-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
     "poster": null,
