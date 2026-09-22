@@ -160,6 +160,76 @@
     }
   },
   {
+    "id": "dc_1727ykc",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-25",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Marrøn",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Kimba",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/k62xm8-marrn-25th-sep-smoke-mirrors-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1gsff7a",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-25",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Tetto Rooftop",
+    "rawVenue": "Tetto Rooftop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Double Touch",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/q2q38p--double-touch-at-tetto-rooftop-25th-sep-tetto-rooftop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2023-10-02/e05b3bec-3118-4274-9745-ab53d170875e.jpg?rect=0%2C53%2C535%2C535",
+    "venueInfo": {
+      "name": "Tetto Rooftop",
+      "address": "406 North Sangamon Street, Chicago, Illinois 60642, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_ohasrc",
     "source": "dice",
     "sourceList": [
@@ -198,38 +268,6 @@
     }
   },
   {
-    "id": "dc_l4kufh",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-26",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Bassment",
-    "rawVenue": "Bassment",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jay de Lys",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/pywrop-house-calls-w-jay-de-lys-26th-sep-bassment-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Bassment",
-      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_o0me5q",
     "source": "dice",
     "sourceList": [
@@ -257,6 +295,38 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Catacombs",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_l4kufh",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-09-26",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Bassment",
+    "rawVenue": "Bassment",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Jay de Lys",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/pywrop-house-calls-w-jay-de-lys-26th-sep-bassment-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Bassment",
+      "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
       "city": "Chicago",
       "url": null
     }
@@ -689,38 +759,6 @@
     }
   },
   {
-    "id": "dc_60e3pr",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Multiple Venues - Chicago, IL",
-    "rawVenue": "Multiple Venues - Chicago, IL",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "House Calls Halloween Weekend Pass",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 75,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/6dg5o7-house-calls-halloween-weekend-pass-30th-oct-multiple-venues-chicago-il-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Multiple Venues - Chicago, IL",
-      "address": "Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_wee74e",
     "source": "dice",
     "sourceList": [
@@ -748,6 +786,38 @@
     "venueInfo": {
       "name": "Alhambra Palace",
       "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_60e3pr",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Multiple Venues - Chicago, IL",
+    "rawVenue": "Multiple Venues - Chicago, IL",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House Calls Halloween Weekend Pass",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 75,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/6dg5o7-house-calls-halloween-weekend-pass-30th-oct-multiple-venues-chicago-il-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Multiple Venues - Chicago, IL",
+      "address": "Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -818,38 +888,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_14veqix",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Rockefeller Memorial Chapel",
-    "rawVenue": "Rockefeller Memorial Chapel",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Reflections: William Basinski + Purelink",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 49.93,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/92323o-reflections-william-basinski-purelink-14th-nov-rockefeller-memorial-chapel-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Rockefeller Memorial Chapel",
-      "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
       "city": "Chicago",
       "url": null
     }
