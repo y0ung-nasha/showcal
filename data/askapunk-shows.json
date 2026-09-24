@@ -508,6 +508,38 @@
     }
   },
   {
+    "id": "aap_8m1v6w",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-03",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "KIOSK",
+    "rawVenue": "KIOSK",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "A DIY History of Chicago DIY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/a-diy-history-of-chicago-diy",
+    "poster": "https://chicago.askapunk.net/media/25468247edc7c670db4474d72bae5d30.jpg",
+    "venueInfo": {
+      "name": "KIOSK",
+      "address": "3054 N. Sheffield Ave. Chicago, IL 60657 USA",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_ybvgrb",
     "source": "askapunk",
     "sourceList": [
@@ -567,6 +599,81 @@
     "venueInfo": {
       "name": "TBD",
       "address": "TBD",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_cg86ml",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-09",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Atlantic Bar",
+    "rawVenue": "The Atlantic Bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "littleHEADbutt presents CATATONEYA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "FACEHANDS BLOWNBACK",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "& NEKYLADON",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/littleheadbutt-presents-catatoneya-facehands-blownback-and-nekyladon",
+    "poster": "https://chicago.askapunk.net/media/4c8169bfeec9d7e43583a9d7f91baae3.jpg",
+    "venueInfo": {
+      "name": "The Atlantic Bar",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_i27sht",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-10",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "KIOSK",
+    "rawVenue": "KIOSK",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Collaborative Zine Workshop - Goethe-Institut USA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/collaborative-zine-workshop-goethe-institut-usa",
+    "poster": "https://chicago.askapunk.net/media/9dcb840882749a665cec199cb58534b9.jpg",
+    "venueInfo": {
+      "name": "KIOSK",
+      "address": "3054 N. Sheffield Ave. Chicago, IL 60657 USA",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
