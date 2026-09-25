@@ -1,331 +1,5 @@
 [
   {
-    "id": "os_1b89501",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Isaiah Spencer Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6704/?date=2026-09-24",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_1vmdyyn",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Joey J. Saye: Traditional Blues Hour at 8:30 PM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385476",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/51593/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1j8c1yw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383645",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1j8c1yw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "“Thursday Night Live” Blues: Lil Ed Williams with Sumito 'Ariyo' Ariyoshi",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383646",
-    "poster": "https://s3.amazonaws.com/seat-engine-files-production/talent/headshots/photos/35409/full/data?1632803671",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1krzf2d",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "SEAN MCKEE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/48710635/sean-mckee-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_6sfrly",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Brown Eyed Women",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Bella Rayne Band",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/brown-eyed-women-chicago-illinois-09-24-2026/event/040064D228C15CF9",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_1e3p3iw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Pageant Queens",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/pageant-queens/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_xtzsgu",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Joe's on Weed",
-    "rawVenue": "Joe's on Weed",
-    "hood": "Goose Island",
-    "headliners": [
-      {
-        "name": "Fox n’ Vead",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 15,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/fox-n-vead-joes-on-weed-street-tickets/14220144?pl=joesbar",
-    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1782751536322-ME3LS9JFPB5Z3OIK3XMT/FOX+N%27+VEAD+-+9.24.26.jpg",
-    "venueInfo": {
-      "name": "Joe's on Weed",
-      "address": "940 W Weed St.",
-      "city": "Chicago",
-      "url": "https://www.joesbar.com"
-    }
-  },
-  {
-    "id": "os_air8p4",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "The BlkRoom",
-    "rawVenue": "The BlkRoom",
-    "hood": "East Garfield Park",
-    "headliners": [
-      {
-        "name": "The Brown Get Down",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.theblkroom.org/event-calendar/the-brown-get-down",
-    "poster": "https://images.squarespace-cdn.com/content/v1/65491ead7b54db38b7154d33/1789513584313-W0VSTAG3TJJOT65W3GL4/IMG_3252.JPG",
-    "venueInfo": {
-      "name": "The BlkRoom",
-      "address": "4015 W Carroll Ave Unit 204",
-      "city": "Chicago",
-      "url": "https://www.theblkroom.org"
-    }
-  },
-  {
-    "id": "os_1eym6dc",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The BlkRoom",
-    "rawVenue": "The BlkRoom",
-    "hood": "East Garfield Park",
-    "headliners": [
-      {
-        "name": "Vocal Shed",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.theblkroom.org/event-calendar/vocal-shed",
-    "poster": "https://images.squarespace-cdn.com/content/v1/65491ead7b54db38b7154d33/1789513140343-2RHX8HNU1DGDI999R4OM/IMG_3253+%281%29.JPG",
-    "venueInfo": {
-      "name": "The BlkRoom",
-      "address": "4015 W Carroll Ave Unit 204",
-      "city": "Chicago",
-      "url": "https://www.theblkroom.org"
-    }
-  },
-  {
     "id": "os_xlxdo2",
     "source": "venue-site",
     "sourceList": [
@@ -1332,6 +1006,38 @@
       "address": "952 W Fulton St",
       "city": "Chicago",
       "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
+    "id": "os_12e7qwb",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-09-27",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "The BlkRoom",
+    "rawVenue": "The BlkRoom",
+    "hood": "East Garfield Park",
+    "headliners": [
+      {
+        "name": "The Brown Get Down",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.theblkroom.org/event-calendar/the-brown-get-down",
+    "poster": "https://images.squarespace-cdn.com/content/v1/65491ead7b54db38b7154d33/1789513584313-W0VSTAG3TJJOT65W3GL4/IMG_3252.JPG",
+    "venueInfo": {
+      "name": "The BlkRoom",
+      "address": "4015 W Carroll Ave Unit 204",
+      "city": "Chicago",
+      "url": "https://www.theblkroom.org"
     }
   },
   {
@@ -4988,6 +4694,38 @@
     }
   },
   {
+    "id": "os_1d2uu44",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-14",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "Harry Potter Trivia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.joesbar.com/livemusic-events/harrypottertrivia",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1790281807701-6ZPE5UE903H5KM35IL0K/2026.10.14_TriviaHarryPotter_16-9.jpg",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
+    }
+  },
+  {
     "id": "os_n5o4do",
     "source": "venue-site",
     "sourceList": [
@@ -7392,6 +7130,38 @@
     }
   },
   {
+    "id": "os_lr7qz8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "Halloween Trivia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.joesbar.com/livemusic-events/halloweentrivia",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1790286276210-BX0G9WIZ62UJHXTWRTAG/2026.10.28_TriviaHalloween_16-9.jpg",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
+    }
+  },
+  {
     "id": "os_4grtdn",
     "source": "venue-site",
     "sourceList": [
@@ -7952,7 +7722,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Lost Pyramids",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -8182,7 +7958,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "Lost Pyramids",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -9141,6 +8923,38 @@
     }
   },
   {
+    "id": "os_1t4c85l",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-18",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "rawVenue": "Joe's on Weed",
+    "hood": "Goose Island",
+    "headliners": [
+      {
+        "name": "Heated Rivalry Trivia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.joesbar.com/livemusic-events/heatedrivalarytrivia",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1790302024199-CG6G86G544O28SFID3QZ/2026.11.18_TriviaHeatedRivalry_16-9.jpg",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
+    }
+  },
+  {
     "id": "os_ns0s8h",
     "source": "venue-site",
     "sourceList": [
@@ -9837,7 +9651,7 @@
     }
   },
   {
-    "id": "os_bjjc6x",
+    "id": "os_s9x1h5",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -9850,7 +9664,7 @@
     "hood": "Goose Island",
     "headliners": [
       {
-        "name": "Hell on Heels: an immersive performance with western edge",
+        "name": "Hell on Heels: An Immersive Performance With Western Edge",
         "genre": "music",
         "role": "headliner"
       }
@@ -10390,6 +10204,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_fmz6h6",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-25",
+    "time": "11:00",
+    "slot": "afternoon",
+    "venue": "The Atlantic",
+    "rawVenue": "The Atlantic",
+    "hood": "Lincoln Square",
+    "headliners": [
+      {
+        "name": "Christmas",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "The Atlantic",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://theatlanticbarandgrill.com"
     }
   },
   {

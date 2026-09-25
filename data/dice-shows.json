@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_1tu81qn",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Thursday Social: Open Decks + Night Market",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/bbg82v-thursday-social-open-decks-night-market-24th-sep-spybar-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1gsff7a",
     "source": "dice",
     "sourceList": [
@@ -102,38 +70,6 @@
     }
   },
   {
-    "id": "dc_1d4or89",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-25",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Free Blues Friday featuring Bear Williams Trio",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/xe3emk-free-blues-friday-featuring-bear-williams-trio-25th-sep-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_9l3vl6",
     "source": "dice",
     "sourceList": [
@@ -154,7 +90,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 25,
+    "price": 30,
     "age": null,
     "ticketUrl": "https://dice.fm/event/dkd8lv-dam-swindle-25th-sep-spybar-chicago-tickets",
     "poster": "https://dice-media.imgix.net/attachments/2023-08-23/0e33f5e8-467d-478b-8903-99c4adf95b66.jpg?rect=0%2C54%2C532%2C532",
@@ -186,7 +122,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 24.72,
+    "price": 30.13,
     "age": null,
     "ticketUrl": "https://dice.fm/event/6dgvw3-arkived-presents-dusk-until-dawn-26th-sep-epiphany-center-for-the-arts-catacombs-chicago-tickets",
     "poster": null,
@@ -364,38 +300,6 @@
     }
   },
   {
-    "id": "dc_1bolebw",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-01",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Shwayze",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 39.33,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/7dwkvp-shwayze-the-nostalgia-tour-1st-oct-chop-shop-chicago-tickets",
-    "poster": "https://dice-media.imgix.net/attachments/2024-09-25/a6ab430d-2687-4e58-bc37-a1c9483eb763.jpg?rect=0%2C54%2C532%2C532",
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_2l17w3",
     "source": "dice",
     "sourceList": [
@@ -434,6 +338,38 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1bolebw",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-01",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Shwayze",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 39.33,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/7dwkvp-shwayze-the-nostalgia-tour-1st-oct-chop-shop-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2024-09-25/a6ab430d-2687-4e58-bc37-a1c9483eb763.jpg?rect=0%2C54%2C532%2C532",
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -535,33 +471,33 @@
     }
   },
   {
-    "id": "dc_8ssaus",
+    "id": "dc_77xzv6",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-14",
+    "date": "2026-10-13",
     "time": "20:00",
     "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
     "hood": null,
     "headliners": [
       {
-        "name": "It's The Great Pumpkin, Charlie Brown!: A Guitar for Guaraldi Tribute",
+        "name": "Derek Begrudgingly Presents: Jennifer’s Body ",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": "FREE",
+    "price": null,
     "age": null,
-    "ticketUrl": "https://dice.fm/event/eon3bw-its-the-great-pumpkin-charlie-brown-a-guitar-for-guaraldi-tribute-14th-oct-sleeping-village-chicago-tickets",
+    "ticketUrl": "https://dice.fm/event/ryob5v-derek-begrudgingly-presents-jennifers-body-13th-oct-color-club-chicago-tickets",
     "poster": null,
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -631,38 +567,6 @@
     }
   },
   {
-    "id": "dc_1tp8ese",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Artifact",
-    "rawVenue": "Artifact",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "House Calls w/ ALISHA",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/bbg52k-house-calls-w-alisha-30th-oct-artifact-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Artifact",
-      "address": "4325 North Ravenswood Avenue, Chicago, Illinois 60613, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_wee74e",
     "source": "dice",
     "sourceList": [
@@ -690,6 +594,38 @@
     "venueInfo": {
       "name": "Alhambra Palace",
       "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1tp8ese",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Artifact",
+    "rawVenue": "Artifact",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House Calls w/ ALISHA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/bbg52k-house-calls-w-alisha-30th-oct-artifact-chicago-tickets",
+    "poster": null,
+    "venueInfo": {
+      "name": "Artifact",
+      "address": "4325 North Ravenswood Avenue, Chicago, Illinois 60613, United States",
       "city": "Chicago",
       "url": null
     }
@@ -835,6 +771,38 @@
     }
   },
   {
+    "id": "dc_1t2acad",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-01",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Friday Pilots Club",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/3obwrx-friday-pilots-club-1st-nov-cobra-lounge-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb45824efe564f8b5f69419d11",
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_5g19ad",
     "source": "dice",
     "sourceList": [
@@ -862,6 +830,44 @@
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1v6g2ve",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-14",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "868",
+    "rawVenue": "868",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Caleb Jackson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "D Stone",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/v3lxdg-house-calls-w-caleb-jackson-b2b-d-stone-14th-nov-868-chicago-tickets",
+    "poster": "https://dice-i-scdn-co.imgix.net/image/ab6761610000e5eb29485e44b2e850544e1719d5",
+    "venueInfo": {
+      "name": "868",
+      "address": "868 North Franklin Street, Chicago, Illinois 60610, United States",
       "city": "Chicago",
       "url": null
     }
@@ -920,38 +926,6 @@
     }
   },
   {
-    "id": "dc_5cun3s",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-21",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Beat Kitchen",
-    "rawVenue": "Beat Kitchen",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Earlybirds Club - Madonna-rama",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 41.93,
-    "age": null,
-    "ticketUrl": "https://dice.fm/event/8e78xv-earlybirds-club-madonna-rama-21st-nov-beat-kitchen-chicago-tickets",
-    "poster": null,
-    "venueInfo": {
-      "name": "Beat Kitchen",
-      "address": "2100 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_15br0qq",
     "source": "dice",
     "sourceList": [
@@ -979,6 +953,44 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1julkmi",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-01-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "KatzPascale",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "ridgeclub",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": 24.72,
+    "age": null,
+    "ticketUrl": "https://dice.fm/event/k629yp-empty-bottle-presents-katzpascale-w-ridgeclub-30th-jan-epiphany-center-for-the-arts-epiphany-hall-chicago-tickets",
+    "poster": "https://dice-media.imgix.net/attachments/2026-04-30/eb73c732-3cd2-4251-8dee-4f08d3011cb2.jpg?rect=0%2C0%2C1024%2C1024",
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
