@@ -3136,70 +3136,6 @@
     }
   },
   {
-    "id": "vs_ufbrox",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Joshua Robertson and The Saints",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/joshua-robertson-and-the-saints/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-Joshua-Robertson-and-the-Saints-Fourth-Thursday.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    }
-  },
-  {
-    "id": "vs_1yplv55",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-25",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Ali w/ Junegrass, Andrew Harper",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-51.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_qnrb24",
     "source": "venue-site",
     "sourceList": [
@@ -3293,38 +3229,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1bo5bl4",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-25",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Bosman Twins Quintet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-42",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_d5fdb94fb8dd4741949ac2cf8c32a4fc~mv2.jpg/v1/fill/w_1359,h_764,al_c,q_85/8ffa2d_d5fdb94fb8dd4741949ac2cf8c32a4fc~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-42"
     }
   },
   {
@@ -3549,49 +3453,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1ywslcy",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-26",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Waterpennies",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Rat Johnson",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Persian Cowboy",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/rat-johnson-persian-cowboy-waterpennies-september-25-2026-746428",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/746/428/compressed/img20260420_22513111.jpg?1787794568",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -4398,6 +4259,38 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/patricia-barber-37"
+    }
+  },
+  {
+    "id": "vs_1fz6kv9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-01",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Cain Culto w/ Chillona, Neila",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-9.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -6364,6 +6257,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_z8102l",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-23",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Abigail Riccards Quartet - Motown Gems: The Music of Stevie Wonder, Smokey Robinson, and Aretha Franklin",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/abigail-riccards-quartet-motown-gems-the-music-of-stevie-wonder-smokey-robinson-and-aretha-franklin",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_73f1d8578f724e0b91d9219e31eeeb1e~mv2.jpg/v1/fill/w_2125,h_1983,al_c,q_90/8ffa2d_73f1d8578f724e0b91d9219e31eeeb1e~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/abigail-riccards-quartet-motown-gems-the-music-of-stevie-wonder-smokey-robinson-and-aretha-franklin"
     }
   },
   {
