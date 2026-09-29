@@ -1,48 +1,5 @@
 [
   {
-    "id": "aap_1cnj2c5",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-09-28",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Casa Cafe",
-    "rawVenue": "Casa Cafe",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "littleHEADbutt presents Mr. Phylzzz: The Killer Set Tour Homecoming Show with CARNIVORE MOMMY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "SCUF",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "& PIE",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/littleheadbutt-presents-mr-phylzzz-the-killer-set-tour-homecoming-show-with-carnivore-mommy-scuf-and-pie",
-    "poster": "https://chicago.askapunk.net/media/a65caaf9dc51ae5a794cc518220280ad.jpg",
-    "venueInfo": {
-      "name": "Casa Cafe",
-      "address": "2025 s western ave",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_3lr5lc",
     "source": "askapunk",
     "sourceList": [
@@ -211,7 +168,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://chicago.askapunk.net/event/de-rodillas",
-    "poster": null,
+    "poster": "https://chicago.askapunk.net/media/50feb20f174ec99d155924da68446e54.jpg",
     "venueInfo": {
       "name": "Lowdown",
       "address": "email lowdownchi.diy@gmail.com",
@@ -369,7 +326,7 @@
     }
   },
   {
-    "id": "aap_e6pz5f",
+    "id": "aap_1kvzp64",
     "source": "askapunk",
     "sourceList": [
       "askapunk"
@@ -377,8 +334,8 @@
     "date": "2026-10-09",
     "time": "19:00",
     "slot": "evening",
-    "venue": "TBD",
-    "rawVenue": "TBD",
+    "venue": "Bricktown",
+    "rawVenue": "Bricktown",
     "hood": null,
     "headliners": [
       {
@@ -392,10 +349,10 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://chicago.askapunk.net/event/iron-lung",
-    "poster": null,
+    "poster": "https://chicago.askapunk.net/media/954650f909add8adf8ea68de2397d5ce.jpg",
     "venueInfo": {
-      "name": "TBD",
-      "address": "TBD",
+      "name": "Bricktown",
+      "address": "Bricktown",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -642,6 +599,81 @@
     "venueInfo": {
       "name": "Logan Avondale VFW",
       "address": "3009 N Kedzie Ave, Chicago, IL 60618",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_rzihe0",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-18",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "la casa del migrante 3",
+    "rawVenue": "la casa del migrante 3",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "POLARITY CRISIS (ALASKAN PUNX!)",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/polarity-crisis-alaskan-punx",
+    "poster": "https://chicago.askapunk.net/media/649aa37e3161c5c9680b94bbb2b42249.jpg",
+    "venueInfo": {
+      "name": "la casa del migrante 3",
+      "address": "Email for addy",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1s3woay",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-20",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "The Atlantic Bar",
+    "rawVenue": "The Atlantic Bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Reveri3",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "human debt",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "SCUF",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/reveri3-human-debt-scuf",
+    "poster": "https://chicago.askapunk.net/media/ebb49fa14301323704926eb6e907a2e5.jpg",
+    "venueInfo": {
+      "name": "The Atlantic Bar",
+      "address": "5062 N Lincoln Ave",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
