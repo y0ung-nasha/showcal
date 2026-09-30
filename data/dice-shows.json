@@ -1,69 +1,5 @@
 [
   {
-    "id": "dc_i5t5ox",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-09-29",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "The CheckOut",
-    "rawVenue": "The CheckOut",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Balourdet Quartet “Strange Machines”: Album Showcase",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 18.34,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The CheckOut",
-      "address": "4116 North Clark Street, Chicago, Illinois 60613, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bolebw",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-01",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Shwayze - The Nostalgia Tour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 39.33,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_2l17w3",
     "source": "dice",
     "sourceList": [
@@ -91,6 +27,38 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1bolebw",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-01",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Shwayze - The Nostalgia Tour",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 49.01,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -192,6 +160,38 @@
     }
   },
   {
+    "id": "dc_13w28hq",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-02",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Willo",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1oxj3kz",
     "source": "dice",
     "sourceList": [
@@ -224,38 +224,6 @@
     }
   },
   {
-    "id": "dc_1warcft",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-03",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "World Music Fest: Saha Gnawa & Chamni Sripraram Thai Music Ensemble",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_jx9bo9",
     "source": "dice",
     "sourceList": [
@@ -283,6 +251,38 @@
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1warcft",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-03",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "World Music Fest: Saha Gnawa & Chamni Sripraram Thai Music Ensemble",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -352,6 +352,38 @@
     }
   },
   {
+    "id": "dc_fjyag4",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-08",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Ivy Lab",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_11sd0wc",
     "source": "dice",
     "sourceList": [
@@ -398,38 +430,6 @@
     "headliners": [
       {
         "name": "Victor Jones",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1wrf68i",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-16",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Millington / Malort & Savior / Latenightsinmycar.",
         "genre": "music",
         "role": "headliner"
       }
@@ -512,6 +512,38 @@
     }
   },
   {
+    "id": "dc_i7bw96",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-24",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "The Duplex",
+    "rawVenue": "The Duplex",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Love Jones R&B ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "The Duplex",
+      "address": "3137 West Logan Boulevard, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_wee74e",
     "source": "dice",
     "sourceList": [
@@ -539,70 +571,6 @@
     "venueInfo": {
       "name": "Alhambra Palace",
       "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_8swjzq",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-31",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sincere Engineer & Friends - Halloween Cover Set Show",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 30,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1ioddb3",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Everywhere Between: Halloween Edition",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -640,6 +608,38 @@
     }
   },
   {
+    "id": "dc_1ioddb3",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-31",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Everywhere Between: Halloween Edition",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_36qabt",
     "source": "dice",
     "sourceList": [
@@ -667,6 +667,38 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_8swjzq",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-31",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Sincere Engineer & Friends - Halloween Cover Set Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -763,38 +795,6 @@
     "venueInfo": {
       "name": "868",
       "address": "868 North Franklin Street, Chicago, Illinois 60610, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1ot4zz0",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-16",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Discontent / Ethic / Another Enemy / Viscera Crown / Suffering / Absent Soul / Kartika 55",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
