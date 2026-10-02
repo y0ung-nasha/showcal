@@ -1,69 +1,5 @@
 [
   {
-    "id": "dc_2l17w3",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-01",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "MILLIONAIRE$: \"My Sweet 16\" Part 2 Tour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bolebw",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-01",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Shwayze - The Nostalgia Tour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 49.01,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_92e2mj",
     "source": "dice",
     "sourceList": [
@@ -116,7 +52,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 36.05,
+    "price": 41.2,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -180,7 +116,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 15,
+    "price": 20,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -212,45 +148,13 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 36.7,
+    "price": 39.33,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_jx9bo9",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-03",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Inphinity & Beyond",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 15,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -288,6 +192,38 @@
     }
   },
   {
+    "id": "dc_jx9bo9",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-03",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Inphinity & Beyond",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_xkgdnu",
     "source": "dice",
     "sourceList": [
@@ -315,6 +251,38 @@
     "venueInfo": {
       "name": "Foundation Room",
       "address": "329 North Dearborn Street, Chicago, Illinois 60654, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1sdcdjq",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-04",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Outcast Jazz Band's Big Band Dance Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 24.72,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -372,7 +340,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": 35,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -512,20 +480,20 @@
     }
   },
   {
-    "id": "dc_i7bw96",
+    "id": "dc_ten03x",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-24",
-    "time": "21:00",
+    "date": "2026-10-21",
+    "time": "19:00",
     "slot": "evening",
-    "venue": "The Duplex",
-    "rawVenue": "The Duplex",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Love Jones R&B ",
+        "name": "THE ARMY, THE NAVY - THE FAKE BRAVE TOUR",
         "genre": "music",
         "role": "headliner"
       }
@@ -537,8 +505,40 @@
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "The Duplex",
-      "address": "3137 West Logan Boulevard, Chicago, Illinois 60647, United States",
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_bpa8bl",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Location TBA, Chicago",
+    "rawVenue": " Location TBA, Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "ALCHEMY OF THE ARTS HALLOWEEN ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Location TBA, Chicago",
+      "address": "Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -608,38 +608,6 @@
     }
   },
   {
-    "id": "dc_1ioddb3",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Everywhere Between: Halloween Edition",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_36qabt",
     "source": "dice",
     "sourceList": [
@@ -672,33 +640,33 @@
     }
   },
   {
-    "id": "dc_8swjzq",
+    "id": "dc_1ioddb3",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-10-31",
-    "time": "19:00",
+    "time": "21:00",
     "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Sincere Engineer & Friends - Halloween Cover Set Show",
+        "name": "Everywhere Between: Halloween Edition",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -736,65 +704,33 @@
     }
   },
   {
-    "id": "dc_5g19ad",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "IDEMI",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 32.06,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1v6g2ve",
+    "id": "dc_14veqix",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-11-14",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "868",
-    "rawVenue": "868",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Rockefeller Memorial Chapel",
+    "rawVenue": "Rockefeller Memorial Chapel",
     "hood": null,
     "headliners": [
       {
-        "name": "House Calls w/ Caleb Jackson B2B D Stone",
+        "name": "Reflections: William Basinski + Purelink",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 49.93,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "868",
-      "address": "868 North Franklin Street, Chicago, Illinois 60610, United States",
+      "name": "Rockefeller Memorial Chapel",
+      "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
       "city": "Chicago",
       "url": null
     }
@@ -864,33 +800,65 @@
     }
   },
   {
-    "id": "dc_1julkmi",
+    "id": "dc_lyx909",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2027-01-30",
-    "time": "20:00",
+    "date": "2026-12-04",
+    "time": "18:00",
     "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
     "hood": null,
     "headliners": [
       {
-        "name": "Empty Bottle presents KatzPascale w/ ridgeclub",
+        "name": "Lady Radiator",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 24.72,
+    "price": 29,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_f665mh",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-12-06",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Whores / Salvation / Daundry",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -923,6 +891,38 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_paihnx",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-04-03",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Paco Versailles - The Azúcar Tour",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 39.33,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }

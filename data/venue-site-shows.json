@@ -96,70 +96,6 @@
     }
   },
   {
-    "id": "vs_1ytaa1l",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-15",
-    "time": "20:30",
-    "slot": "evening",
-    "venue": "Elastic Arts",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Relative Intensity Noise — Elastic Arts Foundation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a554b782f55be51534b0532/1784048735138/DF59B42D-7477-4315-9501-2EFED9465233.png?format=1500w",
-    "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_g1qhmg",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-19",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Elastic Arts",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Pleiades Series: Emma Garau (MN), Mabel Kwan / Selina Trepp — Elastic Arts Foundation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6a5fe8c9c96fe6721da3d957/1784670544563/Pleiades+Series+%2825%29+%282%29.png?format=1500w",
-    "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
-    }
-  },
-  {
     "id": "vs_xlssce",
     "source": "venue-site",
     "sourceList": [
@@ -416,326 +352,6 @@
     }
   },
   {
-    "id": "vs_6riw8h",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_10glph9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_yorwa3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-30",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Andrew Toombs",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-andrew-toombs/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/05/Andrew-Toombs.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_16a5yln",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-31",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Bob Lark’s Alumni Big Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-bob-larks-alumni-big-band/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Bob-Lark.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_2za513",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-08-31",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Bob Lark’s Alumni Big Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-bob-larks-alumni-big-band/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Bob-Lark.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_efpr2n",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-01",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Chi-Town Trumpet Summit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_zat17f",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-01",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Chi-Town Trumpet Summit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1lhboyr",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1dqbupb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1wgsqn6",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-02",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Kevin Nabors Jr.",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-kevin-nabors-jr/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/08/Kevin-Nabors-Jr.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
     "id": "vs_11d334t",
     "source": "venue-site",
     "sourceList": [
@@ -765,102 +381,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_1dwggnz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_us7697",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_cgr2kk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-03",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Brian Citro",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-brian-citro/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Brian-Citro.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -896,198 +416,6 @@
     }
   },
   {
-    "id": "vs_l4njw1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With The Marques Carroll Quintet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-marques-carroll-quintet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_vrjxj1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With The Marques Carroll Quintet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-marques-carroll-quintet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_qzdvkm",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-04",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Thaddeus Tukes",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-with-thaddeus-tukes/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/12/Thaddeus-Tukes.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1j1q9w2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With The Marques Carroll Quintet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-marques-carroll-quintet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1tomnj2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With The Marques Carroll Quintet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-marques-carroll-quintet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_sg5v93",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-05",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Thaddeus Tukes",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-with-thaddeus-tukes/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/12/Thaddeus-Tukes.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
     "id": "vs_ljcxsy",
     "source": "venue-site",
     "sourceList": [
@@ -1117,326 +445,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_1p5x8l1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-06",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_jtvzup",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-06",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_h1qu7l",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-06",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Sunday Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_a7pz2o",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-07",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With The Heritage Jazz Orchestra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-heritage-jazz-orchestra/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Heritage-Jazz-Orchestra-1.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_kumcpo",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-07",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With The Heritage Jazz Orchestra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-heritage-jazz-orchestra/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Heritage-Jazz-Orchestra-1.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1ed08m9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-08",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Henry Johnson & Charles ‘Rick’ Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-henry-johnson-charles-rick-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/11/Henry-Johnson.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_x6evu5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-08",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Henry Johnson & Charles ‘Rick’ Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-henry-johnson-charles-rick-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/11/Henry-Johnson.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_r17umi",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-09",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_ja80d2",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-09",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1d1n3we",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-09",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Ben Paterson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-ben-paterson/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/04/Ben-Paterson-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -1472,102 +480,6 @@
     }
   },
   {
-    "id": "vs_g2hv7h",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1vzcmrt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1nr3hhh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-10",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/The Chicago Experiment",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-the-chicago-experiment/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Connor-Bernhard.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
     "id": "vs_1c80dct",
     "source": "venue-site",
     "sourceList": [
@@ -1600,102 +512,6 @@
     }
   },
   {
-    "id": "vs_1mrmfmb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-11",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mercurian Force feat. Isaiah Collier",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-isaiah-colliers-mercurian-force/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/12/Isaiah-Collier-Downbeat.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_e3589r",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-11",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mercurian Force feat. Isaiah Collier",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-isaiah-colliers-mercurian-force/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/12/Isaiah-Collier-Downbeat.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_t8cyzh",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-11",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/John Moulder",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-john-moulder/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/12/John-Moulder-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
     "id": "vs_152rcgs",
     "source": "venue-site",
     "sourceList": [
@@ -1725,102 +541,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_1311p0",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-12",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mercurian Force feat. Isaiah Collier",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-isaiah-colliers-mercurian-force/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/12/Isaiah-Collier-Downbeat.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_rfnwbk",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-12",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mercurian Force feat. Isaiah Collier",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-isaiah-colliers-mercurian-force/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/12/Isaiah-Collier-Downbeat.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1r5fozi",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-12",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/John Moulder",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-john-moulder/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/12/John-Moulder-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -1888,102 +608,6 @@
     }
   },
   {
-    "id": "vs_1qf80cz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-13",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_l36rmn",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-13",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_yyvukv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-13",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Sunday Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
     "id": "vs_1iqck2j",
     "source": "venue-site",
     "sourceList": [
@@ -2048,326 +672,6 @@
     }
   },
   {
-    "id": "vs_cgw8o8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-14",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With The Blueshift Big Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-blueshift-big-band/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Blue-Shift-Big-Band.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_hemrn8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-14",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With The Blueshift Big Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-blueshift-big-band/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Blue-Shift-Big-Band.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_xvnlhw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-15",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Chi-Town Trumpet Summit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1iqqvmo",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-15",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Chi-Town Trumpet Summit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1cr57oo",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-16",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1505df8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-16",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_157yak",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-16",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Ben Paterson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-ben-paterson/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/04/Ben-Paterson-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_10l5ezo",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-17",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_hgw4kw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-17",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1vpqqqx",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-17",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Brian Citro",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-brian-citro/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Brian-Citro.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
     "id": "vs_r640iv",
     "source": "venue-site",
     "sourceList": [
@@ -2397,294 +701,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_hocawb",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-18",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Shea Givens",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-shea-givens/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/03/Shea-Givens.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1xl72gn",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-18",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Shea Givens",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-shea-givens/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/03/Shea-Givens.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_16f0zjw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-18",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Isaiah Spencer",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-saiah-spencer/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Isaiah-Spencer-4.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_ur5yks",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-19",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Shea Givens",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-shea-givens/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/03/Shea-Givens.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_bmwo60",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-19",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Shea Givens",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-shea-givens/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/03/Shea-Givens.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_17vsz8d",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-19",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Isaiah Spencer",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-saiah-spencer/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Isaiah-Spencer-4.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1rois4x",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-20",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_mchjel",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-20",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Andy Brown Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1gw0uy5",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-20",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Sunday Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -2720,326 +736,6 @@
     }
   },
   {
-    "id": "vs_y13xqv",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-21",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With The Tom Garling Jazz Orchestra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-tom-garling-jazz-orchestra/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Tom-Garling-Jazz-Orchestra.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1a27pcz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-21",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With The Tom Garling Jazz Orchestra",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-tom-garling-jazz-orchestra/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Tom-Garling-Jazz-Orchestra.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_f2sn4g",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-22",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Tenor Time",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-tenor-tim/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1cxr1y4",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-22",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Tenor Time",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-tenor-time/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1yh2kqu",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-23",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1qq2qhe",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-23",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Charles Heath",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_o9wunu",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-23",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Ben Paterson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-ben-paterson/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/04/Ben-Paterson-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_2r6tj6",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1io1l3i",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mario Abney",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_k8ckei",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-24",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/The Chicago Experiment",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-the-chicago-experiment/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Connor-Bernhard.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
     "id": "vs_142knrr",
     "source": "venue-site",
     "sourceList": [
@@ -3069,198 +765,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_qnrb24",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-25",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mallard and Hedez",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mallard-and-hedez/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Mallard-and-Hedez.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_18s26yw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-25",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mallard and Hedez",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mallard-and-hedez/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Mallard-and-Hedez.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_3a4qe8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-25",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Walker Landgraf",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-walker-landgraf/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/08/Walker-Landgraf-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1isbfkt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-26",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Mallard and Hedez",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mallard-and-hedez/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Mallard-and-Hedez.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1vi9ih",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-26",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Mallard and Hedez",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mallard-and-hedez/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Mallard-and-Hedez.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1fnsftt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-26",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "rawVenue": null,
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Walker Landgraf",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-walker-landgraf/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/08/Walker-Landgraf-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -3520,38 +1024,6 @@
     }
   },
   {
-    "id": "vs_hpqf3c",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-30",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Metro Presents… Olof Dreijer (Live) w/ Ariel Zetina",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-10.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_l5vvtw",
     "source": "venue-site",
     "sourceList": [
@@ -3645,70 +1117,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1qgp6f4",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-09-30",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Patricia Barber",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/patricia-barber-37",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_d4823fc0f6ec478ea6531e7a9b064220~mv2.jpg/v1/fill/w_2878,h_1841,al_c,q_90/8ffa2d_d4823fc0f6ec478ea6531e7a9b064220~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/patricia-barber-37"
-    }
-  },
-  {
-    "id": "vs_1fz6kv9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-01",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Cain Culto w/ Chillona, Neila",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/07/imagsdfe-9.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -3808,70 +1216,6 @@
     }
   },
   {
-    "id": "vs_1vjh3q9",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-01",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Comedy Open Mic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-september-30-2026-717990",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/990/compressed/IMG_9453_2.jpg?1781551195",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
-    "id": "vs_3dzhp1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-01",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Spotlight On:  Alfonso Ponticelli",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/spotlight-on-alfonso-ponticelli",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_e449d8f81f88416688636b789eb0d582~mv2.jpg/v1/fill/w_2560,h_1707,al_c,q_90/8ffa2d_e449d8f81f88416688636b789eb0d582~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/spotlight-on-alfonso-ponticelli"
-    }
-  },
-  {
     "id": "vs_k7teiv",
     "source": "venue-site",
     "sourceList": [
@@ -3901,38 +1245,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_p3ej3w",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-01",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tyvon 'Tank' Rice",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/tyvon-tank-rice/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-TYVON-UNRLSD-First-Thursday.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -4061,38 +1373,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_akb6nx",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-02",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "KEG Halloween Special featuring Max Huffman, Sam Szabo, HINK, Gabriel Mason Howell, Lance Orr, Biz",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/keg-halloween-special-featuring-max-huffman-sam-szabo-hink-gabriel-mason-howell-lance-orr-biz-october-01-2026-750332",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/750/332/compressed/Untitled_-_August_30__2026_21.58.09_%287%29.jpg?1788915167",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -4523,6 +1803,102 @@
     }
   },
   {
+    "id": "vs_g03phn",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_19p6iqf",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_15kg5fr",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Sunday Soul",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_1tvqn3h",
     "source": "venue-site",
     "sourceList": [
@@ -4662,6 +2038,102 @@
     }
   },
   {
+    "id": "vs_1hqxwid",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-05",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night w/ Panic Priest (DJ) & Purity Culture",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/09/imagsdfe-55.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_120onty",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Heritage Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-heritage-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Heritage-Jazz-Orchestra-1.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1cnl1gy",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Heritage Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-heritage-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Heritage-Jazz-Orchestra-1.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_qxkit6",
     "source": "venue-site",
     "sourceList": [
@@ -4702,6 +2174,70 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_ao0gi4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-06",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_vj3qmw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-06",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -4766,6 +2302,102 @@
       "address": "3734 W Belmont Ave, ",
       "city": null,
       "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_13l14ps",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-07",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_vu1agc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-07",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_5thqok",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-07",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Ben Paterson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-ben-paterson/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/04/Ben-Paterson-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -4841,6 +2473,102 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-roberta-flack"
+    }
+  },
+  {
+    "id": "vs_1dfffoc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-08",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_ub659k",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-08",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_3a6zmp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-08",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Brian Citro",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-brian-citro/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Brian-Citro.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -5001,6 +2729,102 @@
       "address": "3734 W Belmont Ave, ",
       "city": null,
       "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_emez9d",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Neal Alger’s Here & Now",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-neal-algers-here-now/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Neal-Alger.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1a0qjkd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Neal Alger’s Here & Now",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-neal-algers-here-now/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Neal-Alger.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1m8tngc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-09",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/John Moulder",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-john-moulder/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/12/John-Moulder-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -5175,6 +2999,134 @@
     }
   },
   {
+    "id": "vs_1tzhg1k",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-10",
+    "time": "10:00",
+    "slot": "afternoon",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "BUMP. DISCO w/ NAOMI SMALLS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/09/imagsdfe-1.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
+    "id": "vs_z9mejd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-10",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Neal Alger’s Here & Now",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-neal-algers-here-now/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Neal-Alger.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1unxyud",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-10",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Neal Alger’s Here & Now",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-neal-algers-here-now/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Neal-Alger.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_jxabro",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-10",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/John Moulder",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-john-moulder/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/12/John-Moulder-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_19cfhj",
     "source": "venue-site",
     "sourceList": [
@@ -5334,6 +3286,102 @@
     }
   },
   {
+    "id": "vs_h9eh9l",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-11",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1ayhaid",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-11",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1nhl5t1",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-11",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Sunday Soul",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_um5oqb",
     "source": "venue-site",
     "sourceList": [
@@ -5436,6 +3484,70 @@
     }
   },
   {
+    "id": "vs_1ozrwfy",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-12",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Blueshift Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-blueshift-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Blue-Shift-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1txifey",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-12",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Blueshift Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-blueshift-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Blue-Shift-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_f4ji9u",
     "source": "venue-site",
     "sourceList": [
@@ -5476,6 +3588,166 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1awsqj9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-13",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Henry Johnson & Charles ‘Rick’ Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-henry-johnson-charles-rick-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/11/Henry-Johnson.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_tq7dr5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-13",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Henry Johnson & Charles ‘Rick’ Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-henry-johnson-charles-rick-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/11/Henry-Johnson.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1payhry",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-14",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1hjynii",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-14",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_sy6n1u",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-14",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Ben Paterson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-ben-paterson/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/04/Ben-Paterson-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -5572,6 +3844,102 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_flgu7u",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-15",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1vibls6",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-15",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_3xbcci",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-15",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/The Chicago Experiment",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-the-chicago-experiment/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Connor-Bernhard.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -5703,6 +4071,102 @@
     }
   },
   {
+    "id": "vs_1nna4c7",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-16",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_gzrjlv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-16",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1qecj82",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-16",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Isaiah Spencer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-saiah-spencer/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Isaiah-Spencer-4.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_ruwoi0",
     "source": "venue-site",
     "sourceList": [
@@ -5810,6 +4274,102 @@
     }
   },
   {
+    "id": "vs_1c0ue48",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-17",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_5dbtdw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-17",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1rv4iwj",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-17",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Isaiah Spencer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-saiah-spencer/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Isaiah-Spencer-4.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_18yfzba",
     "source": "venue-site",
     "sourceList": [
@@ -5914,6 +4474,102 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1epahgw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-18",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_9d98qk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-18",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_psbrn0",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-18",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Sunday Soul",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -6056,6 +4712,230 @@
     }
   },
   {
+    "id": "vs_6v81sm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-19",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Tom Garling Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-tom-garling-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Tom-Garling-Jazz-Orchestra.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_iwbteq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-19",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Tom Garling Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-tom-garling-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Tom-Garling-Jazz-Orchestra.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1rb9ufc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-20",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_d592l0",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-20",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_bzrsv0",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_48rylk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1g2vjf4",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-21",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Ben Paterson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-ben-paterson/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/04/Ben-Paterson-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_np0rfg",
     "source": "venue-site",
     "sourceList": [
@@ -6117,6 +4997,102 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/alex-austin-trio-with-guest-vocalist-abigail-riccards-2"
+    }
+  },
+  {
+    "id": "vs_1gsmaqg",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-22",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_xod0bo",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-22",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_134h0d9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-22",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Brian Citro",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-brian-citro/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/07/Brian-Citro.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -6248,6 +5224,102 @@
     }
   },
   {
+    "id": "vs_7ym5ow",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-23",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Victor Garcia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-victor-garcia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/08/Victor-Garcia.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_7mbfg",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-23",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Victor Garcia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-victor-garcia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/08/Victor-Garcia.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_ndp9rq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-23",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Walker Landgraf",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-walker-landgraf/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/08/Walker-Landgraf-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_140fobv",
     "source": "venue-site",
     "sourceList": [
@@ -6347,6 +5419,102 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1878hwx",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-24",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Victor Garcia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-victor-garcia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/08/Victor-Garcia.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_10g8nnh",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-24",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Victor Garcia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-victor-garcia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/08/Victor-Garcia.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_q8x87",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-24",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Walker Landgraf",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-walker-landgraf/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/08/Walker-Landgraf-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -6486,6 +5654,102 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_1fyl98u",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-25",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_amk0ii",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-25",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_17pgs0a",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-25",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Sunday Soul",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-sunday-soul/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Alex-Beltran-Rift.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -6633,6 +5897,70 @@
     }
   },
   {
+    "id": "vs_1bhwfd1",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-26",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Shout Section Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-shout-section-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Shout-Section-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_lzn7f5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-26",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Shout Section Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-shout-section-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Shout-Section-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_130gokx",
     "source": "venue-site",
     "sourceList": [
@@ -6676,6 +6004,102 @@
     }
   },
   {
+    "id": "vs_41hb19",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-26",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Numero Group",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/emo-happy-hour-october-26-2026-758853",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/758/853/compressed/cropped-event-image.jpg?1790797049",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1m41m3x",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-27",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Tenor Time",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-tenor-tim/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_kxvyyh",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-27",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Tenor Time",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-tenor-time/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
     "id": "vs_1bctfhl",
     "source": "venue-site",
     "sourceList": [
@@ -6705,6 +6129,198 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1gks0hv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_18ts68f",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_5dydiv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Ben Paterson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-ben-paterson/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/04/Ben-Paterson-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1c58jwf",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-28",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Patricia Barber",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/patricia-barber-38",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_dec47f9b3957403d9dacac6cd0efe566~mv2.jpg/v1/fill/w_5184,h_3404,al_c,q_90/8ffa2d_dec47f9b3957403d9dacac6cd0efe566~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/patricia-barber-38"
+    }
+  },
+  {
+    "id": "vs_2a5sjj",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-29",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1i70k3v",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-29",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -6740,6 +6356,38 @@
     }
   },
   {
+    "id": "vs_1bucxla",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-29",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chris White Quartet - It's the Great Pumpkin, Charlie Brown!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/chris-white-quartet-its-the-great-pumpkin-charlie-brown-6",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_e2153385a6554474848cb9f69997e61f~mv2.jpg/v1/fill/w_3000,h_1865,al_c,q_90/8ffa2d_e2153385a6554474848cb9f69997e61f~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/chris-white-quartet-its-the-great-pumpkin-charlie-brown-6"
+    }
+  },
+  {
     "id": "vs_hrp948",
     "source": "venue-site",
     "sourceList": [
@@ -6769,6 +6417,102 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
+    }
+  },
+  {
+    "id": "vs_1oa329o",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-30",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With New Nostalgia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-new-nostalgia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1gj3808",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-30",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With New Nostalgia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-new-nostalgia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1pdcfvv",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-30",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Frank Russell",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-frank-russell/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Frank-Russell-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -6804,6 +6548,38 @@
     }
   },
   {
+    "id": "vs_12ul3kp",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Tyce’s Halloween Birthday party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://static.wixstatic.com/media/17e034_5894966c715d46c8b66c7ca73e9749d5~mv2.png/v1/fill/w_1024,h_1536,al_c/17e034_5894966c715d46c8b66c7ca73e9749d5~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/tyces-halloween-birthday-party"
+    }
+  },
+  {
     "id": "vs_kjf0yz",
     "source": "venue-site",
     "sourceList": [
@@ -6833,6 +6609,102 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_phlcil",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-31",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With New Nostalgia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-new-nostalgia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_hqli95",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-31",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With New Nostalgia",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-new-nostalgia/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_1871eb0",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-31",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Late Night Concert Series w/Frank Russell",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-frank-russell/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Frank-Russell-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     }
   },
   {
@@ -6876,6 +6748,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1jl08k",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-31",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Elastic Arts",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House of Horrors: Return of the Acidman — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6abebe191a52e7222de602c0/1790885580255/ELASTIC+HOH+FLYER.png?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
     }
   },
   {
@@ -7449,6 +7353,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1wfz4s3",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-05",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Elastic Arts",
+    "rawVenue": null,
+    "hood": null,
+    "headliners": [
+      {
+        "name": "AIRMW Arts Initiatives Presents: Syzygia — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6abec5df6ee0000cd21899c9/1790887526602/Syzygia+member+collage.png?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
     }
   },
   {
