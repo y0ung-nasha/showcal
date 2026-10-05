@@ -1,133 +1,5 @@
 [
   {
-    "id": "dc_1mgo5t3",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-04",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Secret Location - Chicago",
-    "rawVenue": "Secret Location - Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "\"Hello?!\" Sundays Closing Party w/ Getbusy",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Secret Location - Chicago",
-      "address": "Chicago, IL, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_14253fc",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-04",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Girl In A Coma / Beastii / Bussy Kween Power Trip",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 33,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1sdcdjq",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-04",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Outcast Jazz Band's Big Band Dance Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 24.72,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1bl29c5",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-04",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jenna Raine",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1o4boei",
     "source": "dice",
     "sourceList": [
@@ -276,13 +148,45 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": 32.06,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1rh9jtt",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-10",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Hoste",
+    "rawVenue": "Hoste",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Jazz Crates: 70's & 80's Soul + R&B on Vinyl",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Hoste",
+      "address": "1857 West 16th Street, Chicago, Illinois 60608, United States",
       "city": "Chicago",
       "url": null
     }
@@ -315,6 +219,38 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_8ssaus",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-14",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "It's The Great Pumpkin, Charlie Brown!: A Guitar for Guaraldi Tribute",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -448,6 +384,38 @@
     }
   },
   {
+    "id": "dc_1jb25gl",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-17",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Notes for Peace",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_15jzebx",
     "source": "dice",
     "sourceList": [
@@ -512,7 +480,7 @@
     }
   },
   {
-    "id": "dc_lfvt9t",
+    "id": "dc_1cziix8",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -525,7 +493,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "The Rat Utopia Experiment",
+        "name": "The Rat Utopia Experiment / Broken Demeanor",
         "genre": "music",
         "role": "headliner"
       }
@@ -539,6 +507,38 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1uprhri",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-22",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "LAVENDER: Queer Dance Social",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -608,38 +608,6 @@
     }
   },
   {
-    "id": "dc_4hkn5m",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-30",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Philippa Pacho ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_wee74e",
     "source": "dice",
     "sourceList": [
@@ -667,6 +635,38 @@
     "venueInfo": {
       "name": "Alhambra Palace",
       "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1tp8ese",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Artifact",
+    "rawVenue": "Artifact",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House Calls w/ ALISHA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Artifact",
+      "address": "4325 North Ravenswood Avenue, Chicago, Illinois 60613, United States",
       "city": "Chicago",
       "url": null
     }
@@ -852,7 +852,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 49.93,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
