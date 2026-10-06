@@ -1,69 +1,5 @@
 [
   {
-    "id": "os_p3vwlo",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-05",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Tommy Muellner Album Release - Solitary Moon",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13101/?date=2026-10-05",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_1prbkkz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-05",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383799",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
     "id": "os_1j0vnmt",
     "source": "venue-site",
     "sourceList": [
@@ -778,7 +714,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "BQ Funk",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -1066,7 +1008,13 @@
         "role": "headliner"
       }
     ],
-    "openers": [],
+    "openers": [
+      {
+        "name": "BQ Funk",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
     "genres": [],
     "price": null,
     "age": null,
@@ -1871,6 +1819,38 @@
     }
   },
   {
+    "id": "os_n1j6wi",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-11",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-october11",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785944359417-D9WPIL5DGKEBR2HVUVQ5/BABY+J+SUNDAY+OFFICIAL+edited.jpg",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_1cpk56e",
     "source": "venue-site",
     "sourceList": [
@@ -1967,7 +1947,7 @@
     }
   },
   {
-    "id": "os_5qlek5",
+    "id": "os_u0ch9g",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -1980,7 +1960,7 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Every Damn Tuesday: Dave Herrero feat. Pete Galanis",
+        "name": "Every Damn Tuesday: Nate Manos feat. Pete Galanis",
         "genre": "music",
         "role": "headliner"
       }
@@ -1989,8 +1969,8 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385457",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
+    "ticketUrl": "https://www.rosaslounge.com/shows/390698",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/77395/full/data",
     "venueInfo": {
       "name": "Rosa's Lounge",
       "address": "3420 W Armitage Ave.",
@@ -1999,7 +1979,7 @@
     }
   },
   {
-    "id": "os_5qlek5",
+    "id": "os_u0ch9g",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -2012,7 +1992,7 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Every Damn Tuesday: Dave Herrero feat. Pete Galanis",
+        "name": "Every Damn Tuesday: Nate Manos feat. Pete Galanis",
         "genre": "music",
         "role": "headliner"
       }
@@ -2021,8 +2001,8 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385458",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
+    "ticketUrl": "https://www.rosaslounge.com/shows/390699",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/77395/full/data",
     "venueInfo": {
       "name": "Rosa's Lounge",
       "address": "3420 W Armitage Ave.",
@@ -3460,6 +3440,38 @@
       "address": "7401 S South Chicago Ave",
       "city": "Chicago",
       "url": "https://www.leesunleadedblues.com"
+    }
+  },
+  {
+    "id": "os_xdhffd",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-18",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-october18",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785944359417-D9WPIL5DGKEBR2HVUVQ5/BABY+J+SUNDAY+OFFICIAL+edited.jpg",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {
@@ -6575,6 +6587,38 @@
     }
   },
   {
+    "id": "os_s5fkky",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-01",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Baby J & Golden Street Reggae Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-november1",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785944359417-D9WPIL5DGKEBR2HVUVQ5/BABY+J+SUNDAY+OFFICIAL+edited.jpg",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_b9ypva",
     "source": "venue-site",
     "sourceList": [
@@ -6872,6 +6916,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1j87wfc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-07",
+    "time": null,
+    "slot": null,
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "SQUATS AND JUKE MUSIC (Exercise Class )",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "18+",
+    "ticketUrl": "https://www.ticketweb.com/event/squats-and-juke-music-reggies-rock-club-tickets/14364244",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
     }
   },
   {
@@ -9040,6 +9116,70 @@
     }
   },
   {
+    "id": "os_1cnu5h0",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-14",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Preservation Hall Jazz Band Creole Xmas",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/preservation-hall-jazz-band-creole-xmas-chicago-illinois-12-14-2026/event/040065417E2044B2",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1cnu5h0",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-14",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Preservation Hall Jazz Band Creole Xmas",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/preservation-hall-jazz-band-creole-xmas-chicago-illinois-12-14-2026/event/040065417E2244B7",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
     "id": "os_1r2nm2b",
     "source": "venue-site",
     "sourceList": [
@@ -9101,6 +9241,70 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    }
+  },
+  {
+    "id": "os_1nbsmk6",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-16",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Preservation Hall Jazz Band Creole Xmas",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/preservation-hall-jazz-band-creole-xmas-chicago-illinois-12-16-2026/event/040065417E2544B9",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1nbsmk6",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-16",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Preservation Hall Jazz Band Creole Xmas",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/preservation-hall-jazz-band-creole-xmas-chicago-illinois-12-16-2026/event/040065417E2744C7",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     }
   },
   {
