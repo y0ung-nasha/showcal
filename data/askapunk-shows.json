@@ -235,6 +235,38 @@
     }
   },
   {
+    "id": "aap_pcsk4q",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-15",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Live Wire Lounge",
+    "rawVenue": "Live Wire Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Live Wire Lounge",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/live-wire-lounge",
+    "poster": "https://chicago.askapunk.net/media/453f26ef5609923477bb41b699365838.jpg",
+    "venueInfo": {
+      "name": "Live Wire Lounge",
+      "address": "3394 N Milwaukee",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_gtqi61",
     "source": "askapunk",
     "sourceList": [
@@ -348,6 +380,38 @@
     "venueInfo": {
       "name": "The Atlantic Bar",
       "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_h0o8jf",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-22",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Wzrd / NEIU Student lounge",
+    "rawVenue": "Wzrd / NEIU Student lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Wzrd Halloween Spookeacula",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/wzrd-halloween-spookeacula",
+    "poster": "https://chicago.askapunk.net/media/10701d9629676c069b0e1d05c41a693d.jpg",
+    "venueInfo": {
+      "name": "Wzrd / NEIU Student lounge",
+      "address": "5500 N. St. Louis Ave. Chicago, IL.",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
