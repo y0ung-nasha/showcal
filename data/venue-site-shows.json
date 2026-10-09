@@ -1920,38 +1920,6 @@
     }
   },
   {
-    "id": "vs_11nyxmz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-08",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Hinda Hoffman Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/hinda-hoffman-quartet-2",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_34c7a5843c2a42978a86aa88801135c2~mv2.jpg/v1/fill/w_866,h_866,al_c,q_85/8ffa2d_34c7a5843c2a42978a86aa88801135c2~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/hinda-hoffman-quartet-2"
-    }
-  },
-  {
     "id": "vs_gvhvgv",
     "source": "venue-site",
     "sourceList": [
@@ -1981,38 +1949,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_uclu31",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-08",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The Masters Collection with Tracy Baker",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/the-masters-collection-with-tracy-baker/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-Tracy-Baker-Masters-Collection-Second-Thursday.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -2141,49 +2077,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_ffqi6t",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-09",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "The Scummies",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Sparkling Urbana",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Color To Use",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/the-scummies-sparkling-urbana-color-to-use-october-08-2026-736747",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/736/747/compressed/open-uri20260827-869-vgm3c9.jpg?1787798849",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -5438,7 +5331,7 @@
     }
   },
   {
-    "id": "vs_zw4iot",
+    "id": "vs_nlzphk",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5451,17 +5344,12 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "8-bit crEEps",
+        "name": "Rocco Desgres",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [
-      {
-        "name": "Rocco Desgres",
-        "genre": "music",
-        "role": "opener"
-      },
       {
         "name": "Tommy Bravos",
         "genre": "music",
@@ -5477,7 +5365,7 @@
     "price": null,
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/halloween-80s-covers-tommy-bravos-8-bit-creeps-rocco-desgres-jack-reidy-october-24-2026-750334",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/750/334/compressed/Screenshot_2026-09-08_202844.jpg?1788918124",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/750/334/compressed/IMG_0679.jpg?1791478818",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -6532,6 +6420,38 @@
     }
   },
   {
+    "id": "vs_ux4y57",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-31",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Lee's Unleaded Blues",
+    "rawVenue": "Lee's Unleaded Blues",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Halloween Blues - Our Live Blues and Halloween Show with Tazz The Musician & Halloween Costume Party ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://static.wixstatic.com/media/17e034_18565932db53421890c799be85be557d~mv2.png/v1/fill/w_1024,h_1536,al_c/17e034_18565932db53421890c799be85be557d~mv2.png",
+    "venueInfo": {
+      "name": "Lee's Unleaded Blues",
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/halloween-blues-our-live-blues-and-halloween-show-with-tazz-the-musician-halloween-costume-party"
+    }
+  },
+  {
     "id": "vs_1s62eay",
     "source": "venue-site",
     "sourceList": [
@@ -6705,6 +6625,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_19u77im",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-05",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Jeremy Kahn Trio with special guest Stephanie Browning - Party Like It’s 1998: A Gold Star Star Sardine Bar Reunion",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/jeremy-kahn-trio-with-special-guest-stephanie-browning-party-like-its-1998-a-gold-star-star-sardine-bar-reunion-2",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_e44c064b8caa45abb24af5f612f32349~mv2.jpg/v1/fill/w_960,h_640,al_c,q_85/8ffa2d_e44c064b8caa45abb24af5f612f32349~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/jeremy-kahn-trio-with-special-guest-stephanie-browning-party-like-its-1998-a-gold-star-star-sardine-bar-reunion-2"
     }
   },
   {
@@ -7089,49 +7041,6 @@
     }
   },
   {
-    "id": "vs_11aav7g",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-21",
-    "time": "03:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "The Last Living Finch",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Fighting Island",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Future Nest",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/pr-the-last-living-finch-fighting-island-future-nest-november-20-2026-750880",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/750/880/compressed/open-uri20261003-890-pc9wn9.jpg?1791052337",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    }
-  },
-  {
     "id": "vs_15n2ah6",
     "source": "venue-site",
     "sourceList": [
@@ -7167,6 +7076,49 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/wht-rbbt-obj-lady-loomis-rana-november-21-2026-750877",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/750/877/compressed/IMG_0559.jpg?1790692486",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_303mda",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-23",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "The Last Living Finch",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Fighting Island",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Future Nest",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/pr-the-last-living-finch-fighting-island-future-nest-november-20-2026-750880",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/750/880/compressed/open-uri20261003-890-pc9wn9.jpg?1791052337",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",

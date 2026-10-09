@@ -1,69 +1,5 @@
 [
   {
-    "id": "dc_fjyag4",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-08",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Ivy Lab",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 35,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_11zxfiy",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-08",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Greywind / High Wire / Long Gone / Rodeo",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_jqnz61",
     "source": "dice",
     "sourceList": [
@@ -84,7 +20,135 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 26,
+    "price": 33,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_7xtk2d",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-09",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Supergloss",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_k2alev",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-09",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Judson & Moore Distillery",
+    "rawVenue": "Judson & Moore Distillery",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "National Coming Out Day & New Music Release Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Judson & Moore Distillery",
+      "address": "3057 North Rockwell Street, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_y7j4ia",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-09",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Rinzen",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1u4dupd",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-09",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Bitter Thoughts / Kingslayer / Absent Soul / Southover / Kartika55",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 17,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -116,7 +180,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30.9,
+    "price": 33.99,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -128,33 +192,33 @@
     }
   },
   {
-    "id": "dc_11sd0wc",
+    "id": "dc_1e0opxn",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-10",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
+    "date": "2026-10-09",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
     "hood": null,
     "headliners": [
       {
-        "name": "Jazzy",
+        "name": "The Sidequest Tour: A Music and Drag Wrestling Variety Show",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 32.06,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -192,6 +256,38 @@
     }
   },
   {
+    "id": "dc_11sd0wc",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-10",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Jazzy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 32.06,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_eo0sp8",
     "source": "dice",
     "sourceList": [
@@ -219,6 +315,38 @@
     "venueInfo": {
       "name": "Bassment",
       "address": "353 West Hubbard Street, Chicago, Illinois 60654, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1tzhg1k",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-10",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "BUMP. DISCO w/ NAOMI SMALLS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -352,70 +480,6 @@
     }
   },
   {
-    "id": "dc_iyoxzp",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-16",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Derek Begrudgingly Presents: Jennifer’s Body ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1wrf68i",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-16",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Millington / Malort & Savior / Latenightsinmycar.",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1eicyir",
     "source": "dice",
     "sourceList": [
@@ -544,45 +608,13 @@
     }
   },
   {
-    "id": "dc_18gr4mb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-24",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Slo 'Mo: BLACK CAT",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1u19ppb",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-10-28",
-    "time": "19:00",
+    "time": "18:30",
     "slot": "evening",
     "venue": "Epiphany Center for the Arts - Epiphany Hall",
     "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
@@ -640,33 +672,33 @@
     }
   },
   {
-    "id": "dc_wee74e",
+    "id": "dc_1mk8dyl",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-10-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Alhambra Palace",
-    "rawVenue": "Alhambra Palace",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
     "hood": null,
     "headliners": [
       {
-        "name": "+area code w/ SKREAM all night long",
+        "name": "Joss Dean",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 25,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Alhambra Palace",
-      "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -768,12 +800,12 @@
     }
   },
   {
-    "id": "dc_muqdn9",
+    "id": "dc_zesvf0",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-06",
+    "date": "2026-11-03",
     "time": "21:00",
     "slot": "evening",
     "venue": "Sleeping Village",
@@ -781,84 +813,20 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Leenalchi w/ Clickbait",
+        "name": "Wine Lips",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 25.75,
+    "price": 24.72,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_mt48qq",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "MUSIQA BALADI: Lionessa & Nanoos w/ Passion Puree",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_14veqix",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Rockefeller Memorial Chapel",
-    "rawVenue": "Rockefeller Memorial Chapel",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Reflections: William Basinski + Purelink",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Rockefeller Memorial Chapel",
-      "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
       "city": "Chicago",
       "url": null
     }
@@ -960,33 +928,33 @@
     }
   },
   {
-    "id": "dc_paihnx",
+    "id": "dc_109xl5q",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2027-04-03",
+    "date": "2026-12-11",
     "time": "21:00",
     "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
+    "venue": "868",
+    "rawVenue": "868",
     "hood": null,
     "headliners": [
       {
-        "name": "Paco Versailles - The Azúcar Tour",
+        "name": "House Calls w/ Arapu",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 39.33,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "name": "868",
+      "address": "868 North Franklin Street, Chicago, Illinois 60610, United States",
       "city": "Chicago",
       "url": null
     }
