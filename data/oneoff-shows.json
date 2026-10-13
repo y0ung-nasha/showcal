@@ -1,69 +1,5 @@
 [
   {
-    "id": "os_5oekz4",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-12",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Carmen sings Monk",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/13102/?date=2026-10-12",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_1s9qqtt",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-12",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/383800",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
     "id": "os_u0ch9g",
     "source": "venue-site",
     "sourceList": [
@@ -2130,7 +2066,7 @@
     ],
     "openers": [
       {
-        "name": "Daniel Ray Hillsinger",
+        "name": "Daniel Ray Hilsinger",
         "genre": "music",
         "role": "opener"
       }
@@ -8885,6 +8821,38 @@
     }
   },
   {
+    "id": "os_1jrgabm",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-23",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "rawVenue": "Reggies Rock Club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "ROTTING OUT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "ALL AGES",
+    "ticketUrl": "https://www.ticketweb.com/event/rotting-out-fuerza-bruta-reggies-rock-club-tickets/14377704",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    }
+  },
+  {
     "id": "os_1vx6d21",
     "source": "venue-site",
     "sourceList": [
@@ -11554,6 +11522,70 @@
       "address": "5062 N Lincoln Ave",
       "city": "Chicago",
       "url": "https://theatlanticbarandgrill.com"
+    }
+  },
+  {
+    "id": "os_1y711u8",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Pure Soul Presents: Stop Making Sense",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/pure-soul-presents-stop-making-sense-chicago-illinois-12-30-2026/event/0400654ADD198936",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_1gzas0h",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-31",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Pure Soul Presents: Stop Making Sense",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/pure-soul-presents-stop-making-sense-chicago-illinois-12-31-2026/event/0400654AE0188BB6",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     }
   },
   {

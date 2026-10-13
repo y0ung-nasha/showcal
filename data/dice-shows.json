@@ -20,7 +20,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 26,
+    "price": 29,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -64,38 +64,6 @@
     }
   },
   {
-    "id": "dc_quvbtb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-14",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Catacombs",
-    "rawVenue": "Epiphany Center for the Arts - Catacombs",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The Journey",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Catacombs",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1mhlok3",
     "source": "dice",
     "sourceList": [
@@ -128,6 +96,38 @@
     }
   },
   {
+    "id": "dc_quvbtb",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-14",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Catacombs",
+    "rawVenue": "Epiphany Center for the Arts - Catacombs",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Journey",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Catacombs",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1n53dzo",
     "source": "dice",
     "sourceList": [
@@ -155,6 +155,38 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1cjr0k9",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-16",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Kevin Saunderson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -320,33 +352,33 @@
     }
   },
   {
-    "id": "dc_esfjfp",
+    "id": "dc_ten03x",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-22",
-    "time": "20:00",
+    "date": "2026-10-21",
+    "time": "19:00",
     "slot": "evening",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "Thursday Social: Open Decks + Night Market",
+        "name": "THE ARMY, THE NAVY - THE FAKE BRAVE TOUR",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": "FREE",
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -384,33 +416,33 @@
     }
   },
   {
-    "id": "dc_m6bfrp",
+    "id": "dc_esfjfp",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-24",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "date": "2026-10-22",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
     "hood": null,
     "headliners": [
       {
-        "name": "Dead City Oddities Market",
+        "name": "Thursday Social: Open Decks + Night Market",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 12.36,
+    "price": "FREE",
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
@@ -443,6 +475,38 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_m6bfrp",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-24",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dead City Oddities Market",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 12.36,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -544,6 +608,38 @@
     }
   },
   {
+    "id": "dc_1rg4d58",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Symposium w/ mtvghosts",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 36.05,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1mk8dyl",
     "source": "dice",
     "sourceList": [
@@ -576,44 +672,12 @@
     }
   },
   {
-    "id": "dc_wee74e",
+    "id": "dc_36qabt",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Alhambra Palace",
-    "rawVenue": "Alhambra Palace",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "+area code w/ SKREAM all night long",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Alhambra Palace",
-      "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1rg4d58",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "time": "21:00",
     "slot": "evening",
     "venue": "Sleeping Village",
@@ -621,14 +685,14 @@
     "hood": null,
     "headliners": [
       {
-        "name": "The Symposium w/ mtvghosts",
+        "name": "GARDEN OF: ON THE CROSS",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 36.05,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -672,38 +736,6 @@
     }
   },
   {
-    "id": "dc_36qabt",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "GARDEN OF: ON THE CROSS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1ioddb3",
     "source": "dice",
     "sourceList": [
@@ -731,38 +763,6 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_azrwz8",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-01",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Outcast Jazz Band's Big Band Dance Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -864,38 +864,6 @@
     }
   },
   {
-    "id": "dc_lyx909",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-12-04",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Lady Radiator",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 29,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_109xl5q",
     "source": "dice",
     "sourceList": [
@@ -960,33 +928,33 @@
     }
   },
   {
-    "id": "dc_d6xxre",
+    "id": "dc_1r5wsme",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2027-04-09",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
+    "date": "2027-02-05",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
     "hood": null,
     "headliners": [
       {
-        "name": "TEAM DRESCH",
+        "name": "TeeDee",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 32.96,
+    "price": 25,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
