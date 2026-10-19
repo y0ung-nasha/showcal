@@ -2976,38 +2976,6 @@
     }
   },
   {
-    "id": "vs_1q94spw",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-18",
-    "time": "17:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "An Evening with Danny Sinoff and the Great American Songbook - Debut!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/an-evening-with-danny-sinoff-and-the-great-american-songbook-debut",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_05cc98f758864013b65dc71053a2a4ad~mv2.png/v1/fill/w_1194,h_796,al_c/8ffa2d_05cc98f758864013b65dc71053a2a4ad~mv2.png",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/an-evening-with-danny-sinoff-and-the-great-american-songbook-debut"
-    }
-  },
-  {
     "id": "vs_1nyoqq2",
     "source": "venue-site",
     "sourceList": [
@@ -3037,70 +3005,6 @@
       "address": null,
       "city": null,
       "url": "https://elasticarts.org/events"
-    }
-  },
-  {
-    "id": "vs_50msbg",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-18",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sweet Love An Intimate Acoustic Experience featuring Seemore Sings ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://static.wixstatic.com/media/17e034_ecc464634f664914b8385f81bc055aad~mv2.png/v1/fill/w_3375,h_4219,al_c/17e034_ecc464634f664914b8385f81bc055aad~mv2.png",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/sweet-love-an-intimate-acoustic-experience-featuring-seemore-sings"
-    }
-  },
-  {
-    "id": "vs_ep4ug8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-18",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Chicago Cellar Boys",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/chicago-cellar-boys/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2025-november/chicago-cellar-boys-updated-11-2025.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
     }
   },
   {
@@ -3197,49 +3101,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_azd564",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-19",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Qamil",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Kacie Brown & The Vision",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "The Beloved Davida",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/qamil-the-beloved-davida-kacie-brown-and-the-vision-october-18-2026-761333",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/761/333/compressed/IMG_0649.jpg?1791295887",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -5741,6 +5602,49 @@
     }
   },
   {
+    "id": "vs_slef2c",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-03",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Leili Grzybowski",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "OYEME",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Preston Woolsey",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/leili-grzybowski-oyeme-c-mikhail-preston-woolsey-november-02-2026-761326",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/761/326/compressed/open-uri20261018-935-7l2mf8.jpg?1792332073",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
     "id": "vs_1mobzw0",
     "source": "venue-site",
     "sourceList": [
@@ -5935,7 +5839,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wintersjazzclub.com/events/better-together-music-to-move-your-soul-23",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_c12598848b054561824432e6e41cc56b~mv2.jpg/v1/fill/w_7415,h_4943,al_c,q_90/8ffa2d_c12598848b054561824432e6e41cc56b~mv2.jpg",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_0f52ae1a6f6a47139d8846f77b3ce3f6~mv2.png/v1/fill/w_1198,h_794,al_c/8ffa2d_0f52ae1a6f6a47139d8846f77b3ce3f6~mv2.png",
     "venueInfo": {
       "name": "Winter's Jazz Club",
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
@@ -6145,6 +6049,44 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/tommy-kessler-dedmet-the-living-head-november-08-2026-761339",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/761/339/compressed/IMG_0628.jpg?1791163445",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1c82phr",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-11",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Posture",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Jake Joiko",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/posture-jake-joiko-november-10-2026-758661",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/758/661/compressed/IMG_0859.jpg?1792332669",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -6396,6 +6338,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_11u1pmx",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-15",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Chicago Jazz Orchestra with vocalist Sarah Marie Young",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/chicago-jazz-orchestra-with-vocalist-sarah-marie-young",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_a619417985434e95a473ae3414c51634~mv2.jpg/v1/fill/w_644,h_480,al_c,q_80/8ffa2d_a619417985434e95a473ae3414c51634~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/chicago-jazz-orchestra-with-vocalist-sarah-marie-young"
     }
   },
   {
