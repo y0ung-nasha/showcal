@@ -1,48 +1,5 @@
 [
   {
-    "id": "aap_1s3woay",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-10-20",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Atlantic Bar",
-    "rawVenue": "The Atlantic Bar",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Reveri3",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "human debt",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "SCUF",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/reveri3-human-debt-scuf",
-    "poster": "https://chicago.askapunk.net/media/ebb49fa14301323704926eb6e907a2e5.jpg",
-    "venueInfo": {
-      "name": "The Atlantic Bar",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_h0o8jf",
     "source": "askapunk",
     "sourceList": [
@@ -187,6 +144,49 @@
     "venueInfo": {
       "name": "Not Not",
       "address": "Email for more info",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_6nb8i2",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-24",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Chicago Public Library - Richard J. Daley Branch",
+    "rawVenue": "Chicago Public Library - Richard J. Daley Branch",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Mickey Fares and Jeffrey Goulet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Harlem Masimba",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Wajid",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/mickey-fares-and-jeffrey-goulet-harlem-masimba-wajid",
+    "poster": "https://chicago.askapunk.net/media/5e29454995d67a76e9932bd50800f969.jpg",
+    "venueInfo": {
+      "name": "Chicago Public Library - Richard J. Daley Branch",
+      "address": "3400 S Halsted St.",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
