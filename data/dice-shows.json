@@ -1,69 +1,5 @@
 [
   {
-    "id": "dc_ten03x",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-21",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "THE ARMY, THE NAVY - THE FAKE BRAVE TOUR",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 32.77,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_18wcvnh",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-21",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Nosferatu: Silent Film with Live Organ ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_esfjfp",
     "source": "dice",
     "sourceList": [
@@ -224,6 +160,38 @@
     }
   },
   {
+    "id": "dc_6scol6",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-24",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Papa Squat x Oddball Market: KILL & TELL CABARET",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 12.36,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_i7bw96",
     "source": "dice",
     "sourceList": [
@@ -251,38 +219,6 @@
     "venueInfo": {
       "name": "The Duplex",
       "address": "3137 West Logan Boulevard, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_10ttjop",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-24",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Hideaway",
-    "rawVenue": "Hideaway",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Me n U",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Hideaway",
-      "address": "5 West Division Street, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -416,6 +352,38 @@
     }
   },
   {
+    "id": "dc_1mk8dyl",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Joss Dean",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1tp8ese",
     "source": "dice",
     "sourceList": [
@@ -448,33 +416,33 @@
     }
   },
   {
-    "id": "dc_1mk8dyl",
+    "id": "dc_wee74e",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-10-30",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Alhambra Palace",
+    "rawVenue": "Alhambra Palace",
     "hood": null,
     "headliners": [
       {
-        "name": "Joss Dean",
+        "name": "+area code w/ SKREAM all night long",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Alhambra Palace",
+      "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -576,6 +544,38 @@
     }
   },
   {
+    "id": "dc_8swjzq",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-31",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Sincere Engineer & Friends - Halloween Cover Set Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_c5wm7d",
     "source": "dice",
     "sourceList": [
@@ -640,33 +640,65 @@
     }
   },
   {
-    "id": "dc_1otw2zo",
+    "id": "dc_wxglrc",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-06",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
+    "date": "2026-11-07",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
     "hood": null,
     "headliners": [
       {
-        "name": "Ru Anderson live in Chicago",
+        "name": "Avina's House",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 18.03,
+    "price": 10,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_x9qcgp",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-07",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "Furama Restaurant",
+    "rawVenue": "Furama Restaurant",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dim Sum & Drag: Pokémon Drag Brunch",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Furama Restaurant",
+      "address": "4936 North Broadway, Chicago, Illinois 60640, United States",
       "city": "Chicago",
       "url": null
     }
@@ -891,38 +923,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1r5wsme",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-02-05",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TeeDee",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 30,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
       "city": "Chicago",
       "url": null
     }
