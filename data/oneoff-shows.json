@@ -1,363 +1,5 @@
 [
   {
-    "id": "os_1bux5jd",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Lenard Simpson Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6707/?date=2026-10-24",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_173v640",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "John Primer & The Real Deal Blues Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385448",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/91939/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_173v640",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "23:00",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "John Primer & The Real Deal Blues Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385449",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/91939/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_1a1jzqp",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "COREY DENNISON",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/70419946/corey-dennison-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_1quxdi3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "rawVenue": "Garcia's",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Oh He Dead",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Akili Ni Mali",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/oh-he-dead-chicago-illinois-10-24-2026/event/04006507CA5C431C",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_x3grl8",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Julian Davis Reid & Circle of Trust",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/julian-davis-reid-circle-of-trust/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_16cp16b",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "THE BROKES (\"the Strokes Experience\")",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/the-brokes-reggies-rock-club-tickets/15002613",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_dur15w",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "rawVenue": "Sound-Bar",
-    "hood": "River North",
-    "headliners": [
-      {
-        "name": "JAMES CARTER at Sound-Bar",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/james-carter-at-sound-bar/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    }
-  },
-  {
-    "id": "os_1e0tnth",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "rawVenue": "Lee's Unleaded Blues",
-    "hood": "Greater Grand Crossing",
-    "headliners": [
-      {
-        "name": "LIVE BLUES - TAZZ THE MUSICIAN & THE UNLEADED KINGS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/live-blues-tazz-the-musician-the-unleaded-kings-2026-10-24-20-00",
-    "poster": "https://static.wixstatic.com/media/17e034_bdc0de3481794d1d84fa8e1c6ad9c0e1~mv2.png",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.leesunleadedblues.com"
-    }
-  },
-  {
-    "id": "os_c8f7fz",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The Atlantic",
-    "rawVenue": "The Atlantic",
-    "hood": "Lincoln Square",
-    "headliners": [
-      {
-        "name": "Live at The Atlantic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The Atlantic",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://theatlanticbarandgrill.com"
-    }
-  },
-  {
-    "id": "os_1lf2tbj",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-10-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "remedy caribbean night",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/remedy-october24",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1790441455272-7YW3CWVMJKR4K0M6WO3B/1000062692.png",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
     "id": "os_y8le7e",
     "source": "venue-site",
     "sourceList": [
@@ -643,6 +285,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_108n1lf",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-10-26",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "rawVenue": "Garcia's",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "Mental Mondays: An Evening of Mindreading with Jason Suran",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/mental-mondays-an-evening-of-mindreading-chicago-illinois-10-26-2026/event/0400652AD75CFB88",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     }
   },
   {
@@ -1656,7 +1330,7 @@
     }
   },
   {
-    "id": "os_1jq5kui",
+    "id": "os_ph7elj",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -1669,7 +1343,7 @@
     "hood": "West Loop",
     "headliners": [
       {
-        "name": "Dj E-magic & DJ russoul: deep city house rave",
+        "name": "\"Move Ya Body\" Rooftop Glow In Da Dark ️",
         "genre": "music",
         "role": "headliner"
       }
@@ -1679,7 +1353,7 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.wildharemusic.com/lineup/djemagic-october30",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1790441612211-UW7BC8XE8VX5EM9Y1KJV/IMG_3186.jpeg",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1792859857150-PMYOM4RZI2A4ITBIKA73/image.webp",
     "venueInfo": {
       "name": "Wild Hare",
       "address": "952 W Fulton St",
@@ -2259,38 +1933,6 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
-    }
-  },
-  {
-    "id": "os_s5fkky",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-01",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Baby J & Golden Street Reggae Band",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/babyj-november1",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1785944359417-D9WPIL5DGKEBR2HVUVQ5/BABY+J+SUNDAY+OFFICIAL+edited.jpg",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
     }
   },
   {
@@ -3394,6 +3036,38 @@
     }
   },
   {
+    "id": "os_1rhnnyc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "JAMA! & Frnds: GLOW IN THE DARK",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/jama-november7",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1792863612535-Y4B0CS8OY85HKL7DR0L6/Screen+Shot+2026-10-24+at+12.40.03+pm.png",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
+    }
+  },
+  {
     "id": "os_3o4045",
     "source": "venue-site",
     "sourceList": [
@@ -3551,6 +3225,38 @@
       "address": "1001 W Washington Blvd",
       "city": "Chicago",
       "url": "https://garciaschicago.live"
+    }
+  },
+  {
+    "id": "os_12orq27",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-08",
+    "time": "16:00",
+    "slot": "evening",
+    "venue": "Wild Hare",
+    "rawVenue": "Wild Hare",
+    "hood": "West Loop",
+    "headliners": [
+      {
+        "name": "bliss Rooftop day party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wildharemusic.com/lineup/bliss-november8",
+    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1792863237038-C806VHA2Y19P465QTHY0/nov8.webp",
+    "venueInfo": {
+      "name": "Wild Hare",
+      "address": "952 W Fulton St",
+      "city": "Chicago",
+      "url": "https://www.wildharemusic.com"
     }
   },
   {

@@ -1,80 +1,5 @@
 [
   {
-    "id": "aap_6nb8i2",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-10-24",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Chicago Public Library - Richard J. Daley Branch",
-    "rawVenue": "Chicago Public Library - Richard J. Daley Branch",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Mickey Fares and Jeffrey Goulet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Harlem Masimba",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Wajid",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/mickey-fares-and-jeffrey-goulet-harlem-masimba-wajid",
-    "poster": "https://chicago.askapunk.net/media/5e29454995d67a76e9932bd50800f969.jpg",
-    "venueInfo": {
-      "name": "Chicago Public Library - Richard J. Daley Branch",
-      "address": "3400 S Halsted St.",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
-    "id": "aap_oolldk",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-10-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "House On Honore",
-    "rawVenue": "House On Honore",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Horror On Honore",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/horror-on-honore-1",
-    "poster": "https://chicago.askapunk.net/media/bdf2d984b8b64b59263a79eda8b294d4.jpg",
-    "venueInfo": {
-      "name": "House On Honore",
-      "address": "email for addy",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1y8q0oj",
     "source": "askapunk",
     "sourceList": [
@@ -182,6 +107,38 @@
     "venueInfo": {
       "name": "Gman Tavern",
       "address": "3740 N Clark St",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_18cw42o",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-10-31",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Secret Location",
+    "rawVenue": "Secret Location",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "TRENCH 004 (A FUNDRAISER FOR SUDAN & CONGO)",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/trench-004-a-fundraiser-for-sudan-and-congo",
+    "poster": "https://chicago.askapunk.net/media/10c1a6842e453a246eebf86be144a730.jpg",
+    "venueInfo": {
+      "name": "Secret Location",
+      "address": "Austin neighborhood, Chicago",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
