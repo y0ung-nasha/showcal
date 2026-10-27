@@ -342,6 +342,54 @@
     }
   },
   {
+    "id": "aap_1pfy8v3",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-11-23",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "The Hideout",
+    "rawVenue": "The Hideout",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "3000 B.C.",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Instrument",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Understudy",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Fallen Angels",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/3000-bc-instrument-understudy-fallen-angels",
+    "poster": "https://chicago.askapunk.net/media/6183bb91d3ba22a102bb3fcd29f51dfc.jpg",
+    "venueInfo": {
+      "name": "The Hideout",
+      "address": "1354 W Wabansia Ave, Chicago, IL 60642",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_1upskcn",
     "source": "askapunk",
     "sourceList": [
@@ -369,6 +417,49 @@
     "venueInfo": {
       "name": "Solidarity Studios",
       "address": "3323 n Pulaski",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1xwhinc",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-12-17",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Coles Bar",
+    "rawVenue": "Coles Bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Downside Salesman",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Fjord Taurus",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Peter Hunt and the Great Outdoors",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/downside-salesman-fjord-taurus-peter-hunt-and-the-great-outdoors",
+    "poster": "https://chicago.askapunk.net/media/56e88212c0acda0df590ce6fc0b113ef.jpg",
+    "venueInfo": {
+      "name": "Coles Bar",
+      "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
