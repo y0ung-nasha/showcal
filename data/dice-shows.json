@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_1iqvyb0",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-27",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tōth w/ William Alexander",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 30.9,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_1u19ppb",
     "source": "dice",
     "sourceList": [
@@ -52,7 +20,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 36.57,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -128,6 +96,38 @@
     }
   },
   {
+    "id": "dc_1x62h7e",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "1249 W Randolph st Chicago, 60607",
+    "rawVenue": "1249 W Randolph st Chicago, 60607",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "ALCHEMY OF THE ARTS HALLOWEEN ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "1249 W Randolph st Chicago, 60607",
+      "address": "1249 West Randolph Street, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1tp8ese",
     "source": "dice",
     "sourceList": [
@@ -155,38 +155,6 @@
     "venueInfo": {
       "name": "Artifact",
       "address": "4325 North Ravenswood Avenue, Chicago, Illinois 60613, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_bpa8bl",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Location TBA, Chicago",
-    "rawVenue": " Location TBA, Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "ALCHEMY OF THE ARTS HALLOWEEN ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Location TBA, Chicago",
-      "address": "Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -315,6 +283,38 @@
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_60e3pr",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-30",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Multiple Venues - Chicago, IL",
+    "rawVenue": "Multiple Venues - Chicago, IL",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House Calls Halloween Weekend Pass",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 75,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Multiple Venues - Chicago, IL",
+      "address": "Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -500,7 +500,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 25,
+    "price": 30,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -544,33 +544,33 @@
     }
   },
   {
-    "id": "dc_1ycsnjn",
+    "id": "dc_dh5wju",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-10-31",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
+    "date": "2026-11-05",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
     "hood": null,
     "headliners": [
       {
-        "name": "Mucca Pazza Gets Spooky!",
+        "name": "Stratøs: Challenger Deep Tour w/ Mansa, Illville Vanguard",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 21.63,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -608,6 +608,38 @@
     }
   },
   {
+    "id": "dc_t53gao",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-06",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dreamgirls",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_wxglrc",
     "source": "dice",
     "sourceList": [
@@ -635,38 +667,6 @@
     "venueInfo": {
       "name": "SPYBAR",
       "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_7igvnl",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "17:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TSA: The Musical!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -704,7 +704,7 @@
     }
   },
   {
-    "id": "dc_1ih2x4u",
+    "id": "dc_1ryvfh0",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -712,25 +712,25 @@
     "date": "2026-11-11",
     "time": "20:00",
     "slot": "evening",
-    "venue": "Fantasy Nightclub",
-    "rawVenue": "Fantasy Nightclub",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
     "hood": null,
     "headliners": [
       {
-        "name": "The Gaggys",
+        "name": "Mother Soki, Alana Markel",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 22.66,
+    "price": 16.03,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Fantasy Nightclub",
-      "address": "3641 North Halsted Street, Chicago, Illinois 60613, United States",
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -864,33 +864,33 @@
     }
   },
   {
-    "id": "dc_inbqk9",
+    "id": "dc_6o2pmj",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-20",
-    "time": "21:00",
+    "date": "2026-12-10",
+    "time": "18:00",
     "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
     "hood": null,
     "headliners": [
       {
-        "name": "GARDEN OF: PARTY 4 U",
+        "name": "Laura Jane Grace / Direct Hit!",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 33,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -987,38 +987,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_3ltf6o",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-04-06",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sarah Julia 2027 Tour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 22.66,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
