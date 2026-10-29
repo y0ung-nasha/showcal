@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_1u19ppb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-28",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Salsa on a School Night: Día de los Muertos",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 36.57,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_wztgif",
     "source": "dice",
     "sourceList": [
@@ -84,7 +52,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30.9,
+    "price": 36.05,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -180,7 +148,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": 32.06,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -308,7 +276,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 75,
+    "price": 95,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -320,7 +288,7 @@
     }
   },
   {
-    "id": "dc_7lxns6",
+    "id": "dc_10vnml1",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -328,25 +296,25 @@
     "date": "2026-10-31",
     "time": "21:00",
     "slot": "evening",
-    "venue": "Artifact",
-    "rawVenue": "Artifact",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
     "hood": null,
     "headliners": [
       {
-        "name": "House Calls x MixMag LAB w/ Ranger Trucco",
+        "name": "REDLINE HALLOWEEN",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 36.57,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Artifact",
-      "address": "4325 North Ravenswood Avenue, Chicago, Illinois 60613, United States",
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -384,6 +352,38 @@
     }
   },
   {
+    "id": "dc_7lxns6",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-31",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Artifact",
+    "rawVenue": "Artifact",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House Calls x MixMag LAB w/ Ranger Trucco",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Artifact",
+      "address": "4325 North Ravenswood Avenue, Chicago, Illinois 60613, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1lrtdd8",
     "source": "dice",
     "sourceList": [
@@ -404,45 +404,13 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 35,
+    "price": 37.06,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_8swjzq",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-10-31",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sincere Engineer & Friends - Halloween Cover Set Show",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 30,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -475,6 +443,38 @@
     "venueInfo": {
       "name": "Hideaway",
       "address": "5 West Division Street, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_8swjzq",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-10-31",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Sincere Engineer & Friends - Halloween Cover Set Show",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
@@ -640,33 +640,33 @@
     }
   },
   {
-    "id": "dc_wxglrc",
+    "id": "dc_x9qcgp",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-11-07",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "Furama Restaurant",
+    "rawVenue": "Furama Restaurant",
     "hood": null,
     "headliners": [
       {
-        "name": "Avina's House",
+        "name": "Dim Sum & Drag: Pokémon Drag Brunch",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 10,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Furama Restaurant",
+      "address": "4936 North Broadway, Chicago, Illinois 60640, United States",
       "city": "Chicago",
       "url": null
     }
@@ -699,38 +699,6 @@
     "venueInfo": {
       "name": "Sleeping Village",
       "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1ryvfh0",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-11",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Mother Soki, Alana Markel",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 16.03,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -896,6 +864,38 @@
     }
   },
   {
+    "id": "dc_emec2p",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-12-11",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Casa Cafe Benefit Show: Bitter Thoughts / Sin Surfir / Owe You Pain / Peace of Mind / Invasive / Sentenced 2 Life",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_1p3pxg1",
     "source": "dice",
     "sourceList": [
@@ -949,38 +949,6 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1julkmi",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-01-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Empty Bottle presents KatzPascale w/ ridgeclub",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 24.72,
     "age": null,
     "ticketUrl": null,
     "poster": null,
