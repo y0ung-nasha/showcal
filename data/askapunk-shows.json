@@ -1,53 +1,5 @@
 [
   {
-    "id": "aap_lmhsn9",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-10-29",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Coles Bar",
-    "rawVenue": "Coles Bar",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Current Union TM",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "The Experience",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Trash Kickers",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Autofill",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/current-union-tm-the-experience-trash-kickers-autofill",
-    "poster": "https://chicago.askapunk.net/media/8583163921b9142357ef3bb79f039c65.jpg",
-    "venueInfo": {
-      "name": "Coles Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1w4qht7",
     "source": "askapunk",
     "sourceList": [
@@ -337,6 +289,49 @@
     "venueInfo": {
       "name": "Lowdown",
       "address": "email lowdownchi.diy@gmail.com",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_i0pg1v",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-11-14",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Bricktown",
+    "rawVenue": "Bricktown",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Interlay",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Directrix",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Lyndsay Jane and The Familiars",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/interlaydirectrixlyndsay-jane-and-the-familiars",
+    "poster": "https://chicago.askapunk.net/media/a9d96c562b85a0be7c4359aa4ec2e62d.jpg",
+    "venueInfo": {
+      "name": "Bricktown",
+      "address": "Bricktown",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
