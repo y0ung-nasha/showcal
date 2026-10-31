@@ -1,779 +1,5 @@
 [
   {
-    "id": "show_1yogge9",
-    "date": "2026-10-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Alhambra Palace",
-    "venueId": "alhambra-palace",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "+area code w/ SKREAM all night long",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Alhambra Palace",
-      "address": "1240 West Randolph Street, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_qjxgv0",
-    "date": "2026-10-30",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With New Nostalgia",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-new-nostalgia/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_isxmlk",
-    "date": "2026-10-30",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With New Nostalgia",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-new-nostalgia/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_kmpx98",
-    "date": "2026-10-30",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Late Night Concert Series w/Frank Russell",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-frank-russell/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Frank-Russell-Band.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_uoyeim",
-    "date": "2026-10-30",
-    "time": null,
-    "slot": null,
-    "venue": "Beauty Bar",
-    "venueId": "beauty-bar",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "RITUAL HALLOWEEN GOTH DANCE PARTY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Beauty Bar",
-      "address": "1444 W Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.beautybarchicago.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_p3cifi",
-    "date": "2026-10-30",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "venueId": "buddy-guy-s-legends",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "BLUES PEOPLE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/30336062/blues-people-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1swh1h6",
-    "date": "2026-10-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "venueId": "chop-shop",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Late Shift",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 19.66,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1y0r2cw",
-    "date": "2026-10-30",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "venueId": "cobra-lounge",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "Beaver's Halloween '26: Snuffed / Daybreaker / Mano A Mano / Don't Front / New Found Power / Lavender",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 24,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1u5hoqq",
-    "date": "2026-10-30",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "venueId": "dorian-s",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Alysha Monique",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 10,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/alysha-monique/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_t7txgv",
-    "date": "2026-10-30",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Elastic Arts",
-    "venueId": "elastic-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "AQ + Uncle El “Dont Panic” Album Listening Party — Elastic Arts Foundation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6ad6611a8065dc70791b0f18/1792439585206/Scary.png?format=1500w",
-    "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1b8ic92",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "venueId": "garcia-s",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Taper’s Choice",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/tapers-choice-chicago-illinois-10-30-2026/event/040064BBC0C0F8BF",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_4g3kn2",
-    "date": "2026-10-30",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Gman Tavern",
-    "venueId": "gman-tavern",
-    "hood": "Lakeview",
-    "headliners": [
-      {
-        "name": "Punkscare: Benefiting Punk Rock Saves Lives",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/punkscare-benefiting-punk-rock-saves-lives",
-    "poster": "https://chicago.askapunk.net/media/ad6bf581ec20c9c07f9a34a29574f924.jpg",
-    "venueInfo": {
-      "name": "Gman Tavern",
-      "address": "3740 N Clark St",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    },
-    "sourceList": [
-      "askapunk"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_12hznq8",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "venueId": "jazz-showcase",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Mike Stern",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8695/?date=2026-10-30",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_r40540",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "venueId": "lee-s-unleaded-blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tyce’s Halloween Birthday party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/tyces-halloween-birthday-party",
-    "poster": "https://static.wixstatic.com/media/17e034_5894966c715d46c8b66c7ca73e9749d5~mv2.png/v1/fill/w_1024,h_1536,al_c/17e034_5894966c715d46c8b66c7ca73e9749d5~mv2.png",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/tyces-halloween-birthday-party"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1llik93",
-    "date": "2026-10-30",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "venueId": "reggies-rock-club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "FORBIDDEN",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/forbidden-heathen-void-reggies-rock-club-tickets/14274074",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1rr04ay",
-    "date": "2026-10-30",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "venueId": "rosa-s-lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Omar Coleman: Westside Soul",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/390163",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/67452/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_13cx7wp",
-    "date": "2026-10-30",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "venueId": "sleeping-village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "The Symposium w/ mtvghosts",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/06/imagsdfe-15.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_tohq9t",
-    "date": "2026-10-30",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "venueId": "smoke-mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Philippa Pacho ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_151b7d0",
-    "date": "2026-10-30",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "venueId": "sound-bar",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "CHAPEL OF THE UNDEAD",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "HALLOWEEN COSTUME EVENT - PART I",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/chapel-of-the-undead-halloween-costume-event-part-i/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_vsx67h",
-    "date": "2026-10-30",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Spybar",
-    "venueId": "spybar",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Joss Dean",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 32.06,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_2z5a3d",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Atlantic",
-    "venueId": "the-atlantic",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Live at The Atlantic",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The Atlantic",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://theatlanticbarandgrill.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_lhb714",
-    "date": "2026-10-30",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "venueId": "the-tonk",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Something Easy and Trace the Shadow",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/something-easy-and-trace-the-shadow/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-october/30-10-2026-8pm_Something-Easy-and-Trace-the-Shadow.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_i0hpk1",
-    "date": "2026-10-30",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "venueId": "wild-hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "\"Move Ya Body\" Rooftop Glow In Da Dark ️",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/djemagic-october30",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1792859857150-PMYOM4RZI2A4ITBIKA73/image.webp",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1or6y9w",
-    "date": "2026-10-30",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "venueId": "winter-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Marques Carroll Quintet - The Music of Art Blakey and Horace Silver",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/marques-carroll-quintet-the-music-of-art-blakey-and-horace-silver",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_80770931bd5240e6b90ad460ea1d0c9d~mv2.jpeg/v1/fill/w_2500,h_1668,al_c,q_90/8ffa2d_80770931bd5240e6b90ad460ea1d0c9d~mv2.jpeg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/marques-carroll-quintet-the-music-of-art-blakey-and-horace-silver"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_1qsjt31",
     "date": "2026-10-31",
     "time": null,
@@ -838,7 +64,7 @@
     "resolved": true
   },
   {
-    "id": "show_3gevod",
+    "id": "show_2x5sdc",
     "date": "2026-10-31",
     "time": null,
     "slot": null,
@@ -847,7 +73,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Late Night Concert Series w/Frank Russell",
+        "name": "Frank Russell The Late Set",
         "genre": "music",
         "role": "headliner"
       }
@@ -856,7 +82,7 @@
     "genres": [],
     "price": 20,
     "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/late-night-concert-series-w-frank-russell/",
+    "ticketUrl": "https://andysjazzclub.com/events/frank-russell-the-late-set/",
     "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Frank-Russell-Band.jpg",
     "venueInfo": {
       "name": "Andy's Jazz Club",
@@ -918,7 +144,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 25.12,
+    "price": 28.12,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -950,7 +176,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": 43.26,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -962,49 +188,6 @@
     },
     "sourceList": [
       "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1okx00z",
-    "date": "2026-10-31",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "venueId": "cole-s-bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "CalicoLoco",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Naked Brunch",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Jenny Scara",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/ft-my-chemical-romance-calico-loco-queen-naked-brunch-justin-bieber-jenny-scara-october-30-2026-691262",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/262/compressed/Untitled_-_September_10__2026_at_17.19.05_%281%29.jpg?1789079306",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
-    },
-    "sourceList": [
-      "venue-site"
     ],
     "resolved": true
   },
@@ -1026,6 +209,38 @@
     "openers": [],
     "genres": [],
     "price": 23.69,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1456wov",
+    "date": "2026-10-31",
+    "time": "14:00",
+    "slot": "afternoon",
+    "venue": "Color Club",
+    "venueId": "color-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Mucca Pazza Gets Spooky!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -1089,7 +304,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 36.57,
+    "price": 42.23,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -1235,6 +450,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_19e72hf",
+    "date": "2026-10-31",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Lemon",
+    "venueId": "lemon",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "CHICAGO’S WURST POP-PUNK HALLOWEEN",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 11,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Lemon",
+      "address": "1600 West Grand Avenue, Chicago, Illinois 60622, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -1465,7 +712,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 30,
+    "price": 35,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -1538,6 +785,38 @@
       "address": "5062 N Lincoln Ave",
       "city": "Chicago",
       "url": "https://theatlanticbarandgrill.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1ejmows",
+    "date": "2026-10-31",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "The Tonk",
+    "venueId": "the-tonk",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Pilsen Bar Crawls",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/pilsen-bar-crawls/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-october/31-10-2026-12pm_Pilsens-Halloween-Bar-Crawl.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
     },
     "sourceList": [
       "venue-site"
@@ -2296,8 +1575,8 @@
   {
     "id": "show_gba3nr",
     "date": "2026-11-03",
-    "time": null,
-    "slot": null,
+    "time": "21:00",
+    "slot": "evening",
     "venue": "Sleeping Village",
     "venueId": "sleeping-village",
     "hood": "Avondale",
@@ -2310,7 +1589,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 24.72,
     "age": null,
     "ticketUrl": null,
     "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-11.jpg",
@@ -2321,7 +1600,8 @@
       "url": "https://sleeping-village.com/"
     },
     "sourceList": [
-      "venue-site"
+      "venue-site",
+      "dice"
     ],
     "resolved": true
   },
@@ -2850,7 +2130,7 @@
     "resolved": true
   },
   {
-    "id": "show_n7ch16",
+    "id": "show_1nzoxid",
     "date": "2026-11-05",
     "time": "20:00",
     "slot": "evening",
@@ -2859,7 +2139,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Monty Alexander Trio",
+        "name": "Jamaican Born Master Pianist Monty Alexander",
         "genre": "music",
         "role": "headliner"
       }
@@ -3011,7 +2291,7 @@
     "resolved": true
   },
   {
-    "id": "show_1gitu0z",
+    "id": "show_649ysh",
     "date": "2026-11-05",
     "time": "20:00",
     "slot": "evening",
@@ -3020,7 +2300,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Tyvon 'Tank' Rice",
+        "name": "The Masters Collection with Tracy Baker",
         "genre": "music",
         "role": "headliner"
       }
@@ -3029,8 +2309,8 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/tyvon-tank-rice/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-TYVON-UNRLSD-First-Thursday.webp",
+    "ticketUrl": "https://thetonkchicago.com/artists/the-masters-collection-with-tracy-baker/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-Tracy-Baker-Masters-Collection-Second-Thursday.webp",
     "venueInfo": {
       "name": "The Tonk",
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
@@ -3284,7 +2564,7 @@
     "resolved": true
   },
   {
-    "id": "show_1j0s72z",
+    "id": "show_mstzd2",
     "date": "2026-11-06",
     "time": "20:00",
     "slot": "evening",
@@ -3293,7 +2573,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Monty Alexander Trio",
+        "name": "Jamaican Born Master Pianist Monty Alexander",
         "genre": "music",
         "role": "headliner"
       }
@@ -3408,6 +2688,70 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_9kxnar",
+    "date": "2026-11-06",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "venueId": "sleeping-village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Leenalchi w/ Clickbait",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-47.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_zyp05z",
+    "date": "2026-11-06",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "venueId": "smoke-mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Trancemaster Krause",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -3668,6 +3012,38 @@
     "resolved": true
   },
   {
+    "id": "show_176pf83",
+    "date": "2026-11-07",
+    "time": "17:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "venueId": "color-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "TSA: The Musical!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1d9ihzq",
     "date": "2026-11-07",
     "time": "21:00",
@@ -3764,7 +3140,7 @@
     "resolved": true
   },
   {
-    "id": "show_ft3v5o",
+    "id": "show_1kn336v",
     "date": "2026-11-07",
     "time": "20:00",
     "slot": "evening",
@@ -3773,7 +3149,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Monty Alexander Trio",
+        "name": "Jamaican Born Master Pianist Monty Alexander",
         "genre": "music",
         "role": "headliner"
       }
@@ -4224,7 +3600,7 @@
     "resolved": true
   },
   {
-    "id": "show_1bmjl7h",
+    "id": "show_jg851k",
     "date": "2026-11-08",
     "time": "16:00",
     "slot": "evening",
@@ -4233,7 +3609,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Monty Alexander Trio",
+        "name": "Jamaican Born Master Pianist Monty Alexander",
         "genre": "music",
         "role": "headliner"
       }
@@ -5218,7 +4594,7 @@
     "resolved": true
   },
   {
-    "id": "show_1aqixdr",
+    "id": "show_1vdk129",
     "date": "2026-11-12",
     "time": "20:00",
     "slot": "evening",
@@ -5227,7 +4603,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "The Masters Collection with Tracy Baker",
+        "name": "Tyvon 'Tank' Rice",
         "genre": "music",
         "role": "headliner"
       }
@@ -5236,8 +4612,8 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/the-masters-collection-with-tracy-baker/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-Tracy-Baker-Masters-Collection-Second-Thursday.webp",
+    "ticketUrl": "https://thetonkchicago.com/artists/tyvon-tank-rice/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-TYVON-UNRLSD-First-Thursday.webp",
     "venueInfo": {
       "name": "The Tonk",
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
@@ -5538,6 +4914,38 @@
     "resolved": true
   },
   {
+    "id": "show_m8gl84",
+    "date": "2026-11-13",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "venueId": "smoke-mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "6 SENSE + SHOKI287",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1nh2hld",
     "date": "2026-11-13",
     "time": null,
@@ -5737,38 +5145,6 @@
     },
     "sourceList": [
       "askapunk"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1352w2i",
-    "date": "2026-11-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "venueId": "chop-shop",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "the olllam",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 36.7,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -6550,38 +5926,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_niakhe",
-    "date": "2026-11-16",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts",
-    "venueId": "epiphany-center-for-the-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Gloria Steinem Celebration of Life: Abortion Speak Out/Speak Up",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -8135,6 +7479,38 @@
     "resolved": true
   },
   {
+    "id": "show_ppu7ks",
+    "date": "2026-11-21",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "The Tonk",
+    "venueId": "the-tonk",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Pilsen Bar Crawls",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://thetonkchicago.com/artists/pilsen-bar-crawls/",
+    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-november/21-11-2026-12pm_Pilsen-Banda-Bar-Crawl.webp",
+    "venueInfo": {
+      "name": "The Tonk",
+      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
+      "city": null,
+      "url": "https://thetonkchicago.com/upcoming-events/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1sjt8jn",
     "date": "2026-11-21",
     "time": "19:30",
@@ -8936,6 +8312,38 @@
     "resolved": true
   },
   {
+    "id": "show_c9kfit",
+    "date": "2026-11-25",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "venueId": "smoke-mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Tengo Funk",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_vhs7va",
     "date": "2026-11-25",
     "time": null,
@@ -9159,38 +8567,6 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_i7dwbn",
-    "date": "2026-11-26",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "venueId": "the-tonk",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Joshua Robertson and The Saints",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/joshua-robertson-and-the-saints/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-april/04-2026-Joshua-Robertson-and-the-Saints-Fourth-Thursday.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
     },
     "sourceList": [
       "venue-site"
@@ -9753,6 +9129,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1y08cv8",
+    "date": "2026-11-28",
+    "time": "19:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "venueId": "winter-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Bosman Twins Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-43",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_66d1b85826d8487b8a499751853def97~mv2.png/v1/fill/w_600,h_398,al_c/8ffa2d_66d1b85826d8487b8a499751853def97~mv2.png",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-43"
     },
     "sourceList": [
       "venue-site"
@@ -10476,38 +9884,6 @@
     "resolved": true
   },
   {
-    "id": "show_1ebl0bc",
-    "date": "2026-12-04",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "venueId": "chop-shop",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "An Evening With Sasha Alex Sloan: And The Crowd Goes Mild Tour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 47.44,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_1ksu2",
     "date": "2026-12-04",
     "time": "21:00",
@@ -10935,6 +10311,49 @@
     "resolved": true
   },
   {
+    "id": "show_13egw38",
+    "date": "2026-12-05",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "venueId": "sound-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DJ SNEAK",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "TERRY HUNTER",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "HOUSE MUSIC IS HOME",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/dj-sneak-terry-hunter-house-music-is-home/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_a0qdo3",
     "date": "2026-12-06",
     "time": null,
@@ -11256,7 +10675,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 33,
+    "price": 38.15,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -13780,6 +13199,76 @@
     "resolved": true
   },
   {
+    "id": "show_7zf5hu",
+    "date": "2027-01-29",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Reggies Rock Club",
+    "venueId": "reggies-rock-club",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "BLEECH 9:3",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "17+",
+    "ticketUrl": "https://www.ticketweb.com/event/bleech-93-tba-reggies-rock-club-tickets/14406874",
+    "poster": null,
+    "venueInfo": {
+      "name": "Reggies Rock Club",
+      "address": "2105 S State St.",
+      "city": "Chicago",
+      "url": "https://www.reggieslive.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1ksqnja",
+    "date": "2027-01-29",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "venueId": "sound-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "CHROMEO",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "DJ SET at Sound-Bar",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/chromeo-dj-set-at-sound-bar/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_zr49zw",
     "date": "2027-01-30",
     "time": "19:00",
@@ -14288,6 +13777,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_62nac4",
+    "date": "2027-05-08",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "venueId": "sleeping-village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "ACTORS w/ Hallows",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30.9,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   }
