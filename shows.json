@@ -1,7 +1,7 @@
 [
   {
-    "id": "show_1qsjt31",
-    "date": "2026-10-31",
+    "id": "show_1yut6zt",
+    "date": "2026-11-01",
     "time": null,
     "slot": null,
     "venue": "Andy's Jazz Club",
@@ -9,7 +9,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "1st Set With New Nostalgia",
+        "name": "1st Set With Andy Brown Quartet",
         "genre": "music",
         "role": "headliner"
       }
@@ -18,8 +18,8 @@
     "genres": [],
     "price": 20,
     "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-new-nostalgia/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
     "venueInfo": {
       "name": "Andy's Jazz Club",
       "address": null,
@@ -32,8 +32,8 @@
     "resolved": true
   },
   {
-    "id": "show_1j1jytl",
-    "date": "2026-10-31",
+    "id": "show_tiry9h",
+    "date": "2026-11-01",
     "time": null,
     "slot": null,
     "venue": "Andy's Jazz Club",
@@ -41,7 +41,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "2nd Set With New Nostalgia",
+        "name": "2nd Set With Andy Brown Quartet",
         "genre": "music",
         "role": "headliner"
       }
@@ -50,8 +50,8 @@
     "genres": [],
     "price": 20,
     "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-new-nostalgia/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/New-Nostalgia-2.jpg",
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
     "venueInfo": {
       "name": "Andy's Jazz Club",
       "address": null,
@@ -64,8 +64,8 @@
     "resolved": true
   },
   {
-    "id": "show_2x5sdc",
-    "date": "2026-10-31",
+    "id": "show_1apexiv",
+    "date": "2026-11-01",
     "time": null,
     "slot": null,
     "venue": "Andy's Jazz Club",
@@ -73,7 +73,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Frank Russell The Late Set",
+        "name": "Andrew Toombs The Late Set",
         "genre": "music",
         "role": "headliner"
       }
@@ -82,837 +82,13 @@
     "genres": [],
     "price": 20,
     "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/frank-russell-the-late-set/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/10/Frank-Russell-Band.jpg",
+    "ticketUrl": "https://andysjazzclub.com/events/andrew-toombs-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/05/Andrew-Toombs.jpg",
     "venueInfo": {
       "name": "Andy's Jazz Club",
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1gagxlv",
-    "date": "2026-10-31",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "venueId": "buddy-guy-s-legends",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "CARLISE GUY & THE NUBLU BAND",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/54949020/carlise-guy-the-nublu-band-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_179x2ia",
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "venueId": "chop-shop",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Everywhere Between: Halloween Edition",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 28.12,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_zzyt1s",
-    "date": "2026-10-31",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "venueId": "cobra-lounge",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "Sincere Engineer & Friends - Halloween Cover Set Show",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 43.26,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_j20ipq",
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "venueId": "color-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TrakQwn Presents: HalloWIGS!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 23.69,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1456wov",
-    "date": "2026-10-31",
-    "time": "14:00",
-    "slot": "afternoon",
-    "venue": "Color Club",
-    "venueId": "color-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Mucca Pazza Gets Spooky!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_sqyatv",
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Elastic Arts",
-    "venueId": "elastic-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "House of Horrors: Return of the Acidman — Elastic Arts Foundation",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6abebe191a52e7222de602c0/1790885580255/ELASTIC+HOH+FLYER.png?format=1500w",
-    "venueInfo": {
-      "name": "Elastic Arts",
-      "address": null,
-      "city": null,
-      "url": "https://elasticarts.org/events"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_ua7cal",
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts",
-    "venueId": "epiphany-center-for-the-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "REDLINE HALLOWEEN",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 42.23,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_6099ip",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Garcia's",
-    "venueId": "garcia-s",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dumpstaphunk",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Lost Pyramids",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.ticketmaster.com/dumpstaphunk-chicago-illinois-10-31-2026/event/0400650FE3C6D51A",
-    "poster": null,
-    "venueInfo": {
-      "name": "Garcia's",
-      "address": "1001 W Washington Blvd",
-      "city": "Chicago",
-      "url": "https://garciaschicago.live"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1g2y0jl",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "venueId": "jazz-showcase",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Mike Stern",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8695/?date=2026-10-31",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_ncpv38",
-    "date": "2026-10-31",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Joe's on Weed",
-    "venueId": "joe-s-on-weed",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Rod Tuffcurls and The Bench press - Halloween Show",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": "https://www.ticketweb.com/event/rod-tuffcurls-and-the-bench-joes-on-weed-street-tickets/14256574?pl=joesbar",
-    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1792101946869-31GBQ1Y277U0FIBG0IWW/2026.10.31_RodTuffcurls_16-9.jpg",
-    "venueInfo": {
-      "name": "Joe's on Weed",
-      "address": "940 W Weed St.",
-      "city": "Chicago",
-      "url": "https://www.joesbar.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_l49rm7",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "venueId": "lee-s-unleaded-blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Halloween Blues - Our Live Blues and Halloween Show with Tazz The Musician & Halloween Costume Party ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/halloween-blues-our-live-blues-and-halloween-show-with-tazz-the-musician-halloween-costume-party",
-    "poster": "https://static.wixstatic.com/media/17e034_18565932db53421890c799be85be557d~mv2.png/v1/fill/w_1024,h_1536,al_c/17e034_18565932db53421890c799be85be557d~mv2.png",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/halloween-blues-our-live-blues-and-halloween-show-with-tazz-the-musician-halloween-costume-party"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_19e72hf",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lemon",
-    "venueId": "lemon",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "CHICAGO’S WURST POP-PUNK HALLOWEEN",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 11,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Lemon",
-      "address": "1600 West Grand Avenue, Chicago, Illinois 60622, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_6yv71h",
-    "date": "2026-10-31",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Metro",
-    "venueId": "metro",
-    "hood": "Lakeview",
-    "headliners": [
-      {
-        "name": "Nocturna All Hallows' Eve Ball",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "DJ Scary Lady Sarah; 18+",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/nocturna-all-hallows-eve-ball-with-dj-scary-lady-sarah-18",
-    "poster": "https://chicago.askapunk.net/media/af77040c5b8649433f41cf745ba4c24f.jpg",
-    "venueInfo": {
-      "name": "Metro",
-      "address": "3730 N. Clark Street",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    },
-    "sourceList": [
-      "askapunk"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_7lhv1z",
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "venueId": "reggies-rock-club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "SWMRS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/swmrs-north-by-north-repent-reggies-rock-club-tickets/14334684",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1f5y38s",
-    "date": "2026-10-31",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "venueId": "rosa-s-lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "BLUES People: Bring the NY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "NJ Blues Heat",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/385454",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/95102/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_ufhme4",
-    "date": "2026-10-31",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "venueId": "sleeping-village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "GARDEN OF: ON THE CROSS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/09/imagsdfe-18.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1kd4tsj",
-    "date": "2026-10-31",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "venueId": "smoke-mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "FRQNCY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 37.06,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1tmvfp",
-    "date": "2026-10-31",
-    "time": null,
-    "slot": null,
-    "venue": "Sound-Bar",
-    "venueId": "sound-bar",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "CHAPEL OF THE UNDEAD",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "HALLOWEEN COSTUME EVENT - PART II",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://sound-bar.com/events/chapel-of-the-undead-halloween-costume-event-part-ii/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Sound-Bar",
-      "address": "226 W Ontario",
-      "city": "Chicago",
-      "url": "https://sound-bar.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_ha9pwb",
-    "date": "2026-10-31",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Spybar",
-    "venueId": "spybar",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Halloween Night ft. Iglesias",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 35,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_5w1bxy",
-    "date": "2026-10-31",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Subterranean",
-    "venueId": "subterranean",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Daft Disko Halloween: Chicago",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 33.99,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Subterranean",
-      "address": "2011 W North Ave, Chicago, IL 60647, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_co03yb",
-    "date": "2026-10-31",
-    "time": "11:00",
-    "slot": "afternoon",
-    "venue": "The Atlantic",
-    "venueId": "the-atlantic",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Halloween",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "The Atlantic",
-      "address": "5062 N Lincoln Ave",
-      "city": "Chicago",
-      "url": "https://theatlanticbarandgrill.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1ejmows",
-    "date": "2026-10-31",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "The Tonk",
-    "venueId": "the-tonk",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Pilsen Bar Crawls",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/pilsen-bar-crawls/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-october/31-10-2026-12pm_Pilsens-Halloween-Bar-Crawl.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_xhp7uu",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "venueId": "the-tonk",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The GMO's",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/the-gmos/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2026-october/31-10-2026-8pm_Villains-Ball-The-GMOs.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_bmyv2w",
-    "date": "2026-10-31",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Wild Hare",
-    "venueId": "wild-hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Weeb Fest",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/weebfest-october31",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1790441742373-URW41VOTB4H0EFBLPT2I/IMG_3185.jpeg",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1wo75eb",
-    "date": "2026-10-31",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "venueId": "winter-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Bosman Twins Quintet - Electric Miles, Spiritual Trane: Tribute to Miles Davis & John Coltrane",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-electric-miles-spiritual-trane-tribute-to-miles-davis-john-coltrane",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_d5fdb94fb8dd4741949ac2cf8c32a4fc~mv2.jpg/v1/fill/w_1359,h_764,al_c,q_85/8ffa2d_d5fdb94fb8dd4741949ac2cf8c32a4fc~mv2.jpg",
-    "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
-      "city": null,
-      "url": "https://www.wintersjazzclub.com/events/bosman-twins-quintet-electric-miles-spiritual-trane-tribute-to-miles-davis-john-coltrane"
     },
     "sourceList": [
       "venue-site"
@@ -977,54 +153,6 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_yd9r64",
-    "date": "2026-11-01",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "venueId": "cole-s-bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Talker",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "ok cool",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Snowcuffs",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Atlas Aurora",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/talker-ok-cool-snowcuffs-dj-atlas-aurora-october-31-2026-728424",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/728/424/compressed/10-31admat_Snowcuffs-4x5.jpg?1788915774",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     },
     "sourceList": [
       "venue-site"
@@ -1268,6 +396,70 @@
     "resolved": true
   },
   {
+    "id": "show_izcvvo",
+    "date": "2026-11-02",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Heritage Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-heritage-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Heritage-Jazz-Orchestra-1.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_tm99io",
+    "date": "2026-11-02",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Heritage Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-heritage-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Heritage-Jazz-Orchestra-1.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_3px5o7",
     "date": "2026-11-02",
     "time": "02:00",
@@ -1364,31 +556,63 @@
     "resolved": true
   },
   {
-    "id": "show_1t8lib6",
-    "date": "2026-11-02",
+    "id": "show_1v3qicd",
+    "date": "2026-11-03",
     "time": null,
     "slot": null,
-    "venue": "Sleeping Village",
-    "venueId": "sleeping-village",
-    "hood": "Avondale",
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
     "headliners": [
       {
-        "name": "Industry Night w/ MARYMARY",
+        "name": "1st Set With Chi-Town Trumpet Summit",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 20,
     "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-45.jpg",
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
+      "name": "Andy's Jazz Club",
+      "address": null,
       "city": null,
-      "url": "https://sleeping-village.com/"
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_gxpqi1",
+    "date": "2026-11-03",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -1417,7 +641,7 @@
         "role": "opener"
       },
       {
-        "name": "Preston Woolsey",
+        "name": "Katie McCabe",
         "genre": "music",
         "role": "opener"
       }
@@ -1592,16 +816,111 @@
     "price": 24.72,
     "age": null,
     "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-11.jpg",
+    "poster": null,
     "venueInfo": {
       "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
     },
     "sourceList": [
-      "venue-site",
       "dice"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1kta2am",
+    "date": "2026-11-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1d2a816",
+    "date": "2026-11-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_uc8oun",
+    "date": "2026-11-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Richie Pardo The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/richie-pardo-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/10/Richie-Pardo.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
     ],
     "resolved": true
   },
@@ -1836,38 +1155,6 @@
     "resolved": true
   },
   {
-    "id": "show_w8n3d1",
-    "date": "2026-11-04",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "venueId": "sleeping-village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "SEWING FREAK",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-39.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_t5rwit",
     "date": "2026-11-04",
     "time": "19:00",
@@ -1957,6 +1244,102 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-nancy-wilson"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_6fo8m2",
+    "date": "2026-11-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1mcj06e",
+    "date": "2026-11-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_zqr2fk",
+    "date": "2026-11-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Richie Pardo The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/richie-pardo-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/10/Richie-Pardo.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -2277,15 +1660,14 @@
     "price": 21.63,
     "age": null,
     "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-43.jpg",
+    "poster": null,
     "venueInfo": {
       "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
     },
     "sourceList": [
-      "venue-site",
       "dice"
     ],
     "resolved": true
@@ -2355,6 +1737,102 @@
     "resolved": true
   },
   {
+    "id": "show_1mujkz0",
+    "date": "2026-11-06",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Marques Carroll Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-marques-carroll-quintet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1xhfym0",
+    "date": "2026-11-06",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Marques Carroll Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-marques-carroll-quintet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_voy9wl",
+    "date": "2026-11-06",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/thaddeus-tukes-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/12/Thaddeus-Tukes.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_124g66y",
     "date": "2026-11-06",
     "time": null,
@@ -2383,6 +1861,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_cna0oa",
+    "date": "2026-11-06",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "@NICKCHEO the *TOUR* the *MOVIE*",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26.22,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -2692,38 +2202,6 @@
     "resolved": true
   },
   {
-    "id": "show_9kxnar",
-    "date": "2026-11-06",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "venueId": "sleeping-village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Leenalchi w/ Clickbait",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-47.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_zyp05z",
     "date": "2026-11-06",
     "time": "22:00",
@@ -2916,6 +2394,102 @@
     "resolved": true
   },
   {
+    "id": "show_lqi8zx",
+    "date": "2026-11-07",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Marques Carroll Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-marques-carroll-quintet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_wdemmx",
+    "date": "2026-11-07",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Marques Carroll Quintet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-marques-carroll-quintet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Marques-Carroll-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_k2ijom",
+    "date": "2026-11-07",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/thaddeus-tukes-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/12/Thaddeus-Tukes.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1ojpw7r",
     "date": "2026-11-07",
     "time": null,
@@ -2976,6 +2550,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1e9kmo7",
+    "date": "2026-11-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "MADDIE ZAHM - Everything All The Time Tour",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 36.05,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -3396,6 +3002,102 @@
     "resolved": true
   },
   {
+    "id": "show_x9l580",
+    "date": "2026-11-08",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1qynygs",
+    "date": "2026-11-08",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_g9b36m",
+    "date": "2026-11-08",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Andrew Toombs The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/andrew-toombs-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/05/Andrew-Toombs.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_orlvmo",
     "date": "2026-11-08",
     "time": null,
@@ -3760,6 +3462,70 @@
     "resolved": true
   },
   {
+    "id": "show_10drko5",
+    "date": "2026-11-09",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Blueshift Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-blueshift-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Blue-Shift-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_15bi3n5",
+    "date": "2026-11-09",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Blueshift Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-blueshift-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Blue-Shift-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_cizb28",
     "date": "2026-11-09",
     "time": "02:00",
@@ -3828,6 +3594,70 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_itf821",
+    "date": "2026-11-10",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Henry Johnson & Charles ‘Rick’ Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-henry-johnson-charles-rick-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/11/Henry-Johnson.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1ejnggl",
+    "date": "2026-11-10",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Henry Johnson & Charles ‘Rick’ Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-henry-johnson-charles-rick-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/11/Henry-Johnson.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -3968,6 +3798,102 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_7i3ddo",
+    "date": "2026-11-11",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1ys7l3c",
+    "date": "2026-11-11",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_oll5en",
+    "date": "2026-11-11",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Joe Policastro Trio The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/joe-policastro-trio-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Joe-Policastro-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -4274,6 +4200,102 @@
     "resolved": true
   },
   {
+    "id": "show_17mtp4o",
+    "date": "2026-11-12",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_oikepw",
+    "date": "2026-11-12",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_146u7k0",
+    "date": "2026-11-12",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Joe Policastro Trio The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/joe-policastro-trio-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/07/Joe-Policastro-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1ggn2ps",
     "date": "2026-11-12",
     "time": null,
@@ -4334,6 +4356,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_v6inye",
+    "date": "2026-11-12",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Alix Perez + HIJINX + Toyacoyah",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 40.37,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -4658,6 +4712,102 @@
     "resolved": true
   },
   {
+    "id": "show_19w5xzw",
+    "date": "2026-11-13",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set Singer Meets Saxophonist",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-singer-meets-saxophonist/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/07/Singer-Meets-Sax.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_vg5ze0",
+    "date": "2026-11-13",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set Singer Meets Saxophonist",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-singer-meets-saxophonist/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/07/Singer-Meets-Sax.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1x2b0f0",
+    "date": "2026-11-13",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Clif Wallace The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/clif-wallace-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/02/Clif-Wallace-2024.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1h4i6gt",
     "date": "2026-11-13",
     "time": null,
@@ -4683,6 +4833,44 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1wky8hw",
+    "date": "2026-11-13",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "venueId": "cole-s-bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Wynter Bates",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "D’So Nyce",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/wynter-bates-d-so-nyce-november-12-2026-796048",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/048/compressed/IMG_1108.jpg?1793544925",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
     },
     "sourceList": [
       "venue-site"
@@ -5067,6 +5255,102 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/leroy-jones-quintet-an-evening-of-new-orleans-jazz-one-night-only-8"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1phf059",
+    "date": "2026-11-14",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set Singer Meets Saxophonist",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-singer-meets-saxophonist/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/07/Singer-Meets-Sax.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1b1f1jd",
+    "date": "2026-11-14",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set Singer Meets Saxophonist",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-singer-meets-saxophonist/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/07/Singer-Meets-Sax.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_3fpc0t",
+    "date": "2026-11-14",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Clif Wallace The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/clif-wallace-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2023/02/Clif-Wallace-2024.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -5588,6 +5872,102 @@
     "resolved": true
   },
   {
+    "id": "show_yivwzy",
+    "date": "2026-11-15",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1s7yq8q",
+    "date": "2026-11-15",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_11z8g8s",
+    "date": "2026-11-15",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Andrew Toombs The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/andrew-toombs-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/05/Andrew-Toombs.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_rs1vr2",
     "date": "2026-11-15",
     "time": null,
@@ -5930,6 +6310,102 @@
     "resolved": true
   },
   {
+    "id": "show_10efd4k",
+    "date": "2026-11-16",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Tom Garling Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-tom-garling-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Tom-Garling-Jazz-Orchestra.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1cfj4qo",
+    "date": "2026-11-16",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Tom Garling Jazz Orchestra",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-tom-garling-jazz-orchestra/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Tom-Garling-Jazz-Orchestra.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_niakhe",
+    "date": "2026-11-16",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts",
+    "venueId": "epiphany-center-for-the-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Gloria Steinem Celebration of Life: Abortion Speak Out/Speak Up",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1eji2mh",
     "date": "2026-11-16",
     "time": "20:00",
@@ -6019,6 +6495,70 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_fikasi",
+    "date": "2026-11-17",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_10dnkxa",
+    "date": "2026-11-17",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -6185,6 +6725,102 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1c33l0j",
+    "date": "2026-11-18",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_14c3qr3",
+    "date": "2026-11-18",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1cw26cy",
+    "date": "2026-11-18",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Markus Rutz The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/markus-rutz-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/10/Markus-Rutz.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -6359,6 +6995,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1k6gcgl",
+    "date": "2026-11-18",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts",
+    "venueId": "epiphany-center-for-the-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Salsa on a School Night",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -6586,6 +7254,102 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/patricia-barber-39"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1s5h8wv",
+    "date": "2026-11-19",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1917yi3",
+    "date": "2026-11-19",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1pyvu1f",
+    "date": "2026-11-19",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Markus Rutz The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/markus-rutz-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/10/Markus-Rutz.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -6842,6 +7606,102 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/jeremy-kahn-trio-wsg-mark-feldman-no-room-for-squares-a-tribute-to-the-voluminous-catalogue-of-blue-note-records"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_ivb043",
+    "date": "2026-11-20",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1b8whcv",
+    "date": "2026-11-20",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_18vz8te",
+    "date": "2026-11-20",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Isaiah Spencer The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/isaiah-spencer-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Isaiah-Spencer-4.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -7173,6 +8033,102 @@
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
       "url": "https://www.wintersjazzclub.com/events/ben-paterson-organ-trio-featuring-bobby-broom-jimmy-smith-meets-stevie-wonder-the-beatles-and-more"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_78v9w4",
+    "date": "2026-11-21",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_zmgr4w",
+    "date": "2026-11-21",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Pharez Whitted",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-pharez-whitted/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/11/Pharez-Whitteds-Late-Night-Jazz-Jam.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_x9jilf",
+    "date": "2026-11-21",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Isaiah Spencer The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/isaiah-spencer-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/09/Isaiah-Spencer-4.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -7543,6 +8499,102 @@
     "resolved": true
   },
   {
+    "id": "show_zs6orw",
+    "date": "2026-11-22",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1th9i0o",
+    "date": "2026-11-22",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1np5tay",
+    "date": "2026-11-22",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Andrew Toombs The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/andrew-toombs-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/05/Andrew-Toombs.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_ushvvg",
     "date": "2026-11-22",
     "time": null,
@@ -7842,6 +8894,70 @@
     "resolved": true
   },
   {
+    "id": "show_l0346b",
+    "date": "2026-11-23",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Shout Section Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-shout-section-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Shout-Section-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1uixy7j",
+    "date": "2026-11-23",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Shout Section Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-shout-section-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/12/Shout-Section-Big-Band.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_k0ujhi",
     "date": "2026-11-23",
     "time": "20:00",
@@ -7986,6 +9102,102 @@
     "resolved": true
   },
   {
+    "id": "show_x4rsvf",
+    "date": "2026-11-24",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Tenor Time",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-tenor-tim/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1uzq7p3",
+    "date": "2026-11-24",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Tenor Time",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-tenor-time/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_br98l6",
+    "date": "2026-11-24",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "venueId": "cole-s-bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-november-30-2026-691266",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/266/compressed/etix-MissSpoken_663571736946266.jpg?1776872870",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_4qmznp",
     "date": "2026-11-24",
     "time": "18:00",
@@ -8113,6 +9325,102 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1xt0y2p",
+    "date": "2026-11-25",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1q213t9",
+    "date": "2026-11-25",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_f23kwg",
+    "date": "2026-11-25",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Markus Rutz The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/markus-rutz-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/10/Markus-Rutz.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -8574,6 +9882,102 @@
     "resolved": true
   },
   {
+    "id": "show_13osre1",
+    "date": "2026-11-27",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set w/Marty ‘Big Dog’ Mercer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-w-marty-big-dog-mercer/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/01/Marty-Big-Dog-Mercer.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1lt3nat",
+    "date": "2026-11-27",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set w/Marty ‘Big Dog’ Mercer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-w-marty-big-dog-mercer/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/01/Marty-Big-Dog-Mercer.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_jlx0zw",
+    "date": "2026-11-27",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Alectet The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/alectet-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/06/Micah-Collier.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_xikeyd",
     "date": "2026-11-27",
     "time": null,
@@ -8900,6 +10304,102 @@
     "resolved": true
   },
   {
+    "id": "show_1vtcvwq",
+    "date": "2026-11-28",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set w/Marty ‘Big Dog’ Mercer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-w-marty-big-dog-mercer/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/01/Marty-Big-Dog-Mercer.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_ewjpue",
+    "date": "2026-11-28",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set w/Marty ‘Big Dog’ Mercer",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-w-marty-big-dog-mercer/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/01/Marty-Big-Dog-Mercer.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1ffcr1p",
+    "date": "2026-11-28",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Alectet The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/alectet-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/06/Micah-Collier.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1pe7ei7",
     "date": "2026-11-28",
     "time": null,
@@ -8957,6 +10457,49 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_87izfo",
+    "date": "2026-11-28",
+    "time": "03:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "venueId": "cole-s-bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Marty Blick",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Wilem",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Jabobo",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/marty-blick-wilem-jabobo-november-27-2026-792850",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/792/850/compressed/open-uri20261101-902-oyotwn.jpg?1793547369",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
     },
     "sourceList": [
       "venue-site"
@@ -9168,6 +10711,102 @@
     "resolved": true
   },
   {
+    "id": "show_1x82oz7",
+    "date": "2026-11-29",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_rw1g8v",
+    "date": "2026-11-29",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Andy Brown Quartet",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-andy-brown-quartet/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/03/Andy-Brown-Guitar-3.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_t91yyp",
+    "date": "2026-11-29",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Andrew Toombs The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/andrew-toombs-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2021/05/Andrew-Toombs.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_3kw78i",
     "date": "2026-11-29",
     "time": "03:00",
@@ -9328,6 +10967,102 @@
     "resolved": true
   },
   {
+    "id": "show_1p7r49b",
+    "date": "2026-11-29",
+    "time": "17:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "venueId": "winter-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Spider Saloff Quintet - Steppin’ Out: Fred Astaire and His Music",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/spider-saloff-quintet-steppin-out-fred-astaire-and-his-music-1",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_1a0412c4ccef4cb09e33bd84673c6770~mv2.jpg/v1/fill/w_2400,h_1800,al_c,q_90/8ffa2d_1a0412c4ccef4cb09e33bd84673c6770~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/spider-saloff-quintet-steppin-out-fred-astaire-and-his-music-1"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_d6qdqm",
+    "date": "2026-11-30",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Bob Lark’s Alumni Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-bob-larks-alumni-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Bob-Lark.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1mpl7ru",
+    "date": "2026-11-30",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Bob Lark’s Alumni Big Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-bob-larks-alumni-big-band/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/01/Bob-Lark.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_p2iyig",
     "date": "2026-11-30",
     "time": "23:59",
@@ -9360,31 +11095,63 @@
     "resolved": true
   },
   {
-    "id": "show_17atjdi",
+    "id": "show_1i3vorg",
     "date": "2026-12-01",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "venueId": "cole-s-bar",
-    "hood": "Logan Square",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
     "headliners": [
       {
-        "name": "MissSpoken",
+        "name": "1st Set With Chi-Town Trumpet Summit",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-november-30-2026-691266",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/266/compressed/etix-MissSpoken_663571736946266.jpg?1776872870",
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
     "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_3xuwx4",
+    "date": "2026-12-01",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Chi-Town Trumpet Summit",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -9493,6 +11260,102 @@
       "address": null,
       "city": "Chicago",
       "url": "https://www.jazzshowcase.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_155f09p",
+    "date": "2026-12-02",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_xef609",
+    "date": "2026-12-02",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Charles Heath",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-charles-heath/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/01/Charles-Heath-2.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1q5h88e",
+    "date": "2026-12-02",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Richie Pardo The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/richie-pardo-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/10/Richie-Pardo.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -9628,7 +11491,7 @@
     "resolved": true
   },
   {
-    "id": "show_17u1d8f",
+    "id": "show_1dbsp49",
     "date": "2026-12-02",
     "time": "18:30",
     "slot": "evening",
@@ -9637,7 +11500,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Men In Blazers - LIVE! in Chicago",
+        "name": "Men In Blazers - LIVE! in Chicago (Sold Out!)",
         "genre": "music",
         "role": "headliner"
       }
@@ -9653,6 +11516,102 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_13op909",
+    "date": "2026-12-03",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_kkfylh",
+    "date": "2026-12-03",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With Mario Abney",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-mario-abney/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2022/02/Abney-Effect-Electrified.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1vjzltb",
+    "date": "2026-12-03",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Richie Pardo The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/richie-pardo-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2026/10/Richie-Pardo.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -9852,6 +11811,102 @@
     "resolved": true
   },
   {
+    "id": "show_123udvn",
+    "date": "2026-12-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Pamoja Project",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-pamoja-project/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Pamoja-Project.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1vsx74f",
+    "date": "2026-12-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Pamoja Project",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-pamoja-project/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Pamoja-Project.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_c19sw4",
+    "date": "2026-12-04",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/thaddeus-tukes-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/12/Thaddeus-Tukes.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_a3nka1",
     "date": "2026-12-04",
     "time": null,
@@ -9880,6 +11935,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1ebl0bc",
+    "date": "2026-12-04",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "An Evening With Sasha Alex Sloan: And The Crowd Goes Mild Tour",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 47.44,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -10069,6 +12156,102 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_16vttc4",
+    "date": "2026-12-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "1st Set With The Pamoja Project",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-the-pamoja-project/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Pamoja-Project.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1jskls",
+    "date": "2026-12-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "2nd Set With The Pamoja Project",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-the-pamoja-project/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2024/11/Pamoja-Project.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_eu2o5",
+    "date": "2026-12-05",
+    "time": null,
+    "slot": null,
+    "venue": "Andy's Jazz Club",
+    "venueId": "andy-s-jazz-club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Thaddeus Tukes The Late Set",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://andysjazzclub.com/events/thaddeus-tukes-the-late-set/",
+    "poster": "https://andysjazzclub.com/wp-content/uploads/2019/12/Thaddeus-Tukes.jpg",
+    "venueInfo": {
+      "name": "Andy's Jazz Club",
+      "address": null,
+      "city": null,
+      "url": "https://andysjazzclub.com/music-calendar/"
     },
     "sourceList": [
       "venue-site"
@@ -11258,6 +13441,38 @@
     "resolved": true
   },
   {
+    "id": "show_1lvw9jc",
+    "date": "2026-12-12",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Park West",
+    "venueId": "park-west",
+    "hood": "Lincoln Park",
+    "headliners": [
+      {
+        "name": "Earlybirds Club - Chicago Holiday-ish Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 41.93,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Park West",
+      "address": "322 West Armitage Avenue, Chicago, Illinois 60614, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_bf8qmz",
     "date": "2026-12-12",
     "time": null,
@@ -12279,6 +14494,38 @@
     "resolved": true
   },
   {
+    "id": "show_15dzhup",
+    "date": "2026-12-19",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "VIPERACTIVE",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26.22,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_ujo740",
     "date": "2026-12-19",
     "time": "19:00",
@@ -13269,6 +15516,38 @@
     "resolved": true
   },
   {
+    "id": "show_1qilotf",
+    "date": "2027-01-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts",
+    "venueId": "epiphany-center-for-the-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Empty Bottle presents KatzPascale w/ ridgeclub",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 24.72,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_zr49zw",
     "date": "2027-01-30",
     "time": "19:00",
@@ -13649,6 +15928,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1e963bb",
+    "date": "2027-04-15",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Temper City - Self Aware Tour",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 40.21,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
