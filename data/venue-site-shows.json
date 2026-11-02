@@ -1,5 +1,101 @@
 [
   {
+    "id": "vs_ej40en",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2025-12-28",
+    "time": "19:20",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol's Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears @ San Francisco — Watch Party",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html",
+    "poster": "https://carolspub.com/media/artists/bears-12-28-25.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com/"
+    }
+  },
+  {
+    "id": "vs_6lj7mk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-02-05",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Jade Eagleson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/jade-eagleson-coming-carols-pub-tickets/13958554?pl=carolspub&REFID=carolswbst",
+    "poster": "https://carolspub.com/media/artists/jade-eagleson.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
+    "id": "vs_6juvvq",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-04-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "rawVenue": "Carol’s Pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Canaan Cox",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/canaan-cox-carols-pub-tickets/14556073",
+    "poster": "https://carolspub.com/media/artists/canaan-cox-2.webp",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": "4659 N Clark St",
+      "city": "Chicago",
+      "url": "https://carolspub.com"
+    }
+  },
+  {
     "id": "vs_1iqck2j",
     "source": "venue-site",
     "sourceList": [
@@ -855,7 +951,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "https://static.wixstatic.com/media/17e034_93139dd3fe7e4c64b0e59249952cb246~mv2.png/v1/fill/w_1024,h_1536,al_c/17e034_93139dd3fe7e4c64b0e59249952cb246~mv2.png",
+    "poster": "https://static.wixstatic.com/media/17e034_18565932db53421890c799be85be557d~mv2.png/v1/fill/w_1024,h_1536,al_c/17e034_18565932db53421890c799be85be557d~mv2.png",
     "venueInfo": {
       "name": "Lee's Unleaded Blues",
       "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
@@ -960,20 +1056,20 @@
     }
   },
   {
-    "id": "vs_1k2uu0w",
+    "id": "vs_355xlg",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
     ],
-    "date": "2026-11-01",
-    "time": "17:30",
-    "slot": "evening",
-    "venue": "Winter's Jazz Club",
-    "rawVenue": "Chicago",
-    "hood": null,
+    "date": "2026-11-02",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
     "headliners": [
       {
-        "name": "Mad-Good - The Music of Thelonius Monk and Charles Mingus",
+        "name": "Industry Night w/ MARYMARY",
         "genre": "music",
         "role": "headliner"
       }
@@ -982,45 +1078,13 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/mad-good-the-music-of-thelonius-monk-and-charles-mingus",
-    "poster": "https://static.wixstatic.com/media/8ffa2d_cd308445a794464fa339befdd4387f93~mv2.jpeg/v1/fill/w_6000,h_4000,al_c,q_90/8ffa2d_cd308445a794464fa339befdd4387f93~mv2.jpeg",
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-45.jpg",
     "venueInfo": {
-      "name": "Winter's Jazz Club",
-      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
       "city": null,
-      "url": "https://www.wintersjazzclub.com/events/mad-good-the-music-of-thelonius-monk-and-charles-mingus"
-    }
-  },
-  {
-    "id": "vs_s8p3cx",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-01",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "The Tonk",
-    "rawVenue": "The Tonk Chicago",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Chicago Cellar Boys",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://thetonkchicago.com/artists/chicago-cellar-boys/",
-    "poster": "https://thetonkchicago.com/assets/images/artist-images/2025-november/chicago-cellar-boys-updated-11-2025.webp",
-    "venueInfo": {
-      "name": "The Tonk",
-      "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
-      "city": null,
-      "url": "https://thetonkchicago.com/upcoming-events/"
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1088,20 +1152,20 @@
     }
   },
   {
-    "id": "vs_mc1gf",
+    "id": "vs_ymme2x",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
     ],
-    "date": "2026-11-02",
-    "time": "02:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
+    "date": "2026-11-03",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
     "headliners": [
       {
-        "name": "Row Sham Bow: The Championship!",
+        "name": "Wine Lips w/ Flesh Panthers",
         "genre": "music",
         "role": "headliner"
       }
@@ -1109,14 +1173,14 @@
     "openers": [],
     "genres": [],
     "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/row-sham-bow-the-championship-november-01-2026-792834",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/792/834/compressed/IMG_2651.jpg?1792695438",
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-11.jpg",
     "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1256,6 +1320,38 @@
       "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
       "city": null,
       "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-11-03-20-00"
+    }
+  },
+  {
+    "id": "vs_17ydubc",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-04",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "SEWING FREAK",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-39.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1416,6 +1512,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_dh5wju",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-05",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Stratøs: Challenger Deep Tour w/ Mansa, Illville Vanguard",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-43.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1640,6 +1768,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_muqdn9",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-06",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Leenalchi w/ Clickbait",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/05/imagsdfe-47.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -1907,6 +2067,38 @@
       "address": "The Tonk Chicago, 1800 S Racine Ave, Chicago, IL 60608",
       "city": null,
       "url": "https://thetonkchicago.com/upcoming-events/"
+    }
+  },
+  {
+    "id": "vs_6scc4b",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-07",
+    "time": "10:00",
+    "slot": "afternoon",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "MUSIQA BALADI: Lionessa & Nanoos w/ Passion Puree",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/09/imagsdfe-45.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     }
   },
   {
@@ -2364,7 +2556,7 @@
     }
   },
   {
-    "id": "vs_n0vhwo",
+    "id": "vs_5xkl9m",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -2564,6 +2756,44 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_15tq7x5",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-10",
+    "time": "02:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Equip",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Mukqs",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/video-game-night-with-djs-equip-mukqs-november-09-2026-796216",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/216/compressed/VGNsquare1.jpg?1793643483",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -3598,7 +3828,7 @@
     }
   },
   {
-    "id": "vs_1fefjye",
+    "id": "vs_1dwwbns",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -4858,7 +5088,7 @@
     }
   },
   {
-    "id": "vs_8qvk10",
+    "id": "vs_mv402u",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5018,7 +5248,7 @@
     }
   },
   {
-    "id": "vs_1fwwifb",
+    "id": "vs_1in75ye",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5031,7 +5261,7 @@
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "MissSpoken",
+        "name": "MissSpoken: Crowded House with Annabel Condit, Jill Hopkins, Alba Machado, Azziza Robinson",
         "genre": "music",
         "role": "headliner"
       }
@@ -5041,7 +5271,7 @@
     "price": null,
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/missspoken-november-30-2026-691266",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/266/compressed/etix-MissSpoken_663571736946266.jpg?1776872870",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/266/compressed/Missspoken_logoBlack.jpg?1793645195",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -5797,7 +6027,7 @@
     }
   },
   {
-    "id": "vs_3j1ykr",
+    "id": "vs_x4jxu5",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -6050,6 +6280,38 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
+    }
+  },
+  {
+    "id": "vs_qhys3n",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-02",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Winter's Jazz Club",
+    "rawVenue": "Chicago",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Patricia Barber:  Songs of the Season and Repertoire Favorites",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.wintersjazzclub.com/events/patricia-barber-songs-of-the-season-and-repertoire-favorites-4",
+    "poster": "https://static.wixstatic.com/media/8ffa2d_f93d45d5fbd645a39ebc60ebe2a3b1c7~mv2.jpg/v1/fill/w_1000,h_800,al_c,q_85/8ffa2d_f93d45d5fbd645a39ebc60ebe2a3b1c7~mv2.jpg",
+    "venueInfo": {
+      "name": "Winter's Jazz Club",
+      "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
+      "city": null,
+      "url": "https://www.wintersjazzclub.com/events/patricia-barber-songs-of-the-season-and-repertoire-favorites-4"
     }
   },
   {
@@ -6691,7 +6953,7 @@
     "price": null,
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/eric-solitude-wire-mother-devani-december-12-2026-750886",
-    "poster": "https://colesbarchicago.com/assets/coles-bar-logo.png",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/750/886/compressed/IMG_1111.jpg?1793548294",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -6862,7 +7124,7 @@
     "price": null,
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/missspoken-december-28-2026-691261",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/261/compressed/etix-MissSpoken_663571736946266.jpg?1776872962",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/261/compressed/Missspoken_logoBlack.jpg?1793645272",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -6895,6 +7157,390 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/comedy-open-mic-december-30-2026-717979",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/717/979/compressed/IMG_9453_2.jpg?1781551178",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1ypxu89",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-01-26",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-january-25-2027-796225",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/225/compressed/Missspoken_logoBlack.jpg?1793644851",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_48wv6v",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-02-23",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-february-22-2027-796241",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/241/compressed/Missspoken_logoBlack.jpg?1793645685",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1djv0ko",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-03-23",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-march-22-2027-796247",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/247/compressed/Missspoken_logoBlack.jpg?1793645827",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_74eh9p",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-04-27",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-april-26-2027-796257",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/257/compressed/Missspoken_logoBlack.jpg?1793645944",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_p9fx0s",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-05-25",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-may-24-2027-796259",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/259/compressed/Missspoken_logoBlack.jpg?1793646041",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_1hv3fox",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-06-29",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-june-28-2027-796260",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/260/compressed/Missspoken_logoBlack.jpg?1793646076",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_z0tgw",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-07-27",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-july-26-2027-796261",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/261/compressed/Missspoken_logoBlack.jpg?1793646108",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_5j3wem",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-08-24",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-august-23-2027-796262",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/262/compressed/Missspoken_logoBlack.jpg?1793646140",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_y4rf2r",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-09-28",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-september-27-2027-796263",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/263/compressed/Missspoken_logoBlack.jpg?1793646175",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_ssxh0p",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-10-26",
+    "time": "00:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-october-25-2027-796264",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/264/compressed/Missspoken_logoBlack.jpg?1793646211",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_xd0jyf",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-11-23",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-november-22-2027-796265",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/265/compressed/Missspoken_logoBlack.jpg?1793646245",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_4iidgt",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2027-12-28",
+    "time": "01:00",
+    "slot": "late",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "MissSpoken",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-december-27-2027-796266",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/796/266/compressed/Missspoken_logoBlack.jpg?1793646272",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
