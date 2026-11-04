@@ -1,236 +1,5 @@
 [
   {
-    "id": "show_1v3qicd",
-    "date": "2026-11-03",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "1st Set With Chi-Town Trumpet Summit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/1st-set-with-chi-town-trumpet-summit/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_gxpqi1",
-    "date": "2026-11-03",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "2nd Set With Chi-Town Trumpet Summit",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/2nd-set-with-chi-town-trumpet-summit/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/ChiTown-Trumpet-Summit.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_18yrh6q",
-    "date": "2026-11-03",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "venueId": "dorian-s",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jazz Happy Hour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "FLEX Trio",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-w-flex-trio-11/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_eq6980",
-    "date": "2026-11-03",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "venueId": "jazz-showcase",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Gabriel Wade Quintet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/7017/?date=2026-11-03",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_j4ju2k",
-    "date": "2026-11-03",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "venueId": "lee-s-unleaded-blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-11-03-20-00",
-    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-11-03-20-00"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_5capq8",
-    "date": "2026-11-03",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "venueId": "rosa-s-lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Every Damn Tuesday — Dave Herrero feat. Pete Galanis",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/390855",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_gba3nr",
-    "date": "2026-11-03",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "venueId": "sleeping-village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Wine Lips w/ Flesh Panthers",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 30.9,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-11.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    },
-    "sourceList": [
-      "venue-site",
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_1kta2am",
     "date": "2026-11-04",
     "time": null,
@@ -355,38 +124,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1khnegy",
-    "date": "2026-11-04",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "venueId": "color-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "They/Them Mayhem",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -877,6 +614,38 @@
     "resolved": true
   },
   {
+    "id": "show_1ra8sqz",
+    "date": "2026-11-05",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "venueId": "cobra-lounge",
+    "hood": "West Town",
+    "headliners": [
+      {
+        "name": "Thoughts on Bowling / Computer / Softly / HummusVacuum",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1ep2uaf",
     "date": "2026-11-05",
     "time": "20:00",
@@ -1109,8 +878,8 @@
   {
     "id": "show_lh0zii",
     "date": "2026-11-05",
-    "time": "21:00",
-    "slot": "evening",
+    "time": null,
+    "slot": null,
     "venue": "Sleeping Village",
     "venueId": "sleeping-village",
     "hood": "Avondale",
@@ -1123,7 +892,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 21.63,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": "https://sleeping-village.com/wp-content/uploads/2026/08/imagsdfe-43.jpg",
@@ -1134,8 +903,7 @@
       "url": "https://sleeping-village.com/"
     },
     "sourceList": [
-      "venue-site",
-      "dice"
+      "venue-site"
     ],
     "resolved": true
   },
@@ -2630,38 +2398,6 @@
     "resolved": true
   },
   {
-    "id": "show_e2qsft",
-    "date": "2026-11-08",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "venueId": "cobra-lounge",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "smush",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_66t0at",
     "date": "2026-11-08",
     "time": "03:00",
@@ -2738,7 +2474,7 @@
     "resolved": true
   },
   {
-    "id": "show_1ytk83p",
+    "id": "show_4imqm8",
     "date": "2026-11-08",
     "time": "20:00",
     "slot": "evening",
@@ -2747,7 +2483,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Elastro: Alex Koi x Kirin McElwain Duo, Madame Orange, Macie Stewart / Nolan Chin — Elastic Arts Foundation",
+        "name": "Elastro: Alex Koi x Kirin McElwain Duo, Madam Orange, Macie Stewart / Nolan Chin — Elastic Arts Foundation",
         "genre": "music",
         "role": "headliner"
       }
@@ -2757,7 +2493,7 @@
     "price": null,
     "age": null,
     "ticketUrl": null,
-    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6acff196d84fce02c67654de/1792289136437/AKKM-00570+credit+Alice+Plati+-+Alex+Koi.jpg?format=1500w",
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6acff196d84fce02c67654de/1793726549662/AKKM-00570+credit+Alice+Plati+-+Alex+Koi.jpg?format=1500w",
     "venueInfo": {
       "name": "Elastic Arts",
       "address": null,
@@ -2894,6 +2630,49 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_hkvr7z",
+    "date": "2026-11-08",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "The Atlantic",
+    "venueId": "the-atlantic",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "BOOB SWEAT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "DOG SKULL",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "PAPER CARDINAL",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/boob-sweat-dog-skull-paper-cardinal",
+    "poster": "https://chicago.askapunk.net/media/b132d62578bbbb62cb84739bd9630b25.jpg",
+    "venueInfo": {
+      "name": "The Atlantic Bar",
+      "address": "5062 N Lincoln Ave",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    },
+    "sourceList": [
+      "askapunk"
     ],
     "resolved": true
   },
@@ -3165,6 +2944,38 @@
     "resolved": true
   },
   {
+    "id": "show_pdbcb2",
+    "date": "2026-11-09",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "venueId": "sleeping-village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night w/ DJ Jonathan Valdez",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-47.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_itf821",
     "date": "2026-11-10",
     "time": null,
@@ -3352,7 +3163,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking",
+        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
         "genre": "music",
         "role": "headliner"
       }
@@ -3362,12 +3173,12 @@
     "price": null,
     "age": null,
     "ticketUrl": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-11-10-20-00",
-    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
+    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
     "venueInfo": {
       "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.leesunleadedblues.com"
+      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
+      "city": null,
+      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-11-10-20-00"
     },
     "sourceList": [
       "venue-site"
@@ -3606,6 +3417,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_oq29lw",
+    "date": "2026-11-11",
+    "time": "18:30",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts",
+    "venueId": "epiphany-center-for-the-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Let's Go Line Dancing",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -4406,6 +4249,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1e8s6j5",
+    "date": "2026-11-13",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "venueId": "cobra-lounge",
+    "hood": "West Town",
+    "headliners": [
+      {
+        "name": "Sunday Cruise / Cheerleader Roadkill / Appleseed / Arcadia Grey / Friend",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -5752,6 +5627,38 @@
     "resolved": true
   },
   {
+    "id": "show_17l4scx",
+    "date": "2026-11-15",
+    "time": "13:00",
+    "slot": "afternoon",
+    "venue": "Elastic Arts",
+    "venueId": "elastic-arts",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Cheap Heat Fest: Record Fair + Workshops — Elastic Arts Foundation",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "http://static1.squarespace.com/static/6000c5f2251b727ae1f8e1ab/6000dc7de574914a6124aa22/6aea4878c401a1330fa1e7b2/1793739304489/cheap+heat+1.jpg?format=1500w",
+    "venueInfo": {
+      "name": "Elastic Arts",
+      "address": null,
+      "city": null,
+      "url": "https://elasticarts.org/events"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1k0phbc",
     "date": "2026-11-15",
     "time": "17:00",
@@ -6629,38 +6536,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1k6gcgl",
-    "date": "2026-11-18",
-    "time": "18:30",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts",
-    "venueId": "epiphany-center-for-the-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Salsa on a School Night",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -7610,6 +7485,38 @@
     "resolved": true
   },
   {
+    "id": "show_1fuzyk",
+    "date": "2026-11-20",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "venueId": "sleeping-village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "GARDEN OF: PARTY 4 U",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_66aay1",
     "date": "2026-11-20",
     "time": null,
@@ -7798,38 +7705,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_y0zy7q",
-    "date": "2026-11-21",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "venueId": "chop-shop",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Sir Woman \"Playtime tour\"",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 34.33,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -9832,6 +9707,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_prjbpa",
+    "date": "2026-11-27",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Rhythm N Blessings Live Ft - The Soul Lounge Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -12341,6 +12248,38 @@
     "resolved": true
   },
   {
+    "id": "show_14dpu8m",
+    "date": "2026-12-05",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "GRRRL POWER DANCE PARTY HAPPY HOUR +",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1sygm5i",
     "date": "2026-12-05",
     "time": null,
@@ -12651,6 +12590,38 @@
     "resolved": true
   },
   {
+    "id": "show_y5ptkv",
+    "date": "2026-12-06",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "EMO VS POP PUNK NEVER A COVER + HAPPY HOUR 7-9 feat. $2 OLD STYLE",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_a0qdo3",
     "date": "2026-12-06",
     "time": null,
@@ -12818,6 +12789,38 @@
     },
     "sourceList": [
       "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1ehc0h3",
+    "date": "2026-12-06",
+    "time": "13:00",
+    "slot": "afternoon",
+    "venue": "Sleeping Village",
+    "venueId": "sleeping-village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Homeflour Market ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
     ],
     "resolved": true
   },
@@ -13141,6 +13144,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1s8ct7j",
+    "date": "2026-12-10",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "RITUAL - GOTH DANCE PARTY",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
     },
     "sourceList": [
       "venue-site"
@@ -13602,6 +13637,38 @@
     "resolved": true
   },
   {
+    "id": "show_vsyyge",
+    "date": "2026-12-12",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Y2K MILLENNIUM DANCE PARTY HAPPY HOUR +",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_c0li4g",
     "date": "2026-12-12",
     "time": null,
@@ -13996,6 +14063,38 @@
       "address": "226 W Ontario",
       "city": "Chicago",
       "url": "https://sound-bar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1165tp9",
+    "date": "2026-12-13",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "EMO VS POP PUNK NEVER A COVER + HAPPY HOUR 7-9 feat. $2 OLD STYLE",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
     },
     "sourceList": [
       "venue-site"
@@ -14885,6 +14984,38 @@
     "resolved": true
   },
   {
+    "id": "show_17x5y7w",
+    "date": "2026-12-18",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "106 & PARTY - R&B + HIP-HOP",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_d45htg",
     "date": "2026-12-18",
     "time": null,
@@ -15408,6 +15539,38 @@
     "resolved": true
   },
   {
+    "id": "show_146lttn",
+    "date": "2026-12-20",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "EMO VS POP PUNK NEVER A COVER + HAPPY HOUR 7-9 feat. $2 OLD STYLE",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_19ftk9u",
     "date": "2026-12-20",
     "time": null,
@@ -15798,6 +15961,38 @@
     "resolved": true
   },
   {
+    "id": "show_m0cw6b",
+    "date": "2026-12-24",
+    "time": null,
+    "slot": null,
+    "venue": "Beauty Bar",
+    "venueId": "beauty-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "- SUNDAY DECEMBER 27 CLOSED - HAPPY HOLIDAYS!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Beauty Bar",
+      "address": "1444 W Chicago Ave",
+      "city": "Chicago",
+      "url": "https://www.beautybarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1nfkuso",
     "date": "2026-12-24",
     "time": "23:59",
@@ -15922,38 +16117,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_vewxvs",
-    "date": "2026-12-26",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts",
-    "venueId": "epiphany-center-for-the-arts",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "CUMBIA CATEDRAL: HOLIDAY EDITION  ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -17095,6 +17258,38 @@
       "address": "2338 N Milwaukee Ave",
       "city": "Chicago",
       "url": "https://colesbarchicago.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1qd2voz",
+    "date": "2027-02-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "venueId": "garcia-s",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Drumming Bird and Wheelwright",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/drumming-bird-and-wheelwright-chicago-illinois-02-25-2027/event/0400655FE83E9838",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
     },
     "sourceList": [
       "venue-site"

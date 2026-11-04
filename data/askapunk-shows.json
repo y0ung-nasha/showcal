@@ -1,48 +1,5 @@
 [
   {
-    "id": "aap_5x096q",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-11-03",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Empty Bliss",
-    "rawVenue": "Empty Bliss",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Ambretta",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Widaparte",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "a doll for abigail",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/ambretta-widaparte-a-doll-for-abigail",
-    "poster": "https://chicago.askapunk.net/media/d9376584cdb76ba7b7aec74584cec8ce.jpg",
-    "venueInfo": {
-      "name": "Empty Bliss",
-      "address": "Ask a punk",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1c2323n",
     "source": "askapunk",
     "sourceList": [
@@ -204,6 +161,49 @@
     "venueInfo": {
       "name": "(Skate park) W Logan Blvd & N Western Ave",
       "address": "W Logan Blvd & N Western Ave Chicago, IL  60647 United States",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1hfmjnb",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-11-08",
+    "time": "20:30",
+    "slot": "evening",
+    "venue": "The Atlantic Bar",
+    "rawVenue": "The Atlantic Bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "BOOB SWEAT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "DOG SKULL",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "PAPER CARDINAL",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/boob-sweat-dog-skull-paper-cardinal",
+    "poster": "https://chicago.askapunk.net/media/b132d62578bbbb62cb84739bd9630b25.jpg",
+    "venueInfo": {
+      "name": "The Atlantic Bar",
+      "address": "5062 N Lincoln Ave",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
@@ -417,6 +417,38 @@
     "venueInfo": {
       "name": "Lowdown",
       "address": "email lowdownchi.diy@gmail.com",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1y2heak",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-11-21",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "la casa del migrante 3",
+    "rawVenue": "la casa del migrante 3",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Polish Gifts (Last Show)",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/polish-gifts-last-show",
+    "poster": "https://chicago.askapunk.net/media/a5c54ac3d8bce09b7d0bb2f7054d9956.jpg",
+    "venueInfo": {
+      "name": "la casa del migrante 3",
+      "address": "Email for addy",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
