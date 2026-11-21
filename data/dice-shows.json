@@ -1,58 +1,58 @@
 [
   {
-    "id": "dc_fe50r",
+    "id": "dc_3vynem",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-05",
-    "time": "18:00",
+    "date": "2026-11-21",
+    "time": "21:00",
     "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
+    "venue": "Jackhammer",
+    "rawVenue": "Jackhammer",
     "hood": null,
     "headliners": [
       {
-        "name": "Thoughts on Bowling / Computer / Softly / HummusVacuum",
+        "name": "QTS: Chicago ft. Farius + Jaytech",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 26,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "name": "Jackhammer",
+      "address": "6406 North Clark Street, Chicago, Illinois 60626, United States",
       "city": "Chicago",
       "url": null
     }
   },
   {
-    "id": "dc_13ysvdx",
+    "id": "dc_7rm7t9",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-06",
-    "time": "21:00",
+    "date": "2026-11-21",
+    "time": "20:00",
     "slot": "evening",
     "venue": "Chop Shop",
     "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "@NICKCHEO the *TOUR* the *MOVIE*",
+        "name": "Sir Woman \"Playtime tour\"",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 26.22,
+    "price": 40.88,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -64,12 +64,44 @@
     }
   },
   {
-    "id": "dc_1sztjen",
+    "id": "dc_hlgnyl",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-06",
+    "date": "2026-11-21",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "House of Heavy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30.5,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_xa3ugi",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-21",
     "time": "22:00",
     "slot": "late",
     "venue": "SPYBAR",
@@ -77,14 +109,14 @@
     "hood": null,
     "headliners": [
       {
-        "name": "SpyLounge Friday ft. POPS + Friends",
+        "name": "Tre Reynolds",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 25,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -96,148 +128,20 @@
     }
   },
   {
-    "id": "dc_17kwaxc",
+    "id": "dc_1mhb0oo",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-06",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Trancemaster Krause",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_t53gao",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-06",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Epiphany Hall",
-    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dreamgirls",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Epiphany Hall",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_17c1fpo",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-06",
-    "time": "17:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - Café Bar",
-    "rawVenue": "Epiphany Center for the Arts - Café Bar ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Golden Hour Featuring MJAM & Not Your Nani",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": "FREE",
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - Café Bar",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_x9qcgp",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "12:00",
-    "slot": "afternoon",
-    "venue": "Furama Restaurant",
-    "rawVenue": "Furama Restaurant",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Dim Sum & Drag: Pokémon Drag Brunch",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Furama Restaurant",
-      "address": "4936 North Broadway, Chicago, Illinois 60640, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_7igvnl",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-07",
-    "time": "20:00",
+    "date": "2026-11-21",
+    "time": "21:00",
     "slot": "evening",
     "venue": "Color Club",
     "rawVenue": "Color Club",
     "hood": null,
     "headliners": [
       {
-        "name": "TSA: The Musical!",
+        "name": "The Björkening: an All-Drag Bjïrthday Celebration",
         "genre": "music",
         "role": "headliner"
       }
@@ -256,27 +160,27 @@
     }
   },
   {
-    "id": "dc_mt48qq",
+    "id": "dc_4o9brl",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-07",
-    "time": "22:00",
-    "slot": "late",
+    "date": "2026-11-21",
+    "time": "21:00",
+    "slot": "evening",
     "venue": "Sleeping Village",
     "rawVenue": "Sleeping Village",
     "hood": null,
     "headliners": [
       {
-        "name": "MUSIQA BALADI: Lionessa & Nanoos w/ Passion Puree",
+        "name": "Mamas Gun w/ Kendra Morris",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": null,
+    "price": 30.9,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -288,44 +192,44 @@
     }
   },
   {
-    "id": "dc_hy4hio",
+    "id": "dc_5cun3s",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-11",
-    "time": "19:00",
+    "date": "2026-11-21",
+    "time": "18:00",
     "slot": "evening",
-    "venue": "SPYBAR",
-    "rawVenue": "SPYBAR",
+    "venue": "Beat Kitchen",
+    "rawVenue": "Beat Kitchen",
     "hood": null,
     "headliners": [
       {
-        "name": "On Your Own Terms: An Artist AMA",
+        "name": "Earlybirds Club - Madonna-rama",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": "FREE",
+    "price": 41.93,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "SPYBAR",
-      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "name": "Beat Kitchen",
+      "address": "2100 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
   },
   {
-    "id": "dc_1g3tsir",
+    "id": "dc_ucd7ct",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-11-11",
+    "date": "2026-11-22",
     "time": "18:30",
     "slot": "evening",
     "venue": "Epiphany Center for the Arts - Epiphany Hall",
@@ -333,7 +237,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Let's Go Line Dancing",
+        "name": "Voices of the HBCU Experience",
         "genre": "music",
         "role": "headliner"
       }
@@ -352,199 +256,7 @@
     }
   },
   {
-    "id": "dc_1ljssi9",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-11",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Epiphany Center for the Arts - The Sanctuary",
-    "rawVenue": "Epiphany Center for the Arts - The Sanctuary ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Abigail Arkley 'Metamorph' Album Release Show with FINGY and Delaney Bailey",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 24.72,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - The Sanctuary",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_152q5q0",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-13",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "6 SENSE + SHOKI287",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 25,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_btnqo0",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-13",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Sunday Cruise / Cheerleader Roadkill / Appleseed / Arcadia Grey / Friend",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_14veqix",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-14",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Rockefeller Memorial Chapel",
-    "rawVenue": "Rockefeller Memorial Chapel",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Reflections: William Basinski + Purelink",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 56.18,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Rockefeller Memorial Chapel",
-      "address": "5850 South Woodlawn Avenue, Chicago, Illinois 60637, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1apy0we",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-14",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "the olllam",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 36.7,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_inbqk9",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-20",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "GARDEN OF: PARTY 4 U",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_3g9bxq",
+    "id": "dc_2z65e6",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -557,7 +269,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Tengo Funk",
+        "name": "TENGO FUNK",
         "genre": "music",
         "role": "headliner"
       }
@@ -571,6 +283,102 @@
     "venueInfo": {
       "name": "Smoke & Mirrors",
       "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_14d3k0m",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Tossers + Flatfoot 56 + Three Blue Teardrops",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_o82dqc",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-27",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "ON THE HHUNT",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 27.06,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_n17goy",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-27",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Free Blues Friday Featuring The Smiley Tillmon Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
       "city": "Chicago",
       "url": null
     }
@@ -608,65 +416,129 @@
     }
   },
   {
-    "id": "dc_onpt45",
+    "id": "dc_1ak8hvz",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-12-04",
-    "time": "20:00",
+    "date": "2026-11-28",
+    "time": "18:00",
     "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
     "hood": null,
     "headliners": [
       {
-        "name": "An Evening With Sasha Alex Sloan: And The Crowd Goes Mild Tour",
+        "name": "Kurt Travis / Mella / Resilia",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 47.44,
+    "price": 33,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
       "city": "Chicago",
       "url": null
     }
   },
   {
-    "id": "dc_72zwbe",
+    "id": "dc_1m6b84u",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-12-06",
-    "time": "13:00",
-    "slot": "afternoon",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
+    "date": "2026-11-30",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
     "hood": null,
     "headliners": [
       {
-        "name": "Homeflour Market ",
+        "name": "Distant / Heavy//Hitter / Torn Open / Katywentmissing / Squelching",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": "FREE",
+    "price": 26,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_cz7919",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-12-03",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Iron Chic / Time Thieves / Royal Dog - War on X-mas Pre-Show!",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_dn7yhi",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-12-04",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Smoke & Mirrors",
+    "rawVenue": "Smoke & Mirrors",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "OMAKS",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Smoke & Mirrors",
+      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -704,71 +576,7 @@
     }
   },
   {
-    "id": "dc_6o2pmj",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-12-10",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Laura Jane Grace / Direct Hit!",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 38.15,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_emec2p",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-12-11",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Casa Cafe Benefit Show: Bitter Thoughts / Sin Surfir / Owe You Pain / Peace of Mind / Invasive / Sentenced 2 Life",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1th7qgl",
+    "id": "dc_1c1owxq",
     "source": "dice",
     "sourceList": [
       "dice"
@@ -776,25 +584,25 @@
     "date": "2026-12-12",
     "time": "18:00",
     "slot": "evening",
-    "venue": "Park West",
-    "rawVenue": "Park West",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
     "hood": null,
     "headliners": [
       {
-        "name": "Earlybirds Club - Chicago Holiday-ish Party",
+        "name": "Neighborhood Holiday Party",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 41.93,
+    "price": "FREE",
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Park West",
-      "address": "322 West Armitage Avenue, Chicago, Illinois 60614, United States",
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }
@@ -832,20 +640,308 @@
     }
   },
   {
-    "id": "dc_1af7udw",
+    "id": "dc_jikxeo",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
-    "date": "2026-12-19",
+    "date": "2026-12-13",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Malt Adult #35",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_cxrkyi",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-12-26",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "CUMBIA CATEDRAL: HOLIDAY EDITION  ",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_ompzdg",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-12-31",
     "time": "22:00",
     "slot": "late",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DOSS w/ CFCF",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 46.35,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_bnxq0h",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-01-09",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "CLOWN CULT CHICAGO: WACKADEMIA",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1pzuni8",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-01-23",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Vs Self / Stella",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 29,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_byf6lz",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-01-30",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Epiphany Center for the Arts - Epiphany Hall",
+    "rawVenue": "Epiphany Center for the Arts - Epiphany Hall ",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "SOLD OUT!!! Empty Bottle presents KatzPascale w/ ridgeclub",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 26.78,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Epiphany Center for the Arts - Epiphany Hall",
+      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1r5wsme",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-02-05",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "SPYBAR",
+    "rawVenue": "SPYBAR",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "TeeDee",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 30,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "SPYBAR",
+      "address": "646 N Franklin St, Chicago, IL 60654, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_8hwu8t",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-02-20",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Color Club",
+    "rawVenue": "Color Club",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Reality Gays: Same Gays, New Wigs",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 35,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Color Club",
+      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1k1902w",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-02-24",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Dying Fetus / Cryptopsy / Gorgasm",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 78.3,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_1v6mij1",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2027-03-05",
+    "time": "21:00",
+    "slot": "evening",
     "venue": "Chop Shop",
     "rawVenue": "Chop Shop",
     "hood": null,
     "headliners": [
       {
-        "name": "VIPERACTIVE",
+        "name": "Angrybaby",
         "genre": "music",
         "role": "headliner"
       }
@@ -859,102 +955,6 @@
     "venueInfo": {
       "name": "Chop Shop",
       "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_pv2isr",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-12-20",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Epiphany Center for the Arts - The Sanctuary",
-    "rawVenue": "Epiphany Center for the Arts - The Sanctuary ",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "CHRISTMAS IN CHICAGO with Katie Kadan",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Epiphany Center for the Arts - The Sanctuary",
-      "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_1h9jolj",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-04-15",
-    "time": "19:00",
-    "slot": "evening",
-    "venue": "Chop Shop",
-    "rawVenue": "Chop Shop",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Temper City - Self Aware Tour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 40.21,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Chop Shop",
-      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_xa7vfa",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-05-08",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "ACTORS w/ Hallows",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 30.9,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
