@@ -1,229 +1,5 @@
 [
   {
-    "id": "os_vk8t1j",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-22",
-    "time": "16:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "rawVenue": "Jazz Showcase",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "Cyrus Chestnut",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/8959/?date=2026-11-22",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    }
-  },
-  {
-    "id": "os_lh9e37",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-22",
-    "time": "23:59",
-    "slot": "late",
-    "venue": "Rosa's Lounge",
-    "rawVenue": "Rosa's Lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Sundays and Mondays - Open for Special Events Only",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/390896",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    }
-  },
-  {
-    "id": "os_rgflhi",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-22",
-    "time": null,
-    "slot": null,
-    "venue": "Buddy Guy's Legends",
-    "rawVenue": "Buddy Guy's Legends",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "GILES COREY",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.etix.com/ticket/p/43598967/giles-corey-chicago-buddy-guys-legends?partner_id=100",
-    "poster": null,
-    "venueInfo": {
-      "name": "Buddy Guy's Legends",
-      "address": "700 S Wabash Ave",
-      "city": "Chicago",
-      "url": "https://buddyguy.com"
-    }
-  },
-  {
-    "id": "os_94syry",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-22",
-    "time": null,
-    "slot": null,
-    "venue": "Dorian's",
-    "rawVenue": "Dorian's",
-    "hood": "Wicker Park",
-    "headliners": [
-      {
-        "name": "Grelley Duvall and Vanity Unfair Present",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/grelley-duvall-and-vanity-unfair-present/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    }
-  },
-  {
-    "id": "os_7fuzb3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-22",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "rawVenue": "Reggies Rock Club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "OK GOODNIGHT",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/ok-goodnight-snooze-eve-reggies-rock-club-tickets/14235614",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    }
-  },
-  {
-    "id": "os_1lt5cue",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-22",
-    "time": "15:00",
-    "slot": "afternoon",
-    "venue": "Wild Hare",
-    "rawVenue": "Wild Hare",
-    "hood": "West Loop",
-    "headliners": [
-      {
-        "name": "Baila Habibi Rooftop Day Party",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.wildharemusic.com/lineup/rooftop-november22",
-    "poster": "https://images.squarespace-cdn.com/content/v1/67b38130883eca386059c8f0/1794876494202-QRN49J4D5U7G4GEQ0LQ6/118714.jpg",
-    "venueInfo": {
-      "name": "Wild Hare",
-      "address": "952 W Fulton St",
-      "city": "Chicago",
-      "url": "https://www.wildharemusic.com"
-    }
-  },
-  {
-    "id": "os_1vupri1",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-22",
-    "time": null,
-    "slot": null,
-    "venue": "Beauty Bar",
-    "rawVenue": "Beauty Bar",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "EMO VS POP PUNK NEVER A COVER + HAPPY HOUR 7-9 feat. $2 OLD STYLE",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Beauty Bar",
-      "address": "1444 W Chicago Ave",
-      "city": "Chicago",
-      "url": "https://www.beautybarchicago.com"
-    }
-  },
-  {
     "id": "os_zgvd09",
     "source": "venue-site",
     "sourceList": [
@@ -500,7 +276,7 @@
     ],
     "openers": [
       {
-        "name": "FLEX Trio",
+        "name": "Aléc Trio",
         "genre": "music",
         "role": "opener"
       }
@@ -508,7 +284,7 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-w-flex-trio-8/",
+    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-w-alec-trio-4/",
     "poster": null,
     "venueInfo": {
       "name": "Dorian's",
@@ -1915,6 +1691,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    }
+  },
+  {
+    "id": "os_tjo3uk",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-29",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "STEFAN HILLESHEIM",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/90132839/stefan-hillesheim-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
@@ -5008,7 +4816,7 @@
     "price": 50,
     "age": null,
     "ticketUrl": "https://www.joesbar.com/livemusic-events/chicagoboxingclub",
-    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1794324709277-Y4DHRICBF79EQJTFIXQJ/2027.03.04_Pecos%26TheRooftops_16x9.png",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1795460271294-NI68GHD5JTZFL2SYSFXN/2026.12.13_CYBC_16-9.jpg",
     "venueInfo": {
       "name": "Joe's on Weed",
       "address": "940 W Weed St.",
@@ -7144,6 +6952,38 @@
       "address": null,
       "city": "Chicago",
       "url": "https://www.jazzshowcase.com"
+    }
+  },
+  {
+    "id": "os_1rl2ce3",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-26",
+    "time": null,
+    "slot": null,
+    "venue": "Buddy Guy's Legends",
+    "rawVenue": "Buddy Guy's Legends",
+    "hood": "South Loop",
+    "headliners": [
+      {
+        "name": "DEMETRIA TAYLOR",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.etix.com/ticket/p/59160781/demetria-taylor-chicago-buddy-guys-legends?partner_id=100",
+    "poster": null,
+    "venueInfo": {
+      "name": "Buddy Guy's Legends",
+      "address": "700 S Wabash Ave",
+      "city": "Chicago",
+      "url": "https://buddyguy.com"
     }
   },
   {
