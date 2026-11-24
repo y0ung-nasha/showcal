@@ -2784,38 +2784,6 @@
     }
   },
   {
-    "id": "vs_briup3",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-23",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "rawVenue": "Sleeping Village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "Industry Night w/ DJ BUZZI",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/10/imagsdfe-51.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    }
-  },
-  {
     "id": "vs_i6nly",
     "source": "venue-site",
     "sourceList": [
@@ -2973,38 +2941,6 @@
       "address": null,
       "city": null,
       "url": "https://andysjazzclub.com/music-calendar/"
-    }
-  },
-  {
-    "id": "vs_1in75ye",
-    "source": "venue-site",
-    "sourceList": [
-      "venue-site"
-    ],
-    "date": "2026-11-24",
-    "time": "01:00",
-    "slot": "late",
-    "venue": "Cole's Bar",
-    "rawVenue": "Cole's Bar",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "MissSpoken: Crowded House with Annabel Condit, Jill Hopkins, Alba Machado, Azziza Robinson",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "21+",
-    "ticketUrl": "https://colesbarchicago.com/shows/missspoken-november-30-2026-691266",
-    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/691/266/compressed/Missspoken_logoBlack.jpg?1793645195",
-    "venueInfo": {
-      "name": "Cole's Bar",
-      "address": "2338 N Milwaukee Ave",
-      "city": "Chicago",
-      "url": "https://colesbarchicago.com"
     }
   },
   {
@@ -3811,6 +3747,38 @@
     "age": "21+",
     "ticketUrl": "https://colesbarchicago.com/shows/dead-dove-presents-algorhythm-november-28-2026-761841",
     "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/761/841/compressed/image0.jpg?1794101393",
+    "venueInfo": {
+      "name": "Cole's Bar",
+      "address": "2338 N Milwaukee Ave",
+      "city": "Chicago",
+      "url": "https://colesbarchicago.com"
+    }
+  },
+  {
+    "id": "vs_2br80v",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-11-29",
+    "time": "05:30",
+    "slot": "afternoon",
+    "venue": "Cole's Bar",
+    "rawVenue": "Cole's Bar",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Queen Méabh",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://colesbarchicago.com/shows/queen-meabh-november-28-2026-805360",
+    "poster": "https://s3.amazonaws.com/opendate-aws-assets/confirms/website_event_images/000/805/360/compressed/IMG_3893.jpg?1795472472",
     "venueInfo": {
       "name": "Cole's Bar",
       "address": "2338 N Milwaukee Ave",
@@ -4769,6 +4737,38 @@
     }
   },
   {
+    "id": "vs_d4nn5m",
+    "source": "venue-site",
+    "sourceList": [
+      "venue-site"
+    ],
+    "date": "2026-12-06",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Homeflour Market",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/11/imagsdfe-1.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
+    }
+  },
+  {
     "id": "vs_1s1iiik",
     "source": "venue-site",
     "sourceList": [
@@ -5004,7 +5004,7 @@
     }
   },
   {
-    "id": "vs_1rwnfq3",
+    "id": "vs_r8wh9q",
     "source": "venue-site",
     "sourceList": [
       "venue-site"
@@ -5017,7 +5017,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "Carmen Stokes Quartet - Under the Influence:  Exploring the Musical Influences of TBD",
+        "name": "Carmen Stokes Quartet - Under the (Christmas) Influence:  Holiday Songs of Nat Cole, Tony Bennett, Nancy Wilson, more!",
         "genre": "music",
         "role": "headliner"
       }
@@ -5026,13 +5026,13 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-tbd-1",
+    "ticketUrl": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-christmas-influence-holiday-songs-of-nat-cole-tony-bennett-nancy-wilson-more",
     "poster": "https://static.wixstatic.com/media/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg/v1/fill/w_1440,h_962,al_c,q_85/8ffa2d_c31358e91a67431e8e5b9659a460d01b~mv2.jpg",
     "venueInfo": {
       "name": "Winter's Jazz Club",
       "address": "465 N McClurg Ct, Chicago, IL 60611, USA",
       "city": null,
-      "url": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-influence-exploring-the-musical-influences-of-tbd-1"
+      "url": "https://www.wintersjazzclub.com/events/carmen-stokes-quartet-under-the-christmas-influence-holiday-songs-of-nat-cole-tony-bennett-nancy-wilson-more"
     }
   },
   {

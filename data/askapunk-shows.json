@@ -1,53 +1,5 @@
 [
   {
-    "id": "aap_1pfy8v3",
-    "source": "askapunk",
-    "sourceList": [
-      "askapunk"
-    ],
-    "date": "2026-11-23",
-    "time": "21:00",
-    "slot": "evening",
-    "venue": "The Hideout",
-    "rawVenue": "The Hideout",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "3000 B.C.",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Instrument",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Understudy",
-        "genre": "music",
-        "role": "opener"
-      },
-      {
-        "name": "Fallen Angels",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://chicago.askapunk.net/event/3000-bc-instrument-understudy-fallen-angels",
-    "poster": "https://chicago.askapunk.net/media/6183bb91d3ba22a102bb3fcd29f51dfc.jpg",
-    "venueInfo": {
-      "name": "The Hideout",
-      "address": "1354 W Wabansia Ave, Chicago, IL 60642",
-      "city": "Chicago",
-      "url": "https://chicago.askapunk.net"
-    }
-  },
-  {
     "id": "aap_1upskcn",
     "source": "askapunk",
     "sourceList": [
@@ -203,6 +155,49 @@
     "venueInfo": {
       "name": "Underground Lounge",
       "address": "952 W Newport",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_1nx09wx",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-12-06",
+    "time": "19:00",
+    "slot": "evening",
+    "venue": "la casa del migrante 3",
+    "rawVenue": "la casa del migrante 3",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Power of Dusk with Asko",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Pure Joy",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "and Bystander",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/power-of-dusk-with-asko-pure-joy-and-bystander",
+    "poster": "https://chicago.askapunk.net/media/65e5b982d6d4e0c395df623941ce670b.jpg",
+    "venueInfo": {
+      "name": "la casa del migrante 3",
+      "address": "Email for addy",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
