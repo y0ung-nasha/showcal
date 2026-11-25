@@ -1,37 +1,5 @@
 [
   {
-    "id": "dc_12ikejb",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-24",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Devil Master / Baazlvaat / Jail / Glorious Descent",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 33,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_2z65e6",
     "source": "dice",
     "sourceList": [
@@ -96,6 +64,38 @@
     }
   },
   {
+    "id": "dc_p3bfku",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-25",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Cobra Lounge",
+    "rawVenue": "Cobra Lounge",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Mainliners / The Nu-Viles / Liquids / Detonate",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 33,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Cobra Lounge",
+      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
     "id": "dc_2jhyl3",
     "source": "dice",
     "sourceList": [
@@ -128,65 +128,33 @@
     }
   },
   {
-    "id": "dc_p3bfku",
+    "id": "dc_19n21x",
     "source": "dice",
     "sourceList": [
       "dice"
     ],
     "date": "2026-11-25",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "The Mainliners / The Nu-Viles / Liquids / Detonate",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 26,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_o82dqc",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2026-11-27",
     "time": "22:00",
     "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "rawVenue": "Smoke & Mirrors",
+    "venue": "Hubbard Inn",
+    "rawVenue": "Hubbard Inn",
     "hood": null,
     "headliners": [
       {
-        "name": "ON THE HHUNT",
+        "name": "Black Wednesday @ Hubbard Inn",
         "genre": "music",
         "role": "headliner"
       }
     ],
     "openers": [],
     "genres": [],
-    "price": 27.06,
+    "price": 22.66,
     "age": null,
     "ticketUrl": null,
     "poster": null,
     "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
+      "name": "Hubbard Inn",
+      "address": "110 West Hubbard Street, Chicago, Illinois 60654, United States",
       "city": "Chicago",
       "url": null
     }
@@ -251,6 +219,70 @@
     "venueInfo": {
       "name": "Cobra Lounge",
       "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_gh5ws8",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-27",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Hoste",
+    "rawVenue": "Hoste",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "City On Fire (Black Friday)",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Hoste",
+      "address": "1857 West 16th Street, Chicago, Illinois 60608, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_l3702m",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-11-27",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "rawVenue": "Chop Shop",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Rhythm N Blessings Live Ft - The Soul Lounge Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
       "city": "Chicago",
       "url": null
     }
@@ -436,7 +468,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 25,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -507,6 +539,38 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
+      "city": "Chicago",
+      "url": null
+    }
+  },
+  {
+    "id": "dc_f8p11e",
+    "source": "dice",
+    "sourceList": [
+      "dice"
+    ],
+    "date": "2026-12-12",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Sleeping Village",
+    "rawVenue": "Sleeping Village",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "GARDEN OF: GIRL IN RED",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
       "city": "Chicago",
       "url": null
     }
@@ -704,38 +768,6 @@
     }
   },
   {
-    "id": "dc_1pzuni8",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-01-23",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "rawVenue": "Cobra Lounge",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Vs Self / Stella",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 29,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
     "id": "dc_urvq2h",
     "source": "dice",
     "sourceList": [
@@ -795,38 +827,6 @@
     "venueInfo": {
       "name": "Epiphany Center for the Arts - Epiphany Hall",
       "address": "201 South Ashland Avenue, Chicago, Illinois 60607, United States",
-      "city": "Chicago",
-      "url": null
-    }
-  },
-  {
-    "id": "dc_8hwu8t",
-    "source": "dice",
-    "sourceList": [
-      "dice"
-    ],
-    "date": "2027-02-20",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "rawVenue": "Color Club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Reality Gays: Same Gays, New Wigs",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 35,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
       "city": "Chicago",
       "url": null
     }

@@ -1,299 +1,5 @@
 [
   {
-    "id": "show_1ig6nj",
-    "date": "2026-11-24",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tenor Time 1st Set",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/tenor-time-1st-set/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_jbk3ej",
-    "date": "2026-11-24",
-    "time": null,
-    "slot": null,
-    "venue": "Andy's Jazz Club",
-    "venueId": "andy-s-jazz-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Tenor Time 2nd Set",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 20,
-    "age": null,
-    "ticketUrl": "https://andysjazzclub.com/events/tenor-time-2nd-set/",
-    "poster": "https://andysjazzclub.com/wp-content/uploads/2025/12/Tenor-Time.jpg",
-    "venueInfo": {
-      "name": "Andy's Jazz Club",
-      "address": null,
-      "city": null,
-      "url": "https://andysjazzclub.com/music-calendar/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_hgf05z",
-    "date": "2026-11-24",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "venueId": "cobra-lounge",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "Devil Master / Baazlvaat / Jail / Glorious Descent",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 33,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_4qmznp",
-    "date": "2026-11-24",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Dorian's",
-    "venueId": "dorian-s",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Jazz Happy Hour",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [
-      {
-        "name": "Aléc Trio",
-        "genre": "music",
-        "role": "opener"
-      }
-    ],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://throughtherecordshop.com/events/jazz-happy-hour-w-alec-trio-4/",
-    "poster": null,
-    "venueInfo": {
-      "name": "Dorian's",
-      "address": "1939 W North Ave.",
-      "city": "Chicago",
-      "url": "https://throughtherecordshop.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_wb48yu",
-    "date": "2026-11-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Jazz Showcase",
-    "venueId": "jazz-showcase",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Kyle Swan Quartet",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://jazzshowcase.turntabletickets.com/shows/6134/?date=2026-11-24",
-    "poster": null,
-    "venueInfo": {
-      "name": "Jazz Showcase",
-      "address": null,
-      "city": "Chicago",
-      "url": "https://www.jazzshowcase.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1srtavz",
-    "date": "2026-11-24",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Lee's Unleaded Blues",
-    "venueId": "lee-s-unleaded-blues",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "TIPSY TUESDAY WITH RAY —Drink specials, light snacks, Free Entry, Free Parking ",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-11-24-20-00",
-    "poster": "https://static.wixstatic.com/media/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg/v1/fill/w_1024,h_1365,al_c,q_85/17e034_e23b0d01b2c74976b54d30b6084e3d85~mv2.jpg",
-    "venueInfo": {
-      "name": "Lee's Unleaded Blues",
-      "address": "7401 S South Chicago Ave, Chicago, IL 60619, USA",
-      "city": null,
-      "url": "https://www.leesunleadedblues.com/event-details/tipsy-tuesday-with-ray-drink-specials-light-snacks-free-entry-free-parking-2026-11-24-20-00"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_11ylv2",
-    "date": "2026-11-24",
-    "time": "19:30",
-    "slot": "evening",
-    "venue": "Reggies Rock Club",
-    "venueId": "reggies-rock-club",
-    "hood": "South Loop",
-    "headliners": [
-      {
-        "name": "THE KOFFIN KATS",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": "17+",
-    "ticketUrl": "https://www.ticketweb.com/event/koffin-kats-and-voodoo-glow-reggies-rock-club-tickets/15017353",
-    "poster": null,
-    "venueInfo": {
-      "name": "Reggies Rock Club",
-      "address": "2105 S State St.",
-      "city": "Chicago",
-      "url": "https://www.reggieslive.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1b9otdv",
-    "date": "2026-11-24",
-    "time": "21:30",
-    "slot": "evening",
-    "venue": "Rosa's Lounge",
-    "venueId": "rosa-s-lounge",
-    "hood": "Logan Square",
-    "headliners": [
-      {
-        "name": "Every Damn Tuesday — Dave Herrero feat. Pete Galanis",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/390861",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/65608/full/data",
-    "venueInfo": {
-      "name": "Rosa's Lounge",
-      "address": "3420 W Armitage Ave.",
-      "city": "Chicago",
-      "url": "https://www.rosaslounge.com"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1e1q9bx",
-    "date": "2026-11-24",
-    "time": null,
-    "slot": null,
-    "venue": "Sleeping Village",
-    "venueId": "sleeping-village",
-    "hood": "Avondale",
-    "headliners": [
-      {
-        "name": "VIDEOHEAD VIDEO: Motel Hell and Slime City",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": null,
-    "age": null,
-    "ticketUrl": null,
-    "poster": "https://sleeping-village.com/wp-content/uploads/2026/11/imagsdfe-30.jpg",
-    "venueInfo": {
-      "name": "Sleeping Village",
-      "address": "3734 W Belmont Ave, ",
-      "city": null,
-      "url": "https://sleeping-village.com/"
-    },
-    "sourceList": [
-      "venue-site"
-    ],
-    "resolved": true
-  },
-  {
     "id": "show_6nrfl1",
     "date": "2026-11-25",
     "time": null,
@@ -470,7 +176,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 26,
+    "price": 33,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -1228,6 +934,70 @@
     "resolved": true
   },
   {
+    "id": "show_kp2uea",
+    "date": "2026-11-27",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "The Golden Bucks",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 8,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/the-golden-bucks-dan-mcguinness-carols-pub-tickets/14427364",
+    "poster": "https://carolspub.com/media/artists/the-golden-bucks.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_prjbpa",
+    "date": "2026-11-27",
+    "time": "18:00",
+    "slot": "evening",
+    "venue": "Chop Shop",
+    "venueId": "chop-shop",
+    "hood": "Wicker Park",
+    "headliners": [
+      {
+        "name": "Rhythm N Blessings Live Ft - The Soul Lounge Band",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Chop Shop",
+      "address": "2033 West North Avenue, Chicago, Illinois 60647, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_cm0utx",
     "date": "2026-11-27",
     "time": "20:00",
@@ -1362,6 +1132,38 @@
     "resolved": true
   },
   {
+    "id": "show_1aaxpwn",
+    "date": "2026-11-27",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Hoste",
+    "venueId": "hoste",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "City On Fire (Black Friday)",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Hoste",
+      "address": "1857 West 16th Street, Chicago, Illinois 60608, United States",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_xfohnk",
     "date": "2026-11-27",
     "time": "20:00",
@@ -1422,38 +1224,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_14xq6jv",
-    "date": "2026-11-27",
-    "time": "22:00",
-    "slot": "late",
-    "venue": "Smoke & Mirrors",
-    "venueId": "smoke-mirrors",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "ON THE HHUNT",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 27.06,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Smoke & Mirrors",
-      "address": "2045 North Milwaukee Avenue, Chicago, Illinois 60647, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -1771,6 +1541,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_wgpk6n",
+    "date": "2026-11-28",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Wildwood Country",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 7,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/wildwood-country-carols-pub-tickets/14342594",
+    "poster": "https://carolspub.com/media/artists/wildwood-country.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -4005,6 +3807,38 @@
     "resolved": true
   },
   {
+    "id": "show_10jtt9f",
+    "date": "2026-12-04",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Abe Partridge and Clark Paterson",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/abe-partridge-clark-paterson-carols-pub-tickets/15023863",
+    "poster": "https://carolspub.com/media/artists/abe-partridge-clark-paterson.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1hjmt76",
     "date": "2026-12-04",
     "time": "20:00",
@@ -4352,7 +4186,7 @@
     ],
     "openers": [],
     "genres": [],
-    "price": 25,
+    "price": null,
     "age": null,
     "ticketUrl": null,
     "poster": null,
@@ -4633,6 +4467,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_13ezolc",
+    "date": "2026-12-05",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Rachel Schumacher",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/rachel-schumacher-carols-pub-tickets/14450124",
+    "poster": "https://carolspub.com/media/artists/rachel-schumacher-12-05-26.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -5078,6 +4944,38 @@
     "resolved": true
   },
   {
+    "id": "show_1xi5uyt",
+    "date": "2026-12-06",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears vs Jacksonville Jaguars",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html#sports-event-12-06-26",
+    "poster": "https://carolspub.com/media/artists/bears-12-06-26.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_gbtcvv",
     "date": "2026-12-06",
     "time": "03:00",
@@ -5281,16 +5179,16 @@
     "resolved": true
   },
   {
-    "id": "show_1mnxf3w",
+    "id": "show_1eeejyu",
     "date": "2026-12-06",
-    "time": "23:59",
-    "slot": "late",
+    "time": "20:30",
+    "slot": "evening",
     "venue": "Rosa's Lounge",
     "venueId": "rosa-s-lounge",
     "hood": "Logan Square",
     "headliners": [
       {
-        "name": "Sundays and Mondays - Open for Special Events Only",
+        "name": "Sophia Page. Presents Rosa's Remixed: Dance. Party. Lounge.",
         "genre": "music",
         "role": "headliner"
       }
@@ -5299,8 +5197,8 @@
     "genres": [],
     "price": null,
     "age": null,
-    "ticketUrl": "https://www.rosaslounge.com/shows/394210",
-    "poster": "https://files.seatengine.com/talent/headshots/photos/52636/full/data",
+    "ticketUrl": "https://www.rosaslounge.com/shows/397158",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/98357/full/data",
     "venueInfo": {
       "name": "Rosa's Lounge",
       "address": "3420 W Armitage Ave.",
@@ -5530,6 +5428,38 @@
       "address": "3420 W Armitage Ave.",
       "city": "Chicago",
       "url": "https://www.rosaslounge.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_umfll1",
+    "date": "2026-12-07",
+    "time": null,
+    "slot": null,
+    "venue": "Sleeping Village",
+    "venueId": "sleeping-village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "Industry Night w/ Honky-Tonk Angels",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": "https://sleeping-village.com/wp-content/uploads/2026/11/imagsdfe-24.jpg",
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, ",
+      "city": null,
+      "url": "https://sleeping-village.com/"
     },
     "sourceList": [
       "venue-site"
@@ -6386,6 +6316,38 @@
     "resolved": true
   },
   {
+    "id": "show_19o7ch4",
+    "date": "2026-12-11",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Joe's on Weed",
+    "venueId": "joe-s-on-weed",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "The Industry DJs Presents: T’Was The Night Before House",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 17.85,
+    "age": null,
+    "ticketUrl": "https://www.eventbrite.com/e/twas-the-night-before-house-the-industry-djs-xmas-party-tickets-2004916614565?aff=ebdssbdestsearch&amp;dsrp_sid=9ab342d0-2ede-43d8-88a3-45c0d9432341&amp;dsrp_item_id=2004916614565",
+    "poster": "https://images.squarespace-cdn.com/content/v1/690405edd993541e9f21892f/1795572703672-V416037TEB59367PQZ08/2025.12.11_IndustryDJS_16-9.png",
+    "venueInfo": {
+      "name": "Joe's on Weed",
+      "address": "940 W Weed St.",
+      "city": "Chicago",
+      "url": "https://www.joesbar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_x6omwc",
     "date": "2026-12-11",
     "time": "20:00",
@@ -6577,6 +6539,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_17jj34s",
+    "date": "2026-12-12",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "The Simple Remedy",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/the-simple-remedy-carols-pub-tickets/14380424",
+    "poster": "https://carolspub.com/media/artists/the-simple-remedy-2.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -6889,6 +6883,38 @@
     "resolved": true
   },
   {
+    "id": "show_wywl",
+    "date": "2026-12-12",
+    "time": "22:00",
+    "slot": "late",
+    "venue": "Sleeping Village",
+    "venueId": "sleeping-village",
+    "hood": "Avondale",
+    "headliners": [
+      {
+        "name": "GARDEN OF: GIRL IN RED",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": null,
+    "poster": null,
+    "venueInfo": {
+      "name": "Sleeping Village",
+      "address": "3734 W Belmont Ave, Chicago, IL 60618, USA",
+      "city": "Chicago",
+      "url": null
+    },
+    "sourceList": [
+      "dice"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_17crueb",
     "date": "2026-12-12",
     "time": null,
@@ -7016,6 +7042,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_196gpyu",
+    "date": "2026-12-13",
+    "time": "12:00",
+    "slot": "afternoon",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears @ Miami Dolphins",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html#sports-event-12-13-26",
+    "poster": "https://carolspub.com/media/artists/bears-12-13-26.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -7242,7 +7300,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "chicago youth boxing: chicago title series part 2",
+        "name": "Chicago Youth Boxing: Chicago Title Series Part 2",
         "genre": "music",
         "role": "headliner"
       }
@@ -8050,6 +8108,38 @@
     "resolved": true
   },
   {
+    "id": "show_1kddk8j",
+    "date": "2026-12-17",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Greylan James",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/greylan-james-presents-wedding-season-carols-pub-tickets/14361314",
+    "poster": "https://carolspub.com/media/artists/greylan-james.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_9bmgij",
     "date": "2026-12-17",
     "time": "21:00",
@@ -8299,6 +8389,38 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_4szk5r",
+    "date": "2026-12-18",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Bootleggers",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 8,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/bootleggers-carols-pub-tickets/15049563",
+    "poster": "https://carolspub.com/media/artists/boot-leggers-3.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -8694,6 +8816,70 @@
       "address": "700 S Wabash Ave",
       "city": "Chicago",
       "url": "https://buddyguy.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_182x2xv",
+    "date": "2026-12-19",
+    "time": "19:20",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears @ Buffalo Bills",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html#sports-event-12-19-26",
+    "poster": "https://carolspub.com/media/artists/bears-12-19-26.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_g71voh",
+    "date": "2026-12-19",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Buddy Damen & The Last Call",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 8,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/buddy-damen-the-last-carols-pub-tickets/14380474",
+    "poster": "https://carolspub.com/media/artists/buddy-damen.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -9545,6 +9731,38 @@
     "resolved": true
   },
   {
+    "id": "show_190f2t6",
+    "date": "2026-12-26",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "The Matt Martin Duo",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 8,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/the-matt-martin-duo-carols-pub-tickets/15049673",
+    "poster": "https://carolspub.com/media/artists/the-matt-martin-duo.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_p3urr0",
     "date": "2026-12-26",
     "time": "20:00",
@@ -9666,6 +9884,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1jf02r0",
+    "date": "2026-12-26",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Rosa's Lounge",
+    "venueId": "rosa-s-lounge",
+    "hood": "Logan Square",
+    "headliners": [
+      {
+        "name": "Stephen Hull Experience",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.rosaslounge.com/shows/397163",
+    "poster": "https://files.seatengine.com/talent/headshots/photos/61859/full/data",
+    "venueInfo": {
+      "name": "Rosa's Lounge",
+      "address": "3420 W Armitage Ave.",
+      "city": "Chicago",
+      "url": "https://www.rosaslounge.com"
     },
     "sourceList": [
       "venue-site"
@@ -10159,6 +10409,38 @@
     "resolved": true
   },
   {
+    "id": "show_gk32t5",
+    "date": "2026-12-31",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Knockaround The Clock",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/new-years-eve-party-with-carols-pub-tickets/14380234",
+    "poster": "https://carolspub.com/media/artists/knockaround-the-clock.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1cpidn9",
     "date": "2026-12-31",
     "time": "21:00",
@@ -10389,6 +10671,38 @@
     "resolved": true
   },
   {
+    "id": "show_1kmxahr",
+    "date": "2027-01-01",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Connor O'Shea & Company",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 8,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/connor-oshea-company-presents-carols-pub-tickets/15064393",
+    "poster": "https://carolspub.com/media/artists/connor-oshea-and-company.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_xsijw2",
     "date": "2027-01-01",
     "time": "20:00",
@@ -10549,6 +10863,81 @@
     "resolved": true
   },
   {
+    "id": "show_11uiqr9",
+    "date": "2027-01-02",
+    "time": null,
+    "slot": null,
+    "venue": "Sound-Bar",
+    "venueId": "sound-bar",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "DERRICK CARTER",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "MIKE DUNN",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "HOUSE MUSIC IS HOME",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": "21+",
+    "ticketUrl": "https://sound-bar.com/events/derrick-carter-mike-dunn-house-music-is-home/",
+    "poster": null,
+    "venueInfo": {
+      "name": "Sound-Bar",
+      "address": "226 W Ontario",
+      "city": "Chicago",
+      "url": "https://sound-bar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1tzr3lb",
+    "date": "2027-01-03",
+    "time": "15:25",
+    "slot": "afternoon",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears vs Detroit Lions",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html#sports-event-01-03-27",
+    "poster": "https://carolspub.com/media/artists/bears-01-03-27.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_kg8dyy",
     "date": "2027-01-03",
     "time": "16:00",
@@ -10574,6 +10963,38 @@
       "address": null,
       "city": "Chicago",
       "url": "https://www.jazzshowcase.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_by5n31",
+    "date": "2027-01-08",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Brandon Good",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 10,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/brandon-good-carols-pub-tickets/14443974",
+    "poster": "https://carolspub.com/media/artists/brandon-good.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -10644,6 +11065,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_6vjhpp",
+    "date": "2027-01-10",
+    "time": null,
+    "slot": null,
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Chicago Bears @ Minnesota Vikings",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": "FREE",
+    "age": null,
+    "ticketUrl": "https://carolspub.com/music.html#sports-event-01-10-27",
+    "poster": "https://carolspub.com/media/artists/bears-01-10-27.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -10925,38 +11378,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_l47mim",
-    "date": "2027-01-23",
-    "time": "18:00",
-    "slot": "evening",
-    "venue": "Cobra Lounge",
-    "venueId": "cobra-lounge",
-    "hood": "West Town",
-    "headliners": [
-      {
-        "name": "Vs Self / Stella",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 29,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Cobra Lounge",
-      "address": "235 N Ashland Ave, Chicago, IL 60607, USA",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -11394,6 +11815,38 @@
     "resolved": true
   },
   {
+    "id": "show_14b7njm",
+    "date": "2027-02-05",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "John Hollier & the Rêverie: Somewhere Down the Road Tour",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/john-hollier-the-reverie-carols-pub-tickets/14418794",
+    "poster": "https://carolspub.com/media/artists/john-hollier.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_dnnoxf",
     "date": "2027-02-05",
     "time": "20:00",
@@ -11586,6 +12039,38 @@
     "resolved": true
   },
   {
+    "id": "show_1vyusgj",
+    "date": "2027-02-12",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Matt Schuster",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/matt-schuster-acoustic-carols-pub-tickets/14361304",
+    "poster": "https://carolspub.com/media/artists/matt-schuster.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_kf39yf",
     "date": "2027-02-12",
     "time": "20:00",
@@ -11682,6 +12167,38 @@
     "resolved": true
   },
   {
+    "id": "show_hd3d1s",
+    "date": "2027-02-19",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Cloverdale Records Tour",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/cloverdale-records-tour-carols-pub-tickets/14422204",
+    "poster": "https://carolspub.com/media/artists/cloverdale-records-tour.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1ricwqr",
     "date": "2027-02-19",
     "time": "20:00",
@@ -11742,38 +12259,6 @@
     },
     "sourceList": [
       "venue-site"
-    ],
-    "resolved": true
-  },
-  {
-    "id": "show_1psrfhg",
-    "date": "2027-02-20",
-    "time": "20:00",
-    "slot": "evening",
-    "venue": "Color Club",
-    "venueId": "color-club",
-    "hood": null,
-    "headliners": [
-      {
-        "name": "Reality Gays: Same Gays, New Wigs",
-        "genre": "music",
-        "role": "headliner"
-      }
-    ],
-    "openers": [],
-    "genres": [],
-    "price": 35,
-    "age": null,
-    "ticketUrl": null,
-    "poster": null,
-    "venueInfo": {
-      "name": "Color Club",
-      "address": "4146 North Elston Avenue, Chicago, Illinois 60618, United States",
-      "city": "Chicago",
-      "url": null
-    },
-    "sourceList": [
-      "dice"
     ],
     "resolved": true
   },
@@ -11874,6 +12359,38 @@
     "resolved": true
   },
   {
+    "id": "show_gnjxt9",
+    "date": "2027-02-25",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "McCoy Moore",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/mccoy-moore-tyin-carols-pub-tickets/14395884",
+    "poster": "https://carolspub.com/media/artists/mccoy-moore.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_i8fork",
     "date": "2027-02-25",
     "time": "20:00",
@@ -11938,6 +12455,38 @@
     "resolved": true
   },
   {
+    "id": "show_b28hlo",
+    "date": "2027-02-26",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Corduroy Cadets",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 15,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/corduroy-cadets-live-carols-pub-tickets/14422184",
+    "poster": "https://carolspub.com/media/artists/corduroy-cadets.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_piw5ga",
     "date": "2027-02-26",
     "time": "20:00",
@@ -11995,6 +12544,38 @@
       "address": "940 W Weed St.",
       "city": "Chicago",
       "url": "https://www.joesbar.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_1nuasy8",
+    "date": "2027-02-27",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Kaitlin Butts",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/kaitlin-butts-the-carols-pub-tickets/14443794",
+    "poster": "https://carolspub.com/media/artists/kaitlin-butts.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -12091,6 +12672,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_y44wcx",
+    "date": "2027-02-28",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Kaitlin Butts",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 25,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/kaitlin-butts-the-carols-pub-tickets/15060283?pl=carolspub&REFID=carolswbst",
+    "poster": "https://carolspub.com/media/artists/kaitlin-butts.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -12418,6 +13031,70 @@
     "resolved": true
   },
   {
+    "id": "show_fil8cl",
+    "date": "2027-04-07",
+    "time": "20:00",
+    "slot": "evening",
+    "venue": "Garcia's",
+    "venueId": "garcia-s",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Kneebody",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://www.ticketmaster.com/kneebody-chicago-illinois-04-07-2027/event/0400657206B9E20B",
+    "poster": null,
+    "venueInfo": {
+      "name": "Garcia's",
+      "address": "1001 W Washington Blvd",
+      "city": "Chicago",
+      "url": "https://garciaschicago.live"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_c3x4w6",
+    "date": "2027-04-16",
+    "time": "21:00",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Kaylee Rose",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 12.5,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/kaylee-rose-carols-pub-tickets/14385014",
+    "poster": "https://carolspub.com/media/artists/kaylee-rose-2.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
     "id": "show_1w411b5",
     "date": "2027-04-23",
     "time": "20:00",
@@ -12507,6 +13184,38 @@
       "address": "2105 S State St.",
       "city": "Chicago",
       "url": "https://www.reggieslive.com"
+    },
+    "sourceList": [
+      "venue-site"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "show_103r556",
+    "date": "2027-05-01",
+    "time": "21:30",
+    "slot": "evening",
+    "venue": "Carol's Pub",
+    "venueId": "carol-s-pub",
+    "hood": "Uptown",
+    "headliners": [
+      {
+        "name": "Dalton & The Sheriffs",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": 20,
+    "age": null,
+    "ticketUrl": "https://www.ticketweb.com/event/dalton-the-sheriffs-carols-pub-tickets/14412564",
+    "poster": "https://carolspub.com/media/artists/dalton-solo.jpg",
+    "venueInfo": {
+      "name": "Carol's Pub",
+      "address": null,
+      "city": null,
+      "url": "https://www.carolspub.com/music.html"
     },
     "sourceList": [
       "venue-site"
@@ -12651,7 +13360,7 @@
     "hood": null,
     "headliners": [
       {
-        "name": "ez band",
+        "name": "EZ Band",
         "genre": "music",
         "role": "headliner"
       }
