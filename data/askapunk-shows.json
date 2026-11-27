@@ -1,5 +1,37 @@
 [
   {
+    "id": "aap_i2b0y4",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-11-28",
+    "time": "15:00",
+    "slot": "afternoon",
+    "venue": "Dark Matter Coffee Warehouse",
+    "rawVenue": "Dark Matter Coffee Warehouse",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Marky Ramone Plays the Ramones Classics with The Effigies and The Bollweevils",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/marky-ramone-plays-the-ramones-classics-with-the-effigies-and-the-bollweevils",
+    "poster": "https://chicago.askapunk.net/media/7212df71f6f11295a058e099cedcaf56.jpg",
+    "venueInfo": {
+      "name": "Dark Matter Coffee Warehouse",
+      "address": "475 N Campbell Ave, Chicago, IL 60612",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
     "id": "aap_1wqfabq",
     "source": "askapunk",
     "sourceList": [
@@ -123,6 +155,54 @@
     "venueInfo": {
       "name": "Underground Lounge",
       "address": "952 W Newport",
+      "city": "Chicago",
+      "url": "https://chicago.askapunk.net"
+    }
+  },
+  {
+    "id": "aap_ocsgk4",
+    "source": "askapunk",
+    "sourceList": [
+      "askapunk"
+    ],
+    "date": "2026-12-06",
+    "time": "06:30",
+    "slot": "afternoon",
+    "venue": "Lowdown",
+    "rawVenue": "Lowdown",
+    "hood": null,
+    "headliners": [
+      {
+        "name": "Autofill",
+        "genre": "music",
+        "role": "headliner"
+      }
+    ],
+    "openers": [
+      {
+        "name": "Monistat 7",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "Lowlayers",
+        "genre": "music",
+        "role": "opener"
+      },
+      {
+        "name": "and Lisaphone @ Lowdown",
+        "genre": "music",
+        "role": "opener"
+      }
+    ],
+    "genres": [],
+    "price": null,
+    "age": null,
+    "ticketUrl": "https://chicago.askapunk.net/event/autofill-monistat-7-lowlayers-and-lisaphone-lowdown",
+    "poster": "https://chicago.askapunk.net/media/112931c7f17fbd08b5bde00bc03f2d4d.jpg",
+    "venueInfo": {
+      "name": "Lowdown",
+      "address": "email lowdownchi.diy@gmail.com",
       "city": "Chicago",
       "url": "https://chicago.askapunk.net"
     }
